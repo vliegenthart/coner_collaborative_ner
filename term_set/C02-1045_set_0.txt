@@ -1,0 +1,14 @@
+micro-clustering
+categorization
+latent semantic indexing
+observed
+documents
+anthology
+clustering
+SVM
+probalistic
+part-of-speech
+hash tree
+terms
+LSI
+primarily
