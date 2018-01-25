@@ -1,14 +1,16 @@
 micro-clustering
 categorization
+macbook
 latent semantic indexing
 observed
 documents
 anthology
 clustering
-SVM
-probalistic
+svm
+probabilistic
 part-of-speech
 hash tree
 terms
-LSI
+lsi
 primarily
+protein

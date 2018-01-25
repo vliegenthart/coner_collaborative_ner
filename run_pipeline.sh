@@ -45,30 +45,28 @@ fi
 pdf_file=$1
 pdf_name="$(basename "$pdf_file" .pdf)"
 
-# echo $filename
-# pdf_name = ${$1%.*}
-# print pdf_name
-
 # #################### #
 #      PROCESS PDF     #
 # #################### #
 
 echo "Processing PDF..."
 
-# Remove copy pdf to PDFNLT and NER
-cp -R $pdf_file ../PDFNLT/pdf/
+# Copy pdf to PDFNLT and NER
+cp -R $pdf_file ../PDFNLT/pdfanalyzer/pdf/
 cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # Remove xhtml file from PDFNLT/xhtml
-rm -Rf "$script/../PDFNLT/xhtml/$pdf_name.xhtml"
+# rm -Rf "../PDFNLT/pdfanalyzer/xhtml/$pdf_name.xhtml"
 
 # ###################### #
 #      PROCESS TERMS     #
 # ###################### #
 
-sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
+# sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
-# Run Postprocess with PDF file
+python annotate_xhtml.py "$pdf_name"
+
+
 # Read Terms
 # combine terms
 # Copy XHTML and text
@@ -78,12 +76,8 @@ sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 # bash "$script/../PDFNLT/postprocess/postprocess.sh"
 
 
-
-
 # echo "Extracting Named Entites..."
 # echo "Annotating XHTML with VES..."
 # echo "Updating database annotation entry..."
-
-
 
 
