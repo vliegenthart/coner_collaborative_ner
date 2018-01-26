@@ -112,15 +112,16 @@ for sent in sent_list_raw:
   sent_split = sent.split("\t")
   # print(sent_split)
   sent_id = sent_split.pop(0)
-  sent_word_ids = sent_split.pop()
-  sent_obj_obj = { 'sent_id': sent_id, 'sent_text': " ".join(sent_split), 'sent_word_ids': sent_word_ids }
+  sect_name = sent_split.pop(0)
+  box_name = sent_split.pop(0)
+  word_ids = sent_split.pop()
+  sent_obj_obj = { 'sent_id': sent_id, 'sect_name': sect_name, 'box_name': box_name, 'text': " ".join(sent_split), 'word_ids': word_ids }
 
   sent_list.append(sent_obj_obj)
   sent_obj[sent_id] = sent_obj_obj
 
 # print(sent_obj['s-2-0-0-0'], "\n", sent_obj['s-13-1-1-3'])
-
-print(sent_list[30])
+print(sent_list[40])
 
 # ################################ #
 #      FIND TERMS IDs for XHTML    #
@@ -133,7 +134,7 @@ print(sent_list[30])
 # for term in term_set:
 #   for sent in sent_list:
 #     if term in sent['sent_text']:
-#       print(sent_text)
+#       print(sent['sent_id'], ": ", sent['sent_text'])
 
 
 # ###################### #
