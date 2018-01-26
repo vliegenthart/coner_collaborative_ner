@@ -108,20 +108,19 @@ sent_list_raw.pop(0) # Remove header column
 sent_list = []
 sent_obj = {}
 
-for sent in sent_list:
+for sent in sent_list_raw:
   sent_split = sent.split("\t")
   # print(sent_split)
   sent_id = sent_split.pop(0)
   sent_word_ids = sent_split.pop()
   sent_obj_obj = { 'sent_id': sent_id, 'sent_text': " ".join(sent_split), 'sent_word_ids': sent_word_ids }
 
-  sent_list.append(sent_obj)
-  sent_obj_proc[sent_id] = sent_obj
+  sent_list.append(sent_obj_obj)
+  sent_obj[sent_id] = sent_obj_obj
 
-print(sent_obj['s-2-0-0-0'], "\n", sent_obj['s-13-1-1-3'])
+# print(sent_obj['s-2-0-0-0'], "\n", sent_obj['s-13-1-1-3'])
 
-
-
+print(sent_list[30])
 
 # ################################ #
 #      FIND TERMS IDs for XHTML    #
@@ -131,13 +130,10 @@ print(sent_obj['s-2-0-0-0'], "\n", sent_obj['s-13-1-1-3'])
 # s-13-1-1-3  Subsection  Body  For comparison, two supervised text categorization methods, naive Bayes and Support Vector Machine (SVM), were also applied to the same training and test sets. 
 # w-13-1-2-0,w-13-1-2-1,w-13-1-2-2,w-13-1-2-3,w-13-1-2-4,w-13-1-2-5,w-13-1-2-6,w-13-1-2-8,w-13-1-2-9,w-13-1-2-10,w-13-1-2-11,w-13-1-2-12,w-13-1-2-13,w-13-1-2-14,w-13-1-2-15,w-13-1-2-16,w-13-1-2-17,w-13-1-2-18,w-13-1-2-19,w-13-1-2-20,w-13-1-2-21,w-13-1-2-22,w-13-1-2-23,w-13-1-2-24,w-13-1-2-25,w-13-1-2-26,w-13-1-2-27,w-13-1-2-28,w-13-1-2-29,w-13-1-2-30
 
-
-
 # for term in term_set:
-#   for sent in sent_set:
-#     if term in sent:
-
-
+#   for sent in sent_list:
+#     if term in sent['sent_text']:
+#       print(sent_text)
 
 
 # ###################### #
