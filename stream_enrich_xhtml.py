@@ -19,6 +19,8 @@ class Term(number_words, word_information):
   def __init__(self):
     print("NEW TERM")
 
+  # Term consists of multiple words!
+
 
 
 class XHTMLParser(HTMLParser):
@@ -69,6 +71,11 @@ class XHTMLParser(HTMLParser):
 
 
       term_set.remove(term_set[term_set.index(cleaned_data)])
+
+    # Can also do it the other way around! Go through term set and search each term
+    # in the entire XHTML/TSV/CSV. For multi word, search in sentence, then lookup in the
+    # words after that sentence. Enrich & create TSV/CSV with Term info that way.
+    # Use Term class or no??
 
 
 # ################### #

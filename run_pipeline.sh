@@ -64,7 +64,7 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
-python annotate_xhtml.py "$pdf_name"
+python search_enrich_xhtml.py "$pdf_name"
 
 
 # Read Terms
