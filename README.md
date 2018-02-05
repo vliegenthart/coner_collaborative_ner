@@ -5,3 +5,6 @@ Assumes following GitHub Repositories are present in parent folder:
 - [named_entity_recognizer](https://github.com/vliegenthart/PDFNLT)
 - [PDFNLT](https://github.com/vliegenthart/named_entity_recognizer)
 
+
+# DANIEL ADD RELEASE INFO YO
+
