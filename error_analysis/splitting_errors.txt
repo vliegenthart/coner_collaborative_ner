@@ -1,0 +1,39 @@
+['The', 'observed', 'total', 'frequency', 'of', 't', 'i', 'over', 'all', 'the', 'documents', 'in', 'D', 'is', 'denoted', 'as', 'freq', '(', 't', 'i', ',', 'D', ')', '.']
+ The observed total frequency of t i over all the documents in D is denoted as freq(t i , D).
+35 36
+['Similarly', ',', 'the', 'observed', 'total', 'frequency', 'of', 'd', 'j', ',', 'i', '.', 'e', '.', 'the', 'total', 'number', 'of', 'terms', 'contained', 'in', 'd', 'j', ',', 'is', 'denoted', 'as', 'freq', '(', 'T', ',', 'd', 'j', ')', '.']
+ Similarly, the observed total frequency of d j , i.e. the total number of terms contained in d j , is denoted as freq(T,d j ).
+29 31
+['The', 'method', 'subtracts', 'a', 'constant', 'value', 'δ', ',', 'called', 'a', 'discounting', 'coefficient', ',', 'from', 'all', 'the', 'observed', 'term', 'frequencies', 'and', 'estimates', 'the', 'probability', 'of', 't', 'i', 'as', ':', 'MATH-p-7-2-0']
+ The method subtracts a constant value δ, called a discounting coefficient, from all the observed term frequencies and estimates the probability of t i as: MATH-p-7-2-0
+24 25
+['The', 'observed', 'total', 'frequency', 'of', 't', 'i', 'over', 'all', 'the', 'documents', 'in', 'D', 'is', 'denoted', 'as', 'freq', '(', 't', 'i', ',', 'D', ')', '.']
+ The observed total frequency of t i over all the documents in D is denoted as freq(t i , D).
+17 18
+['The', 'total', 'frequency', 'of', 'all', 'the', 'documents', 'is', 'denoted', 'as', 'freq', '(', 'T', ',', 'D', ')', '.']
+ The total frequency of all the documents is denoted as freq(T,D).
+38 40
+['Assuming', 'that', 'the', 'probabilities', 'assigned', 'to', 'documents', 'are', 'not', 'affected', 'by', 'the', 'discounting', ',', 'P', '(', 'd', 'j', '|', 't', 'i', ')', '=', 'freq', '(', 't', 'i', ',', 'd', 'j', ')', '/', 'freq', '(', 't', 'i', ')', '.']
+ Assuming that the probabilities assigned to documents are not affected by the discounting, P (d j |t i ) = freq(t i , d j ) / freq(t i ).
+27 26
+['On', 'the', 'bipartite', 'graph', 'of', 'terms', 'and', 'documents', '(', 'Figure', '2', ')', ',', 'the', 'process', 'can', 'be', 'viewed', 'as', 'a', 'two-step', 'expansion', 'starting', 'from', 't', 'i', '.']
+ On the bipartite graph of terms and documents (Figure 2), the process can be viewed as a two-step expansion starting from t i .
+35 36
+['Similarly', ',', 'the', 'observed', 'total', 'frequency', 'of', 'd', 'j', ',', 'i', '.', 'e', '.', 'the', 'total', 'number', 'of', 'terms', 'contained', 'in', 'd', 'j', ',', 'is', 'denoted', 'as', 'freq', '(', 'T', ',', 'd', 'j', ')', '.']
+ Similarly, the observed total frequency of d j , i.e. the total number of terms contained in d j , is denoted as freq(T,d j ).
+18 19
+['For', 'high-frequency', 'terms', ',', 'P', '(', 't', 'i', ')', '≈', 'freq', '(', 't', 'i', ')', '/', 'F', '.']
+ For high-frequency terms, P(t i ) ≈ freq(t i )/F.
+40 41
+['In', 'the', 'original', 'definition', ',', 'the', 'value', 'of', 'δ', 'was', 'uniquely', 'determined', ',', 'for', 'example', 'as', 'δ', '=', 'mM', '(', '1', ')', 'with', 'm', '(', '1', ')', 'being', 'the', 'number', 'of', 'terms', 'that', 'appear', 'exactly', 'once', 'in', 'the', 'text', '.']
+ In the original definition, the value of δ was uniquely determined, for example as δ = mM(1) with m(1) being the number of terms that appear exactly once in the text.
+27 26
+['On', 'the', 'bipartite', 'graph', 'of', 'terms', 'and', 'documents', '(', 'Figure', '2', ')', ',', 'the', 'process', 'can', 'be', 'viewed', 'as', 'a', 'two-step', 'expansion', 'starting', 'from', 't', 'i', '.']
+ On the bipartite graph of terms and documents (Figure 2), the process can be viewed as a two-step expansion starting from t i .
+
+
+####################
+#     ANALYSIS     #
+####################
+
+freq = f + req ??

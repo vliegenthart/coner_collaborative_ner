@@ -4,79 +4,12 @@ import argparse
 import re
 from functions import intersect
 
-# #################### #
-#      XHTMLParser     #
-# #################### #
 
-max_term_words = 3
-multi_term_list = []
-term_information_list = []
-tag_attrs = { 'class': '', 'id': '', 'data-bdr': '', 'data-ftype': '', 'data-space': ''}
-VES = []
-
-
-# class Term(number_words, word_information):
-#   def __init__(self):
-#     print("NEW TERM")
-
-  # Term consists of multiple words!
-
-
-
-# class XHTMLParser(HTMLParser):
-
-#   def handle_starttag(self, tag, attrs):
-#     if tag == 'span':
-#       for attr,value in attrs:
-#         tag_attrs[attr] = value
-
-#     print(tag_attrs)
-
-#     # print("Encountered a start tag:", tag)
-#     x=2
-
-#   def handle_endtag(self, tag):
-#     tag_attrs = {}
-#     # print("Encountered an end tag :", tag)
-#     x=1
-
-#   def handle_data(self, data):
-#     x=1
-#     print(self.get_starttag_text())
-#     Clean word to match term format
-#     cleaned_data = re.sub('[^A-Za-z0-9\-]+', '', data).lower()
-#     if not cleaned_data: return
-#     cand_list = [cleaned_data]
-
-#     # Multi word term support
-#     for term in cand_list:
-#       term += " " + cleaned_data
-
-
-#     multi_term_list.append({ "text": cleaned_data:})
-#     if len(multi_term_list) > max_term_words: 
-#       del multi_term_list[0] 
-
-#     if len(multi_term_list) > 1:
-#       for i in range(len(multi_term_list)-1):
-#         cand_list.append(" ".join(multi_term_list[0:i+2]))
-
-#     match_list = intersect(cand_list, term_set)
-    
-#     if match_list:
-#       for match in match_list
-#         # Create new term
-#         # Assign information to term
-
-
-
-#       term_set.remove(term_set[term_set.index(cleaned_data)])
-
-    # Can also do it the other way around! Go through term set and search each term
-    # in the entire XHTML/TSV/CSV. For multi word, search in sentence, then lookup in the
-    # words after that sentence. Enrich & create TSV/CSV with Term info that way.
-    # Use Term class or no??
-
+# Can also do it the other way around! Go through term set and search each term
+# in the entire XHTML/TSV/CSV. For multi word, search in sentence, then lookup in the
+# words after that sentence. Enrich & create TSV/CSV with Term info that way.
+# Use Term class or no??
+# Words: Any special characters except for 'space' and '-'
 
 # ################### #
 #      SETUP ARGS     #
@@ -88,6 +21,18 @@ parser.add_argument('pdf_name', metavar='PDF Name', type=str,
 
 args = parser.parse_args()
 pdf_name = args.pdf_name
+
+# ####################### #
+#      INIT VARIABLES     #
+# ####################### #
+
+max_term_words = 3
+multi_term_list = []
+term_information_list = []
+tag_attrs = { 'class': '', 'id': '', 'data-bdr': '', 'data-ftype': '', 'data-space': ''}
+VES = []
+word_split_pattern = r'([` \t\=~!@#$%^&*()_+\[\]{};\'\\:"|<,./<>?])'
+error_sents = []
 
 # ######################################## #
 #      READ TERMSET, XHTML AND SENT.TSV    #
@@ -110,31 +55,52 @@ sent_obj = {}
 
 for sent in sent_list_raw:
   sent_split = sent.split("\t")
-  # print(sent_split)
   sent_id = sent_split.pop(0)
   sect_name = sent_split.pop(0)
   box_name = sent_split.pop(0)
-  word_ids = sent_split.pop()
-  sent_obj_obj = { 'sent_id': sent_id, 'sect_name': sect_name, 'box_name': box_name, 'text': " ".join(sent_split), 'word_ids': word_ids }
+  word_ids = sent_split.pop().split(",")
+  word_array_spaces = re.split(word_split_pattern, " ".join(sent_split))
+  word_array = [x for x in word_array_spaces if x not in [" ", "\t", ""]]
+  sent_obj_obj = { 'sent_id': sent_id, 'sect_name': sect_name, 'box_name': box_name, 'text': " ".join(sent_split), 'word_array': word_array, 'word_ids': word_ids }
 
-  sent_list.append(sent_obj_obj)
-  sent_obj[sent_id] = sent_obj_obj
+  # Filter out & ignore incorrectly split sentences by PDFNLT (incorrect word displayed in XHTML)
+  if len(word_array) != len(word_ids):
+    error_sents.append(sent_obj_obj)
 
-# print(sent_obj['s-2-0-0-0'], "\n", sent_obj['s-13-1-1-3'])
-print(sent_list[40])
+  # Add sentence to list and object
+  else:
+    sent_list.append(sent_obj_obj)
+    sent_obj[sent_id] = sent_obj_obj
+
+# Print some sentence split processing stats
+print(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
 
 # ################################ #
 #      FIND TERMS IDs for XHTML    #
 # ################################ #
 
-# Words: Any special characters except for 'space'
-# s-13-1-1-3  Subsection  Body  For comparison, two supervised text categorization methods, naive Bayes and Support Vector Machine (SVM), were also applied to the same training and test sets. 
-# w-13-1-2-0,w-13-1-2-1,w-13-1-2-2,w-13-1-2-3,w-13-1-2-4,w-13-1-2-5,w-13-1-2-6,w-13-1-2-8,w-13-1-2-9,w-13-1-2-10,w-13-1-2-11,w-13-1-2-12,w-13-1-2-13,w-13-1-2-14,w-13-1-2-15,w-13-1-2-16,w-13-1-2-17,w-13-1-2-18,w-13-1-2-19,w-13-1-2-20,w-13-1-2-21,w-13-1-2-22,w-13-1-2-23,w-13-1-2-24,w-13-1-2-25,w-13-1-2-26,w-13-1-2-27,w-13-1-2-28,w-13-1-2-29,w-13-1-2-30
+for term in term_set:
+  for sent in sent_list:
+    if term in sent['text']:
+      word_array = sent['word_array']
+      word_ids = sent['word_ids']
+      if len(word_array) != len(word_ids):
+        error_sent_ids.append(sent['sent_id'])
+      else:
 
-# for term in term_set:
-#   for sent in sent_list:
-#     if term in sent['sent_text']:
-#       print(sent['sent_id'], ": ", sent['sent_text'])
+
+
+        # print(len(word_array), len(word_ids))
+        # print(word_array, "\n", sent['text'])
+
+        # ERROR HANDLNG!
+        # quit()
+      # print(sent['sent_id'], ": ", sent['text'])
+
+      # print(sent['sent_id'], ": ", term)
+      # i=2
+
+# Add term IDs for term set!!
 
 
 # ###################### #
