@@ -6,7 +6,7 @@ import re
 #      XHTMLParser     #
 # #################### #
 
-max_term_words = 3
+max_entity_words = 3
 multi_term_list = []
 term_information_list = []
 tag_attrs = { 'class': '', 'id': '', 'data-bdr': '', 'data-ftype': '', 'data-space': ''}

@@ -1,10 +1,33 @@
+# @author Daniel Vliegenthart
+
 from bs4 import BeautifulSoup
+import re
+from class_definitions import Entity, PDFTerm, PDFWord
 
-def read_term_set(file_path):
-  term_set = open(file_path, 'r').readlines()
-  term_set = [term.rstrip('\n') for term in term_set]
+# all occurences of 1 entity in 1 documents are pdfterms under that entity: entity.pdf_terms
+# Each term consists of it's subwords in the document
+# Wrote description of classes, sent_list etc
 
-  return term_set
+
+max_entity_words = 3
+tag_attrs = { 'class': '', 'id': '', 'data-bdr': '', 'data-ftype': '', 'data-space': ''}
+word_split_pattern = r'([` \t\=~!@#$%^&*()_+\[\]{};\'\\:"|<,./<>?])'
+error_sents = []
+number_entities_rejected = 0
+
+def read_entity_set(file_path):
+  global number_entities_rejected
+  entity_set_text = open(file_path, 'r').readlines()
+  entity_set = []
+
+  for entity in entity_set_text:
+    entity_temp = entity.rstrip('\n')
+    if len(entity_temp.split(' ')) <= max_entity_words:
+      entity_set.append(Entity(entity_temp))
+    else:
+      number_entities_rejected+=1
+
+  return entity_set
 
 def read_xhtml(file_path):
   xhtml = open(file_path, 'r').read()
@@ -20,7 +43,7 @@ def process_sentences(file_path):
   sent_obj = {}
 
   for sent in sent_list_raw:
-    sent_split = sent.split("\t")
+    sent_split = sent.lower().split("\t")
     sent_id = sent_split.pop(0)
     sect_name = sent_split.pop(0)
     box_name = sent_split.pop(0)
@@ -40,5 +63,41 @@ def process_sentences(file_path):
 
   # Print some sentence split processing stats
   print(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
+  print(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
 
-  return sent_list, sent_obj
+  return sent_list, sent_obj, error_sents
+
+def create_terms_info(entity_set, sent_list, sent_obj):
+
+  term_info_list = []
+
+  for entity in entity_set:
+    for sent in sent_list:
+
+      # if sent['sent_id'] == 's-4-1-1-0':
+        # print(sent['text'])
+
+      if entity.text in sent['text']:
+        if entity.number_words > 1:
+          print(entity.text, ": ", entity.number_words)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
