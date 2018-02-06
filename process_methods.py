@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import re
 from class_definitions import Entity, PDFTerm, PDFWord
+from lib.sliding_window import sliding_window
 
 # all occurences of 1 entity in 1 documents are pdfterms under that entity: entity.pdf_terms
 # Each term consists of it's subwords in the document
@@ -59,15 +60,14 @@ def process_sentences(file_path):
 
     # Add extra metadata to word-array adn add sentence to list and object
     else:
-      word_set_info = []
-      word_set = []
+      word_array_info = []
+      # word_set = []
       for i, word in enumerate(word_array):
-        if word not in word_set:
-          temp_word = { 'text': word, 'word_id': word_ids[i] }
-          word_set_info.append(temp_word)
-          word_set.append(word)
+        temp_word = { 'text': word, 'word_id': word_ids[i] }
+        word_array_info.append(temp_word)
+        # word_set.append(word)
 
-      sent_obj_obj['word_set_info'] = word_set_info
+      sent_obj_obj['word_array_info'] = word_array_info
       # print(sent_obj_obj['word_array_info'])
 
       sent_list.append(sent_obj_obj)
@@ -77,9 +77,8 @@ def process_sentences(file_path):
   print(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
   print(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
 
-  # print(sent_obj['s-3-1-0-2']['word_set_info'])
+  # print(sent_obj['s-3-1-0-2']['word_array_info'])
   return sent_list, sent_obj, error_sents
-
 
 # Create the set of PDFTerms occurances in PDf from Entity set
 def create_terms_info(entity_set, sent_list, sent_obj):
@@ -90,57 +89,35 @@ def create_terms_info(entity_set, sent_list, sent_obj):
   # - partly match, but not entity
   # - muliple occurance of entity
 
-  # LIMITATIONS:
-  # - Only the 1st occurance for each sentence captured (matched through set of words in sentence without duplicates),
-  #   so assumed that that words in entities only occur once (no entity without duplicate words)
-
+  # [DONE] Use word array to match with term
+  # [DONE] Create PDFTerm with words meta-data
 
   term_info_list = []
 
   for entity in entity_set:
     for sent in sent_list:
       if entity.text in sent['text']:
-        pdf_term = PDFTerm(sent['sent_id'])
+        
+        # Check for each term words length
+        for word_length in range(max_entity_words):
 
-        for word in sent['word_set_info']:
-          if word['text'] in entity.words:
-            pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id']))
+          # Sliding window over array of sentence text
+          chunks = sliding_window(sent['word_array_info'],word_length+1)
+          
+          # Match sliding window chunk with entity
+          for chunk in chunks:
+            chunk_words = ' '.join(word_info['text'] for word_info in chunk)
+            if entity.text == chunk_words:
 
-        entity.pdf_terms.append(pdf_term)
-        # print(len(entity.pdf_terms))
-        # print(pdf_term)
+              pdf_term = PDFTerm(sent['sent_id'])
+              for word in chunk:
+                pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id']))
 
-        # if entity.number_words > 1:
-        #   print(entity.text, ": ", entity.number_words)
-
-    print(entity)
-
-  
-
-
-  # [DONE] Use word array to match with term
-  # Create PDFTerm with words meta-data
-  # Enrich XHTML with word-id to add attribute
-  # Add config file with meta-data about each word, or add all in xhtml attributes
-
+              entity.pdf_terms.append(pdf_term)
+              # print(len(entity.pdf_terms))
+              print(pdf_term)
+              # if entity.number_words > 1:
+              #   print(entity.text, ": ", entity.number_words)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  return entity_set

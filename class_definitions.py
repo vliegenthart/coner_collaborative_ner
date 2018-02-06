@@ -29,10 +29,10 @@ class PDFTerm(object):
     self.pdf_words = pdf_words 
 
   def __str__(self):
-    return f'<PDFTerm: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words} >'
+    return f'<PDFTerm: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}>'
 
   def __repr__(self):
-    return f'<PDFTerm: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words} >'
+    return f'<PDFTerm: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}>'
 
 # PDFWords associated with each occurance of PDFTerm
 class PDFWord(object):
@@ -43,9 +43,9 @@ class PDFWord(object):
     self.word_id = word_id
 
   def __str__(self):
-    return f'<PDFWord: {self.text}, word_id: {self.word_id} >'
+    return f'<PDFWord: {self.text}, word_id: {self.word_id}>'
 
   def __repr__(self):
-    return f'<PDFWord: {self.text}, word_id: {self.word_id} >'
+    return f'<PDFWord: {self.text}, word_id: {self.word_id}>'
 
 

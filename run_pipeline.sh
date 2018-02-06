@@ -64,16 +64,11 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
-python search_enrich_xhtml.py "$pdf_name"
+python enrich_xhtml_main.py "$pdf_name"
 
 
-# Read Terms
-# combine terms
-# Copy XHTML and text
-# COMBINE
-
-
-# bash "$script/../PDFNLT/postprocess/postprocess.sh"
+# Enrich XHTML with word-id to add attribute
+# Add config file with meta-data about each word, or add all in xhtml attributes
 
 
 # echo "Extracting Named Entites..."
