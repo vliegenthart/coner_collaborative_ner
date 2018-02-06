@@ -35,6 +35,7 @@ def read_xhtml(file_path):
 
   return xhtml_soup
 
+# Process and create list of sentences with meta-data
 def process_sentences(file_path):
   sent_list_raw = open(file_path, 'r').readlines()
   sent_list_raw = [sent.rstrip('\n') for sent in sent_list_raw]
@@ -49,7 +50,15 @@ def process_sentences(file_path):
     box_name = sent_split.pop(0)
     word_ids = sent_split.pop().split(",")
     word_array_spaces = re.split(word_split_pattern, " ".join(sent_split))
-    word_array = [x for x in word_array_spaces if x not in [" ", "\t", ""]]
+    word_array  []
+
+    for x in word_array_spaces:
+      if x not in [" ", "\t", ""]:
+        temp_word = { 'word': x, 'word_id': word_ids[len(word_array)-1] }
+        word_array.append(temp_word)
+
+    print word_array
+
     sent_obj_obj = { 'sent_id': sent_id, 'sect_name': sect_name, 'box_name': box_name, 'text': " ".join(sent_split), 'word_array': word_array, 'word_ids': word_ids }
 
     # Filter out & ignore incorrectly split sentences by PDFNLT (incorrect word displayed in XHTML)
@@ -67,6 +76,8 @@ def process_sentences(file_path):
 
   return sent_list, sent_obj, error_sents
 
+
+# Create the set of PDFTerms occurances in PDf from Entity set
 def create_terms_info(entity_set, sent_list, sent_obj):
 
   term_info_list = []
@@ -74,12 +85,32 @@ def create_terms_info(entity_set, sent_list, sent_obj):
   for entity in entity_set:
     for sent in sent_list:
 
-      # if sent['sent_id'] == 's-4-1-1-0':
-        # print(sent['text'])
-
       if entity.text in sent['text']:
-        if entity.number_words > 1:
-          print(entity.text, ": ", entity.number_words)
+        if entity.number_words == 1:
+          for word in sent['word_array']:
+            if word == entity.text: 
+
+        else:
+
+
+
+        # if entity.number_words > 1:
+        #   print(entity.text, ": ", entity.number_words)
+
+
+  # Entity to sentence match possible cases:
+  # - 1 word entity
+  # - multi-word entity
+  # - partly match, but not entity
+  # - muliple occurance of entity
+
+
+
+  # Use word array to match with term
+  # Create PDFTerm with words meta-data
+  # Enrich HTML with word-id to add attribute
+  # Add config file with meta-data about each word, or add all in xhtml attributes
+
 
 
 
