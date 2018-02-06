@@ -50,14 +50,8 @@ def process_sentences(file_path):
     box_name = sent_split.pop(0)
     word_ids = sent_split.pop().split(",")
     word_array_spaces = re.split(word_split_pattern, " ".join(sent_split))
-    word_array  []
+    word_array = [x for x in word_array_spaces if x not in [" ", "\t", ""]]
 
-    for x in word_array_spaces:
-      if x not in [" ", "\t", ""]:
-        temp_word = { 'word': x, 'word_id': word_ids[len(word_array)-1] }
-        word_array.append(temp_word)
-
-    print word_array
 
     sent_obj_obj = { 'sent_id': sent_id, 'sect_name': sect_name, 'box_name': box_name, 'text': " ".join(sent_split), 'word_array': word_array, 'word_ids': word_ids }
 
@@ -65,10 +59,21 @@ def process_sentences(file_path):
     if len(word_array) != len(word_ids):
       error_sents.append(sent_obj_obj)
 
-    # Add sentence to list and object
+    # Add extra metadata to word-array adn add sentence to list and object
     else:
+      word_array_info = []
+      for i, word in enumerate(word_array):
+        temp_word = { 'word': word, 'word_id': word_ids[i] }
+        word_array_info.append(temp_word)
+
+      sent_obj_obj['word_array'] = word_array_info
+      print(sent_obj_obj['word_array'])
+      word_array_info.append(temp_word)
+
       sent_list.append(sent_obj_obj)
       sent_obj[sent_id] = sent_obj_obj
+
+      
 
   # Print some sentence split processing stats
   print(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
@@ -89,8 +94,10 @@ def create_terms_info(entity_set, sent_list, sent_obj):
         if entity.number_words == 1:
           for word in sent['word_array']:
             if word == entity.text: 
+              x=1
 
         else:
+          x=1
 
 
 
