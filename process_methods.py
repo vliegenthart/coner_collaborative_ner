@@ -66,7 +66,7 @@ def process_sentences(file_path):
         temp_word = { 'word': word, 'word_id': word_ids[i] }
         word_array_info.append(temp_word)
 
-      sent_obj_obj['word_array'] = word_array_info
+      sent_obj_obj['word_array_info'] = word_array_info
       print(sent_obj_obj['word_array'])
       word_array_info.append(temp_word)
 
@@ -89,9 +89,26 @@ def create_terms_info(entity_set, sent_list, sent_obj):
 
   for entity in entity_set:
     for sent in sent_list:
-
       if entity.text in sent['text']:
-        if entity.number_words == 1:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        if entity.number_words == 1:''
           for word in sent['word_array']:
             if word == entity.text: 
               x=1
