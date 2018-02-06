@@ -1,6 +1,5 @@
 # @author Daniel Vliegenthart
 
-from bs4 import BeautifulSoup
 import re
 from class_definitions import Entity, PDFTerm, PDFWord
 from lib.sliding_window import sliding_window
@@ -29,12 +28,6 @@ def read_entity_set(file_path):
       number_entities_rejected+=1
 
   return entity_set
-
-def read_xhtml(file_path):
-  xhtml = open(file_path, 'r').read()
-  xhtml_soup = BeautifulSoup(xhtml, 'html.parser')
-
-  return xhtml_soup
 
 # Process and create list of sentences with meta-data
 def process_sentences(file_path):
@@ -115,9 +108,8 @@ def create_terms_info(entity_set, sent_list, sent_obj):
 
               entity.pdf_terms.append(pdf_term)
               # print(len(entity.pdf_terms))
-              print(pdf_term)
+              # print(pdf_term)
               # if entity.number_words > 1:
               #   print(entity.text, ": ", entity.number_words)
-
 
   return entity_set

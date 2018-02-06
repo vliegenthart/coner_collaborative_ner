@@ -8,6 +8,7 @@ class Entity(object):
   # Entity can consist of multiple terms
   def __init__(self, text, pdf_terms=None):
     if pdf_terms is None: pdf_terms = []
+    self.id = id(self)
     self.text = text
     self.words = text.split(" ")
     self.number_words = len(self.words)
@@ -25,6 +26,7 @@ class PDFTerm(object):
   # PDFTerm can consist of multiple words
   def __init__(self,sent_id, pdf_words=None):
     if pdf_words is None: pdf_words = []
+    self.id = id(self)
     self.sent_id = sent_id
     self.pdf_words = pdf_words 
 
@@ -39,6 +41,7 @@ class PDFWord(object):
 
   # PDFWord is 1 word in the XHTML
   def __init__(self, text, word_id):
+    self.id = id(self)
     self.text = text
     self.word_id = word_id
 

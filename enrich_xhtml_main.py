@@ -1,9 +1,9 @@
 # @author Daniel Vliegenthart
 
-from html.parser import HTMLParser
 import argparse
 import re
 from process_sent_tsv import find_pdf_terms_in_sent_tsv
+from process_xhtml import read_xhtml, enrich_xhtml
 
 def main():
 
@@ -35,6 +35,15 @@ def main():
   # ############################### #
 
   pdf_term_info_list = find_pdf_terms_in_sent_tsv(pdf_name)
+
+  xhtml_soup = read_xhtml(f"../PDFNLT/pdfanalyzer/xhtml/{pdf_name}.xhtml")
+  enrich_xhtml(pdf_term_info_list, xhtml_soup)
+
+
+
+  # TODO:
+  # output_pdf_terms_metadata(pdf_term_info_list)
+  # More advanced statistics method, save all statistics, and print at the end of execution!!
 
 
 if __name__=='__main__':

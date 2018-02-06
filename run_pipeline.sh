@@ -49,8 +49,6 @@ pdf_name="$(basename "$pdf_file" .pdf)"
 #      PROCESS PDF     #
 # #################### #
 
-echo "Processing PDF..."
-
 # Copy pdf to PDFNLT and NER
 cp -R $pdf_file ../PDFNLT/pdfanalyzer/pdf/
 cp -R $pdf_file ../named_entity_recognizer/pdf/
@@ -65,6 +63,8 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 # sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
 python enrich_xhtml_main.py "$pdf_name"
+
+
 
 
 # Enrich XHTML with word-id to add attribute
