@@ -1,0 +1,45 @@
+{  
+   "py/object":"class_definitions.Entity",
+   "id":4525420784,
+   "number_words":2,
+   "pdf_terms":[  
+      {  
+         "py/object":"class_definitions.PDFTerm",
+         "entity_id":4525420784,
+         "id":4525490304,
+         "page_number":"0",
+         "pdf_words":[  
+            {  
+               "py/object":"class_definitions.PDFWord",
+               "bdr":"0.25391,0.64645,0.29022,0.65881",
+               "facet":"database",
+               "id":4525490696,
+               "page_number":"0",
+               "pdf_term_id":4525490304,
+               "text":"local",
+               "type":"PDFWord",
+               "word_id":"w-3-1-1-27"
+            },
+            {  
+               "py/object":"class_definitions.PDFWord",
+               "bdr":"0.30064,0.64645,0.39134,0.65881",
+               "facet":"database",
+               "id":4525490752,
+               "page_number":"0",
+               "pdf_term_id":4525490304,
+               "text":"redundancy",
+               "type":"PDFWord",
+               "word_id":"w-3-1-1-28"
+            }
+         ],
+         "sent_id":"s-3-1-1-0",
+         "type":"PDFTerm"
+      }
+   ],
+   "text":"local redundancy",
+   "type":"Entity",
+   "words":[  
+      "local",
+      "redundancy"
+   ]
+}

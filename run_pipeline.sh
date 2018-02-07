@@ -4,20 +4,20 @@
 #      SETUP     #
 # ############## #
 
-if [[ -z "$1" ]]
+if [[ -z "$1" ]] || [[ -z "$2" ]]
 then
-  echo -e "Usage: $0 [-f] <pdf/pdf_file>"
+  echo -e "Usage: $0 [-f] <data/pdf/pdf_file> <facet_name>"
   exit -1
 fi
 
 script=$(cd $(dirname $0) && pwd)
 
-
 # ##################### #
 #      DEPENDENCIES     #
 # ##################### #
-
-echo "Checking Dependencies..."
+echo "---------------------------------"
+echo "-     CHECKING DEPENDENCIES     -"
+echo "---------------------------------"
 # echo '✓'
 # echo '×' 
 
@@ -42,12 +42,19 @@ else
   exit -1
 fi
 
+echo ""
+
 pdf_file=$1
 pdf_name="$(basename "$pdf_file" .pdf)"
 
 # #################### #
 #      PROCESS PDF     #
 # #################### #
+
+echo "------------------------------"
+echo "-     PIPELINE EXECUTION     -"
+echo "------------------------------"
+
 
 # Copy pdf to PDFNLT and NER
 cp -R $pdf_file ../PDFNLT/pdfanalyzer/pdf/
@@ -62,13 +69,12 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
-python enrich_xhtml_main.py "$pdf_name"
+python enrich_xhtml_main.py "$pdf_name" "$2"
 
 
-
-
-# Enrich XHTML with word-id to add attribute
-# Add config file with meta-data about each word, or add all in xhtml attributes
+# [DONE] Enrich XHTML with word-id to add attribute
+# [DONE] Add config file with meta-data about each word, or add all in xhtml attributes
+# When pushing to PDFNLT server: Make sure to run command to clear localstorage!
 
 
 # echo "Extracting Named Entites..."

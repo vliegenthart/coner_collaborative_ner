@@ -3,6 +3,7 @@
 import re
 from class_definitions import Entity, PDFTerm, PDFWord
 from lib.sliding_window import sliding_window
+import statistics
 
 # all occurences of 1 entity in 1 documents are pdfterms under that entity: entity.pdf_terms
 # Each term consists of it's subwords in the document
@@ -66,9 +67,9 @@ def process_sentences(file_path):
       sent_list.append(sent_obj_obj)
       sent_obj[sent_id] = sent_obj_obj
 
-  # Print some sentence split processing stats
-  print(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
-  print(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
+  # Add some sentence split processing stats
+  statistics.stat_list.append(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
+  statistics.stat_list.append(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
 
   # print(sent_obj['s-3-1-0-2']['word_array_info'])
   return sent_list, sent_obj, error_sents
@@ -102,9 +103,9 @@ def create_terms_info(entity_set, sent_list, sent_obj):
             chunk_words = ' '.join(word_info['text'] for word_info in chunk)
             if entity.text == chunk_words:
 
-              pdf_term = PDFTerm(sent['sent_id'])
+              pdf_term = PDFTerm(sent['sent_id'], entity.id)
               for word in chunk:
-                pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id']))
+                pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id'], pdf_term.id))
 
               entity.pdf_terms.append(pdf_term)
               # print(len(entity.pdf_terms))
