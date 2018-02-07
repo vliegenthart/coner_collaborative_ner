@@ -69,7 +69,7 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
-python enrich_xhtml_main.py "$pdf_name" "$2"
+python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
 
 
 # [DONE] Enrich XHTML with word-id to add attribute

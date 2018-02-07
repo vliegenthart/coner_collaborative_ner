@@ -1,5 +1,8 @@
 # @author Daniel Vliegenthart
 
+# import os, sys
+# sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import argparse
 import re
 from process_sent_tsv import find_pdf_terms_in_sent_tsv
@@ -31,7 +34,7 @@ def main():
   
   # TODO:
   # Create separate config file for more beautiful setup
-
+  
   statistics.init()
 
   # ############################### #
@@ -48,6 +51,7 @@ def main():
   # More advanced statistics method, save all statistics, and print at the end of execution!!
 
   statistics.print_stats()
+
 if __name__=='__main__':
-    
-    main()
+
+  main()

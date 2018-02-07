@@ -1,6 +1,9 @@
 # @author Daniel Vliegenthart
 
-from utility_methods import intersect
+# Enable imports from modules in parent directory
+import os, sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from process_methods import read_entity_set, process_sentences, create_terms_info
 from class_definitions import Entity, PDFTerm, PDFWord
 
