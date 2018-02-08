@@ -38,5 +38,5 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
 
   print(f'Writing JSON file with entity information to json/{pdf_name}_entities.json...')
 
-  with open(f'json/{pdf_name}_entities.json', 'w+') as outputFile:
+  with open(f'data/json/{pdf_name}_entities.json', 'w+') as outputFile:
     outputFile.write(output_entity_json + "\n")

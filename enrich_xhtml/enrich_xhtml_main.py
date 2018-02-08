@@ -35,7 +35,7 @@ def main():
   # TODO:
   # Create separate config file for more beautiful setup
   
-  statistics.init()
+  # statistics.init()
 
   # ############################### #
   #      ENRICH XHTML WITH TERMS    #
@@ -50,7 +50,7 @@ def main():
   # [DONE] output_pdf_terms_metadata(pdf_term_info_list)
   # More advanced statistics method, save all statistics, and print at the end of execution!!
 
-  statistics.print_stats()
+  # statistics.print_stats()
 
 if __name__=='__main__':
 

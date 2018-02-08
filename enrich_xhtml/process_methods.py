@@ -1,5 +1,8 @@
 # @author Daniel Vliegenthart
 
+import os, sys
+sys.path.insert(1, os.path.join(sys.path[0], '..'))
+
 import re
 from class_definitions import Entity, PDFTerm, PDFWord
 from lib.sliding_window import sliding_window
@@ -68,8 +71,9 @@ def process_sentences(file_path):
       sent_obj[sent_id] = sent_obj_obj
 
   # Add some sentence split processing stats
-  statistics.stat_list.append(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
-  statistics.stat_list.append(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
+  statistics.init()
+  statistics.log_stat(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
+  statistics.log_stat(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
 
   # print(sent_obj['s-3-1-0-2']['word_array_info'])
   return sent_list, sent_obj, error_sents
