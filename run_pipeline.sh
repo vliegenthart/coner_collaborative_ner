@@ -69,11 +69,11 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 # Remove xhtml file from PDFNLT/xhtml
 # rm -Rf "../PDFNLT/pdfanalyzer/xhtml/$pdf_name.xhtml"
 
-
 # ###################### #
 #      PROCESS TERMS     #
 # ###################### #
 
+# echo "Running PDFNLT postprocessing..."
 # sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
 python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
@@ -81,7 +81,13 @@ python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
 echo "Copying enriched XHTML and JSON files to PDFNLT/pdfanalyzer..."
 
 cp -R "$script/data/xhtml/$pdf_name.xhtml" ../PDFNLT/pdfanalyzer/xhtml_entities/
+mkdir -p ../PDFNLT/pdfanalyzer/json_entities
 cp -R "$script/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
+mkdir -p ../PDFNLT/pdfanalyzer/json_pdf_terms_pages
+cp -R "$script/data/json/${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
+
+echo "Updating www/pdfnlt data..."
+ln -f -s /Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/{pdf,xhtml,json_entities,json_pdf_terms_pages} '/usr/local/var/www/pdfnlt/pdfanalyzer/'
 
 # [DONE] Enrich XHTML with word-id to add attribute
 # [DONE] Add config file with meta-data about each word, or add all in xhtml attributes
@@ -90,7 +96,8 @@ cp -R "$script/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_e
 python -c 'import statistics; statistics.print_stats()'
 
 # echo "Extracting Named Entites..."
-# echo "Annotating XHTML with VES..."
 # echo "Updating database annotation entry..."
+
+
 
 

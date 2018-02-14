@@ -34,7 +34,7 @@ def main():
   
   # TODO:
   # Create separate config file for more beautiful setup
-  
+
   # statistics.init()
 
   # ############################### #
@@ -45,12 +45,6 @@ def main():
 
   xhtml_soup = read_xhtml(f"../PDFNLT/pdfanalyzer/xhtml/{pdf_name}.xhtml")
   enrich_xhtml(pdf_term_info_list, xhtml_soup, facet, pdf_name)
-
-  # TODO:
-  # [DONE] output_pdf_terms_metadata(pdf_term_info_list)
-  # More advanced statistics method, save all statistics, and print at the end of execution!!
-
-  # statistics.print_stats()
 
 if __name__=='__main__':
 

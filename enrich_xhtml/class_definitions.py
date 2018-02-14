@@ -37,10 +37,10 @@ class PDFTerm(object):
     self.entity_id = entity_id
 
   def __str__(self):
-    return f'<PDFTerm: {self.entity.text}, sent_id: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}, page_number: {self.page_number}>'
+    return f'<PDFTerm: {self.entity_id}, sent_id: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}, page_number: {self.page_number}>'
 
   def __repr__(self):
-    return f'<PDFTerm: {self.entity.text}, sent_id: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}, page_number: {self.page_number}>'
+    return f'<PDFTerm: {self.entity_id}, sent_id: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}, page_number: {self.page_number}>'
 
   def __dumps__(self):
     self.__dict__

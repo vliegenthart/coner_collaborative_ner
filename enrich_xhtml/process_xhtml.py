@@ -14,7 +14,9 @@ def read_xhtml(file_path):
 
 def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
 
+  pdf_terms_pages = [[] for _ in range(1000)]
   output_entity_json = "["
+
   print("Enriching XHTML words with pdf_word meta-data...")
   for entity in pdf_term_list:
     for pdf_term in entity.pdf_terms:
@@ -33,10 +35,21 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
         pdf_word.page_number = page_number
         pdf_term.page_number = page_number
 
+      pdf_terms_pages[int(pdf_term.page_number)].append(pdf_term)
+
     output_entity_json += jsonpickle.encode(entity) + ","
+  
+  pdf_terms_pages = [x for x in pdf_terms_pages if x]
   output_entity_json = output_entity_json[:-1] + "]"
 
   print(f'Writing JSON file with entity information to json/{pdf_name}_entities.json...')
 
   with open(f'data/json/{pdf_name}_entities.json', 'w+') as outputFile:
     outputFile.write(output_entity_json + "\n")
+
+  print(f'Writing JSON file with PDFTerms per page information to json/{pdf_name}_pdf_terms_pages.json...')
+  
+  with open(f'data/json/{pdf_name}_pdf_terms_pages.json', 'w+') as outputFile:
+    outputFile.write(jsonpickle.encode(pdf_terms_pages) + "\n")
+
+
