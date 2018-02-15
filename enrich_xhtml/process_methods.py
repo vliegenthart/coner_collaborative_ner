@@ -43,6 +43,10 @@ def process_sentences(file_path):
 
   for sent in sent_list_raw:
     sent_split = sent.lower().split("\t")
+    if len(sent_split) < 4:
+      error_sents.append(sent_split)
+      continue
+
     sent_id = sent_split.pop(0)
     sect_name = sent_split.pop(0)
     box_name = sent_split.pop(0)

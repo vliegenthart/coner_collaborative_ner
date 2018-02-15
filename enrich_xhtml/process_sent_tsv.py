@@ -33,5 +33,6 @@ def find_pdf_terms_in_sent_tsv(pdf_name, xhtml_soup):
 
   # TODO
   # Math Formulations are replaced in text with 1 tag, so can't be directly directly recognized!
+  # RVM CREATE file to switch to jruby
 
   return pdf_term_info_list

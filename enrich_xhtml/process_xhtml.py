@@ -52,4 +52,8 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
   with open(f'data/json/{pdf_name}_pdf_terms_pages.json', 'w+') as outputFile:
     outputFile.write(jsonpickle.encode(pdf_terms_pages) + "\n")
 
+  print(f'Writing XHTML file with entity information added to xhtml/{pdf_name}.xhtml...')
+
+  with open(f'data/xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
+    outputFile.write(str(xhtml_soup.prettify()))
 

@@ -6,7 +6,7 @@
 
 if [[ -z "$1" ]] || [[ -z "$2" ]]
 then
-  echo -e "Usage: $0 [-f] <data/pdf/pdf_file> <facet_name>"
+  echo -e "Usage: $0 [-f] <../PDFNLT/pdfanalyzer/pdf/pdf_name> <facet_name>"
   exit -1
 fi
 
@@ -63,7 +63,6 @@ echo "------------------------------------"
 
 # Copy pdf to PDFNLT and NER
 echo "Copying PDF file to PDFNLT and NER..."
-cp -R $pdf_file ../PDFNLT/pdfanalyzer/pdf/
 cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # Remove xhtml file from PDFNLT/xhtml
@@ -73,14 +72,19 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 #      PROCESS TERMS     #
 # ###################### #
 
-# echo "Running PDFNLT postprocessing..."
-# sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
+echo "Running PDFNLT postprocessing for $pdf_file..."
+
+# To DEBUG: bash -x prints all statements executed
+# bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
+
+sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
 python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
 
 echo "Copying enriched XHTML and JSON files to PDFNLT/pdfanalyzer..."
 
-cp -R "$script/data/xhtml/$pdf_name.xhtml" ../PDFNLT/pdfanalyzer/xhtml_entities/
+mkdir -p ../PDFNLT/pdfanalyzer/xhtml
+cp -R "$script/data/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
 mkdir -p ../PDFNLT/pdfanalyzer/json_entities
 cp -R "$script/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
 mkdir -p ../PDFNLT/pdfanalyzer/json_pdf_terms_pages

@@ -1,1 +1,1395 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"restrictC",
+				"restrictCorrectChoiceQuiz"
+			],
+			[
+				"restrictCo",
+				"restrictCorrectChoiceGeneral"
+			],
+			[
+				"Y",
+				"y_resampled\tstatement"
+			],
+			[
+				"assignment",
+				"assignment_send_announcement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "enrich_xhtml/process_methods.py",
+			"settings":
+			{
+				"buffer_size": 4478,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "enrich_xhtml/enrich_xhtml_main.py",
+			"settings":
+			{
+				"buffer_size": 1418,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "run_pipeline.sh",
+			"settings":
+			{
+				"buffer_size": 2723,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "enrich_xhtml/process_sent_tsv.py",
+			"settings":
+			{
+				"buffer_size": 1566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "enrich_xhtml/process_xhtml.py",
+			"settings":
+			{
+				"buffer_size": 1826,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{'sent_id': 's-0-0-0-0', 'sect_name': 'meta', 'box_name': 'title', 'text': 'a method of cluster-based indexing of textual data', 'word_array': ['a', 'method', 'of', 'cluster-based', 'indexing', 'of', 'textual', 'data'], 'word_ids': ['w-0-0-0-0', 'w-0-0-0-1', 'w-0-0-0-2', 'w-0-0-0-3', 'w-0-0-0-4', 'w-0-0-0-5', 'w-0-0-0-6', 'w-0-0-0-7'], 'word_array_info': [{'text': 'a', 'word_id': 'w-0-0-0-0'}, {'text': 'method', 'word_id': 'w-0-0-0-1'}, {'text': 'of', 'word_id': 'w-0-0-0-2'}, {'text': 'cluster-based', 'word_id': 'w-0-0-0-3'}, {'text': 'indexing', 'word_id': 'w-0-0-0-4'}, {'text': 'of', 'word_id': 'w-0-0-0-5'}, {'text': 'textual', 'word_id': 'w-0-0-0-6'}, {'text': 'data', 'word_id': 'w-0-0-0-7'}]}\n\n\n{'sent_id': 's-6-3-0-1', 'sect_name': 'subsection', 'box_name': 'body', 'text': 'we make the value of the (i,j)-th cell equal to freq(t i , d j ).', 'word_array': ['we', 'make', 'the', 'value', 'of', 'the', '(', 'i', ',', 'j', ')', '-th', 'cell', 'equal', 'to', 'freq', '(', 't', 'i', ',', 'd', 'j', ')', '.'], 'word_ids': ['w-6-3-0-43', 'w-6-3-0-44', 'w-6-3-0-45', 'w-6-3-0-46', 'w-6-3-0-47', 'w-6-3-0-48', 'w-6-3-0-49', 'w-6-3-0-50', 'w-6-3-0-51', 'w-6-3-0-52', 'w-6-3-0-53', 'w-6-3-0-54', 'w-6-3-0-55', 'w-6-3-0-56', 'w-6-3-0-57', 'w-6-3-0-58', 'w-6-3-0-59', 'w-6-3-0-60', 'w-6-3-0-61', 'w-6-3-0-62', 'w-6-3-0-63', 'w-6-3-0-64', 'w-6-3-0-65', 'w-6-3-0-66', 'w-6-3-0-67']}\n\n\n\nTODO\n- Create word array info!\n\n",
+			"settings":
+			{
+				"buffer_size": 1418,
+				"line_ending": "Unix",
+				"name": "{'sent_id': 's-0-0-0-0', 'sect_name': 'meta', 'box"
+			}
+		},
+		{
+			"file": "enrich_xhtml/class_definitions.py",
+			"settings":
+			{
+				"buffer_size": 2230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "xhtml",
+		"selected_items":
+		[
+			[
+				"xhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/error_analysis"
+	],
+	"file_history":
+	[
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/xhtml/C02-1045.xhtml",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/enrich_xhtml/process_xhtml.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/C02-1045_pdf_term_matching_v0.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/text/C02-1045.sent.tsv",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/C02-1045_pdf_terms_pages_example.json",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/entity_set/C02-1045_set_0.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/C02-0145_entities_example.json",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/run_pipeline.sh",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/enrich_xhtml/process_sent_tsv.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/enrich_xhtml/process_methods.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/enrich_xhtml/enrich_xhtml_main.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/enrich_xhtml/class_definitions.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/statistics.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/json/C02-1045_pdf_terms_pages.json",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/json/C02-1045_entities.json",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/enrich_xhtml_main.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/process_methods.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/class_definitions.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/process_sent_tsv.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/example_entity.json",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/json/C02-1045_entities.json",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/README.md",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/process_xhtml.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/C02-1045_pdf_term_xhtml_elements_enriched.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/C02-1045_pdf_term_xhtml_elements.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/results/C02-1045_pdf_term_xhtml_elements_enriched_v2.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/C02-1045_entity_xhtml_elements_enriched_v2",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/ner_ifl_pipeline.sublime-project",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/search_enrich_xhtml.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/entity_set/C02-1045_set_0_info.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/lib/sliding_window.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/.gitignore",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/text/C02-1045.math.tsv",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/stream_enrich_xhtml.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/classes/word.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/utility_methods.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/term_set/C02-1045_set_0.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/error_analysis/splitting_errors.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/data/term_set/C02-1045_set_0.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/term_set/C02-1045_set_0_info.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/xhtml/C02-1045.xhtml",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/term_set",
+		"/usr/local/etc/httpd/httpd.conf",
+		"/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline/paper.model",
+		"/Users/daniel/Documents/WebDevelopment/index.html",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/INSTALL.en",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/viewer/line_checker.php",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/viewer/js/line_checker.js",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/install_instructions.txt",
+		"/Users/daniel/Desktop/sentence_splitter_information.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/.gitignore",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/postprocess/sentence_splitter.rb",
+		"/Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/dist/pdffigures-master/.gitignore",
+		"/Users/daniel/.zshrc",
+		"/Users/daniel/Documents/TUDelftMasterThesis/test_tqdm.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/default_config.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/models/doc2vec.model",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/preprocessing/ner_training.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/preprocessing/preprocessing_embeddings.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/dblp_xml_processing.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/access_fulltexts.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/acl_anthology/SENT.work/yoshida/eachfile/C02-1021.sent_GarbledCount.tsv",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/long_tail_main.py",
+		"/Users/daniel/.zsh/custom_functions/logbook",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/pyhelpers/tools.py",
+		"/Users/daniel/Downloads/php.ini",
+		"/Users/daniel/Downloads/MEW_Public_Key.txt",
+		"/Users/daniel/Downloads/MEW_Priv_Key.txt",
+		"/Users/daniel/Downloads/UTC--2017-12-01T09-13-14 (1).404Z--0716ba7fba5b6a3280656162ad2af3311d9ce58f",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/config.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/lda_on_full_text.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/method_clustering.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/method_co_occur_DBSCAN.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/word2vec_DBSCAN.py",
+		"/Users/daniel/Documents/TUDelftMasterThesis/acl_anthology/SENT.work/yoshida/allfile_info.csv",
+		"/Users/daniel/Documents/TUDelftMasterThesis/SmartPub/requirements.txt",
+		"/Users/daniel/Documents/TUDelftMasterThesis/grobid-grobid-parent-0.4.1/grobid-service/pom.xml",
+		"/Users/daniel/Documents/TUDelftMasterThesis/grobid-grobid-parent-0.4.1/pom.xml",
+		"/Users/daniel/Downloads/test.py",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/components/rubrics-card.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/components/score-card.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/stylesheets/components/score-card.scss",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_score_form.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/gradings.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/singletons/keyboard.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/slider.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/components/criteria-card.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/singleton-settings.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/gradings/review.js.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/_score_card.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/gradings/_review_components.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/materialize-initialization.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/stylesheets/custom.scss.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/gradings/_review_aside.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/stylesheets/assignments.scss.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/gradings/conv.js.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/stylesheets/main-and-aside.scss",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_score_list.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/layouts/_side_nav.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/README.md",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/home/changelog.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/stylesheets/custom-classes.scss",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/jquery-disable-elements.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/assignments/generator.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/models/quiz_submission.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/assignments/cocoon_handlers.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/models/choice.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/assignments/_subquestion_list.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/controllers/assignments_controller.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/stylesheets/components/quiz-panel.scss",
+		"/Users/daniel/Documents/AnsDelft/ans/db/migrate/20151027165801_rename_dce_lti_user_to_sender_id_for_messages.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_quiz_responses.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_quiz_response_columns.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/models/quiz_score.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_quiz_response_choice.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/assignments/general.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/assignments/_choice_list.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/models/quiz_subquestion.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/assignments/_quiz_choice_fields.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/models/quiz_choice.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/db/migrate/20170720170120_add_feedback_correct_and_feedback_mistake_to_subquestion.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/assets/javascripts/components/quiz-panel.coffee",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_quiz_subquestion_choice.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/controllers/quizzes_controller.rb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_quiz_subquestion.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/partials/_quiz_form.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/components/_keyboard_shortcut_button.html.erb",
+		"/Users/daniel/Documents/AnsDelft/ans/app/views/assignments/_subquestion_fields.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print(",
+			"sent",
+			"s-6-3-0-1",
+			"term_info_list",
+			"data-page",
+			"statistics",
+			"settings",
+			"{page_number}",
+			"page",
+			"pdf_term",
+			"xhtml_soup",
+			">observed<",
+			"word_set_info",
+			"[{",
+			"Entity(",
+			")\n",
+			"sent",
+			"term_set",
+			"entity_set",
+			"term_set",
+			"sent_list",
+			"term_set",
+			"term set",
+			"term_set",
+			"w-6-3-1-89",
+			"freq(T,D)",
+			"high-frequency",
+			"print",
+			"sent_",
+			"term_set",
+			">(",
+			"(SVM)",
+			"xhtml",
+			" # cleaned_data = re.sub('[^A-Za-z0-9\\-]+', '', data).lower()\n    # if not cleaned_data: return\n    # cand_list = [cleaned_data]\n\n    # # Multi word term support\n    # for term in cand_list:\n    #   term += \" \" + cleaned_data\n\n\n    # multi_term_list.append({ \"text\": cleaned_data:})\n    # if len(multi_term_list) > max_term_words: \n    #   del multi_term_list[0] \n\n    # if len(multi_term_list) > 1:\n    #   for i in range(len(multi_term_list)-1):\n    #     cand_list.append(\" \".join(multi_term_list[0:i+2]))\n\n    # match_list = intersect(cand_list, term_set)\n    \n    # if match_list:\n    #   print(match_list)\n\n\n    #   term_set.remove(term_set[term_set.index(cleaned_data)])",
+			"latent",
+			"1",
+			"latent",
+			"cand_list",
+			"match_list",
+			"leaned_candis",
+			"cleaned_matches",
+			"part-of-speech",
+			"svm",
+			"speech",
+			"part",
+			"bayes",
+			"machine",
+			"SVM",
+			"Support",
+			"SVM",
+			"(SVM)",
+			"Rf",
+			"PDFNLT",
+			"University of Tech",
+			"extension",
+			"culsters",
+			"culster",
+			"culsters",
+			"culster",
+			"clusters",
+			"culsters",
+			"culster",
+			"culsters",
+			"clusters",
+			"server",
+			"start",
+			"keystimed",
+			"keysTimed",
+			"no-keyboard-handlers",
+			"initializereviewcomponents",
+			"init",
+			"score",
+			"no-",
+			"delay",
+			"keysTimed",
+			"keystimed",
+			"handleblockingkeys",
+			"no-keyboard-handlers",
+			"no-keyboard",
+			"600px",
+			"slider",
+			";\n",
+			"noui-handle",
+			"noUi-handle",
+			"noUi-tooltip",
+			"tooltip",
+			"submission-points",
+			"slider",
+			"grey",
+			"slider",
+			"case",
+			"low",
+			"changelog",
+			"#content",
+			"changelog",
+			"console.log",
+			"column",
+			"byebug",
+			".subquestion-choices",
+			"\"[]\"",
+			"'[]",
+			"checked",
+			"TEMP CHOICE",
+			"margin: 10px",
+			"feedback-corre",
+			"$feedback-mistake",
+			".subquestion-fields",
+			"checkchoicewarning",
+			"checkchoicewarnings",
+			"warning",
+			"margin-top: 10px",
+			"review-response",
+			"margin-bottom: 12px",
+			"hover",
+			"subquestion-choice",
+			"check_choice_score",
+			"margin-left: 2px",
+			"choice-content",
+			".column-remove",
+			".column-fields",
+			"label",
+			"console.log",
+			"updatecolumnwidth",
+			"initquizMultiColumn",
+			"visible-item",
+			".visible-item",
+			"updateColumnWidth",
+			"initquizmulticolumn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "enrich_xhtml/process_methods.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2910,
+								2910
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1016.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "enrich_xhtml/enrich_xhtml_main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								847
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "run_pipeline.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1201,
+								1201
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 506.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "enrich_xhtml/process_sent_tsv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1442,
+								1442
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"history_list_is_closing": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "enrich_xhtml/process_xhtml.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1823,
+								1823
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"history_list_is_closing": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{'sent_id': 's-0-0-0-0', 'sect_name': 'meta', 'box",
+							"default_dir": "/Users/daniel/Documents/TUDelftMasterThesis/ner_ifl_pipeline",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "enrich_xhtml/enrich_xhtml_main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1317,
+								1317
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "enrich_xhtml/class_definitions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.458732877786,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ner_ifl_pipeline.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"process_x",
+				"enrich_xhtml/process_xhtml.py"
+			],
+			[
+				"enrich_",
+				"enrich_xhtml/enrich_xhtml_main.py"
+			],
+			[
+				"process_sent",
+				"enrich_xhtml/process_sent_tsv.py"
+			],
+			[
+				"run_p",
+				"run_pipeline.sh"
+			],
+			[
+				"process_xhtml",
+				"enrich_xhtml/process_xhtml.py"
+			],
+			[
+				"xhtml",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"enri",
+				"enrich_xhtml/enrich_xhtml_main.py"
+			],
+			[
+				"class_def",
+				"enrich_xhtml/class_definitions.py"
+			],
+			[
+				"process_meth",
+				"enrich_xhtml/process_methods.py"
+			],
+			[
+				"main.p",
+				"enrich_xhtml/enrich_xhtml_main.py"
+			],
+			[
+				"main_",
+				"results/C02-1045_pdf_term_matching_v0.txt"
+			],
+			[
+				"run_",
+				"run_pipeline.sh"
+			],
+			[
+				"_exampl",
+				"results/C02-1045_pdf_terms_pages_example.json"
+			],
+			[
+				"_exmple.j",
+				"results/C02-0145_entities_example.json"
+			],
+			[
+				"sent",
+				"data/text/C02-1045.sent.tsv"
+			],
+			[
+				"entity_set",
+				"data/entity_set/C02-1045_set_0.txt"
+			],
+			[
+				"process_me",
+				"enrich_xhtml/process_methods.py"
+			],
+			[
+				"process",
+				"enrich_xhtml/process_sent_tsv.py"
+			],
+			[
+				"enrich",
+				"enrich_xhtml/enrich_xhtml_main.py"
+			],
+			[
+				"process_metho",
+				"enrich_xhtml/process_methods.py"
+			],
+			[
+				"c0.xhtlm",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"entities_e",
+				"results/C02-0145_entities_example.json"
+			],
+			[
+				".json",
+				"data/json/C02-1045_entities.json"
+			],
+			[
+				"pro",
+				"enrich_xhtml/process_xhtml.py"
+			],
+			[
+				"statis.",
+				"statistics.py"
+			],
+			[
+				"stati",
+				"statistics.py"
+			],
+			[
+				"statis",
+				"statistics.py"
+			],
+			[
+				"statist",
+				"statistics.py"
+			],
+			[
+				"proces_me",
+				"enrich_xhtml/process_methods.py"
+			],
+			[
+				"statisti",
+				"statistics.py"
+			],
+			[
+				"run_pi",
+				"run_pipeline.sh"
+			],
+			[
+				"proces_x",
+				"process_xhtml.py"
+			],
+			[
+				"c02",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"class_d",
+				"class_definitions.py"
+			],
+			[
+				"class_",
+				"class_definitions.py"
+			],
+			[
+				"results/",
+				"results/C02-1045_pdf_term_xhtml_elements.txt"
+			],
+			[
+				"sublime",
+				"ner_ifl_pipeline.sublime-project"
+			],
+			[
+				"c02.xhtml",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"search_",
+				"search_enrich_xhtml.py"
+			],
+			[
+				"sent.tsv",
+				"data/text/C02-1045.sent.tsv"
+			],
+			[
+				"",
+				"data/text/C02-1045.sent.tsv"
+			],
+			[
+				"c02xhtml",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"sent.",
+				"data/text/C02-1045.sent.tsv"
+			],
+			[
+				"set_",
+				"data/entity_set/C02-1045_set_0_info.txt"
+			],
+			[
+				"sear",
+				"search_enrich_xhtml.py"
+			],
+			[
+				"term_set",
+				"data/term_set/C02-1045_set_0.txt"
+			],
+			[
+				"process.",
+				"process_methods.py"
+			],
+			[
+				"c02.",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"c02.math",
+				"data/text/C02-1045.math.tsv"
+			],
+			[
+				"c02.x",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				".xhtml",
+				"data/xhtml/C02-1045.xhtml"
+			],
+			[
+				"term",
+				"term_set/C02-1045_set_0.txt"
+			],
+			[
+				"paper.mo",
+				"paper.model"
+			],
+			[
+				"senten",
+				"postprocess/sentence_splitter.rb"
+			],
+			[
+				"sentence_sp",
+				"postprocess/sentence_splitter.rb"
+			],
+			[
+				"install",
+				"pdfanalyzer/INSTALL.en"
+			],
+			[
+				"line_chek.js",
+				"viewer/js/line_checker.js"
+			],
+			[
+				"line_check",
+				"viewer/line_checker.php"
+			],
+			[
+				"text",
+				"dist/pdffigures-master/TextUtils.cpp"
+			],
+			[
+				"pdf",
+				"pdfanalyze.php"
+			],
+			[
+				"preproce",
+				"preprocessing/preprocessing_embeddings.py"
+			],
+			[
+				"doc2",
+				"models/doc2vec.model"
+			],
+			[
+				"defaul_",
+				"default_config.py"
+			],
+			[
+				"config.y",
+				"config.py"
+			],
+			[
+				"do",
+				"models/doc2vec.model"
+			],
+			[
+				"ner_trainig",
+				"preprocessing/ner_training.py"
+			],
+			[
+				"defal",
+				"default_config.py"
+			],
+			[
+				"preprocessing",
+				"preprocessing/ner_training.py"
+			],
+			[
+				"prepcorssing",
+				"preprocessing/preprocessing_embeddings.py"
+			],
+			[
+				"long_tail",
+				"long_tail_main.py"
+			],
+			[
+				"dblp_xml",
+				"dblp_xml_processing.py"
+			],
+			[
+				"default_",
+				"default_config.py"
+			],
+			[
+				"tools.",
+				"pyhelpers/tools.py"
+			],
+			[
+				"ful",
+				"access_fulltexts.py"
+			],
+			[
+				"classif",
+				"classify_and_NEE.py"
+			],
+			[
+				"pdf_text_ex",
+				"pdf_text_extractor.py"
+			],
+			[
+				"defa",
+				"default_config.py"
+			],
+			[
+				"confi",
+				"default_config.py"
+			],
+			[
+				"acess_full",
+				"access_fulltexts.py"
+			],
+			[
+				"requireme",
+				"requirements.txt"
+			],
+			[
+				"confi.py",
+				"default_config.py"
+			],
+			[
+				"pdf_tet",
+				"pdf_text_extractor.py"
+			],
+			[
+				"access",
+				"access_fulltexts.py"
+			],
+			[
+				"packa.j",
+				"package.json"
+			],
+			[
+				"readm.",
+				"README.md"
+			],
+			[
+				"readme.",
+				"db/migrate/20151027165801_rename_dce_lti_user_to_sender_id_for_messages.rb"
+			],
+			[
+				"slider.c",
+				"app/assets/javascripts/slider.coffee"
+			],
+			[
+				"keyboard.coff",
+				"app/assets/javascripts/singletons/keyboard.coffee"
+			],
+			[
+				"rubrics.",
+				"app/assets/javascripts/components/rubrics-card.coffee"
+			],
+			[
+				"score-card.coff",
+				"app/assets/javascripts/components/score-card.coffee"
+			],
+			[
+				"single",
+				"app/assets/javascripts/singleton-settings.coffee"
+			],
+			[
+				"keyboard.co",
+				"app/assets/javascripts/singletons/keyboard.coffee"
+			],
+			[
+				"criteria-card",
+				"app/assets/javascripts/components/criteria-card.coffee"
+			],
+			[
+				"gradings.cof",
+				"app/assets/javascripts/gradings.coffee"
+			],
+			[
+				"score-card.scs",
+				"app/assets/stylesheets/components/score-card.scss"
+			],
+			[
+				"slider.co",
+				"app/assets/javascripts/slider.coffee"
+			],
+			[
+				"grading.js.erb",
+				"app/views/gradings/review.js.erb"
+			],
+			[
+				"review.js.erb",
+				"app/views/gradings/review.js.erb"
+			],
+			[
+				"slider.cof",
+				"app/assets/javascripts/slider.coffee"
+			],
+			[
+				"singletons",
+				"app/assets/javascripts/singleton-settings.coffee"
+			],
+			[
+				"score_form",
+				"app/views/components/partials/_score_form.html.erb"
+			],
+			[
+				"score-card.cof",
+				"app/assets/javascripts/components/score-card.coffee"
+			],
+			[
+				"main-asi",
+				"app/assets/stylesheets/main-and-aside.scss"
+			],
+			[
+				"score_list",
+				"app/views/components/partials/_score_list.html.erb"
+			],
+			[
+				"score_card",
+				"app/views/components/_score_card.html.erb"
+			],
+			[
+				"assi.scss",
+				"app/assets/stylesheets/assignments.scss.erb"
+			],
+			[
+				"custom.scss",
+				"app/assets/stylesheets/custom.scss.erb"
+			],
+			[
+				"grading.js",
+				"app/views/gradings/conv.js.erb"
+			],
+			[
+				"materini",
+				"app/assets/javascripts/materialize-initialization.coffee"
+			],
+			[
+				"score-car.dc",
+				"app/assets/javascripts/components/score-card.coffee"
+			],
+			[
+				"slider.",
+				"app/assets/javascripts/slider.coffee"
+			],
+			[
+				"score-",
+				"app/assets/stylesheets/components/score-card.scss"
+			],
+			[
+				"score-card",
+				"app/assets/javascripts/components/score-card.coffee"
+			],
+			[
+				"score_for",
+				"app/views/components/partials/_score_form.html.erb"
+			],
+			[
+				"review_compone",
+				"app/views/gradings/_review_components.html.erb"
+			],
+			[
+				"review_aside",
+				"app/views/gradings/_review_aside.html.erb"
+			],
+			[
+				"changelo",
+				"app/views/home/changelog.html.erb"
+			],
+			[
+				"custom-clas",
+				"app/assets/stylesheets/custom-classes.scss"
+			],
+			[
+				"disable",
+				"app/assets/javascripts/jquery-disable-elements.coffee"
+			],
+			[
+				"changelog",
+				"app/views/home/changelog.html.erb"
+			],
+			[
+				"changelol",
+				"app/views/home/changelog.html.erb"
+			],
+			[
+				"choice.html",
+				"app/views/components/partials/_quiz_response_choice.html.erb"
+			],
+			[
+				"columns.html",
+				"app/views/components/partials/_quiz_response_columns.html.erb"
+			],
+			[
+				"quiz_score",
+				"app/models/quiz_score.rb"
+			],
+			[
+				"reponse.html",
+				"app/views/components/partials/_quiz_response_columns.html.erb"
+			],
+			[
+				"quiz_subquestion.rb",
+				"app/models/quiz_subquestion.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/TUDelftMasterThesis/ner_ifl_pipeline/ner_ifl_pipeline.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
