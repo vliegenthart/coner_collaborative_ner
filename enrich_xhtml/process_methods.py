@@ -70,6 +70,9 @@ def process_sentences(file_path):
       sent_list.append(sent_obj_obj)
       sent_obj[sent_id] = sent_obj_obj
 
+
+
+
   # Add some sentence split processing stats
   statistics.init()
   statistics.log_stat(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
@@ -87,10 +90,7 @@ def create_terms_info(entity_set, sent_list, sent_obj):
   # - partly match, but not entity
   # - muliple occurance of entity
 
-  # [DONE] Use word array to match with term
-  # [DONE] Create PDFTerm with words meta-data
-
-  term_info_list = []
+  # term_info_list = []
 
   for entity in entity_set:
     for sent in sent_list:
@@ -112,9 +112,40 @@ def create_terms_info(entity_set, sent_list, sent_obj):
                 pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id'], pdf_term.id))
 
               entity.pdf_terms.append(pdf_term)
-              # print(len(entity.pdf_terms))
-              # print(pdf_term)
-              # if entity.number_words > 1:
-              #   print(entity.text, ": ", entity.number_words)
 
   return entity_set
+
+
+# Extend, with wrongly classified sentencies, the set of PDFTerms occurances in PDF from entity set
+def extend_terms_info(entity_set, error_sents, xhtml_soup):
+
+  print("Finding additional PDFTerms from error sentences & XHTML...")
+
+  for sent in error_sents:
+    xhtml_soup.find("span#" + sent['word_ids'][0]).siblings()
+
+
+  return entity_set
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -35,6 +35,7 @@ class PDFTerm(object):
     self.sent_id = sent_id
     self.pdf_words = pdf_words 
     self.entity_id = entity_id
+    self.page_number = ""
 
   def __str__(self):
     return f'<PDFTerm: {self.entity_id}, sent_id: {self.sent_id}, #pdf_words: {len(self.pdf_words)}, pdf_words: {self.pdf_words}, page_number: {self.page_number}>'
@@ -55,6 +56,9 @@ class PDFWord(object):
     self.text = text
     self.word_id = word_id
     self.pdf_term_id = pdf_term_id
+    self.bdr = ""
+    self.facet = ""
+    self.page_number = ""
 
   def __str__(self):
     return f'<PDFWord: {self.text}, word_id: {self.word_id}, bdr: {self.bdr}, facet: {self.facet}, page_number: {self.page_number}>'

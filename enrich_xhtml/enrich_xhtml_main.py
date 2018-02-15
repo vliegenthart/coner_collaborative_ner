@@ -41,9 +41,10 @@ def main():
   #      ENRICH XHTML WITH TERMS    #
   # ############################### #
 
-  pdf_term_info_list = find_pdf_terms_in_sent_tsv(pdf_name)
-
   xhtml_soup = read_xhtml(f"../PDFNLT/pdfanalyzer/xhtml/{pdf_name}.xhtml")
+
+  pdf_term_info_list = find_pdf_terms_in_sent_tsv(pdf_name, xhtml_soup)
+
   enrich_xhtml(pdf_term_info_list, xhtml_soup, facet, pdf_name)
 
 if __name__=='__main__':
