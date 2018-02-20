@@ -74,6 +74,8 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 echo "Running PDFNLT postprocessing for $pdf_file..."
 
+touch "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
+
 # To DEBUG: bash -x prints all statements executed
 # bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 

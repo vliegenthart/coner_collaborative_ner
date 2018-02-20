@@ -24,7 +24,7 @@ def find_pdf_terms_in_sent_tsv(pdf_name, xhtml_soup):
 
   print("Analysing & processing sentences...")
 
-  entity_set = read_entity_set(f"data/entity_set/{pdf_name}_set_0.txt")
+  entity_set = read_entity_set(f"data/entity_set/C02-1045_set_0.txt")
   sent_list, sent_obj, error_sents = process_sentences(f"../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv")
 
   pdf_term_info_list = create_terms_info(entity_set, sent_list, sent_obj)
