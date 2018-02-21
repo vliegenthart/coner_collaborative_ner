@@ -12,6 +12,8 @@ import statistics
 # Each term consists of it's subwords in the document
 # Wrote description of classes, sent_list etc
 
+# TODO
+# - Set max_number_words dynamically depending in term set max terms words occurance?
 
 max_entity_words = 3
 tag_attrs = { 'class': '', 'id': '', 'data-bdr': '', 'data-ftype': '', 'data-space': ''}
@@ -123,6 +125,13 @@ def create_terms_info(entity_set, sent_list, sent_obj):
 # Extend, with wrongly classified sentencies, the set of PDFTerms occurances in PDF from entity set
 def extend_terms_info(entity_set, error_sents, xhtml_soup):
 
+
+  # TODO
+  # Q: Thesis sentence word id split misalignment problem
+  # A: Take each sentence with word id mismatch, take sent id, analyse each word in sentence in XHTML, 
+  # extract words with correct word if and metadata, run normal sliding window and match. Print stats mismatch 
+  # before and after: fixed 11/12 mismatches etc
+
   print("Finding additional PDFTerms from error sentences & XHTML...")
 
   for sent in error_sents:
@@ -130,6 +139,7 @@ def extend_terms_info(entity_set, error_sents, xhtml_soup):
 
 
   return entity_set
+
 
 
 

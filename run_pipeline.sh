@@ -63,6 +63,7 @@ echo "------------------------------------"
 
 # Copy pdf to PDFNLT and NER
 echo "Copying PDF file to PDFNLT and NER..."
+mkdir -p ../named_entity_recognizer/pdf
 cp -R $pdf_file ../named_entity_recognizer/pdf/
 
 # Remove xhtml file from PDFNLT/xhtml
@@ -79,7 +80,7 @@ touch "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
 # To DEBUG: bash -x prints all statements executed
 # bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
-sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
+# sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
 
 python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
 

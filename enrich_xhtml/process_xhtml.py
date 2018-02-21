@@ -5,6 +5,7 @@ import re
 import json
 import jsonpickle
 import pprint
+from tqdm import tqdm, trange
 
 def read_xhtml(file_path):
   xhtml = open(file_path, 'r').read()
@@ -18,6 +19,9 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
   output_entity_json = "["
 
   print("Enriching XHTML words with pdf_word meta-data...")
+  print("Progress entities analysis:")
+  pbar = tqdm(total=len(pdf_term_list))
+
   for entity in pdf_term_list:
     for pdf_term in entity.pdf_terms:
       for pdf_word in pdf_term.pdf_words:
@@ -38,9 +42,11 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
       pdf_terms_pages[int(pdf_term.page_number)].append(pdf_term)
 
     output_entity_json += jsonpickle.encode(entity) + ","
-  
+    pbar.update(1)
+
   pdf_terms_pages = [x for x in pdf_terms_pages if x]
   output_entity_json = output_entity_json[:-1] + "]"
+  pbar.close()
 
   print(f'Writing JSON file with entity information to json/{pdf_name}_entities.json...')
 
