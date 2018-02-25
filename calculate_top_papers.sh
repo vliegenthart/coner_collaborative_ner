@@ -6,7 +6,7 @@
 
 if [[ -z "$1" ]] || [[ -z "$2" ]]
 then
-  echo -e "Usage: $0 [-f] <../PDFNLT/pdfanalyzer/pdf/pdf_name> <facet_name>"
+  echo -e "Usage: $0 [-f] <../PDFNLT/pdfanalyzer/pdf> <facet_name>"
   exit -1
 fi
 
@@ -36,16 +36,15 @@ else
 fi
 
 if [ -e "$script/$1" ]; then
-  echo "✓ PDF"
+  echo "✓ PDF directory found"
 else
-  echo -e "PDF file not found"
+  echo -e "PDF directory file not found"
   exit -1
 fi
 
 echo ""
 
-pdf_file=$1
-pdf_name="$(basename "$pdf_file" .pdf)"
+pdf_dir=$1
 
 # #################### #
 #      PROCESS PDF     #
@@ -64,7 +63,7 @@ echo "------------------------------------"
 # Copy pdf to PDFNLT and NER
 echo "Copying PDF file to PDFNLT and NER..."
 mkdir -p ../named_entity_recognizer/pdf
-cp -R $pdf_file ../named_entity_recognizer/pdf/
+cp -R $pdf_dir ../named_entity_recognizer/pdf/
 
 # Remove xhtml file from PDFNLT/xhtml
 # rm -Rf "../PDFNLT/pdfanalyzer/xhtml/$pdf_name.xhtml"
@@ -73,14 +72,14 @@ cp -R $pdf_file ../named_entity_recognizer/pdf/
 #      PROCESS TERMS     #
 # ###################### #
 
-echo "Running PDFNLT postprocessing for $pdf_file..."
+echo "Running PDFNLT postprocessing for $pdf_dir..."
 
 touch "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
 
 # To DEBUG: bash -x prints all statements executed
-# bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
+# bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 
-# sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_file"
+sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 
 python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
 
@@ -99,6 +98,7 @@ ln -f -s /Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/{pdf,xht
 # [DONE] Enrich XHTML with word-id to add attribute
 # [DONE] Add config file with meta-data about each word, or add all in xhtml attributes
 # When pushing to PDFNLT server: Make sure to run command to clear localstorage!
+# Chech with goran about textualize.rb xhtml_dir not being xhtml/ dir
 
 python -c 'import statistics; statistics.print_stats()'
 
