@@ -1,0 +1,17 @@
+YES 6 micro-clustering
+YES 15 categorization
+ NO 0 macbook
+YES 1 latent semantic indexing
+YES 2 observed
+YES 39 documents
+ NO 0 anthology
+YES 18 clustering
+YES 3 svm
+YES 7 probabilistic
+yes 1 part-of-speech
+ NO 0 hash tree
+YES 27 terms
+YES 1 lsi
+YES 2 primarily
+ NO 0 protein
+YES 1 local redundancy
