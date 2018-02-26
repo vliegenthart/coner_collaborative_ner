@@ -5,7 +5,7 @@
 
 import argparse
 import re
-from process_sent_tsv import find_pdf_terms_in_sent_tsv
+from process_methods import find_pdf_terms_in_sent_tsv
 from process_xhtml import read_xhtml, enrich_xhtml
 import statistics
 
@@ -23,10 +23,13 @@ def main():
                      help='name of pdf and xhtml file to be annotated')
   parser.add_argument('facet', metavar='Facet', type=str,
                      help='facet of specific domain e.g. database, method')
+  parser.add_argument('number_top_papers', metavar='Number Top Papers', type=int,
+                     help='number of top papers to keep')
 
   args = parser.parse_args()
   pdf_name = args.pdf_name
   facet = args.facet
+  number_top_papers = args.number_top_papers
 
   # ####################### #
   #      INIT VARIABLES     #
@@ -41,11 +44,19 @@ def main():
   #      ENRICH XHTML WITH TERMS    #
   # ############################### #
 
-  xhtml_soup = read_xhtml(f"../PDFNLT/pdfanalyzer/xhtml/{pdf_name}.xhtml")
 
-  pdf_term_info_list = find_pdf_terms_in_sent_tsv(pdf_name, xhtml_soup)
+  pdf_term_info_list = find_pdf_terms_in_sent_tsv(pdf_name)
 
-  enrich_xhtml(pdf_term_info_list, xhtml_soup, facet, pdf_name)
+  entities_with_occurance = [e for e in pdf_term_info_list if len(e.pdf_terms) > 0]
+
+  with open('data/papers_terms_overview.csv', 'a') as outputFile:
+    outputFile.write(pdf_name + "," + str(len(entities_with_occurance)) + "\n")
+
+
+  print(len(entities_with_occurance))
+
+  # xhtml_soup = read_xhtml(f"../PDFNLT/pdfanalyzer/xhtml/{pdf_name}.xhtml")
+  # enrich_xhtml(pdf_term_info_list, xhtml_soup, facet, pdf_name)
 
 if __name__=='__main__':
 

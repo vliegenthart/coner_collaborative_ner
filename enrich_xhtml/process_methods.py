@@ -1,5 +1,6 @@
 # @author Daniel Vliegenthart
 
+# Enable imports from modules in parent directory
 import os, sys
 sys.path.insert(1, os.path.join(sys.path[0], '..'))
 
@@ -122,9 +123,41 @@ def create_terms_info(entity_set, sent_list, sent_obj):
   return entity_set
 
 
+# Find Entities with associated pdf_terms and pdf_words in the {pdf_name}.sent.tsv file
+def find_pdf_terms_in_sent_tsv(pdf_name):
+
+  # Can also do it the other way around! Go through term set and search each term
+  # in the entire XHTML/TSV/CSV. For multi word, search in sentence, then lookup in the
+  # words after that sentence. Enrich & create TSV/CSV with Term info that way.
+  # Use Term class or no??
+  # Words: Any special characters except for 'space' and '-'
+  # Changed Term to Entity!!!!!!!: Every word in the entity_set.txt is considered 1 entity. 
+
+  # ############################ #
+  #      FIND TERMS FOR XHTML    #
+  # ############################ #
+
+  print("Analysing & processing sentences...")
+
+  entity_set = read_entity_set(f"data/model_term_set/model_1_term_set_0.txt")
+  sent_list, sent_obj, error_sents = process_sentences(f"../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv")
+
+  pdf_term_info_list = create_terms_info(entity_set, sent_list, sent_obj)
+
+
+
+  # pdf_term_info_list = extend_terms_info(pdf_term_info_list, error_sents, xhtml_soup)
+
+  # TODO
+  # Math Formulations are replaced in text with 1 tag, so can't be directly directly recognized!
+  # [DONE] RVM CREATE file to switch to jruby
+
+  return pdf_term_info_list
+
+
+# [UNUSED]
 # Extend, with wrongly classified sentencies, the set of PDFTerms occurances in PDF from entity set
 def extend_terms_info(entity_set, error_sents, xhtml_soup):
-
 
   # TODO
   # Q: Thesis sentence word id split misalignment problem

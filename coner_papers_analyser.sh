@@ -1,6 +1,7 @@
 #/bin/bash
 
 # BEFORE RUNNING THIS SCRIPT, MAKE SURE ALL PDF FILES AND PDF_NAME_entities.json ARE THERE!
+# Retrain PDFNLT so all training CSV's are there!
 
 # ############## #
 #      SETUP     #
@@ -9,8 +10,8 @@
 script=$(cd $(dirname $0) && pwd)
 
 usage() {
-  echo -e "Usage: $0 [-f] ../PDFNLT/pdfanalyzer/pdf <facet_name>"
-  echo -e "   or  $0 [-f] ../PDFNLT/pdfanalyzer/pdf/<pdf_file> <facet_name>"
+  echo -e "Usage: $0 [-f] ../PDFNLT/pdfanalyzer/pdf <facet_name> <number_top_papers>"
+  # echo -e "   or  $0 [-f] ../PDFNLT/pdfanalyzer/pdf/<pdf_file> <facet_name>"
 }
 
 unset force
@@ -28,7 +29,7 @@ while getopts "fo:vi" o; do
 done
 shift $((OPTIND-1))
 
-if [[ -z "$1" ]] || [[ -z "$2" ]]
+if [[ -z "$1" ]] || [[ -z "$2" ]] || [[ -z "$3" ]]
 then
   usage
   exit 1
@@ -85,6 +86,7 @@ fi
 # ##################### #
 #      DEPENDENCIES     #
 # ##################### #
+
 echo "---------------------------------"
 echo "-     CHECKING DEPENDENCIES     -"
 echo "---------------------------------"
@@ -112,17 +114,34 @@ else
   exit -1
 fi
 
+# Load RVM into a shell session *as a function*
+# Loading RVM *as a function* is mandatory
+# so that we can use 'rvm use <specific version>'
+if [[ -s "$HOME/.rvm/scripts/rvm" ]] ; then
+  # First try to load from a user install
+  source "$HOME/.rvm/scripts/rvm"
+  echo "✓ RVM user install found: $HOME/.rvm/scripts/rvm"
+elif [[ -s "/usr/local/rvm/scripts/rvm" ]] ; then
+  # Then try to load from a root install
+  source "/usr/local/rvm/scripts/rvm"
+  echo "✓ RVM root install found: /usr/local/rvm/scripts/rvm"
+else
+  echo -e "RVM installation was not found"
+  exit -1
+fi
+
 echo ""
 
 pdf_dir=$1
+facet=$2
+number_papers=$3
 
 
-# #################### #
-#      PROCESS PDF     #
-# #################### #
+# ##################### #
+#      PROCESS PDFS     #
+# ##################### #
 
-
-echo "Setting up statistics...\n"
+echo $'Setting up statistics...\n'
 rm -Rf "logging/statistics.log"
 mkdir -p "logging"
 touch "logging/statistics.log"
@@ -145,20 +164,60 @@ cp -R $pdf_dir "$(pwd)/data/pdf/"
 #      PROCESS TERMS     #
 # ###################### #
 
+echo "Creating training files for PDFs..."
+
+for i in "${pdfs[@]}"
+do
+  pdf_name="$(basename "$i" .pdf)"
+  touch -a "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
+done
+
 echo "Running PDFNLT postprocessing for $pdf_dir..."
 
-# python create_training_files.py ""
-
-
-
-# touch -a "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
-
-# # To DEBUG: bash -x prints all statements executed
+# To DEBUG: bash -x prints all statements executed
 # bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 
-# sh "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+rvm use jruby-9.1.13.0@pdfnlt
 
-# python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$2"
+sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+
+# TO DEBUG RUN SINGLE PAPER FOR NEXT EXECUTION
+# rm "../PDFNLT/pdfanalyzer/train/TUD-LTE.csv"
+
+# ########################################### #
+#      CALCULATE TOP PAPERS & ENRICH XHTML    #
+# ########################################### #
+
+echo "Calculating top papers..."
+
+# for i in "${pdfs[0]}"
+# do
+#   pdf_name="$(basename "$i" .pdf)"
+#   python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+# done
+
+
+mv -f "data/papers_terms_overview.csv" "data/papers_terms_overview_old.csv"
+touch "data/papers_terms_overview.csv"
+echo "paper_name,number_entities" >> data/papers_terms_overview.csv
+
+pdf_name="$(basename "${pdfs[0]}" .pdf)"
+python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+
+
+# TODO
+# Generate paper_name_term_set.txt file for every pdf
+# Add every pdf #occurances to papers_terms.csv
+# Calculate top papers for terms and entities
+# Separate sentence analysis and xhtml enrichtment
+# Rename enrich_xhtml_main!!
+
+
+
+
+
+
+# python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$facet"
 
 # echo "Copying enriched XHTML and JSON files to PDFNLT/pdfanalyzer..."
 
@@ -182,25 +241,6 @@ echo "Running PDFNLT postprocessing for $pdf_dir..."
 # # echo "Extracting Named Entites..."
 # # echo "Updating database annotation entry..."
 
-
-
-
-
-
-
-# #/bin/bash
-
-# ############## #
-#      SETUP     #
-# ############## #
-
-# if [[ -z "$1" ]] || [[ -z "$2" ]]
-# then
-#   echo -e "Usage: $0 [-f] <../PDFNLT/pdfanalyzer/pdf> <facet_name>"
-#   exit -1
-# fi
-
-# script=$(cd $(dirname $0) && pwd)
 
 
 
