@@ -18,14 +18,16 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
   pdf_terms_pages = [[] for _ in range(1000)]
   output_entity_json = "["
 
-  print("Enriching XHTML words with pdf_word meta-data...")
-  print("Progress entities analysis:")
+  print(f'{pdf_name}: Enriching XHTML and writing JSON result files...')
+  # print("Progress entities analysis:")
   pbar = tqdm(total=len(pdf_term_list))
 
   for entity in pdf_term_list:
     for pdf_term in entity.pdf_terms:
       for pdf_word in pdf_term.pdf_words:
         span_word = xhtml_soup.find("span", class_="word", id=pdf_word.word_id)
+        if not span_word: continue
+
         span_word['data-entity_id'] = entity.id
         span_word['data-pdf_term_id'] = pdf_term.id
         span_word['data-pdf_word_id'] = pdf_word.id
@@ -39,7 +41,8 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
         pdf_word.page_number = page_number
         pdf_term.page_number = page_number
 
-      pdf_terms_pages[int(pdf_term.page_number)].append(pdf_term)
+      if pdf_term.page_number:
+        pdf_terms_pages[int(pdf_term.page_number)].append(pdf_term)
 
     output_entity_json += jsonpickle.encode(entity) + ","
     pbar.update(1)
@@ -48,17 +51,17 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
   output_entity_json = output_entity_json[:-1] + "]"
   pbar.close()
 
-  print(f'Writing JSON file with entity information to json/{pdf_name}_entities.json...')
+  # print(f'Writing JSON file with entity information to json/{pdf_name}_entities.json...')
 
   with open(f'data/json/{pdf_name}_entities.json', 'w+') as outputFile:
     outputFile.write(output_entity_json + "\n")
 
-  print(f'Writing JSON file with PDFTerms per page information to json/{pdf_name}_pdf_terms_pages.json...')
+  # print(f'Writing JSON file with PDFTerms per page information to json/{pdf_name}_pdf_terms_pages.json...')
   
   with open(f'data/json/{pdf_name}_pdf_terms_pages.json', 'w+') as outputFile:
     outputFile.write(jsonpickle.encode(pdf_terms_pages) + "\n")
 
-  print(f'Writing XHTML file with entity information added to xhtml/{pdf_name}.xhtml...')
+  # print(f'Writing XHTML file with entity information added to xhtml/{pdf_name}.xhtml...')
 
   with open(f'data/xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
     outputFile.write(str(xhtml_soup.prettify()))

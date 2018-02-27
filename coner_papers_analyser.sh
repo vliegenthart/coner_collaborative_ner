@@ -3,6 +3,9 @@
 # BEFORE RUNNING THIS SCRIPT, MAKE SURE ALL PDF FILES AND PDF_NAME_entities.json ARE THERE!
 # Retrain PDFNLT so all training CSV's are there!
 
+# TODO
+# Do XHTML enrichtment after calculating top papers, not before!
+
 # ############## #
 #      SETUP     #
 # ############## #
@@ -10,16 +13,16 @@
 script=$(cd $(dirname $0) && pwd)
 
 usage() {
-  echo -e "Usage: $0 [-f] ../PDFNLT/pdfanalyzer/pdf <facet_name> <number_top_papers>"
-  # echo -e "   or  $0 [-f] ../PDFNLT/pdfanalyzer/pdf/<pdf_file> <facet_name>"
+  echo -e "Usage: $0 [-e] ../PDFNLT/pdfanalyzer/pdf <facet_name> <number_top_papers>"
 }
 
 unset force
+unset enrich
 
-while getopts "fo:vi" o; do
+while getopts "e" o; do
   case "${o}" in
-    f)
-      force=1
+    e)
+      enrich=1
       ;;
     *)
       usage
@@ -75,6 +78,7 @@ else
     fi
   done
 fi
+
 
 if [ ${#pdfs[@]} -eq 0 ]
 then
@@ -136,7 +140,6 @@ pdf_dir=$1
 facet=$2
 number_papers=$3
 
-
 # ##################### #
 #      PROCESS PDFS     #
 # ##################### #
@@ -189,34 +192,45 @@ rvm use jruby-9.1.13.0@pdfnlt
 # ########################################### #
 
 
-echo "Analysing term occurances in papers..."
-# for i in "${pdfs[0]}"
-# do
-#   pdf_name="$(basename "$i" .pdf)"
-#   python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
-# done
+if [ -n "$enrich" ]
+then
+  echo "Analysing term occurances in papers and enriching XHTMLs..."
+
+  mv -f "data/papers_terms_overview.csv" "data/papers_terms_overview_old.csv"
+  touch "data/papers_terms_overview.csv"
+  echo "paper_name,number_terms" >> data/papers_terms_overview.csv
+
+  mkdir -p ../PDFNLT/pdfanalyzer/xhtml
+  mkdir -p ../PDFNLT/pdfanalyzer/json_entities
+  mkdir -p ../PDFNLT/pdfanalyzer/json_pdf_terms_pages
+
+  for i in "${pdfs[@]}"
+  do
+    pdf_name="$(basename "$i" .pdf)"
+    python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+    
+    cp -R "$(pwd)/data/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
+    cp -R "$(pwd)/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
+    cp -R "$(pwd)/data/json/${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
+  done
+else
+  echo "Term occurances in papers and enriched XHTMLs are up-to-date"
+fi
+
+echo "Calculating top papers..."
+
+python calculate_top_papers.py $facet $number_papers
 
 
-mv -f "data/papers_terms_overview.csv" "data/papers_terms_overview_old.csv"
-touch "data/papers_terms_overview.csv"
-echo "paper_name,number_terms" >> data/papers_terms_overview.csv
-
-for i in "${pdfs[@]}"
-do
-  pdf_name="$(basename "$i" .pdf)"
-  python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
-done
-
-# pdf_name="$(basename "${pdfs[0]}" .pdf)"
-# python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
 
 
-# echo "Calculating top papers..."
+
 
 
 # TODO
-# Generate paper_name_term_set.txt file for every pdf
-# Add every pdf #occurances to papers_terms.csv (also change above code to loop)
+# [DONE] TEST FORCE AND ENRICH FLAGS
+# [DONE] Generate paper_name_term_set.txt file for every pdf
+# [DONE] Add every pdf #occurances to papers_terms.csv (also change above code to loop)
 # Calculate top papers for terms and entities
 # Separate sentence analysis and xhtml enrichtment
 # Rename enrich_xhtml_main!!
@@ -226,12 +240,7 @@ done
 
 # echo "Copying enriched XHTML and JSON files to PDFNLT/pdfanalyzer..."
 
-# mkdir -p ../PDFNLT/pdfanalyzer/xhtml
-# cp -R "$script/data/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
-# mkdir -p ../PDFNLT/pdfanalyzer/json_entities
-# cp -R "$script/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
-# mkdir -p ../PDFNLT/pdfanalyzer/json_pdf_terms_pages
-# cp -R "$script/data/json/${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
+
 
 # echo "Updating www/pdfnlt data..."
 # ln -f -s /Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/{pdf,xhtml,json_entities,json_pdf_terms_pages} '/usr/local/var/www/pdfnlt/pdfanalyzer/'
