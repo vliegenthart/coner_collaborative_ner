@@ -32,7 +32,7 @@ while getopts "e" o; do
 done
 shift $((OPTIND-1))
 
-if [[ -z "$1" ]] || [[ -z "$2" ]] || [[ -z "$3" ]]
+if [[ -z "$1" ]] || [[ -z "$2" ]]
 then
   usage
   exit 1
@@ -191,12 +191,15 @@ rvm use jruby-9.1.13.0@pdfnlt
 #      CALCULATE TOP PAPERS & ENRICH XHTML    #
 # ########################################### #
 
+# Backup versions of occurances overviews from last execution
+cp -R "data/papers_occurances_overview.csv" "data/OLD_papers_occurances_overview.csv" || :
+cp -R "data/top_papers_overview.csv" "data/OLD_top_papers_overview.csv" || :
 
 if [ -n "$enrich" ]
 then
   echo "Analysing term occurances in papers and enriching XHTMLs..."
 
-  mv -f "data/papers_terms_overview.csv" "data/papers_terms_overview_old.csv"
+  cp -R "data/papers_terms_overview.csv" "data/OLD_papers_terms_overview.csv"
   touch "data/papers_terms_overview.csv"
   echo "paper_name,number_terms" >> data/papers_terms_overview.csv
 
@@ -207,7 +210,7 @@ then
   for i in "${pdfs[@]}"
   do
     pdf_name="$(basename "$i" .pdf)"
-    python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+    python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet
     
     cp -R "$(pwd)/data/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
     cp -R "$(pwd)/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
@@ -219,7 +222,7 @@ fi
 
 echo "Calculating top papers..."
 
-python calculate_top_papers.py $facet $number_papers
+python calculate_top_papers.py $facet
 
 
 
@@ -231,9 +234,9 @@ python calculate_top_papers.py $facet $number_papers
 # [DONE] TEST FORCE AND ENRICH FLAGS
 # [DONE] Generate paper_name_term_set.txt file for every pdf
 # [DONE] Add every pdf #occurances to papers_terms.csv (also change above code to loop)
-# Calculate top papers for terms and entities
-# Separate sentence analysis and xhtml enrichtment
-# Rename enrich_xhtml_main!!
+# [DONE] Calculate top papers for terms and entities
+# [LATER] Separate sentence analysis and xhtml enrichtment
+# [LATER] Rename enrich_xhtml_main!!
 
 
 # python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$facet"

@@ -23,13 +23,10 @@ def main():
                      help='name of pdf and xhtml file to be annotated')
   parser.add_argument('facet', metavar='Facet', type=str,
                      help='facet of specific domain e.g. database, method')
-  parser.add_argument('number_top_papers', metavar='Number Top Papers', type=int,
-                     help='number of top papers to keep')
 
   args = parser.parse_args()
   pdf_name = args.pdf_name
   facet = args.facet
-  number_top_papers = args.number_top_papers
 
   # ####################### #
   #      INIT VARIABLES     #
