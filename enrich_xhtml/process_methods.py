@@ -105,20 +105,21 @@ def create_terms_info(entity_set, sent_list, sent_obj):
         
         # Check for each term words length
         for word_length in range(max_entity_words):
+          # Sliding array length cannot be larger than sentence number of words
+          if len(sent['word_array_info']) > word_length:
+            # Sliding window over array of sentence text
+            chunks = sliding_window(sent['word_array_info'],word_length+1)
+            
+            # Match sliding window chunk with entity
+            for chunk in chunks:
+              chunk_words = ' '.join(word_info['text'] for word_info in chunk)
+              if entity.text == chunk_words:
 
-          # Sliding window over array of sentence text
-          chunks = sliding_window(sent['word_array_info'],word_length+1)
-          
-          # Match sliding window chunk with entity
-          for chunk in chunks:
-            chunk_words = ' '.join(word_info['text'] for word_info in chunk)
-            if entity.text == chunk_words:
+                pdf_term = PDFTerm(sent['sent_id'], entity.id)
+                for word in chunk:
+                  pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id'], pdf_term.id))
 
-              pdf_term = PDFTerm(sent['sent_id'], entity.id)
-              for word in chunk:
-                pdf_term.pdf_words.append(PDFWord(word['text'], word['word_id'], pdf_term.id))
-
-              entity.pdf_terms.append(pdf_term)
+                entity.pdf_terms.append(pdf_term)
 
   return entity_set
 
@@ -137,7 +138,7 @@ def find_pdf_terms_in_sent_tsv(pdf_name):
   #      FIND TERMS FOR XHTML    #
   # ############################ #
 
-  print("Analysing & processing sentences...")
+  # print("Analysing & processing sentences...")
 
   entity_set = read_entity_set(f"data/model_term_set/model_1_term_set_0.txt")
   sent_list, sent_obj, error_sents = process_sentences(f"../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv")

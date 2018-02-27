@@ -1,0 +1,4 @@
+newswire
+chunker
+conll
+treetagger

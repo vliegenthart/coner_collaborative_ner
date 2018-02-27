@@ -179,7 +179,7 @@ echo "Running PDFNLT postprocessing for $pdf_dir..."
 
 rvm use jruby-9.1.13.0@pdfnlt
 
-sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+# sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 
 # TO DEBUG RUN SINGLE PAPER FOR NEXT EXECUTION
 # rm "../PDFNLT/pdfanalyzer/train/TUD-LTE.csv"
@@ -188,8 +188,8 @@ sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 #      CALCULATE TOP PAPERS & ENRICH XHTML    #
 # ########################################### #
 
-echo "Calculating top papers..."
 
+echo "Analysing term occurances in papers..."
 # for i in "${pdfs[0]}"
 # do
 #   pdf_name="$(basename "$i" .pdf)"
@@ -199,22 +199,27 @@ echo "Calculating top papers..."
 
 mv -f "data/papers_terms_overview.csv" "data/papers_terms_overview_old.csv"
 touch "data/papers_terms_overview.csv"
-echo "paper_name,number_entities" >> data/papers_terms_overview.csv
+echo "paper_name,number_terms" >> data/papers_terms_overview.csv
 
-pdf_name="$(basename "${pdfs[0]}" .pdf)"
-python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+for i in "${pdfs[@]}"
+do
+  pdf_name="$(basename "$i" .pdf)"
+  python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+done
+
+# pdf_name="$(basename "${pdfs[0]}" .pdf)"
+# python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet $number_papers
+
+
+# echo "Calculating top papers..."
 
 
 # TODO
 # Generate paper_name_term_set.txt file for every pdf
-# Add every pdf #occurances to papers_terms.csv
+# Add every pdf #occurances to papers_terms.csv (also change above code to loop)
 # Calculate top papers for terms and entities
 # Separate sentence analysis and xhtml enrichtment
 # Rename enrich_xhtml_main!!
-
-
-
-
 
 
 # python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$facet"

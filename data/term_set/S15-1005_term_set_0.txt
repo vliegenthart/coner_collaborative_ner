@@ -1,0 +1,6 @@
+propbank
+semeval
+newswire
+dataset
+wsj
+corenlp

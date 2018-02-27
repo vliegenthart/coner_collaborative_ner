@@ -1,0 +1,2 @@
+wordsense
+eurowordnet
