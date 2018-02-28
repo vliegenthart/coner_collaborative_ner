@@ -145,8 +145,8 @@ number_papers=$3
 # ##################### #
 
 echo $'Setting up statistics...\n'
-rm -Rf "logging/statistics.log"
 mkdir -p "logging"
+cp -R "logging/statistics.log" "logging/OLD_statistics.log" || :
 touch "logging/statistics.log"
 
 echo "------------------------------------"
@@ -182,7 +182,7 @@ echo "Running PDFNLT postprocessing for $pdf_dir..."
 
 rvm use jruby-9.1.13.0@pdfnlt
 
-# sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 
 # TO DEBUG RUN SINGLE PAPER FOR NEXT EXECUTION
 # rm "../PDFNLT/pdfanalyzer/train/TUD-LTE.csv"
@@ -216,6 +216,8 @@ then
     cp -R "$(pwd)/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
     cp -R "$(pwd)/data/json/${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
   done
+
+  python -c 'import statistics; statistics.print_stats()'
 else
   echo "Term occurances in papers and enriched XHTMLs are up-to-date"
 fi
@@ -225,11 +227,6 @@ echo "Calculating top papers..."
 python calculate_top_papers.py $facet
 
 
-
-
-
-
-
 # TODO
 # [DONE] TEST FORCE AND ENRICH FLAGS
 # [DONE] Generate paper_name_term_set.txt file for every pdf
@@ -237,30 +234,11 @@ python calculate_top_papers.py $facet
 # [DONE] Calculate top papers for terms and entities
 # [LATER] Separate sentence analysis and xhtml enrichtment
 # [LATER] Rename enrich_xhtml_main!!
-
-
-# python enrich_xhtml/enrich_xhtml_main.py "$pdf_name" "$facet"
-
-# echo "Copying enriched XHTML and JSON files to PDFNLT/pdfanalyzer..."
-
+# [DONE] Enrich XHTML with word-id to add attribute
+# [DONE] Add config file with meta-data about each word, or add all in xhtml attributes
+# When pushing to PDFNLT server: Make sure to run command to clear localstorage!
+# Chech with goran about textualize.rb xhtml_dir not being xhtml/ dir
 
 
 # echo "Updating www/pdfnlt data..."
 # ln -f -s /Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/{pdf,xhtml,json_entities,json_pdf_terms_pages} '/usr/local/var/www/pdfnlt/pdfanalyzer/'
-
-# # [DONE] Enrich XHTML with word-id to add attribute
-# # [DONE] Add config file with meta-data about each word, or add all in xhtml attributes
-# # When pushing to PDFNLT server: Make sure to run command to clear localstorage!
-# # Chech with goran about textualize.rb xhtml_dir not being xhtml/ dir
-
-# python -c 'import statistics; statistics.print_stats()'
-
-# # echo "Extracting Named Entites..."
-# # echo "Updating database annotation entry..."
-
-
-
-
-
-
-

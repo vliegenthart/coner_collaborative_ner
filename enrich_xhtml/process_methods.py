@@ -37,7 +37,7 @@ def read_entity_set(file_path):
   return entity_set
 
 # Process and create list of sentences with meta-data
-def process_sentences(file_path):
+def process_sentences(file_path, pdf_name):
   sent_list_raw = open(file_path, 'r').readlines()
   sent_list_raw = [sent.rstrip('\n') for sent in sent_list_raw]
   sent_list_raw.pop(0) # Remove header column
@@ -82,8 +82,8 @@ def process_sentences(file_path):
 
   # Add some sentence split processing stats
   statistics.init()
-  statistics.log_stat(f'# sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
-  statistics.log_stat(f'# entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
+  statistics.log_stat(f'{pdf_name.lower()}: # sentences incorrectly split by PDFNLT: {len(error_sents)}/{len(sent_list)}')
+  statistics.log_stat(f'{pdf_name.lower()}: # entities rejected because entity.number_words > max_entity_words ({max_entity_words}): {number_entities_rejected}')
 
   # print(sent_obj['s-3-1-0-2']['word_array_info'])
   return sent_list, sent_obj, error_sents
@@ -141,7 +141,7 @@ def find_pdf_terms_in_sent_tsv(pdf_name):
   # print("Analysing & processing sentences...")
 
   entity_set = read_entity_set(f"data/model_term_set/model_1_term_set_0.txt")
-  sent_list, sent_obj, error_sents = process_sentences(f"../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv")
+  sent_list, sent_obj, error_sents = process_sentences(f"../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv", pdf_name)
 
   pdf_term_info_list = create_terms_info(entity_set, sent_list, sent_obj)
 
