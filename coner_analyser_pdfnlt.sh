@@ -200,8 +200,9 @@ then
   echo "Analysing term occurances in papers and enriching XHTMLs..."
 
   cp -R "data/papers_terms_overview.csv" "data/OLD_papers_terms_overview.csv"
+  rm -f "data/papers_terms_overview.csv"
   touch "data/papers_terms_overview.csv"
-  echo "paper_name,number_terms" >> data/papers_terms_overview.csv
+  echo "paper_name,number_terms" >> "data/papers_terms_overview.csv"
 
   mkdir -p ../PDFNLT/pdfanalyzer/xhtml
   mkdir -p ../PDFNLT/pdfanalyzer/json_entities

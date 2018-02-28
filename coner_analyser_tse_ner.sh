@@ -2,6 +2,10 @@
 
 # BEFORE RUNNING THIS SCRIPT, MAKE SURE ALL PDF FILES AND PDF_NAME_entities.json ARE THERE!
 
+# TODO
+# - EXTRACT ALLLLLLL THE DATA DANIEL!
+# - Add supports and parameter passing for FACETS
+# - Fix facet for enrichment XHTML
 # ############## #
 #      SETUP     #
 # ############## #
@@ -37,7 +41,7 @@ else
 fi
 
 # Load RVM into a shell session *as a function*
-# Loading RVM *as a function* is mandatory
+# Loading RVM *as a function* is mandatorygit ac
 # so that we can use 'rvm use <specific version>'
 if [[ -s "$HOME/.rvm/scripts/rvm" ]] ; then
   # First try to load from a user install
@@ -65,3 +69,12 @@ string_lines="------------------------------------------------"
 echo $string_lines
 echo "-     TSE-NER: EXTRACT $sample_number_papers PDFS & ENTITIES     -"
 echo $string_lines
+
+if [ -f "../named_entity_recognizer/data/papers_journal_entities_overview.csv" ]; then
+  python "../named_entity_recognizer/create_papers_journal_entities_overview.py"
+fi
+
+echo "Copying papers_journal_entities overview to data/ directory..."
+cp -R "data/papers_journal_entities_overview.csv" "data/OLD_papers_journal_entities_overview.csv" || :
+cp -R "../named_entity_recognizer/data/papers_journal_entities_overview.csv" "data/papers_journal_entities_overview.csv"
+
