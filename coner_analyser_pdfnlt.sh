@@ -13,7 +13,7 @@
 script=$(cd $(dirname $0) && pwd)
 
 usage() {
-  echo -e "Usage: $0 [-e] ../PDFNLT/pdfanalyzer/pdf <facet_name> <number_top_papers>"
+  echo -e "Usage: $0 [-e] ../PDFNLT/pdfanalyzer/pdf <facet_name>"
 }
 
 unset force
