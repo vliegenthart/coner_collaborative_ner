@@ -5,6 +5,7 @@
 
 # TODO
 # Do XHTML enrichtment after calculating top papers, not before!
+# Change all 'ocurrances' to 'occurrences'
 
 # ############## #
 #      SETUP     #
@@ -12,8 +13,10 @@
 
 script=$(cd $(dirname $0) && pwd)
 
+# <pdf_directory>: ../PDFNLT/pdfanalyzer/pdf/
+
 usage() {
-  echo -e "Usage: $0 [-e] ../PDFNLT/pdfanalyzer/pdf <facet_name>"
+  echo -e "Usage: $0 [-e] <database> <facet_name> <pdf_directory> <number_top_papers>"
 }
 
 unset force
@@ -32,7 +35,7 @@ while getopts "e" o; do
 done
 shift $((OPTIND-1))
 
-if [[ -z "$1" ]] || [[ -z "$2" ]]
+if [[ -z "$1" ]] || [[ -z "$2" ]] || [[ -z "$3" ]] || [[ -z "$4" ]]
 then
   usage
   exit 1
@@ -41,23 +44,23 @@ fi
 xhtmls=()
 shopt -s nullglob
 
-if [ -d "$1" -a -n "$force" ]
+if [ -d "$3" -a -n "$force" ]
 then
   # Whole directory, forced
-  dir="$(cd $(dirname "$1") && pwd)"
+  dir="$(cd $(dirname "$3") && pwd)"
   outdir="${outdir:-$dir/text}"
   pdfs=(--all)
   tsvs=(--all)
 else
-  if [ -f "$1" ]
+  if [ -f "$3" ]
   then
     # Individual files
-    dir=$(cd $(dirname "$1")/.. && pwd)
-    files=("$1")
+    dir=$(cd $(dirname "$3")/.. && pwd)
+    files=("$3")
   else
     # Whole directory, non-forced
-    dir="$(cd $(dirname "$1") && pwd)"
-    files=("$dir"/pdf/*.pdf)
+    dir="$(cd $(dirname "$3") && pwd)"
+    files=("$dir/$1"_pdf/*.pdf)
   fi
   outdir="${outdir:-$dir/text}"
 
@@ -70,9 +73,9 @@ else
     # If not forced, then only pick the files that are not up-to-date
     file="$(basename "$i" .xhtml)"
     file="${file%.pdf}"
-    if [ -f "$dir/pdf/$file.pdf" -o -n "$force" ]
+    if [ -f "$dir/$1_pdf/$file.pdf" -o -n "$force" ]
     then
-      pdfs+=("$dir/pdf/$file.pdf")
+      pdfs+=("$dir/$1_pdf/$file.pdf")
       tsvs+=("$file.csv")
       xhtmls+=("$dir/xhtml/$file.xhtml")
     fi
@@ -111,7 +114,7 @@ else
   exit -1
 fi
 
-if [ -e "$script/$1" ]; then
+if [ -e "$script/$3" ]; then
   echo "✓ PDF directory found"
 else
   echo -e "PDF directory file not found"
@@ -136,9 +139,16 @@ fi
 
 echo ""
 
-pdf_dir=$1
+database=$1
 facet=$2
-number_papers=$3
+pdf_dir=$3
+number_top_papers=$4
+
+echo "Variables:"
+echo "DATABASE: $database"
+echo "FACET: $facet"
+echo "PDF_DIR: $pdf_dir"
+echo "NUMBER_TOP_PAPERS: $number_top_papers"
 
 # ##################### #
 #      PROCESS PDFS     #
@@ -147,6 +157,7 @@ number_papers=$3
 echo $'Setting up statistics...\n'
 mkdir -p "logging"
 cp -R "logging/statistics.log" "logging/OLD_statistics.log" || :
+rm "logging/statistics.log"
 touch "logging/statistics.log"
 
 echo "------------------------------------"
@@ -192,30 +203,31 @@ sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 # ########################################### #
 
 # Backup versions of occurances overviews from last execution
-cp -R "data/papers_occurances_overview.csv" "data/OLD_papers_occurances_overview.csv" || :
-cp -R "data/top_papers_overview.csv" "data/OLD_top_papers_overview.csv" || :
+cp -R "data/${database}/${facet}_papers_occurances_overview.csv" "data/${database}/OLD_${facet}_papers_occurances_overview.csv" || :
+cp -R "data/${database}/${facet}_top_papers_overview.csv" "data/${database}/OLD_${facet}_top_papers_overview.csv" || :
 
 if [ -n "$enrich" ]
 then
   echo "Analysing term occurances in papers and enriching XHTMLs..."
 
-  cp -R "data/papers_terms_overview.csv" "data/OLD_papers_terms_overview.csv"
-  rm -f "data/papers_terms_overview.csv"
-  touch "data/papers_terms_overview.csv"
-  echo "paper_name,number_terms" >> "data/papers_terms_overview.csv"
+  cp -R "data/${database}/${facet}_papers_terms_overview.csv" "data/${database}/OLD_${facet}_papers_terms_overview.csv"
+  rm -f "data/${database}/${facet}_papers_terms_overview.csv"
+  touch "data/${database}/${facet}_papers_terms_overview.csv"
+  echo "paper_id,number_terms" >> "data/${database}/${facet}_papers_terms_overview.csv"
 
   mkdir -p ../PDFNLT/pdfanalyzer/xhtml
   mkdir -p ../PDFNLT/pdfanalyzer/json_entities
   mkdir -p ../PDFNLT/pdfanalyzer/json_pdf_terms_pages
 
-  for i in "${pdfs[@]}"
+  for i in "${pdfs[0]}"
   do
     pdf_name="$(basename "$i" .pdf)"
-    python "enrich_xhtml/enrich_xhtml_main.py" $pdf_name $facet
+
+    python "enrich_xhtml/enrich_xhtml_main.py" $database $facet $pdf_name 
     
-    cp -R "$(pwd)/data/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
-    cp -R "$(pwd)/data/json/${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
-    cp -R "$(pwd)/data/json/${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
+    cp -R "$(pwd)/data/${database}/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
+    cp -R "$(pwd)/data/${database}/json/${facet}_${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
+    cp -R "$(pwd)/data/${database}/json/${facet}_${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
   done
 
   python -c 'import statistics; statistics.print_stats()'
@@ -225,8 +237,7 @@ fi
 
 echo "Calculating top papers..."
 
-python calculate_top_papers.py $facet
-
+python calculate_top_papers.py $database $facet $number_top_papers
 
 # TODO
 # [DONE] TEST FORCE AND ENRICH FLAGS

@@ -125,7 +125,7 @@ def create_terms_info(entity_set, sent_list, sent_obj):
 
 
 # Find Entities with associated pdf_terms and pdf_words in the {pdf_name}.sent.tsv file
-def find_pdf_terms_in_sent_tsv(pdf_name):
+def find_pdf_terms_in_sent_tsv(database, facet, pdf_name):
 
   # Can also do it the other way around! Go through term set and search each term
   # in the entire XHTML/TSV/CSV. For multi word, search in sentence, then lookup in the
@@ -140,8 +140,8 @@ def find_pdf_terms_in_sent_tsv(pdf_name):
 
   # print("Analysing & processing sentences...")
 
-  entity_set = read_entity_set(f"data/model_term_set/model_1_term_set_0.txt")
-  sent_list, sent_obj, error_sents = process_sentences(f"../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv", pdf_name)
+  entity_set = read_entity_set(f'data/{database}/model_term_set/{facet}_model_1_term_set_0.txt')
+  sent_list, sent_obj, error_sents = process_sentences(f'../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv', pdf_name)
 
   pdf_term_info_list = create_terms_info(entity_set, sent_list, sent_obj)
 

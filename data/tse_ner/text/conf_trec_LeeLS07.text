@@ -1,0 +1,131 @@
+Introduction and Motivation
+Nowadays blogs are the most used media to express individual's experiences, emotions and opinions related to a topic. Both the rapid growth 1 and the underlying influence of bloggers on different areas of our society and online community are fascinating 
+ To face this problem, a novel approach using Ada- Boost 
+Overview of the Paper
+ The remaining part of this paper is structured as follows . Related work is referred in Section 3. Section 4 points out the disadvantages and advantages of Ada- Boost by comparing neural networks and SVMs relating to performance and evaluation issues, followed by Section 5 depicting the conceptual framework for participating in this annual TREC Blog Track 'Feed Distillation'. In doing so, the basic assumptions using AdaBoost and Topic Maps as well as diversity measures between the implemented classifiers are presented . In Section 6, the implemented architecture is briefly overviewed. In Section 7, some training and experimental settings are highlighted. Section 8 deals with the evaluation results judged by the participating groups and reflects the proposed approach for reperforming an inoffiicial blog track run. This paper concludes with a discussion and an outlook on further research and performance improvement. 
+Related Work
+Blogs have different facets related to a topic, analyzed by 
+Preliminaries
+ In this section, similarities and distinctions between commonly used learning algorithms are briefly overviewed. In the research literature, many comparisons exist between SVM and AdaBoost or AdaBoost and Feed-forward Neural Network (FNN). However, the most comparative study on the three learning algorithms is conducted by 
+ 4.1 Comparison of Feed-forward Neural Network, SVM and AdaBoost 
+Nowadays, learning algorithms such as AdaBoost, Support Vector Machine (SVM) and Feed-forward Neural Network (FNN) have recently attracted popularity in different domains such as handwritten character recognition, face detection, and especially in text classification 
+AdaBoost
+The idea of AdaBoost is to produce a highly accurate classification rule by combining a set of classifiers (or weak hypotheses), each of which may be only moderately inaccurate 
+D t+1 (i) = D t (i) * e −αtyiht(xi) Z t = e − t j=1 αj yihj (xi) M * t j=1 Z j = e yift(xi) M * t j=1 Z j = e −mrg(xi,yi,ft) M * t j=1 Z j (1) 
+Schapire and Singer 
+Neural Network
+ One of well-known Neural Networks is the FNN, socalled Feed-forward Neural Network. The architecture is organized by layers of units, with connections between units from different layers in forward direc- tion 
+f F N N (x) = ϕ 0 N h i=1 λ i ϕ i (ω i , b i , x) + b 0 , (2) 
+where λ i , b i , b 0 ∈ and x, ω ∈ N . To simplify, the weights can be separated in coef f icients (ϕ i ) N h i=1 , f requencies (ω N h i=1 ) and biases (b i ) N h i=0 . The most used activation functions ϕ i (ω, b, x) in the hidden units are sigmoidal, in particular, for Multi-layer Perceptrons (MLP) and radially symmetric for Radial Basis Function Networks (RBFN). Of course, there are many other functions 
+E(X) = L i=1 1 2 (f c F N N (x i ) − y i ) 2 . 
+(3) 
+ The sum-of-squares error function E(X), illustrated as (3), is an approximation to the squared norm of the error function f F N N (x) − y(x) in the Hilbert space L 2 of squared integrable functions, where the integral refers to probability measure of the problem by X. For C-class problems, architectures with C output units are utilized 
+E(X) = L i=1 C c=1 1 2 (f c F N N (x i ) − y c i ) 2 , (4) 
+where f c F N N is c th component of the output function . The architecture of the network related to the connections, numbers of hidden units and output activation functions is commonly fixed in advance, whereas the weights are trained during the learning procedure. 
+SVM
+As SVM is described by 
+f SV M (x) = M i=1 y i α i K(x i , y i ) + b, 
+(5) 
+where the vector (α) M i=1 is the solution of the following constrained optimalization problem in the dual space: 
+M aximize W (X) = − 1 2 M i,j=1 y i α i α j K(x i , y j ) + M i=1 α i subject to M i=1 y i α i = 0 (bias constraints), 
+(6) 0 ≤ α i ≤ C, i = 1
+, ..., M. 
+To avoid the bias constraints, b is attended apart and fixed a priori in some implementations. A point is well classified if and only if its margin with regard to f SV M is positive signed. The points x i with α i ≤ 0 (active constraints) are support vectors. Relating to their margin value, non-bounded support vectors have margin 1. Conversely, the margin of bounded support vectors are less than 1. The parameter C is utilized to trade off the margin and the number of training errors. One obtains the hard margin hyperplane when setting C = ∞. However, the cost function −W (X) including a constant is the squared norm of the error function f SV M − y(x) in the Reproducing Kernel Hilbert Space, which is associated to K(u, v) 
+AdaBoost vs. SVM
+ SVM has been emerged as a good technique in classification and categorization issues 
+AdaBoost vs. Neural Networks
+ However, the root of both neural network and Ada- Boost can be found in the probably approximately correct (PAC) model, which was introduced by 
+AdaBoost.M1
+In this subsection, a pseudo-code of AdaBoost.M1 is illustrated in Algorithm 1. AdaBoost.M1 is an extension of AdaBoost and highly robust against multiclass and regression problems 
+S = [(X i , Y i )], i = 1
+, ..., N with labels y i ∈ Ω, Ω = ω 1 , ..., ω c -Weak learning algorithm WeakLearn (WL) -Integer T specifying number of learning iterations 
+Intialize D t (i) = 1 N , i = 1, · · · , N 
+for t = 1, 2, · · · , T : do 1. Select a training data subset S t , receive hypothesis h t drawn from the distribution D t . 2. Train WL with S t , receive hypothesis h t . 3. Calculate the error of h t : 
+t = i:ht(xi)=yi D t (i) · If t > 1 2 abort 4. Set β i = t (1−t) . 5. Update distribution D t : D t+1 (i) = D t (i) Z t × β t if h t (x i ) = y i , 1, Otherwise 
+where Z t = iD t (i) is a normalization constant chosen so that D t+1 becomes a proper distribution function. end for Test -Weighted Majority Voting: Given an unlabeled instance x i 1. Obtain total vote received by each weak learner 
+V j = t:ht(x)=ωj log 1 βt , j = 1, · · · , C. 
+2. Choose the class that receives the highest total vote as the final classification. 
+Conceptual Framework
+In this section, problems are precisely depicted when performing the Blog track task. In doing so, the assumptions relating to the suitability of AdaBoost and Topic Maps are presented. Particularly, the keyword aspects and the implemented AdaBoost algorithm is described by depicting the applied classifiers and its operation modus. Additionally, the dis-similarities between the keyword scources and the diversity of implmented classifiers are measured. This section concludes with the results related to diversity measures and an initial recommendation for designing the set of classifiers. 
+ 5.1 Problem Definition and Basic As- sumption 
+2006 figures out, is that the TREC blog collection is 'infected' by splogs 
+Topic Maps and Keyword Aspects
+The genesis of Topic Map can be found in the 1990's, developed by Davenport Group, which was discussing ways of interchange of computer documentation 
+Wordnet
+Wordnet 7 is a well-known resource for lexical and semantic keywords. In this context, terms considering hypernyms, hyponyms and synonyms are ex- tracted. 
+Wortschatz
+ Wortschatz 8 is a German online webservice providing access to a large set of corpora in different languages . Additionally, this webservice offers statistical information about co-occurrences related to a topic 
+Google Suggest
+Google suggest 9 provides n-grams, based on most searched query phrases related to a topic. Frequently, this API offers 2-, 3-, 4-or 5-grams with information in terms of query frequencies associated with the keywords combination. 
+Yahoo
+By querying Yahoo 10 every topic is combined with the word 'shop' to gather product-or topic-related features from the perspective of shop-providers. In doing so, TF-IDF to select those terms is utilized, which are used by twenty shop sites offering topicrelated products. In this regard, the Yahoo API is utilized to extract additional n-grams. Yahoo n-gram API varies from 'Google suggest' in the missing information about the frequencies. 
+Open Directory Project
+Dmoz 11 , so-called 'Open Directory Project', is a human-edited and -maintained category-based search engine. Since Dmoz provides a hierarchical organized 'ontology', keywords of hierarchical related categories are used, e.g. relating to 'Solaris' category labels within the categories 'administration' and 'software' are retrieved. 
+Wikipedia
+The terms of the topic are adressed as query to Wikipedia 12 for matching site titles via its underlying API. In this context, links related to categories or themes concerning the certain topic are retrieved. The problem is sometimes that there is no title which can be precisely matched by the given query word(s). In this case, the first hit of this query is taken. 
+Intersection
+Apart from the black-listed keywords, a Topic Map also contains an intersection of all keywords, which occur in all the data sources mentioned above. In doing so, these keywords are removed from the remaining classifiers to avoid redundancy. 
+Blacklist
+ In addition to the (semi-)automatic retrieved keywords , a hard-coded blacklist of spam-specific and query-independent keywords is deployed, which frequently are used for spam blogs. In doing so, the keywords are weighted with a numerical scoring system , as illustrated in 
+AdaBoost Classifiers
+In this section, the implemented classifiers and their purpose for completing the 'Feed Distillation' task are described. Based on the idea of ensemble-based systems, diverse AdaBoost classifiers are sequentially developed, at one time. Diversity, more detailed in Section 5.4.2, is an essential requirement by developing ensemblebased systems. In doing so, the order, in which the classifiers are trained, has impacts on the weights to estimate. However, these classifiers can be simple or complex ones and coarsely categorized in title-, content-based and splog-specific classifiers. As optimalization tricks for blogs reveal, that a blog with key phrase including topic word(s) in the title can better placed in the search engine hits, a simple classifier has to be able, e.g. to analyze the existence or absence of the topic word in the title. In contrast to a simple classifier, a complex classifier is based on topic-related keywords and exceeding a threshold to predict the relevance of a blog. If the similarity score between the keywords and the blog entry exceeds a threshold, the analyzing blog document is predicted as relevant by the classifier of these keywords. Since the topical similarity has to be estimated based on a committee of different classifiers by removing splogs simultaneously, the AdaBoost.M1 scoring is modified. Originally, the relevance estimation of AdaBoost.M1 is based on the linear combination of hypotheses which are positive signed. In the case of feed distillation, the splog-specific and titleand content-based classifiers are different. While the splog-related classifiers are negative signed, contentand title-based ones are positive signed. Thus, estimating topical relevance is based on the sum of negative and positive weighted classifiers. In the following subsections, each implemented classifiers based on title-, content-, as well as splogs-specific retrieval strategies are depicted. 
+Title-based classifiers
+The IntersectionTitleFilter contains the intersection mentioned above and is used to check the existence of those keywords in the blog's title. Moreover, the assumption is that the intersection is a minimal evidence for the relevance of a blog relating to a topic. The CategoryTitleFilter predicts the blog's relevance analyzing the occurrence of the topic word(s) in the title of a blog. 
+Content-based classfiers
+The IntersectionBodyFilter is applied to the content of a blog and determines the blog's topical relevance depending on the existence of all intersection key- words. The CategoryBodyFilter works in the same manner as CategoryTitleFilter does and refers to the content of a blog. The RelevanceWikipediaFilter is threshold-based classifier and contains a set of keywords retrieved from links. This classifier is applied on the content of the blog by analyzing the similarity between the blog's content and topic-related keywords retrieved by Wikipedia. Since both Weblog and Wikipedia are emerging technologies of Web 2.0, one can assume that there are similar relations between the keywords in both media. RelevanceDmoz1Filter, RelevanceDmoz2Filter, and RelevanceDmoz3Filter are also threshold-based classifiers. Since these classifiers are based on category labels, the intention is to observe the similarity between the blog's content and hierarchical organized 'ontology' related keywords which are biased by human-beings. The RelevanceWordnetFilter is also a thresholdbased classifier and consists of synonyms, hypernyms, hyponyms, etc. retrieved by Wordnet. The idea using these keywords to consider topical facets of blog from the view of lexical aspects, especially, to bridge the gap of concept problems, e.g. if various name entities refer to the same concept. The RelevanceWortschatzFilter is also a thresholdbased classifier and works with co-occurrences retrieved by the webservice of Wortschatz. In doing so, the topical facets can be covered from the statistical point of view. The RelevanceYahooFilter also uses a threshold to separate classes and contains keywords retrieved by Yahoo. Particularly, features are interesting from the commercial-intended view of properties relating to a topic, e.g. concerning the topic 'iPod' features such as battery, cables and other accessory items are ex- pected. 
+Splog-specific classifiers
+SimilarityPatternFilter. Previous work on detecting splogs has shown 
+ 5.4 Diversity of Classifers and Dissimilarity of Keyword Sources 
+The present section deals with diversity measures for designing a ensemble of classifiers and prompts the question, whether dis-similarity of the used key sources is crucial factor or whether diversity measure of classifiers is final criteria for improving the retrieval performance. Based on the extensive findings of Kunchewa and Whitaker 
+ 5.4.1 Dis-similarity of the Keywords Refer- ences 
+ This subsection is devoted to an overview of the mutual dis-similarities between the lists structured in the Topic Maps. The objective of this overview serves to underline the desirable effects of the keyword references in terms of complementing each another. To do so, the cosinus-similarity is mutually measured between all lists pairwise within the Topic Map for a certain topic. However, the similarity of a list itself is not considered. Also the hand-coded and intersection are not taken into account. To compare the similarities between lists over all topics suggested in TREC, a standardization is utilized as follows: 
+sim ti = 1 T 1 N − 1 t∈T j∈L\{i} sim(l i , l j ), (7) 
+where N is number of set of lists L within a Topic Map, T is number of topics suggested in TREC, l with indices i and j are elements of set L. As illustrated in 
+Diversity of the AdaBoost Classifiers
+Diversity has been recognized as a very important characteristic in the research area of combining clas- sifiers 
+(8) 
+ Q results positive (negative) values if the same instances are correctly (incorrectly) classified by both classifiers. Maximum diversity is obtained if Q is equal to 0. Conversely to pairwise measuring, Entropy of the Votes (Entropy Measure) assumes that the diversity is highest if half of the classifiers are correct, and the remaining ones are incorrect. This measure is defined as 
+E = 1 N N i=1 1 T − T /2 min{(ζ i , (T − ζ i )}, 
+(9) 
+where · · · is ceiling operator, N is the dataset cardinality, ζ is number of classifiers, which incorrectly classifies unlabeled instance x i . The Entropy Measure varies between 0 and 1, where 0 indicates no difference between the classifiers and highest diversity in the team of classifiers. 
+Measuring Diversity of Implemented Classifiers
+ In this section, both the diversity of a set of independent and dependent classifiers are separately measured . To do so, this subsection hat its focus on the comparison and initial recommendation for redesigning of the present setting in terms of applying the learning parameters of the classifiers and its underlying set of keywords. To declare the meaning of dependency and independency of classifiers, a set of dependent classifiers has low similarity between the sources of keywords, as illustrated in 
+ 5.4.4 Initial Recommendation for (Re- )Designing the Architecture 
+The inconsistent findings measuring the diversity of implemented classifiers and the dis-similarities between sources cannot be utilized as the final criteria correlated to the crucial factor of the present approach . However, the Q-statistic measure can be initially used to detect common blogs for resampling training data sets and to imagine, how well these can complement each another and to combine these classifiers . Moreover, the Q-statistic has been proposed as measure of (dis-)similarity in the numerical taxonomy literature 
+Architecture
+ To imagine how the proposed approach is implemented at the time of performing the TREC Blog run, the architecture and workflow is illustrated in 
+Prepossessing
+To improve Information Retrieval (IR) performance, stemming and filtering methods are used for the implemented prepossessing steps. The filtering step removes stop words using hand-coded stop-list for English . Among the others, Stop words' removal is used for analyzing the blog entries within the Lucene In-dexing Tool (Luke) 14 and similarity measuring process between the keywords of the Topic Maps and the content of each blog within a feed. Relating to the stemming step, a Java 15 library 'Snowball English Stemmer' is utilized, which is based on Porter's stemming algorithm 
+Indexing and Querying Blogs with Lucene
+The TREC collection of documents (feeds) amounts to over 25 GB, as described in 
+Generating Topic Maps Using TopicMapBuilder
+The TopicMapBuilder is responsible for querying and extracting keywords from various sources using their APIs. To do so, the keywords related to a topic are structured in the lists of a Topic Map. Via the Java Architecture for XML Binding (JAXB), it also manages the Topic Maps to serialize Java Objects to XML data (storing) and to deserialize XML data to Java Objects (loading). An additional feature of JAXB is that it can enable to talk to XSLT, DOM, dom4j, XML-aware database, and many existing libraries 16 . Thus, the stored Topic Maps can be re-used for other applications and system in terms of IR. 
+Managing Classification
+The implemented Class ManageClassification has interfaces to Prepossessing, TopicMapBuilder and Lucene querying API, and unifies their functionalities . ManageClassification can retrieval the indexed blog documents from the TREC collection and the keywords from certain Topic Maps. To do so, the similarity score between terms of a document and the keywords can be measured by using prepossessing steps such as filtering and stemming. Moreover, via XStream API 17 , a simple JAVA library to serialize and back again, ManageClassification can load and store the information of the AdaBoost Classifiers. These information refer to the weights and thresholds of each classifier as well as the evaluation result of feeds ranked by the implemented AdaBoost classification algorithm. 
+ 6.5 Estimating Appropriate Thresholds of Classifiers 
+To fix the denotation, the threshold t r of a classifier, chosen via iterative trading off recall and precision, can be interpreted as a fixed parameter determining the relevance f r ∈ 
+f r = 1, if sim(b, l) > t r 0, others (10) 
+ Since thresholds are not only utilized for the estimation of relevant blog documents, but also for spam detection of blogs, it is important to deal with another denotation for this issue. The threshold t s of a spam-specific classifier is defined as a fixed parameter (chosen as mentioned above) determining the spamrelatedness f s ∈ 
+f s = 1, if sim(b, l) > t s 0, others (11) 
+ However, this subsection has its focus on the determining procedure of appropriate thresholds. In fact, the process exploits the optimum performance between the precision and recall using F 1 -measure. An 17 http://xstream.codehaus.org algorithm optimizing parameters of each thresholdbased classifiers is illustrated in Algorithm 2. 
+Algorithm 2 An Algorithm for Determining the Threshold of Classifier 
+Input : Set of classifiers C and blogs D Init : curF 1 c = 0.0, prevF 1 c = 0.0, curT hreshold c = 0.6, prevT hreshold c = 0.0, round = 1 while round > 0 OR curF 
+1 c − prevF 1 c > 0.0002 do prevT hreshold c = curT hreshold c prevF 1 c = curF 1 c curF 1 c = CalculateF 1(c, D) if prevF 1 c > 
+curF 1 c then curT hreshold c = curT hreshold c * 1.15 else curT hreshold c = curT hreshold c * 0.97 end if round − 1 end while curT hreshold c = prevT hreshold c 
+Weighting AdaBoost Classfiers
+This module is responsible for learning weights of the implemented classifiers and is closely connected with iterative changing and arranging parameters in terms of the thresholds of classifiers, training iterations, the size and resampling of training data set. In particular , the focus lies on balancing the appropriate settings for the learning process of the implemented AdaBoost classifiers. Also the variation of the order of weak learner is focal point of this part of the architecture . For more details to the weighting algorithm, see Section 4.2 The order, as mentioned above, in which a committee of classifiers are trained, has impacts on the output of the final classifier. Analyzing weighting output on the set of training data in terms of six topics (
+Testing AdaBoost Classfiers
+The testing unit utilizes the scores of blogs assigned by the learned AdaBoost classifiers, as illustrated in Section 4.2, to rank the feeds. To do so, the scores of all blogs within a feed is summarized and averaged. Thus, the average score can be used as the criteria for ranking feeds in the test data set and is illustrated as follows: 
+AverageScore j = 1 N N i V j , 
+(12) 
+where N is number of blogs within a feed, j is an unlabeled instance (feed) of test data and V is weighted majority voting score 
+V = m l log 1 β l 
+. As derived from AdaBoost.M1 in Algorithm 1, m is number of classifiers deployed for the current testing and β is the learned weight of a classifier. Moreover, the testing unit serves to validate the prediction performance of the trained classifiers. As in all classification issues, the most important rule for creating a great predictor is that examples of test data may not exist in training data set. Thus, only applying of trained classifiers to unseen data can assure the generalization of hypotheses and prediction. tified by 'true' and 'false'. Depending on desired setting of the training and test data, the splog-specific and relevance determining classifiers such as titleand content-based ones can be separately trained and tested. By participating in TREC Blog Track, the competition with other participating groups not only plays a important role, but also the underestimated time. In addition, performing the run requires more than one person. Therefore only one result and first test is submitted when the Blog Track run is due. In this regard, weights and thresholds determined by six topics such as 'Christmas', 'music', 'photography', 'food' and 'mobile phone', are utilized for the remaining 40 topics. Based on the idea of generalizing the proposed approach, the classifiers are initialized with these weights and thresholds mentioned above for the topical classification of the remaining topics. 
+Improved Training and Testing Settings
+ Exploiting the advantage of Lucene's TF-IDF scoring , the training data set varies from 40% to 60%. The assumption is based on the fact, that the classifiers should learn from relative good example set. Moreover, since there is a test data set judged by the participating groups of this annual Blog Track, the test data set should have more evaluative accuracy than the manual labeled one. Also orientation of performance output of the implemented approach towards the average precision of testing output is a great chance for detecting bugs and errors in learning and improving process of both the classifiers and keyword sources. The thresholds and weights of the classifiers estimated for one of six topics mentioned above are used for all remaining 44 topics. In this context, the best one result of one topic is chosen from all six test se- ries. 
+Evaluation Results
+In this section, both the TREC-related and inofficial evaluation results are depicted. Since implementing the proposed approach is accompanied by bugs in terms of quality of the keyword references and implementing AdaBoost classifiers, the differential dealing of both results is advisable. Particularly, qualitative arguments with regard to the evaluation results are illustrated. Also the essential improvements to increase the retrieval and classification results are pre- sented. 
+TREC-related Evaluation
+Since the implemented system was in beta-version when the TREC was due, the evaluation results were not convincing, as shown in 
+ 8.2 Inofficial Evaluation and Reconsidering of the Proposed Approach 
+Topics 

@@ -13,7 +13,7 @@ def read_xhtml(file_path):
 
   return xhtml_soup
 
-def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
+def enrich_xhtml(pdf_term_list, xhtml_soup, database, facet, pdf_name):
 
   pdf_terms_pages = [[] for _ in range(1000)]
   output_entity_json = "["
@@ -53,16 +53,16 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, facet, pdf_name):
 
   # print(f'Writing JSON file with entity information to json/{pdf_name}_entities.json...')
 
-  with open(f'data/json/{pdf_name}_entities.json', 'w+') as outputFile:
+  with open(f'data/{database}/json/{facet}_{pdf_name}_entities.json', 'w+') as outputFile:
     outputFile.write(output_entity_json + "\n")
 
   # print(f'Writing JSON file with PDFTerms per page information to json/{pdf_name}_pdf_terms_pages.json...')
   
-  with open(f'data/json/{pdf_name}_pdf_terms_pages.json', 'w+') as outputFile:
+  with open(f'data/{database}/json/{facet}_{pdf_name}_pdf_terms_pages.json', 'w+') as outputFile:
     outputFile.write(jsonpickle.encode(pdf_terms_pages) + "\n")
 
   # print(f'Writing XHTML file with entity information added to xhtml/{pdf_name}.xhtml...')
 
-  with open(f'data/xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
+  with open(f'data/{database}/xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
     outputFile.write(str(xhtml_soup.prettify()))
 

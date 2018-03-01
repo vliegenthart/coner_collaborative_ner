@@ -9,19 +9,25 @@ from config import entity_weight, term_weight, number_top_papers
 
 def main():
   parser = argparse.ArgumentParser(description='Calculate top papers with most occurances')
+  parser.add_argument('database', metavar='Database', type=str,
+                     help='database name of data collection')
   parser.add_argument('facet', metavar='Facet', type=str,
                      help='facet of specific domain e.g. dataset, method')
+  parser.add_argument('number_top_papers', metavar='Number Top Papers', type=int,
+                     help='Number of papers after filtering for #occurrences')
 
   args = parser.parse_args()
+  database = args.database
   facet = args.facet
+  number_top_papers = args.number_top_papers
 
   # ############################# #
   #      CALCULATE TOP PAPERS     #
   # ############################# #
 
   # Read entity and term overviews
-  paper_entities = read_papers_occs("data/papers_journal_entities_overview.csv", number_top_papers, 2)
-  paper_terms = read_papers_occs("data/papers_terms_overview.csv", number_top_papers)
+  paper_entities = read_papers_occs(f'data/{database}/{facet}_papers_journal_entities_overview.csv', number_top_papers, 2)
+  paper_terms = read_papers_occs(f'data/{database}/{facet}_papers_terms_overview.csv', number_top_papers)
 
   # Calculate number of occcurances for papers
   paper_occs = combine_dicts(paper_entities, paper_terms)
@@ -36,21 +42,21 @@ def main():
   papers_sorted_weight = sorted(paper_occs.items(), key=operator.itemgetter(1), reverse=True)
   papers_sorted = []
 
-  for i, (paper_name, number_occurances) in enumerate(papers_sorted_number):
-    papers_sorted.append((paper_name, number_occurances, papers_sorted_weight[i][1]))
+  for i, (paper_id, number_occurances) in enumerate(papers_sorted_number):
+    papers_sorted.append((paper_id, number_occurances, papers_sorted_weight[i][1]))
 
   top_papers = papers_sorted[:number_top_papers]
 
   # Write occurances and top papers to csv files
   print("Writing occurances and top papers to csv files...")
-  write_tuples_to_csv(papers_sorted, 'data/papers_occurances_overview.csv', ['paper_name', 'number_occurances', 'weighted_occurances'])
-  write_tuples_to_csv(top_papers, 'data/top_papers_overview.csv', ['paper_name', 'number_occurances', 'weighted_occurances'])
+  write_tuples_to_csv(papers_sorted, f'data/{database}/{facet}_papers_occurances_overview.csv', ['paper_id', 'number_occurances', 'weighted_occurances'])
+  write_tuples_to_csv(top_papers, f'data/{database}/{facet}_top_papers_overview.csv', ['paper_id', 'number_occurances', 'weighted_occurances'])
 
 # Read papers and number entities overview file
 def read_papers_occs(file_path, number_top_papers, column=1):
   paper_entities_raw = open(file_path, 'r').readlines()
   paper_entities_raw = [line.rstrip('\n') for line in paper_entities_raw]
-  print(paper_entities_raw.pop(0)) # Remove header column
+  paper_entities_raw.pop(0) # Remove header column
   paper_entities = {}
 
   for line in paper_entities_raw:
