@@ -1,0 +1,6 @@
+ACKed
+ACKing
+CRASH
+UpnBumed
+COMMIT
+ABORT

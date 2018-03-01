@@ -1,0 +1,30 @@
+RRXS
+XFDs Semantic XFDs
+P-attributes
+database design based
+XFDs
+DTDs
+Equivalence
+resulting relational design
+Functional Dependencies for
+relational design ,
+DTDs
+resulting relational design
+relational design ,
+Functional Dependencies for
+RRXS
+P-attributes
+Equivalence
+database design based
+XFDs Semantic XFDs
+XFDs
+relational design ,
+RRXS
+database design based
+resulting relational design
+Equivalence
+P-attributes
+XFDs Semantic XFDs
+DTDs
+XFDs
+Functional Dependencies for

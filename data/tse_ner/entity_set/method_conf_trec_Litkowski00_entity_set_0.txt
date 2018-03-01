@@ -1,0 +1,36 @@
+Short Answers After
+TREC
+SGML
+DIMAP-QA
+TREC-8
+TREC-9
+DIMAP
+Associated Press documents
+NIST
+Question Database Development
+WordNet
+SUBJ
+SGML
+Associated Press documents
+TREC-8
+TREC-9
+DIMAP-QA
+Question Database Development
+TREC
+NIST
+DIMAP
+Short Answers After
+WordNet
+SUBJ
+SUBJ
+DIMAP-QA
+TREC
+TREC-9
+Question Database Development
+SGML
+Associated Press documents
+NIST
+WordNet
+TREC-8
+Short Answers After
+DIMAP

@@ -1,0 +1,54 @@
+TREC-like
+XML-tagged
+XSLT
+Great Britain over
+XPath
+Lucene
+XML-based
+XMLtagged
+HowMany
+SGML
+TREC
+Great Britain developed
+AQUAINT
+UMLS
+Knowledge Management System
+DIMAP
+NIST
+Argentina
+SGML
+Knowledge Management System
+XML-tagged
+XPath
+Great Britain over
+Great Britain developed
+XMLtagged
+XML-based
+HowMany
+TREC
+NIST
+DIMAP
+AQUAINT
+TREC-like
+XSLT
+UMLS
+Lucene
+Argentina
+XML-tagged
+TREC
+XSLT
+SGML
+UMLS
+Lucene
+NIST
+AQUAINT
+TREC-like
+XPath
+Argentina
+Great Britain over
+Great Britain developed
+HowMany
+XMLtagged
+Knowledge Management System
+DIMAP
+XML-based

@@ -1,0 +1,12 @@
+LowSameDoc
+Proximity
+WordNet
+UDESC
+LmrDocStruct
+HighDiffDoc
+NIST
+Dirichlet
+tf.idf
+LmrNoStruct
+TREC
+LmrSmall

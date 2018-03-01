@@ -1,0 +1,36 @@
+TRAT
+IRAT
+CLEF
+BELGA
+Judgment Quality Conclusions
+TREC
+Charles Clarke ,
+Waterloo
+NIST
+Image Relevance Assessment
+Image Relevance Assessing
+Amazon Mechanical Turk
+Waterloo
+Image Relevance Assessing
+IRAT
+TRAT
+TREC
+Charles Clarke ,
+NIST
+Judgment Quality Conclusions
+BELGA
+CLEF
+Amazon Mechanical Turk
+Image Relevance Assessment
+CLEF
+TRAT
+Amazon Mechanical Turk
+TREC
+Charles Clarke ,
+Waterloo
+NIST
+Image Relevance Assessment
+IRAT
+Image Relevance Assessing
+Judgment Quality Conclusions
+BELGA

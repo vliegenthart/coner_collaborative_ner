@@ -1,0 +1,8 @@
+MayoPayload
+MedTagger
+Lucene
+NLP-driven
+MayoMetaData
+TREC
+UMLS Metathesaurus Term
+TREC-med

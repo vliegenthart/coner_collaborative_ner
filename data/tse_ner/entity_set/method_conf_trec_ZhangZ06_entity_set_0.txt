@@ -1,0 +1,39 @@
+Gaussian
+Reuters
+Epinions Digital Camera
+Digital Camera reviews
+Training Data For
+TREC
+Conjugate gradient descent
+SCAUTO
+California Santa Cruz
+UCSCAUTO
+Opinion Classification Since
+SentiWordNet
+Bayesian
+Gaussian
+Digital Camera reviews
+Opinion Classification Since
+SentiWordNet
+Bayesian
+Training Data For
+California Santa Cruz
+TREC
+Epinions Digital Camera
+UCSCAUTO
+Reuters
+Conjugate gradient descent
+SCAUTO
+Reuters
+Conjugate gradient descent
+UCSCAUTO
+SCAUTO
+TREC
+Gaussian
+Opinion Classification Since
+Epinions Digital Camera
+Bayesian
+SentiWordNet
+California Santa Cruz
+Training Data For
+Digital Camera reviews

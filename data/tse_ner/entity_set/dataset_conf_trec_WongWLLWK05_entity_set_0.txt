@@ -1,0 +1,4 @@
+TREC
+WordNet
+Polysemy
+BM11

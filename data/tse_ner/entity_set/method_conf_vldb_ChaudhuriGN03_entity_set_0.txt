@@ -1,0 +1,33 @@
+Other Scenarios Although
+Global Constraints Local
+Dominance
+DBAs
+SLAVE
+WorkloadTable
+Skyline
+ExecutionCost
+COUNT
+Integer Programming problem
+FromTables
+Integer Programming problem
+DBAs
+FromTables
+ExecutionCost
+Global Constraints Local
+WorkloadTable
+COUNT
+Skyline
+SLAVE
+Other Scenarios Although
+Dominance
+Global Constraints Local
+WorkloadTable
+Dominance
+ExecutionCost
+COUNT
+Skyline
+Other Scenarios Although
+FromTables
+SLAVE
+DBAs
+Integer Programming problem

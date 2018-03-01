@@ -1,0 +1,9 @@
+Legal
+FEEDNO
+DOCHDR
+PageRank
+WordNet
+TITLE
+LibSVM
+Boolean
+SentiGI

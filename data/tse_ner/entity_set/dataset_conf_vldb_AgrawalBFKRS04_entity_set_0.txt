@@ -1,0 +1,6 @@
+SKEY
+Theorem
+Supplier
+Alice
+DBMS
+WHERE

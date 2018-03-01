@@ -1,0 +1,5 @@
+MaxNorm
+CLARIT
+Rocchio
+BM25
+FT92

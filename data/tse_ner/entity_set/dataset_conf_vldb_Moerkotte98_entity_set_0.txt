@@ -1,0 +1,11 @@
+SMA-files
+SMA-file
+SMA-based
+SMAs
+GAggr
+SMA-Scan
+SMAfile
+TPC-D
+SMA-GAggr
+LINEITEM
+LXOMMITDATE

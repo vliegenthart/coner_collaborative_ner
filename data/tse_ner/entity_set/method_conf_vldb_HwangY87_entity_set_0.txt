@@ -1,0 +1,30 @@
+VLDB
+Elementsry Operation Simple
+DBMSs
+UNIX
+Informix
+DBMS
+Character String Comparison
+Query Design Elementary
+QUEL
+Database Design Query
+UNIX
+Informix
+DBMSs
+Database Design Query
+QUEL
+Query Design Elementary
+Character String Comparison
+DBMS
+VLDB
+Elementsry Operation Simple
+Query Design Elementary
+Informix
+QUEL
+UNIX
+DBMSs
+Character String Comparison
+Elementsry Operation Simple
+Database Design Query
+DBMS
+VLDB

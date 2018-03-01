@@ -1,0 +1,39 @@
+ALGORITHM
+NHDQs
+MinMinDist
+Synthetic Data Sets
+MinMaxDist
+Microeconomic Data Mining
+LDPQ
+MaxMinMax
+DBMS
+MBRs
+MinDist
+MaxMaxDist
+Naive
+Microeconomic Data Mining
+MBRs
+MinDist
+ALGORITHM
+NHDQs
+LDPQ
+MinMaxDist
+DBMS
+Synthetic Data Sets
+MaxMinMax
+MaxMaxDist
+Naive
+MinMinDist
+ALGORITHM
+MinDist
+MBRs
+Microeconomic Data Mining
+LDPQ
+MaxMaxDist
+NHDQs
+Naive
+MinMaxDist
+MinMinDist
+Synthetic Data Sets
+DBMS
+MaxMinMax

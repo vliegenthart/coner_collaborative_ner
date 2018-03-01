@@ -1,0 +1,42 @@
+Semantic Structure Matching
+Level Indexing Strategy
+Alyssa
+TREC
+RAID
+HTML
+Linux Beowulf cluster
+AQUAINT
+Wikipedia
+Semantic Structure Generation
+NIST
+FrameNet
+Question Patterns Each
+AQUAINT-2
+Question Patterns Each
+HTML
+Linux Beowulf cluster
+AQUAINT-2
+FrameNet
+Wikipedia
+TREC
+Alyssa
+Semantic Structure Matching
+NIST
+Level Indexing Strategy
+Semantic Structure Generation
+RAID
+AQUAINT
+Level Indexing Strategy
+TREC
+Alyssa
+Semantic Structure Matching
+RAID
+Semantic Structure Generation
+AQUAINT
+NIST
+AQUAINT-2
+Question Patterns Each
+Wikipedia
+FrameNet
+Linux Beowulf cluster
+HTML

@@ -1,0 +1,30 @@
+Instead DITN is
+whereas
+ODBC
+JoinCost
+SPJAG
+DBMS
+Apache Derby open
+Lineitem
+DITN
+Query Execution First
+JoinCost
+whereas
+SPJAG
+ODBC
+DBMS
+Apache Derby open
+Lineitem
+DITN
+Instead DITN is
+Query Execution First
+Query Execution First
+ODBC
+whereas
+SPJAG
+JoinCost
+Instead DITN is
+Apache Derby open
+DBMS
+DITN
+Lineitem

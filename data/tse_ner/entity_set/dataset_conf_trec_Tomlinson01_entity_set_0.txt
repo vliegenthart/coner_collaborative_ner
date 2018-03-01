@@ -1,0 +1,14 @@
+OTWEBTREC
+ASCII
+UTF-16
+Narrative
+WordPerfect
+QueryToRankings
+Rec30
+Arabic
+FOOTER
+German
+SearchServer
+SQLExecDirect
+SearchSQL
+SQLFetch

@@ -1,0 +1,30 @@
+Functional Grammar and
+Answer Selection AnswerFinder
+TREC
+Question Classification Particular
+AQUAINT
+Candidate Sentence Extraction
+XMLformatted
+AnswerFinder
+Overlap Score The
+NIST
+XMLformatted
+Answer Selection AnswerFinder
+Question Classification Particular
+Overlap Score The
+AnswerFinder
+Functional Grammar and
+TREC
+NIST
+Candidate Sentence Extraction
+AQUAINT
+Overlap Score The
+Functional Grammar and
+TREC
+Candidate Sentence Extraction
+AnswerFinder
+AQUAINT
+XMLformatted
+NIST
+Answer Selection AnswerFinder
+Question Classification Particular

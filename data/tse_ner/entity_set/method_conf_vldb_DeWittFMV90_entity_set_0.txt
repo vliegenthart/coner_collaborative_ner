@@ -1,0 +1,33 @@
+Chang
+OODBMS
+VLDB
+Katz Random Update
+FDDI
+Orion
+Random Read and
+Random Update queries
+Random Update Query
+WORKSTATION
+ACOB
+WORKSTATION
+Random Update queries
+Katz Random Update
+Chang
+Orion
+FDDI
+ACOB
+VLDB
+Random Update Query
+OODBMS
+Random Read and
+Random Update Query
+ACOB
+OODBMS
+WORKSTATION
+Chang
+Random Read and
+Katz Random Update
+Orion
+Random Update queries
+FDDI
+VLDB

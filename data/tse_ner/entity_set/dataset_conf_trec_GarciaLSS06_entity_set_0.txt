@@ -1,0 +1,7 @@
+ZETABM
+BM25
+Dirichlet
+ZETAMERG
+TREC
+Zettair
+RMIT

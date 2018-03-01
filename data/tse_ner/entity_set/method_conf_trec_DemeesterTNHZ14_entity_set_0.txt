@@ -1,0 +1,54 @@
+Google
+CRCSLinear
+TREC
+HTML
+Wikipedia
+Resource Selection baseline
+Padova
+SUSHI
+ICTNET
+FedWeb
+Flickr
+Technology
+Search Engine Impact
+Resource Selection run
+Vertical Selection ,
+ECNUCS
+Inverse Resource Frequency
+CRCS
+Resource Selection baseline
+Search Engine Impact
+HTML
+Google
+CRCS
+FedWeb
+CRCSLinear
+SUSHI
+Wikipedia
+Padova
+TREC
+ICTNET
+ECNUCS
+Inverse Resource Frequency
+Vertical Selection ,
+Resource Selection run
+Flickr
+Technology
+SUSHI
+ICTNET
+Vertical Selection ,
+Google
+Search Engine Impact
+TREC
+CRCSLinear
+Resource Selection baseline
+Technology
+ECNUCS
+Resource Selection run
+CRCS
+Wikipedia
+FedWeb
+Flickr
+HTML
+Padova
+Inverse Resource Frequency

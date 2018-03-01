@@ -1,0 +1,42 @@
+PageRank
+Lucene Results over
+Semantic Types (
+MRCOC
+TREC
+Apache Lucene (
+UMLS
+REPORT
+DBpedia
+MetaMap
+UMLS Metathesaurus is
+TF-IDF
+MRREL
+Apart
+Apache Lucene (
+REPORT
+Lucene Results over
+MetaMap
+Semantic Types (
+MRREL
+TREC
+PageRank
+MRCOC
+UMLS
+TF-IDF
+DBpedia
+UMLS Metathesaurus is
+Apart
+Apache Lucene (
+TF-IDF
+DBpedia
+MRREL
+TREC
+Semantic Types (
+MRCOC
+UMLS
+PageRank
+Lucene Results over
+UMLS Metathesaurus is
+Apart
+MetaMap
+REPORT

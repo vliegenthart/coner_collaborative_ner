@@ -1,0 +1,6 @@
+Dirichlet
+Lemur
+UIUCconj
+UIUCsyn
+KL-Divergence
+UIUCrelfb

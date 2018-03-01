@@ -1,0 +1,30 @@
+MEAD
+Lucene
+Browser Working Group
+Corpus Processing and
+TREC
+JILQ
+Enterprise Track experiments
+MetaData
+EKDB
+FOLDOC
+JILQ
+EKDB
+FOLDOC
+TREC
+MEAD
+Browser Working Group
+MetaData
+Corpus Processing and
+Lucene
+Enterprise Track experiments
+JILQ
+TREC
+Browser Working Group
+Corpus Processing and
+Lucene
+Enterprise Track experiments
+MEAD
+EKDB
+FOLDOC
+MetaData

@@ -1,0 +1,32 @@
+PROC-MIX
+WOMEN
+PQSTQUEL
+ObjRel
+QUEL
+whereas
+FLAT
+Restricted Materialization (
+PROC
+Model Updates to
+REST FLAT is
+Ordfieldz
+POSTQUJZL
+REST
+DEPT
+POSTQUEL
+FLAT
+POSTQUEL
+REST
+PROC
+QUEL
+REST FLAT is
+ObjRel
+whereas
+Restricted Materialization (
+DEPT
+Model Updates to
+PROC-MIX
+POSTQUJZL
+Ordfieldz
+WOMEN
+PQSTQUEL

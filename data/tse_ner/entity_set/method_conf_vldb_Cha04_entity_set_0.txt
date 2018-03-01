@@ -1,0 +1,28 @@
+ESQL
+ISAM
+JDBC-style
+UNIX
+Ingres
+BIGINT
+OLTP
+RDBMS
+Stock Market Database
+ODBC
+LDAP
+DBMS
+OLFIT
+OLTP DBMS architecture
+LDAP
+JDBC-style
+OLTP
+OLFIT
+ISAM
+UNIX
+ODBC
+Stock Market Database
+BIGINT
+RDBMS
+DBMS
+ESQL
+OLTP DBMS architecture
+Ingres

@@ -1,0 +1,33 @@
+DIAGNOSIS
+TREC
+CUIs
+ICD-9
+Expansion
+UMLS
+Evaluation Official TREC
+Knowledge Extraction System
+SecTagger
+Pittsburgh
+OHSU
+Expansion
+ICD-9
+TREC
+DIAGNOSIS
+SecTagger
+Knowledge Extraction System
+UMLS
+CUIs
+Pittsburgh
+OHSU
+Evaluation Official TREC
+Knowledge Extraction System
+TREC
+Expansion
+UMLS
+Pittsburgh
+SecTagger
+Evaluation Official TREC
+DIAGNOSIS
+OHSU
+CUIs
+ICD-9

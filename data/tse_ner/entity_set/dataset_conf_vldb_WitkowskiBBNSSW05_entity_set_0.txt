@@ -1,0 +1,8 @@
+RDBMS
+PivotTable
+RTables
+MODEL
+RTable
+Excel
+SEQUENTIAL
+WHERE

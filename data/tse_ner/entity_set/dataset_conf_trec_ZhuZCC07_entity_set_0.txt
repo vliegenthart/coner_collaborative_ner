@@ -1,0 +1,10 @@
+FinalQuery
+estRB
+TFIDF
+ProposalByDefendant
+CDIP
+BM25
+RejoinderByPlaintiff
+Indri
+LingPipe
+RequestText

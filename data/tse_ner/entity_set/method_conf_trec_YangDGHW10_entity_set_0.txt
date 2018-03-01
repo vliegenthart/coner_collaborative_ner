@@ -1,0 +1,36 @@
+Maximum Entropy (
+Extraction Training documents
+Topic Relevant Blogs
+Features Selection There
+TREC
+Score Score Score
+Maximum Entropy model
+China
+Automatic Construction Automatic
+Baseline Baseline system
+SentiWordNet
+Construction Manual query
+Automatic Construction Automatic
+Construction Manual query
+Features Selection There
+SentiWordNet
+China
+Score Score Score
+TREC
+Baseline Baseline system
+Maximum Entropy model
+Topic Relevant Blogs
+Maximum Entropy (
+Extraction Training documents
+Extraction Training documents
+China
+Maximum Entropy (
+TREC
+Automatic Construction Automatic
+Construction Manual query
+SentiWordNet
+Maximum Entropy model
+Baseline Baseline system
+Topic Relevant Blogs
+Score Score Score
+Features Selection There

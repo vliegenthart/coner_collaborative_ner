@@ -1,0 +1,8 @@
+GlobalCascade
+MadMax
+Reuters
+CLARIT
+BM25
+TREC
+LocalCascade
+TREC-2001

@@ -1,0 +1,13 @@
+VIPS
+Intranet
+ExpertRankingScore
+FDUExpRole
+ScoreofExpertMining
+ScoreofRoleDetermination
+ScoreofRoleDeteminaion
+ScoreofExpertMinging
+FDUExpBase
+FDURoleRes
+CSIRO
+Michael
+FDUExpRes

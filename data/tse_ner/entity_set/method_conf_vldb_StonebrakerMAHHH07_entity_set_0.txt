@@ -1,0 +1,48 @@
+VLDB
+DBMSs
+ODBC
+OLTP
+OLTP DBMS will
+JDBC
+DBMS
+Stock
+SATA
+H-Store
+ASAP
+Comdisco
+Amazon
+RDBMS
+Gamma High Availability
+Resource Control OLTP
+Amazon
+Gamma High Availability
+DBMSs
+ASAP
+Comdisco
+OLTP
+H-Store
+RDBMS
+SATA
+Stock
+ODBC
+DBMS
+OLTP DBMS will
+VLDB
+JDBC
+Resource Control OLTP
+OLTP
+Amazon
+ASAP
+RDBMS
+DBMSs
+OLTP DBMS will
+Stock
+ODBC
+Gamma High Availability
+SATA
+JDBC
+Resource Control OLTP
+H-Store
+DBMS
+VLDB
+Comdisco

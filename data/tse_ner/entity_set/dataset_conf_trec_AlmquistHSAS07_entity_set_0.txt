@@ -1,0 +1,8 @@
+Lucene
+SMART
+WordNet
+TREC-Legal
+OCR-error
+StandardAnalyzer
+RequestText
+KeywordAnalyzer

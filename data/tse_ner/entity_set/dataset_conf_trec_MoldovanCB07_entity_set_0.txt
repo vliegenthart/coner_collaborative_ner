@@ -1,0 +1,10 @@
+TRECs
+AQUAINT
+Lymba
+WordNet
+COGEX
+OTHER
+imdb.com
+PowerAnswer
+TREC
+Wikipedia

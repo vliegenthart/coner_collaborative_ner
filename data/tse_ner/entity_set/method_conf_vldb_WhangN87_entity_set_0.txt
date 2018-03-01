@@ -1,0 +1,28 @@
+DBMSs
+Semester
+Homclause
+Relewnt
+DBMSS
+QGSE
+EDNF
+ECOVery
+DBMS
+PROLOG
+PROSQL
+MEDNFSE
+VLDB
+Recursive Query Processing
+Relewnt
+Recursive Query Processing
+DBMSS
+EDNF
+Homclause
+PROSQL
+DBMSs
+PROLOG
+ECOVery
+VLDB
+Semester
+DBMS
+MEDNFSE
+QGSE

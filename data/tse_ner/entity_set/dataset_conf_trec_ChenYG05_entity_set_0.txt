@@ -1,0 +1,7 @@
+InQuery
+TFIDF
+BM25
+UNTQA0503
+TREC-type
+LingPipe
+EagleQA

@@ -1,0 +1,7 @@
+OLAP-style
+Breaking
+MDLH-Quad
+MDLH
+MDL-Tree
+MDLH-Greedy
+MDLH-Dynamic

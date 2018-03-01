@@ -1,0 +1,6 @@
+Zipfian
+SpaceOpt
+VOPT
+Wavelet
+SpaceWave
+VOPT-R

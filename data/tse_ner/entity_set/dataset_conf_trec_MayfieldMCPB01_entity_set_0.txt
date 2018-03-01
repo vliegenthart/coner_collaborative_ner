@@ -1,0 +1,8 @@
+SVMlight
+CLIR
+SMART
+CLEF
+Reuters
+HAIRCUT
+MPEG
+TREC

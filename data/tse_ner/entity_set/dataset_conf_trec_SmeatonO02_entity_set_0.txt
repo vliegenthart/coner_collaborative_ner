@@ -1,0 +1,9 @@
+LIMSI
+MediaMill
+CLIPS
+trec.nist.gov
+TREC
+MediaTeam
+QBICstyle
+Fudan
+ASR-data

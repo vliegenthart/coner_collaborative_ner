@@ -1,0 +1,14 @@
+NestedLoopsJoin
+ExprXlass
+NEATO
+EROC-based
+ExprSpace
+TransJZnumerator
+OpenOODB
+Volcano
+MergeJoin
+MultiExpr
+FileScan
+EROC
+EROCbased
+Mapper

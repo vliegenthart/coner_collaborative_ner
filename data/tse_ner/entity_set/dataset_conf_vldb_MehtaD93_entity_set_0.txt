@@ -1,0 +1,7 @@
+FCFS
+FCFS-Available
+FCFS-Minimum
+Gamma
+FCFS-Maximum
+DevThreshold
+Adaptive

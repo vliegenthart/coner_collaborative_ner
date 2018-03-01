@@ -1,0 +1,6 @@
+GeoNames
+Lucene
+Terrier
+TREC
+Places
+Euclidian

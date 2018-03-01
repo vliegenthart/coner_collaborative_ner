@@ -1,0 +1,6 @@
+HomoloGene
+CLIR
+DISEASES
+Trieschnigg
+UMLS
+Biocreative

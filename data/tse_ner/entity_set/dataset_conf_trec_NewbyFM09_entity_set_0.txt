@@ -1,0 +1,7 @@
+Gigaword
+NGramFilter
+TokenStream
+ClueWeb
+TREC
+GoWordFilter
+Multisearch

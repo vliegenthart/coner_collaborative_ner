@@ -1,0 +1,39 @@
+DEPT
+Nested Queries with
+VLDB
+NULL
+NULLS
+R-tuple
+dynamic programming and
+DISTINCT
+Nested Queries without
+COLINT
+DelticProject
+Conclusions Existing query
+COUNT
+DISTINCT
+NULLS
+Conclusions Existing query
+COLINT
+DelticProject
+R-tuple
+NULL
+VLDB
+DEPT
+dynamic programming and
+Nested Queries with
+Nested Queries without
+COUNT
+NULL
+COUNT
+NULLS
+DISTINCT
+DelticProject
+DEPT
+Nested Queries without
+R-tuple
+COLINT
+Conclusions Existing query
+VLDB
+dynamic programming and
+Nested Queries with

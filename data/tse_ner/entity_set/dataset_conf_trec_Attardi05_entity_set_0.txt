@@ -1,0 +1,8 @@
+QueryResult
+QueryCursor
+TeraByte
+QueryCursorSome
+TREC
+GOV2
+IndeXing
+QueryResults

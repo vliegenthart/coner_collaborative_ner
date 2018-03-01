@@ -1,0 +1,33 @@
+Semantic Indexing similarity
+Alaska Fairbanks ,
+GOV2
+TREC
+ARSC
+TREC Million Query
+Multisearch Multisearch system
+Tomcat
+Nimbus
+South Hadley ,
+Multisearch
+TREC Million Query
+ARSC
+GOV2
+Tomcat
+Nimbus
+TREC
+Alaska Fairbanks ,
+South Hadley ,
+Multisearch
+Multisearch Multisearch system
+Semantic Indexing similarity
+Multisearch Multisearch system
+TREC
+Alaska Fairbanks ,
+ARSC
+GOV2
+TREC Million Query
+Semantic Indexing similarity
+South Hadley ,
+Tomcat
+Multisearch
+Nimbus

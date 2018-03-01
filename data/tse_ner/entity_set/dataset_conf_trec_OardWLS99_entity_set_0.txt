@@ -1,0 +1,8 @@
+SVDPACKC
+Routing
+MINIPAR
+NETLIB
+SyncMatcher
+Inquery
+Rocchio
+TREC

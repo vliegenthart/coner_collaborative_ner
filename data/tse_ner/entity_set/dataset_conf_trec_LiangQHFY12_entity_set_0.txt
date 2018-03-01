@@ -1,0 +1,5 @@
+Dirichlet
+TREC2011
+TopicInfo
+TREC
+Adhoc

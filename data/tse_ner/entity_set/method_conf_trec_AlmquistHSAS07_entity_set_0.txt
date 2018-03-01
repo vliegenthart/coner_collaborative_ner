@@ -1,0 +1,30 @@
+Lucene
+StandardAnalyzer
+SMART
+RequestText
+HTML
+TREC
+Expert Search task
+OCR-error
+Document Search Lucene
+KeywordAnalyzer Further indexing
+Expert Search task
+HTML
+OCR-error
+StandardAnalyzer
+TREC
+SMART
+RequestText
+KeywordAnalyzer Further indexing
+Lucene
+Document Search Lucene
+TREC
+OCR-error
+Lucene
+Document Search Lucene
+StandardAnalyzer
+Expert Search task
+SMART
+KeywordAnalyzer Further indexing
+RequestText
+HTML

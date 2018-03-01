@@ -1,0 +1,7 @@
+Steps
+AthlonXP
+OLTP
+Shore
+Pentium
+DBMS
+Oracle

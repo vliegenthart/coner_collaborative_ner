@@ -1,0 +1,12 @@
+Planner
+JAVELIN
+EXPERT
+TREC-style
+ASSERT
+CombMNZ
+Edit
+TREC
+SemIX
+CombSum
+Levenstein
+LIGHT

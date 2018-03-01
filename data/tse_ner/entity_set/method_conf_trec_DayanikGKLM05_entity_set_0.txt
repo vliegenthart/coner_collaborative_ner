@@ -1,0 +1,27 @@
+Gaussian
+TROT
+TREC
+SGML
+REGRESSION
+ELSE
+ASCII
+Gaussian Threshold Selection
+NIST-supplied
+SGML
+Gaussian
+Gaussian Threshold Selection
+ELSE
+NIST-supplied
+TREC
+TROT
+ASCII
+REGRESSION
+TROT
+TREC
+Gaussian
+Gaussian Threshold Selection
+SGML
+REGRESSION
+ASCII
+ELSE
+NIST-supplied

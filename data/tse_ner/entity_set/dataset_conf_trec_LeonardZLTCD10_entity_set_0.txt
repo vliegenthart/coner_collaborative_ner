@@ -1,0 +1,4 @@
+ProbFuse
+MAPFuse
+SIFT
+SlideFuse

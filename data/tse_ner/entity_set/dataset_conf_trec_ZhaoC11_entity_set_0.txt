@@ -1,0 +1,7 @@
+CMUTStncws
+CMUTStncs
+ChemAthlon
+Lemur
+Boolean
+PatOlympics
+NDCG

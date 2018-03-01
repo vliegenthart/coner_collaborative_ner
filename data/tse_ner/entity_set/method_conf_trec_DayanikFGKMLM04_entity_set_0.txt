@@ -1,0 +1,36 @@
+Gaussian
+Threshold Selection Logistic
+Locuslink
+SMART
+TREC
+SGML
+LocusLink
+PubMed
+Bayesian
+ELSE
+ASCII
+TROT
+SGML
+Gaussian
+Threshold Selection Logistic
+ELSE
+Bayesian
+TREC
+TROT
+SMART
+ASCII
+PubMed
+Locuslink
+LocusLink
+TROT
+Locuslink
+TREC
+Gaussian
+SGML
+PubMed
+Bayesian
+Threshold Selection Logistic
+ASCII
+SMART
+ELSE
+LocusLink

@@ -1,0 +1,30 @@
+Lucene
+PICO
+Intervention
+Essie
+UMLS
+Question Frame development
+FEEDING
+RxNorm
+Lucene Briefly ,
+ECHO
+Essie
+ECHO
+RxNorm
+Question Frame development
+PICO
+Intervention
+Lucene Briefly ,
+FEEDING
+UMLS
+Lucene
+Essie
+RxNorm
+Question Frame development
+UMLS
+Lucene
+FEEDING
+PICO
+Lucene Briefly ,
+Intervention
+ECHO

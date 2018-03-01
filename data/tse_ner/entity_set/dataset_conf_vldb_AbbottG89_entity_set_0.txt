@@ -1,0 +1,7 @@
+SIMPAS
+MaxSlack
+MinSlack
+FIFO
+STEAL
+EstErr
+chosen.as

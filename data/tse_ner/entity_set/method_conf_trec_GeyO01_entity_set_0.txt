@@ -1,0 +1,51 @@
+Arabic
+Monolingual Arabic experiment
+Translation Lexicons Three
+CLIR
+TREC
+Europe
+TREC-3
+European Spanish corpus
+TREC-8
+China
+TREC-7
+French
+NIST
+Chinese
+TREC-6
+TREC-5
+UTF-8
+CLIR
+European Spanish corpus
+French
+TREC-8
+Monolingual Arabic experiment
+China
+TREC-6
+Translation Lexicons Three
+TREC-7
+TREC
+TREC-3
+UTF-8
+Arabic
+Chinese
+Europe
+NIST
+TREC-5
+Chinese
+China
+CLIR
+UTF-8
+TREC
+TREC-3
+TREC-7
+NIST
+Arabic
+French
+Monolingual Arabic experiment
+Translation Lexicons Three
+European Spanish corpus
+TREC-5
+TREC-8
+Europe
+TREC-6

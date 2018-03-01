@@ -1,0 +1,7 @@
+TRAT
+IRAT
+NIST
+ImageCLEF
+SetuServ
+TREC
+UAustin

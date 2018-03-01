@@ -1,0 +1,9 @@
+ClueWeb
+DBpedia
+Sindice-2011
+Sindice
+TREC
+UALR
+URIs
+NDCG
+PRIS

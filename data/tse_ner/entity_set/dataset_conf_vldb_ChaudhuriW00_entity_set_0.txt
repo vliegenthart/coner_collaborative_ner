@@ -1,0 +1,7 @@
+ADTs
+OLAP
+RISC-style
+PTAC
+RISC
+RISCstyle
+DBMS

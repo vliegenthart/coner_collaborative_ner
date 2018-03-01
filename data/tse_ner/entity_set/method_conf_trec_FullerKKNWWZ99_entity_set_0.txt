@@ -1,0 +1,36 @@
+HAIR
+Experimental Setup Goal
+HTML Interestingly ,
+TREC
+Spoken Document Retrieval
+Identiication Median Precision
+Qorig
+TREC-8
+TREC-7
+Precision Precision Precision
+Analysis Unfortunately ,
+GREYHOUND
+HTML Interestingly ,
+GREYHOUND
+Identiication Median Precision
+TREC-8
+Spoken Document Retrieval
+Qorig
+HAIR
+TREC-7
+TREC
+Analysis Unfortunately ,
+Precision Precision Precision
+Experimental Setup Goal
+HAIR
+Precision Precision Precision
+HTML Interestingly ,
+TREC
+Spoken Document Retrieval
+Experimental Setup Goal
+TREC-7
+GREYHOUND
+Qorig
+Analysis Unfortunately ,
+TREC-8
+Identiication Median Precision

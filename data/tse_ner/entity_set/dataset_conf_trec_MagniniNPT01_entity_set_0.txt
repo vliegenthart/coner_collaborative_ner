@@ -1,0 +1,7 @@
+MULTIWORDNET
+TREC-10
+BeingourfirstexperiencewithaQAsystemand
+WORDNET
+ITC-Irst
+ASTRONOMY
+DIOGENE

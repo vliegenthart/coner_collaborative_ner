@@ -1,0 +1,12 @@
+ASCII
+NCBI
+legalspans.txt
+Ssize
+SemRep
+Qsize
+TREC
+MUTATIONS
+MetaMap
+MedPost
+Essie
+PubMed

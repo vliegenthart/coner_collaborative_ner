@@ -1,0 +1,11 @@
+CityStateToZipCode
+GetTemperature
+ZipCode
+UDDI
+ZipCodeToCityState
+Woogle
+GetWeather
+LocalTimeByZipCode
+ProxyCode
+TeamCode
+WSDL

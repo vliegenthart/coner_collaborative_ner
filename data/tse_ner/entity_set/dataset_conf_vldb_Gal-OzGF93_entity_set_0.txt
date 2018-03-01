@@ -1,0 +1,5 @@
+Foreignstudent.Birthdate
+Manager
+Admin.salary
+Manager.salary
+student.age

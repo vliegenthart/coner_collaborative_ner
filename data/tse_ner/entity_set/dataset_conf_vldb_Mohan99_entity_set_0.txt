@@ -1,0 +1,10 @@
+ARIES
+RDBMS
+Starburst
+PrevLSN
+UndoNxtLSN
+NonStop
+PeopleSoft
+RedBrick
+ESSBASE
+CLRs

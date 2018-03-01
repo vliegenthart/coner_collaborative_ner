@@ -1,0 +1,6 @@
+CLARIT-IR-based
+MinimumTermCount
+Reuters
+CLARIT
+NLP-based
+TREC

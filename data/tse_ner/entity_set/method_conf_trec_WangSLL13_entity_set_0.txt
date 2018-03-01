@@ -1,0 +1,36 @@
+RFMultiModel
+Twitter
+Wikipedia
+Random Forest classifier
+Basic Research Project
+ElasticSearch
+ACKNOWLEDGMENTS
+MSRA
+Temporal Features Because
+RFDiffModel
+Knowledge Mining Group
+RFBurst
+ElasticSearch
+MSRA
+Temporal Features Because
+ACKNOWLEDGMENTS
+Wikipedia
+Knowledge Mining Group
+Basic Research Project
+RFBurst
+RFMultiModel
+Twitter
+RFDiffModel
+Random Forest classifier
+MSRA
+Knowledge Mining Group
+RFBurst
+ACKNOWLEDGMENTS
+RFDiffModel
+Basic Research Project
+Temporal Features Because
+RFMultiModel
+Twitter
+ElasticSearch
+Wikipedia
+Random Forest classifier

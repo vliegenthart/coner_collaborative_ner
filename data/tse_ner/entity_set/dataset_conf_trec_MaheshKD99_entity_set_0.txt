@@ -1,0 +1,6 @@
+ABOUT
+Trec
+MINUS
+ACCUMULATE
+DTDs
+Oracle

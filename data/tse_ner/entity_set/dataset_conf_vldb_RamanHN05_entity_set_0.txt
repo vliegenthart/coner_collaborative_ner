@@ -1,0 +1,7 @@
+Lineitem
+ODBC
+DITN
+STDEV
+SPJAG
+JoinCost
+DBMS

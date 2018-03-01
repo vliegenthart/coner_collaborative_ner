@@ -1,0 +1,6 @@
+European
+StoredVideoSegments
+Norwegian
+VideoStream
+DBMS
+StoredVideoSegment

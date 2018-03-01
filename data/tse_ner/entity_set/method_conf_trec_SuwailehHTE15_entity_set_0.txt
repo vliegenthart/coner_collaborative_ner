@@ -1,0 +1,36 @@
+Lucene
+Permission
+Twitter
+Evaluation Evaluation Measures
+NPRP
+TREC
+Selecting Tweets to
+FILTERING
+QUDynm
+Apache Lucene search
+QUBaseline
+Jaccard
+Jaccard
+TREC
+Selecting Tweets to
+NPRP
+Twitter
+Evaluation Evaluation Measures
+QUDynm
+QUBaseline
+Apache Lucene search
+FILTERING
+Lucene
+Permission
+Jaccard
+Permission
+FILTERING
+TREC
+Selecting Tweets to
+QUBaseline
+Lucene
+NPRP
+Apache Lucene search
+Twitter
+QUDynm
+Evaluation Evaluation Measures

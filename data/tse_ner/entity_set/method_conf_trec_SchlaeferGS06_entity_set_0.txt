@@ -1,0 +1,33 @@
+Answer Extraction by
+George Foreman "
+Duplicate Filter then
+FACTOID
+TREC
+Ephyra
+AQUAINT
+George Washington in
+Question Interpretation Generator
+Result Length Filter
+Answer Extraction Approaches
+George Foreman "
+Ephyra
+Duplicate Filter then
+Result Length Filter
+TREC
+Answer Extraction by
+Answer Extraction Approaches
+FACTOID
+Question Interpretation Generator
+AQUAINT
+George Washington in
+Result Length Filter
+Duplicate Filter then
+Answer Extraction Approaches
+FACTOID
+TREC
+Question Interpretation Generator
+AQUAINT
+Answer Extraction by
+George Washington in
+Ephyra
+George Foreman "

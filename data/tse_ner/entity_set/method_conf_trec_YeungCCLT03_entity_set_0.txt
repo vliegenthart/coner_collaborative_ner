@@ -1,0 +1,33 @@
+TREC
+ATIF
+MultiText
+AQUAINT
+NameOfSubstance
+Okapi
+Tiers
+TREC-4
+Robertson
+Robust Track We
+Robust Track ,
+MultiText
+TREC-4
+Robust Track We
+Robust Track ,
+Tiers
+NameOfSubstance
+Okapi
+Robertson
+TREC
+AQUAINT
+ATIF
+Tiers
+Robertson
+TREC
+NameOfSubstance
+ATIF
+AQUAINT
+Robust Track ,
+Robust Track We
+Okapi
+MultiText
+TREC-4

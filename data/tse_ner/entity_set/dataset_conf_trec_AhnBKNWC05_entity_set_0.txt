@@ -1,0 +1,12 @@
+LiQED
+Russians
+DRSs
+TREC-2005
+Lemur
+CCG-parser
+other.rusting
+TOQA
+TREC
+NLProcessor
+Aquaint
+Wikipedia

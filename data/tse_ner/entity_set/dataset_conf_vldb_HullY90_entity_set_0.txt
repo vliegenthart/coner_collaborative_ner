@@ -1,0 +1,9 @@
+operat.or
+Skolem
+ILOG
+OIDs
+detDL
+OOAlgebra
+MkInstAug
+IDLOG
+IFO-schema

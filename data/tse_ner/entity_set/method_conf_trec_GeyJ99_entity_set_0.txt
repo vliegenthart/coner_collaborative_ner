@@ -1,0 +1,39 @@
+KNN-similarity
+Social Science Thesaurus
+CLIR
+TREC
+SYSTRAN Machine Translation
+UMLS
+Spanish
+TREC-2
+TREC-7
+TREC-8 GIRT collection
+TREC-4
+Japanese
+GIRT
+CLIR
+SYSTRAN Machine Translation
+Japanese
+TREC-4
+KNN-similarity
+TREC-7
+TREC
+GIRT
+TREC-8 GIRT collection
+Spanish
+TREC-2
+UMLS
+Social Science Thesaurus
+TREC-2
+CLIR
+Japanese
+TREC-8 GIRT collection
+TREC
+KNN-similarity
+Spanish
+Social Science Thesaurus
+TREC-7
+UMLS
+SYSTRAN Machine Translation
+GIRT
+TREC-4

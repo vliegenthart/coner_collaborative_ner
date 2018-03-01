@@ -1,0 +1,30 @@
+VLDB
+CPUs
+DBMS
+ASCII
+CPU-bound
+OLAP
+SQL-like
+Benchmark Data Definition
+breadth-first search ,
+Monet
+CPUs
+Monet
+DBMS
+SQL-like
+VLDB
+Benchmark Data Definition
+CPU-bound
+OLAP
+ASCII
+breadth-first search ,
+OLAP
+SQL-like
+Benchmark Data Definition
+CPU-bound
+DBMS
+CPUs
+breadth-first search ,
+Monet
+ASCII
+VLDB

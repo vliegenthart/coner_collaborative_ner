@@ -1,0 +1,30 @@
+INQUERY
+Query Track test
+Query Track Test
+Johns Hopkins ,
+TREC
+INQe
+TREC-8
+NIST
+Query Track experiments
+Query Track data
+Query Track test
+TREC-8
+Johns Hopkins ,
+Query Track data
+Query Track experiments
+TREC
+INQUERY
+NIST
+INQe
+Query Track Test
+INQUERY
+Johns Hopkins ,
+Query Track test
+TREC
+INQe
+NIST
+Query Track data
+Query Track Test
+TREC-8
+Query Track experiments

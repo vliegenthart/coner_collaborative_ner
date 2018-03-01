@@ -1,0 +1,48 @@
+NUMROWS
+VLDB
+Experimental Setup The
+LINEITEM
+DBMS
+DBGEN
+ROWNUM
+Oracle Database optimizer
+RFID
+Oracle Database differs
+LINEITM
+DefinitionThat
+Single Table Query
+SOFT
+COMMENT
+Approximate Results 'APPROXIMATE'
+RFID
+DefinitionThat
+Single Table Query
+Oracle Database optimizer
+SOFT
+LINEITM
+ROWNUM
+LINEITEM
+VLDB
+NUMROWS
+DBMS
+Experimental Setup The
+COMMENT
+Oracle Database differs
+DBGEN
+Approximate Results 'APPROXIMATE'
+Oracle Database differs
+Single Table Query
+LINEITM
+NUMROWS
+DBMS
+ROWNUM
+RFID
+COMMENT
+Approximate Results 'APPROXIMATE'
+DBGEN
+DefinitionThat
+Oracle Database optimizer
+Experimental Setup The
+SOFT
+LINEITEM
+VLDB

@@ -1,0 +1,6 @@
+RefinedCancel
+ARPA
+ValidHotel
+RefinedReport
+DeadlockHotel
+Reserve

@@ -1,0 +1,33 @@
+TREC-8 System Description
+Answering Questions Requiring
+Semantic Analysis Questions
+Final Evaluation Results
+TREC
+Western Australia are
+AQUAINT
+QLFs
+Question Answering module
+TREC-9
+Analysis Results Observed
+TREC-8 System Description
+Answering Questions Requiring
+Question Answering module
+TREC-9
+Final Evaluation Results
+Analysis Results Observed
+TREC
+QLFs
+Western Australia are
+Semantic Analysis Questions
+AQUAINT
+Question Answering module
+TREC
+TREC-9
+Semantic Analysis Questions
+AQUAINT
+Answering Questions Requiring
+Western Australia are
+QLFs
+Final Evaluation Results
+TREC-8 System Description
+Analysis Results Observed

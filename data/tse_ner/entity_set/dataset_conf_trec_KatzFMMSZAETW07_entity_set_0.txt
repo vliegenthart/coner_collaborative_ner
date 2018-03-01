@@ -1,0 +1,6 @@
+Lucene
+Nuggeteer
+Aranea
+TREC2006
+START
+BLOG06

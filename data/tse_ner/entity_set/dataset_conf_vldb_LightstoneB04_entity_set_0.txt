@@ -1,0 +1,7 @@
+RDBMS
+INTEGER
+FUDG
+SALARY
+Lohman
+FLOAT
+Padmanabhan

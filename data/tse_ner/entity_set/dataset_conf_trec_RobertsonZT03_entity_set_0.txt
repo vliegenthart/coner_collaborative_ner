@@ -1,0 +1,8 @@
+Reuters
+BM25
+TREC
+SharePoint
+Keenbow
+MSSearch
+Okapi
+Microsoft

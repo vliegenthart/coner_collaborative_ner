@@ -1,0 +1,5 @@
+Lemur
+BM25
+TREC
+IndriRunquery.exe
+IndriBuildIndex

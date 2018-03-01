@@ -1,0 +1,33 @@
+Lucene
+Twitter
+TREC
+Wikipedia
+Document Ranking Scheme
+Foremost Asian languages
+Experimental Setup and
+RetweetEvent
+EPAs
+Query Expansion and
+dynamic average approach
+Document Ranking Scheme
+Query Expansion and
+Wikipedia
+TREC
+Foremost Asian languages
+Twitter
+dynamic average approach
+EPAs
+Experimental Setup and
+Lucene
+RetweetEvent
+Query Expansion and
+RetweetEvent
+TREC
+dynamic average approach
+Document Ranking Scheme
+Lucene
+Foremost Asian languages
+Experimental Setup and
+EPAs
+Twitter
+Wikipedia

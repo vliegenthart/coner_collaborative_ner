@@ -1,0 +1,5 @@
+XMLformatted
+AnswerFinder
+TREC-style
+TREC
+AQUAINT

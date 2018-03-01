@@ -1,0 +1,45 @@
+Entity Activation Force
+PRIS
+ClueWeb
+NDCG
+TREC
+HTML
+Universitas Indonesia group
+Entity Finding ,
+URIs
+Linked Open Data
+UALR
+DBpedia
+CARD
+URLs
+Entity Finding The
+Entity Finding The
+HTML
+Linked Open Data
+ClueWeb
+UALR
+NDCG
+URIs
+TREC
+CARD
+URLs
+Entity Activation Force
+DBpedia
+PRIS
+Entity Finding ,
+Universitas Indonesia group
+UALR
+DBpedia
+URIs
+Universitas Indonesia group
+TREC
+Linked Open Data
+Entity Finding The
+NDCG
+URLs
+Entity Finding ,
+Entity Activation Force
+PRIS
+ClueWeb
+CARD
+HTML

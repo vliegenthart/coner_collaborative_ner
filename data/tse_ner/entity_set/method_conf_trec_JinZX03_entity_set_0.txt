@@ -1,0 +1,33 @@
+Term Similarity Trees
+TightWin
+TREC
+Robust Track is
+Reference Semantic Tree
+TSTM
+NIST
+Robust Track As
+Relevant Considering sentences
+Novelty Track is
+N-gram
+TightWin
+Term Similarity Trees
+TSTM
+Reference Semantic Tree
+Robust Track is
+N-gram
+TREC
+Robust Track As
+NIST
+Novelty Track is
+Relevant Considering sentences
+Robust Track As
+Novelty Track is
+TightWin
+TREC
+Term Similarity Trees
+Relevant Considering sentences
+NIST
+Reference Semantic Tree
+Robust Track is
+N-gram
+TSTM

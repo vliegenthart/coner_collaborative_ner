@@ -1,0 +1,8 @@
+QTRUCT-algebra
+STOCK
+TRAJECTORY
+Kripke
+SCBindexed
+DBMS
+STRUCT
+ORDER

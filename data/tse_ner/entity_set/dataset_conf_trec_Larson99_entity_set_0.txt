@@ -1,0 +1,6 @@
+Berkeley
+TREC-like
+ZPRISE
+TREC
+Boolean
+WWW-based

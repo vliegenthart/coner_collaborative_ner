@@ -1,0 +1,48 @@
+MITS
+VLDB
+ABORT
+DOWNWARD
+CHECKS
+Model Existing models
+SAVE
+ENDS
+Engineering Design Databases
+COMMIT
+UPWARD
+UNSAVE
+Model Transaction Consistency
+UNSAVEs
+Very Large Data
+CANCELS
+UPWARD
+SAVE
+Engineering Design Databases
+Very Large Data
+COMMIT
+CHECKS
+Model Transaction Consistency
+ABORT
+UNSAVE
+Model Existing models
+ENDS
+UNSAVEs
+CANCELS
+DOWNWARD
+VLDB
+MITS
+Engineering Design Databases
+DOWNWARD
+Model Existing models
+SAVE
+MITS
+UNSAVE
+Very Large Data
+Model Transaction Consistency
+UNSAVEs
+UPWARD
+ENDS
+COMMIT
+CHECKS
+VLDB
+ABORT
+CANCELS

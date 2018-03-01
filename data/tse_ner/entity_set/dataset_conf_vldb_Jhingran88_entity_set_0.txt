@@ -1,0 +1,10 @@
+FLAT
+WOMEN
+POSTQUJZL
+Selbot
+ObjRel.Ordf
+DEPTnumber
+DEPT
+POSTQUEL
+ObjRel
+PQSTQUEL

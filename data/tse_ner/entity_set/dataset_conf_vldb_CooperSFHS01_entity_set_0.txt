@@ -1,0 +1,5 @@
+XML-encoded
+Patricia
+STORED
+RDBMS
+DBLP

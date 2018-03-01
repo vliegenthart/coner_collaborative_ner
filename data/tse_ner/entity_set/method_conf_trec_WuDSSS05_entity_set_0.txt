@@ -1,0 +1,30 @@
+Matching Proximity search
+TREC
+Evaluation Results Discussion
+Surface Text Pattern
+AQUAINT
+Question Analysis ILQUA
+Question Answering System
+WordNet
+ILQUA
+NEtagged
+Matching Proximity search
+Evaluation Results Discussion
+Question Answering System
+NEtagged
+Question Analysis ILQUA
+TREC
+ILQUA
+Surface Text Pattern
+WordNet
+AQUAINT
+Evaluation Results Discussion
+TREC
+Surface Text Pattern
+AQUAINT
+Question Analysis ILQUA
+WordNet
+Matching Proximity search
+ILQUA
+NEtagged
+Question Answering System

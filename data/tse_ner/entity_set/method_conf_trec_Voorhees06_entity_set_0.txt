@@ -1,0 +1,45 @@
+Massachusetts
+GOV2
+Sabir Research TREC
+Standards
+SGML
+TREC
+TREC-3
+HTML
+AQUAINT
+Complex Document Information
+Waterloo
+NIST
+Glasgow
+Information Retrieval Information
+TREC-5
+SGML
+HTML
+GOV2
+Sabir Research TREC
+Massachusetts
+Information Retrieval Information
+Standards
+TREC
+TREC-3
+Complex Document Information
+NIST
+Glasgow
+Waterloo
+AQUAINT
+TREC-5
+Sabir Research TREC
+TREC-3
+TREC
+SGML
+Waterloo
+NIST
+AQUAINT
+GOV2
+Complex Document Information
+Massachusetts
+TREC-5
+Glasgow
+Information Retrieval Information
+Standards
+HTML

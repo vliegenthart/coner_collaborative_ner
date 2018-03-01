@@ -1,0 +1,27 @@
+Automatic Image Retrieval
+QBIC
+Interactive Retrieval System
+IDVLS Processing Components:
+Processing
+MPEG-1
+Informedia
+VOCR
+Automatic System Evaluation
+Informedia
+Interactive Retrieval System
+VOCR
+Automatic System Evaluation
+MPEG-1
+Processing
+Automatic Image Retrieval
+IDVLS Processing Components:
+QBIC
+Automatic System Evaluation
+MPEG-1
+Processing
+IDVLS Processing Components:
+Informedia
+Interactive Retrieval System
+QBIC
+VOCR
+Automatic Image Retrieval

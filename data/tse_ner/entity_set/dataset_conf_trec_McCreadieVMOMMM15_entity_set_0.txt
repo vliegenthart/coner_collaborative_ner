@@ -1,0 +1,4 @@
+Foursquare
+BM25
+CORI
+Deveaud

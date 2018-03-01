@@ -1,0 +1,5 @@
+Cymfony
+MUC-defined
+TREC
+TREC-supplied
+PREDICATE

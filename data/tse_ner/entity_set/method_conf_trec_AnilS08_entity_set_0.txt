@@ -1,0 +1,39 @@
+Lucene
+KGPFILTER
+Retrieval Lucene Opinion
+Polarity Detection module
+TREC
+HTML
+Polarity Detection The
+Opinion Filtering and
+Apache Lucene search
+Pang
+Subjectivity
+IITKGPNOSPAM
+Topic Relevance and
+IITKGPNOSPAM
+HTML
+Retrieval Lucene Opinion
+Subjectivity
+Topic Relevance and
+Pang
+Polarity Detection The
+TREC
+Polarity Detection module
+Apache Lucene search
+Opinion Filtering and
+KGPFILTER
+Lucene
+TREC
+Retrieval Lucene Opinion
+IITKGPNOSPAM
+Topic Relevance and
+Lucene
+Polarity Detection The
+Apache Lucene search
+Subjectivity
+KGPFILTER
+Opinion Filtering and
+Polarity Detection module
+Pang
+HTML

@@ -1,0 +1,39 @@
+TREC Dynamic Domain
+dynamic refinement algorithm
+Named Entity Recognition
+TREC
+Search Phase &
+Dynamic Domain is
+Dynamic Domain challenge;
+Dynamic Refinement Phase
+CubeTest
+K-means
+Expected Reciprocal Rank
+NLTK
+Dynamic Domain track
+Expected Reciprocal Rank
+Dynamic Domain challenge;
+Dynamic Refinement Phase
+Dynamic Domain is
+NLTK
+K-means
+TREC
+dynamic refinement algorithm
+Dynamic Domain track
+CubeTest
+Search Phase &
+Named Entity Recognition
+TREC Dynamic Domain
+Search Phase &
+Named Entity Recognition
+TREC
+Dynamic Domain challenge;
+Dynamic Domain track
+dynamic refinement algorithm
+K-means
+CubeTest
+TREC Dynamic Domain
+Dynamic Refinement Phase
+Expected Reciprocal Rank
+Dynamic Domain is
+NLTK

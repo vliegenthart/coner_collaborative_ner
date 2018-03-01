@@ -1,0 +1,33 @@
+Query Expansion with
+Medical Records track
+Document Expansion with
+EMRs
+TREC
+Semantic Indexing (
+CUIs
+UMLS
+Negations
+Dimensionality Reduction using
+UMLS UMLS provides
+Dimensionality Reduction using
+EMRs
+Negations
+Medical Records track
+TREC
+UMLS UMLS provides
+Semantic Indexing (
+CUIs
+Query Expansion with
+UMLS
+Document Expansion with
+Negations
+Document Expansion with
+TREC
+UMLS
+UMLS UMLS provides
+EMRs
+Query Expansion with
+Medical Records track
+CUIs
+Semantic Indexing (
+Dimensionality Reduction using

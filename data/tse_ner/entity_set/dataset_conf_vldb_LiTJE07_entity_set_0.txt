@@ -1,0 +1,15 @@
+PnrMBR
+MinMax
+MinDist
+PnrMBRs
+MaxDist
+MaxMinMaxDist
+MinMinDist
+MaxMaxDist
+MaxMinMax
+PdMBR
+ML2DQ
+MinMaxDist
+Microsoft
+LDPQ
+Kleinberg

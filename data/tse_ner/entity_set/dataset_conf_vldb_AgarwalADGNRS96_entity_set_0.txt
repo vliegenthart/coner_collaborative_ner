@@ -1,0 +1,7 @@
+CUBE
+OLAP
+ABCD
+PipeHash
+PipeHaah
+SortRun
+PipeSort

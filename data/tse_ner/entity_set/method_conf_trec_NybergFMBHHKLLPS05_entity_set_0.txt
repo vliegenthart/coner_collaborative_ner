@@ -1,0 +1,57 @@
+Retrieval Strategist module
+Semantic Information Extractor
+TREC-style
+TREC
+Retrieval Strategist is
+Question Analysis module
+Question Analyzer output
+Retrieval Executor is
+ASSERT
+Answer Merger supports
+Answer Generation module
+semantic structures which
+semantic indexing and
+Retrieval Strategist and
+Answer Merger when
+FACTOID
+Question Analyzer stage
+JAVELIN
+Cosine Similairity measure
+JAVELIN
+Retrieval Strategist module
+Retrieval Strategist and
+ASSERT
+TREC-style
+Question Analyzer output
+Answer Merger supports
+TREC
+Semantic Information Extractor
+Question Analyzer stage
+Cosine Similairity measure
+Answer Merger when
+FACTOID
+Retrieval Strategist is
+semantic indexing and
+Retrieval Executor is
+Question Analysis module
+Answer Generation module
+semantic structures which
+Retrieval Executor is
+ASSERT
+FACTOID
+TREC
+Cosine Similairity measure
+Question Analyzer output
+TREC-style
+Retrieval Strategist and
+semantic structures which
+Retrieval Strategist is
+Answer Generation module
+Answer Merger when
+Question Analysis module
+JAVELIN
+Retrieval Strategist module
+semantic indexing and
+Answer Merger supports
+Question Analyzer stage
+Semantic Information Extractor

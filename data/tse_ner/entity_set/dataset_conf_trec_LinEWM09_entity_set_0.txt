@@ -1,0 +1,8 @@
+AssociativeArray
+HDFS-based
+BigTable
+Hadoop
+MapReduce
+PostingsList
+HDFSstored
+SciMark

@@ -1,0 +1,36 @@
+Abstract
+Language Detection Library
+Twitter
+Clinical Decision Support
+TREC
+UMLS
+February
+MetaMap
+Final Score Generation
+Introduction Microblogs ,
+URLs
+Semantic Group Weighting
+Language Detection Library
+MetaMap
+Clinical Decision Support
+Semantic Group Weighting
+TREC
+Twitter
+Abstract
+URLs
+Introduction Microblogs ,
+UMLS
+February
+Final Score Generation
+TREC
+Semantic Group Weighting
+UMLS
+URLs
+Language Detection Library
+Final Score Generation
+February
+Twitter
+Clinical Decision Support
+Abstract
+Introduction Microblogs ,
+MetaMap

@@ -1,0 +1,33 @@
+ARIES
+DBMSs
+CORBA
+DBMS
+Index Management Even
+Query Processing and
+Isolation Exploiting Semantics
+RDBMS
+RedBrick
+SMOs
+Parallelism
+DBMSs
+RedBrick
+SMOs
+Query Processing and
+RDBMS
+Index Management Even
+Isolation Exploiting Semantics
+DBMS
+ARIES
+Parallelism
+CORBA
+Index Management Even
+ARIES
+RDBMS
+DBMSs
+RedBrick
+Query Processing and
+Isolation Exploiting Semantics
+SMOs
+Parallelism
+CORBA
+DBMS

@@ -1,0 +1,5 @@
+WHERE
+DOCDATE
+Windows-1252
+SearchServer
+SearchSQL

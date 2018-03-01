@@ -1,0 +1,28 @@
+Commercial Database Systems
+Memory Model Two
+dynamic memory management
+dynamic
+Memory Management Overview
+Global Memory Bound
+OLTP
+Computation Control Flow
+Drift Management There
+Dynamic Bound Adjustment
+ExpectedWorkareaSize
+Oracle Memory Architecture
+Adaptive
+OLAP
+dynamic memory management
+Dynamic Bound Adjustment
+OLAP
+OLTP
+Memory Management Overview
+Drift Management There
+ExpectedWorkareaSize
+Oracle Memory Architecture
+Commercial Database Systems
+dynamic
+Memory Model Two
+Global Memory Bound
+Adaptive
+Computation Control Flow

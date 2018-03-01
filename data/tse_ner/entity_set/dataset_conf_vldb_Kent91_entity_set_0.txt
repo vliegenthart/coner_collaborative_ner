@@ -1,0 +1,17 @@
+PartTime
+MapCurr
+StockSpherel
+EmpType
+SiurtSulr
+StartSali
+JobSpherez
+OwrtzmePay
+JobSpherel
+JobSpheres
+JobType
+MakeName
+County
+BasePay
+JobSphere
+SalFunc
+COIrespond

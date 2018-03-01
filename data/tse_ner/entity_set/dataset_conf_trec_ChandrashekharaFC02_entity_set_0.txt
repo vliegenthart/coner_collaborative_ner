@@ -1,0 +1,6 @@
+QMADintra
+DC64
+QMADafter
+MPEG
+Gaussian
+MA64

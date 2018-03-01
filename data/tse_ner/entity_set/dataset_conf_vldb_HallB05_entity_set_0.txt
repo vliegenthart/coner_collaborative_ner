@@ -1,0 +1,6 @@
+Linux
+FIFO
+InnoDB
+SQLServer
+WaitForMultipleObjects
+POSIX

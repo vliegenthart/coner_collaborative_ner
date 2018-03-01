@@ -1,0 +1,8 @@
+MONEY
+Prius
+AQUAINT
+Lucene
+WordNet
+JOBTITLE
+TREC
+WikiPedia

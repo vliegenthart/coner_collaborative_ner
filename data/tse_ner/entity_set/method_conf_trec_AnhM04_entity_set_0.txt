@@ -1,0 +1,36 @@
+Scalable
+GOV2
+TREC
+Melbourne
+IndexSize Efficiency Effectiveness
+SATA
+dynamic
+SCSI
+RAID-5
+Moffat Parallel processing
+NIST
+Parallel Processing The
+dynamic
+IndexSize Efficiency Effectiveness
+GOV2
+Moffat Parallel processing
+Melbourne
+TREC
+Parallel Processing The
+RAID-5
+SATA
+NIST
+Scalable
+SCSI
+TREC
+SCSI
+Scalable
+RAID-5
+NIST
+GOV2
+Parallel Processing The
+dynamic
+Moffat Parallel processing
+SATA
+Melbourne
+IndexSize Efficiency Effectiveness

@@ -1,0 +1,32 @@
+DTDs
+Tamino
+Validation Before XML
+XQuery
+EXPORT
+ODBC ODBC is
+XPath
+ODBC
+JDBC JDBC is
+VLDB
+Fortunately
+XMLVALIDATE
+JDBC
+Query Execution Plans
+IMPORT
+APIs
+XPath
+JDBC JDBC is
+EXPORT
+Tamino
+Query Execution Plans
+ODBC
+Validation Before XML
+DTDs
+XQuery
+JDBC
+XMLVALIDATE
+IMPORT
+ODBC ODBC is
+VLDB
+Fortunately
+APIs

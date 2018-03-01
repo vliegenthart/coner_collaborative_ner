@@ -1,0 +1,30 @@
+Lucene
+Leacock
+TREC
+Wikipedia
+Wikipage
+QuestionKeywords
+Answering List Questions
+LIBERT
+Modified Aranea Parse
+SecondString
+QuestionKeywords
+Answering List Questions
+Modified Aranea Parse
+Wikipedia
+TREC
+LIBERT
+SecondString
+Leacock
+Wikipage
+Lucene
+LIBERT
+SecondString
+Wikipage
+TREC
+Modified Aranea Parse
+Lucene
+Leacock
+Answering List Questions
+Wikipedia
+QuestionKeywords

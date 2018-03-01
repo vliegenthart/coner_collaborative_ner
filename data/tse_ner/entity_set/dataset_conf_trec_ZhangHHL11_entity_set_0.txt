@@ -1,0 +1,6 @@
+TREC-formatted
+DOCNO
+Twitter
+DFRee
+Poisson
+PL2F

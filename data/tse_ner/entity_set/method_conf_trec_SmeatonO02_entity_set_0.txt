@@ -1,0 +1,69 @@
+TREC Video Track
+CLIPS
+support vector machine
+Support Vector Machine
+INSA
+TREC
+MPEG-1
+NIST
+Maximum Entropy classifier
+QBICstyle
+France
+John Garofolo and
+Color Moment (
+SVM-based
+ASR-data
+RMIT
+Internet Archive data
+Ramazan Taban ,
+Maximum Entropy A
+Feature Extraction results
+MPEG
+MPEG-7
+Maryland
+RMIT
+TREC Video Track
+support vector machine
+Maximum Entropy A
+Maximum Entropy classifier
+MPEG
+Support Vector Machine
+MPEG-7
+Color Moment (
+Internet Archive data
+CLIPS
+TREC
+France
+QBICstyle
+John Garofolo and
+Ramazan Taban ,
+ASR-data
+SVM-based
+NIST
+MPEG-1
+Feature Extraction results
+Maryland
+INSA
+John Garofolo and
+SVM-based
+MPEG-1
+Maximum Entropy A
+INSA
+TREC
+Feature Extraction results
+Maximum Entropy classifier
+RMIT
+MPEG
+ASR-data
+QBICstyle
+NIST
+Color Moment (
+Maryland
+TREC Video Track
+CLIPS
+Support Vector Machine
+MPEG-7
+France
+support vector machine
+Ramazan Taban ,
+Internet Archive data

@@ -1,0 +1,33 @@
+Lucene
+TREC
+Wikipedia Semantic Query
+Wikipedia
+ICD-9
+UMLS
+Twente
+Semantic Query Modeling
+Aspirin Information retrieval
+Wikipedia Wikipedia provides
+MEDLINE
+Wikipedia Wikipedia provides
+Semantic Query Modeling
+ICD-9
+MEDLINE
+Wikipedia Semantic Query
+Wikipedia
+TREC
+Twente
+Aspirin Information retrieval
+UMLS
+Lucene
+Twente
+TREC
+Wikipedia Semantic Query
+Semantic Query Modeling
+UMLS
+Lucene
+ICD-9
+MEDLINE
+Wikipedia
+Aspirin Information retrieval
+Wikipedia Wikipedia provides

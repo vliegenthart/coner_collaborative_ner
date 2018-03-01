@@ -1,0 +1,30 @@
+Query Experiments Very
+Passage Retrieval Since
+Single Changing relative
+TREC
+Justsystem
+TREC-8
+NTCIR-1
+TREC-9
+NIST
+OKAPI
+Single Changing relative
+TREC-8
+TREC-9
+TREC
+Passage Retrieval Since
+NTCIR-1
+NIST
+OKAPI
+Justsystem
+Query Experiments Very
+Passage Retrieval Since
+TREC
+TREC-9
+OKAPI
+NIST
+Query Experiments Very
+NTCIR-1
+Single Changing relative
+TREC-8
+Justsystem

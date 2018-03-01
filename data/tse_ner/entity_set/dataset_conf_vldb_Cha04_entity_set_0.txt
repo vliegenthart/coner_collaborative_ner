@@ -1,0 +1,11 @@
+OLFIT
+LDAP
+Ultra
+RDBMS
+JDBC-style
+OLTP
+BIGINT
+RDMBS
+UNIX
+DBMS
+TimesTen

@@ -1,0 +1,5 @@
+INQUERY-stopped
+NIL-answer
+TREC
+INQUERY
+AQUAINT

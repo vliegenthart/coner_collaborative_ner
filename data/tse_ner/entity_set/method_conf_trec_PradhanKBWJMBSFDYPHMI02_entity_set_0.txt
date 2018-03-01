@@ -1,0 +1,30 @@
+ARDA
+TEAM
+TREC
+Hudson River is
+Multiple Sources Even
+WordNet
+Query Prioritization Query
+Colorado
+Confidence Annotation Current
+FLEET
+TEAM
+Multiple Sources Even
+Confidence Annotation Current
+Query Prioritization Query
+FLEET
+Hudson River is
+TREC
+ARDA
+Colorado
+WordNet
+FLEET
+TREC
+Colorado
+Confidence Annotation Current
+TEAM
+ARDA
+Query Prioritization Query
+WordNet
+Hudson River is
+Multiple Sources Even

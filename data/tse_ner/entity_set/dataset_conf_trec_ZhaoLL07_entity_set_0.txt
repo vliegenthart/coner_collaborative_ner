@@ -1,0 +1,12 @@
+PermalinksNos
+FeedNos
+DocWeights
+DocNos
+BM25
+DocNo
+TDWHU200
+TDWHU201
+SentiWordNet
+Robertson
+OKAPI
+TDWHU101

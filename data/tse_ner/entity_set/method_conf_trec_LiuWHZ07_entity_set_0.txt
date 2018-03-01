@@ -1,0 +1,33 @@
+VIPS
+Score Sentence Score
+TREC
+Format Transform After
+VIPS Important Content
+Narrative
+China
+Content Block Detection
+Beijing
+HLTM
+Retrieval Document Retrieval
+VIPS Important Content
+VIPS
+China
+Format Transform After
+Content Block Detection
+Score Sentence Score
+Beijing
+TREC
+HLTM
+Narrative
+Retrieval Document Retrieval
+VIPS
+China
+TREC
+HLTM
+Retrieval Document Retrieval
+Beijing
+Format Transform After
+VIPS Important Content
+Content Block Detection
+Score Sentence Score
+Narrative

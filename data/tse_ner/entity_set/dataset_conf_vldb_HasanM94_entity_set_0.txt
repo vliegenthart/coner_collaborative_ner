@@ -1,0 +1,7 @@
+LPTschedule
+BpSchedde
+BpSchedule
+GreedyPairing
+BalancedCuts
+GreedyChase
+Hybrid

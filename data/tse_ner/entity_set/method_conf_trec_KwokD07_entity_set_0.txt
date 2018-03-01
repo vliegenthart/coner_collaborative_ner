@@ -1,0 +1,33 @@
+TREC
+AQUAINT
+Uniqueness
+TREC-8
+Entity Extraction The
+Question Classification Each
+Document Processing &
+AQUAINT-2
+CLQA
+Answer Extraction Typically
+PIRCS
+TREC-8
+AQUAINT-2
+PIRCS
+Answer Extraction Typically
+TREC
+Document Processing &
+Uniqueness
+Entity Extraction The
+Question Classification Each
+CLQA
+AQUAINT
+Question Classification Each
+TREC
+Entity Extraction The
+CLQA
+PIRCS
+AQUAINT-2
+AQUAINT
+Answer Extraction Typically
+Document Processing &
+Uniqueness
+TREC-8

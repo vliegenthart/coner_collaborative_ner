@@ -1,0 +1,5 @@
+StandardAnalyzer
+WordNet
+TREC
+Yelp
+RAMA

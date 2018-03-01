@@ -1,0 +1,9 @@
+Assigning
+UMLS Metathesaurus (
+Metamap
+TREC
+UMLS Metathesaurus ,
+MetaMap-2010
+UMLS
+RMIT
+DBpedia

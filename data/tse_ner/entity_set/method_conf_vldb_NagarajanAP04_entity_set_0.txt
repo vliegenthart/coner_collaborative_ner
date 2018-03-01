@@ -1,0 +1,66 @@
+Reference Nucleotide Sequence
+LocusLink
+Proteomics LIMS ,
+Function Express Server
+HomoloGene
+Function Express Client
+Express Server Function
+LIMS
+Function Express data
+Mutation Viewer caBIG
+FGCs
+UniGene
+NCICB
+XMLTYPE
+MGED
+SCIP
+Sequence Retrieval System
+Express Server currently
+MIAPE
+RefSeq
+MALDI
+CLOB
+UniGene
+MALDI
+Express Server currently
+SCIP
+MGED
+Sequence Retrieval System
+MIAPE
+Function Express Client
+RefSeq
+FGCs
+Reference Nucleotide Sequence
+CLOB
+Function Express Server
+NCICB
+XMLTYPE
+LIMS
+Mutation Viewer caBIG
+HomoloGene
+Proteomics LIMS ,
+LocusLink
+Function Express data
+Express Server Function
+Function Express data
+MIAPE
+Mutation Viewer caBIG
+LocusLink
+Express Server Function
+SCIP
+Proteomics LIMS ,
+MGED
+Express Server currently
+FGCs
+NCICB
+Function Express Client
+MALDI
+CLOB
+UniGene
+RefSeq
+Sequence Retrieval System
+Reference Nucleotide Sequence
+Function Express Server
+XMLTYPE
+LIMS
+HomoloGene

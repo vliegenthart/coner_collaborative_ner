@@ -1,0 +1,11 @@
+GenAddAdj
+GenAddPrim
+OldVal
+Lore
+RelevantVars
+OneStepPath
+DELprim
+VaryingLabel
+ADDprim
+RelevantOids
+OneStepPathfrom

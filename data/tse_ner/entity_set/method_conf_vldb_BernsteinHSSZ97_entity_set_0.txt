@@ -1,0 +1,42 @@
+VLDB
+IForm
+IComponentDescription
+ODMG
+OODB
+Smalltalk
+DBMS
+ActiveX
+IDispatch
+ClassDef
+IRelationshipCol
+GetIDsOfNames
+Manipulation Repository Objects
+CoCreateInstance
+GetIDsOfNames
+IForm
+OODB
+Smalltalk
+CoCreateInstance
+IRelationshipCol
+Manipulation Repository Objects
+VLDB
+DBMS
+ActiveX
+IComponentDescription
+ClassDef
+IDispatch
+ODMG
+ActiveX
+Manipulation Repository Objects
+CoCreateInstance
+OODB
+IRelationshipCol
+ODMG
+IDispatch
+IForm
+GetIDsOfNames
+IComponentDescription
+DBMS
+VLDB
+ClassDef
+Smalltalk

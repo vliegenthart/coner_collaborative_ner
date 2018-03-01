@@ -1,0 +1,9 @@
+Thrift
+BM25
+IDF-like
+Wumpus
+CosineEgrep
+TREC
+Unix
+Büttcher
+NormEgrep

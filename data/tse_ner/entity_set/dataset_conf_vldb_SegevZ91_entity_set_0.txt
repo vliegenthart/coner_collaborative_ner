@@ -1,0 +1,8 @@
+Rete
+PERFORhWame
+TermlBYear
+CPrelations
+DBMS
+TermcBYear
+PERFORMName
+APPROVAL

@@ -1,0 +1,39 @@
+Semantic Calculus The
+Question Understanding Recognition
+COGEX
+TREC
+Evaluation Results Conclusion
+Semantic Calculus axioms
+Target Understanding The
+SUMO
+Question Answering system
+WordNet
+PowerAnswer
+Language Axioms Our
+FACTOID
+Question Answering system
+Evaluation Results Conclusion
+Question Understanding Recognition
+TREC
+PowerAnswer
+Semantic Calculus The
+SUMO
+FACTOID
+Target Understanding The
+Semantic Calculus axioms
+Language Axioms Our
+WordNet
+COGEX
+Question Understanding Recognition
+FACTOID
+COGEX
+TREC
+SUMO
+Question Answering system
+Semantic Calculus The
+Semantic Calculus axioms
+Evaluation Results Conclusion
+WordNet
+PowerAnswer
+Target Understanding The
+Language Axioms Our

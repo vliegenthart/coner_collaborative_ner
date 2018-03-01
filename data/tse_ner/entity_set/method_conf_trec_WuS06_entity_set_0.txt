@@ -1,0 +1,33 @@
+Matching Proximity search
+Burger King Answering
+Scoring Around every
+TREC
+AQUAINT
+Surface Text Pattern
+Question Analysis ILQUA
+MINIPAR
+Retraining
+ILQUA
+NEtagged
+MINIPAR
+Matching Proximity search
+NEtagged
+Question Analysis ILQUA
+TREC
+ILQUA
+Scoring Around every
+Burger King Answering
+Surface Text Pattern
+Retraining
+AQUAINT
+TREC
+Scoring Around every
+Surface Text Pattern
+Burger King Answering
+AQUAINT
+Question Analysis ILQUA
+Matching Proximity search
+MINIPAR
+ILQUA
+NEtagged
+Retraining

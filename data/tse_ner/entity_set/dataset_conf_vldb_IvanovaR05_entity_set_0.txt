@@ -1,0 +1,10 @@
+WS-Flat
+FFT-Radix
+FFT-dependent
+RRpart
+SQFdependent
+GSDM
+OS-Split
+OS-Join
+FFT-specific
+RadioWindow

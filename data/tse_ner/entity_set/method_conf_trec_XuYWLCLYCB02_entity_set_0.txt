@@ -1,0 +1,33 @@
+LOOCV
+NASA
+SMART
+TREC
+Routing Subtasks Text
+Homepage Finding such
+HITS
+Rocchio Undetermined documents
+Homepage Finding should
+Mutual Information The
+Topic Distillation task
+Topic Distillation task
+Homepage Finding should
+LOOCV
+TREC
+Rocchio Undetermined documents
+NASA
+SMART
+Mutual Information The
+Routing Subtasks Text
+Homepage Finding such
+HITS
+HITS
+Homepage Finding should
+TREC
+LOOCV
+Topic Distillation task
+Mutual Information The
+NASA
+Homepage Finding such
+Routing Subtasks Text
+SMART
+Rocchio Undetermined documents

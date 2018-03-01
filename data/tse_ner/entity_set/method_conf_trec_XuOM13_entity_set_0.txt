@@ -1,0 +1,36 @@
+Temporal Summarization track
+Temporal Summarization is
+Apache Lucene standard
+TREC
+SGML
+Wikipedia
+BasePred
+Update Summarization track
+Sentence Selection Sentences
+NIST
+Evaluation Metrics Traditional
+ROUGE
+Temporal Summarization is
+SGML
+ROUGE
+Update Summarization track
+Sentence Selection Sentences
+Wikipedia
+TREC
+Apache Lucene standard
+BasePred
+NIST
+Temporal Summarization track
+Evaluation Metrics Traditional
+TREC
+Temporal Summarization track
+Sentence Selection Sentences
+SGML
+NIST
+BasePred
+Temporal Summarization is
+Update Summarization track
+Wikipedia
+Apache Lucene standard
+Evaluation Metrics Traditional
+ROUGE

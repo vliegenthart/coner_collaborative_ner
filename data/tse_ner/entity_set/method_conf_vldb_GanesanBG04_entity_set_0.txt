@@ -1,0 +1,39 @@
+NBRBALANCE
+NBRADJUST
+GLOBALBALANCE
+ZIPFIAN
+Partition Change Data
+Threshold Algorithm arises
+Doubling Algorithm which
+Fibbing Algorithm guarantees
+ADJUSTLOAD
+Maintaining
+REORDER
+Maintaining Load Information
+Range Queries There
+REORDER
+ZIPFIAN
+Fibbing Algorithm guarantees
+Range Queries There
+Partition Change Data
+Doubling Algorithm which
+NBRADJUST
+ADJUSTLOAD
+NBRBALANCE
+Maintaining
+GLOBALBALANCE
+Maintaining Load Information
+Threshold Algorithm arises
+GLOBALBALANCE
+Partition Change Data
+Doubling Algorithm which
+Maintaining
+NBRADJUST
+ADJUSTLOAD
+ZIPFIAN
+Range Queries There
+Fibbing Algorithm guarantees
+Maintaining Load Information
+NBRBALANCE
+Threshold Algorithm arises
+REORDER

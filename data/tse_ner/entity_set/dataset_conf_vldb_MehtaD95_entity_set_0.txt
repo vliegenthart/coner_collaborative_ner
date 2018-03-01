@@ -1,0 +1,12 @@
+TupsPerPkt
+CPU-Util
+Ipred
+MaxDp
+CPU-intensive
+GAMMA
+RateMatch
+TupsPerPage
+RateSelect
+CPUSpeed
+MinDp
+SelectionSelectivity

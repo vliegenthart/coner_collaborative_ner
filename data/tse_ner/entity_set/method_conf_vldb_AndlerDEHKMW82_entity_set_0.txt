@@ -1,0 +1,42 @@
+System Another important
+Transaction Table entries
+FETCH
+Resource Manager and
+PASCAL
+SetRef
+Resource Manager is
+Resource Manager has
+Direct Commit protocol
+Initial Program Load
+Resource Manager attempts
+Very Large Data
+RMDB
+Failure Detection Failure
+Failure Detection Failure
+SetRef
+Resource Manager attempts
+Very Large Data
+Initial Program Load
+PASCAL
+Direct Commit protocol
+RMDB
+Resource Manager has
+FETCH
+Resource Manager is
+System Another important
+Transaction Table entries
+Resource Manager and
+Resource Manager attempts
+Resource Manager and
+Resource Manager is
+Resource Manager has
+System Another important
+RMDB
+Transaction Table entries
+SetRef
+Very Large Data
+PASCAL
+Failure Detection Failure
+FETCH
+Initial Program Load
+Direct Commit protocol

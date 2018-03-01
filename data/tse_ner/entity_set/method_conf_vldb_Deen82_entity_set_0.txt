@@ -1,0 +1,39 @@
+SOSi
+Aberdeen University Many
+SURROGATE
+Poissonian
+DBMS
+PINDEX
+Ulster Polytechnic ,
+PRECI
+B-tree
+Talib Abbod ,
+SHSs
+Engineering Research Council
+Very Large Data
+Talib Abbod ,
+Very Large Data
+SOSi
+SHSs
+DBMS
+SURROGATE
+Ulster Polytechnic ,
+B-tree
+Engineering Research Council
+Poissonian
+PINDEX
+PRECI
+Aberdeen University Many
+PRECI
+SOSi
+SHSs
+PINDEX
+Aberdeen University Many
+B-tree
+Talib Abbod ,
+Engineering Research Council
+Very Large Data
+Ulster Polytechnic ,
+SURROGATE
+DBMS
+Poissonian

@@ -1,0 +1,39 @@
+Lucene
+HDFS-based
+BigTable
+HDFSstored
+Academic Cloud Computing
+Results Across Partitions
+Esther
+HDFS
+Hadoop
+MapReduce
+ACKNOWLEDGMENTS
+POSIX
+Retrieval Beyond collections
+Results Across Partitions
+Esther
+ACKNOWLEDGMENTS
+HDFS
+POSIX
+HDFSstored
+MapReduce
+Academic Cloud Computing
+Hadoop
+BigTable
+Lucene
+Retrieval Beyond collections
+HDFS-based
+HDFSstored
+MapReduce
+HDFS-based
+ACKNOWLEDGMENTS
+Academic Cloud Computing
+POSIX
+Esther
+Lucene
+HDFS
+BigTable
+Retrieval Beyond collections
+Results Across Partitions
+Hadoop

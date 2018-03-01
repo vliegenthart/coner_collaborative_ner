@@ -1,0 +1,8 @@
+USING
+ACMS
+Hitachi
+STDL
+COBOL
+STDL-defined
+CICS
+SQL-specific

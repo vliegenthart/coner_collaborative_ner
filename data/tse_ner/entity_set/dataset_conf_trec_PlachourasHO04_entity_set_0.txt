@@ -1,0 +1,6 @@
+Westerveld
+Terrier
+BM25
+DFR-based
+AvICTF
+TREC2004

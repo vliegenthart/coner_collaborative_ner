@@ -1,0 +1,36 @@
+Missing Information Needs:
+Actual Information Need?
+TREC
+QACTIS-provided
+WordNet Longer Term
+Incorporate Statistical QA
+AQUAINT
+General System Improvements
+QACTIS Enhancements What
+Wikipedia
+Passage Selection The
+QACTIS
+QACTIS Enhancements What
+WordNet Longer Term
+QACTIS
+Actual Information Need?
+Passage Selection The
+Missing Information Needs:
+General System Improvements
+Wikipedia
+TREC
+QACTIS-provided
+Incorporate Statistical QA
+AQUAINT
+Missing Information Needs:
+Actual Information Need?
+TREC
+Passage Selection The
+QACTIS Enhancements What
+AQUAINT
+Incorporate Statistical QA
+Wikipedia
+QACTIS
+WordNet Longer Term
+General System Improvements
+QACTIS-provided

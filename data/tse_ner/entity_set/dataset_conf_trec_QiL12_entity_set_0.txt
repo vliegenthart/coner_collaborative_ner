@@ -1,0 +1,7 @@
+NECLA
+EMRs
+UMLS UMLS provides
+TREC
+UMLS
+infAP
+MetaMap

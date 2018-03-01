@@ -1,0 +1,8 @@
+SecTagger
+Pittsburgh
+CUIs
+TREC
+UIMA-based
+UMLS
+UMLS Metathesaurus contains
+DIAGNOSIS

@@ -1,0 +1,8 @@
+TS194
+SELECT
+ConjViewSingleBlock
+ConjViewMultiBlock
+HAVING
+CallingPlans
+GROUPBY
+WHERE

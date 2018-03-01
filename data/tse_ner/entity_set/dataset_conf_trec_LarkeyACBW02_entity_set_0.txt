@@ -1,0 +1,5 @@
+Porter
+UMass
+TREC
+INQUERY
+TFIDF

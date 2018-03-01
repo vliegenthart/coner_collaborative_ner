@@ -1,0 +1,11 @@
+LOLEPOPs
+ACCESS
+BTree
+LOLEPOP
+STARs
+STAR-based
+TableScan
+STARS
+Heap
+StoremType
+TableAccess

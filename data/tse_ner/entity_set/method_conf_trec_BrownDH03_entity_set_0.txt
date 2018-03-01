@@ -1,0 +1,30 @@
+SGML
+TREC
+MEDLINE
+LocusLink
+TAEs
+Semantic Search Engine
+Unstructured Information Management
+ASCII
+UIMA
+Topic Generated Query
+SGML
+MEDLINE
+Topic Generated Query
+TAEs
+Semantic Search Engine
+Unstructured Information Management
+TREC
+ASCII
+UIMA
+LocusLink
+TREC
+Semantic Search Engine
+SGML
+TAEs
+MEDLINE
+Unstructured Information Management
+ASCII
+Topic Generated Query
+UIMA
+LocusLink

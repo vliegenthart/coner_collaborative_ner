@@ -1,0 +1,11 @@
+CIIR
+AQUAINT
+PCA-based
+POS-tagging
+WordNet
+TFIDF
+BM25
+ImportanceValue
+TREC
+THUIR
+NewSentenceValue

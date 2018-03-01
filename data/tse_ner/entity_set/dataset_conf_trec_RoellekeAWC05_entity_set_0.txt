@@ -1,0 +1,7 @@
+ASSUMPTIONS
+ASSUMPTION
+BM25
+SQL-based
+HySpirit
+TREC
+SQL-like

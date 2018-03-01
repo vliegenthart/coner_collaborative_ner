@@ -1,0 +1,78 @@
+Question Processing CHAUCER
+Question Coreference module
+LITE
+AQUAINT
+Friday Predictive Question-Based
+Factoid
+Answer Selection module
+TREC
+CICEROLITE
+EVENT
+Maximum Entropy classifier
+Target Processing module
+Keyword Expansion Keywords
+COACH
+Answer Selection modules
+AUTHORED
+Ranking Following Answer
+Generating Predictive Questions
+CHAUCER
+FrameNet
+TION
+Keyword Expansion module
+FrameNetbased
+Answer Selection Recent
+TASER
+Following Predictive Question
+TION
+Ranking Following Answer
+AUTHORED
+TASER
+Friday Predictive Question-Based
+Maximum Entropy classifier
+Following Predictive Question
+Target Processing module
+Generating Predictive Questions
+CICEROLITE
+Answer Selection Recent
+Factoid
+EVENT
+TREC
+FrameNetbased
+LITE
+Keyword Expansion module
+AQUAINT
+COACH
+Answer Selection module
+Answer Selection modules
+FrameNet
+Keyword Expansion Keywords
+Question Processing CHAUCER
+Question Coreference module
+CHAUCER
+Factoid
+Question Coreference module
+Answer Selection module
+Keyword Expansion module
+Generating Predictive Questions
+TASER
+Target Processing module
+TION
+EVENT
+Answer Selection Recent
+TREC
+AQUAINT
+Maximum Entropy classifier
+AUTHORED
+Following Predictive Question
+FrameNet
+LITE
+CHAUCER
+COACH
+Ranking Following Answer
+Answer Selection modules
+Keyword Expansion Keywords
+Friday Predictive Question-Based
+CICEROLITE
+Question Processing CHAUCER
+FrameNetbased

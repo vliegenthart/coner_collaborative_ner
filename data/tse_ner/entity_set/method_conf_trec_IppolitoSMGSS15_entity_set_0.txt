@@ -1,0 +1,30 @@
+Lucene
+SCDA
+TREC
+UMLS
+Review While designing
+California
+PubMed
+MetaMap
+NIST
+Ranked Fusion component
+MetaMap
+TREC
+California
+SCDA
+Review While designing
+NIST
+PubMed
+Ranked Fusion component
+UMLS
+Lucene
+Review While designing
+California
+SCDA
+TREC
+UMLS
+Lucene
+NIST
+PubMed
+Ranked Fusion component
+MetaMap

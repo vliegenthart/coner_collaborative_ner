@@ -1,0 +1,57 @@
+Support Vector Machine
+NASK
+UTDHLTASK
+PubMed Central Open
+Retrieval After extracting
+UTDHLTNA
+EMRs
+TREC
+Discovering Hospital Status
+Wikipedia
+Emergency Department ,
+UMLS
+Apache Lucene 4.0
+DEPARTMENT
+Roberts
+ADMITTING
+Keyword Extraction module
+NIST
+ABSENT
+EMRs
+Emergency Department ,
+DEPARTMENT
+Support Vector Machine
+NASK
+ADMITTING
+Roberts
+ABSENT
+TREC
+Wikipedia
+Retrieval After extracting
+UTDHLTNA
+NIST
+PubMed Central Open
+UTDHLTASK
+Apache Lucene 4.0
+Keyword Extraction module
+UMLS
+Discovering Hospital Status
+ADMITTING
+UTDHLTNA
+TREC
+Support Vector Machine
+DEPARTMENT
+NASK
+Retrieval After extracting
+UMLS
+NIST
+EMRs
+UTDHLTASK
+PubMed Central Open
+Discovering Hospital Status
+Keyword Extraction module
+ABSENT
+Wikipedia
+Emergency Department ,
+Roberts
+Apache Lucene 4.0

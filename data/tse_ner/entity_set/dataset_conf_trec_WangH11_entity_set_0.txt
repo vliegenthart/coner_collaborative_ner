@@ -1,0 +1,11 @@
+TextCat
+JSCON
+Lucene
+Twitter
+HTML
+BM25
+POS-tags
+TREC
+Wikipedia
+Jazzy
+Spanish

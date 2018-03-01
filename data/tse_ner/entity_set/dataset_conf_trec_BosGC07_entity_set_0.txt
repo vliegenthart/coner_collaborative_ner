@@ -1,0 +1,6 @@
+NomLex
+Pronto
+WordNet
+Blog06
+TREC
+Indri

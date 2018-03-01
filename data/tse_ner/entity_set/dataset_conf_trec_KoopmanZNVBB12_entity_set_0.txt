@@ -1,0 +1,6 @@
+Pedersen
+SNOMED
+TREC
+UMLS
+Okapi
+MetaMap

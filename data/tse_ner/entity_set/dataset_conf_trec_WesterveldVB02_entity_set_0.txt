@@ -1,0 +1,5 @@
+Gaussian
+Vasconcelos
+LIMSI
+TREC-2002
+ASR-data

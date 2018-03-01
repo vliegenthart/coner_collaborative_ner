@@ -1,0 +1,6 @@
+OLAP-style
+LinOP
+OLAP
+AVERAGE
+Milwaukee
+LinOp

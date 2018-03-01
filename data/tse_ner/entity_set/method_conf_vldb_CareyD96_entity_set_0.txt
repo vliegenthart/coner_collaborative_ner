@@ -1,0 +1,39 @@
+Relational Database Systems
+VLDB
+CORBA
+Microsoft
+Smalltalk
+DBMS
+OODB
+EXODUS
+Parallelization Another place
+Object Management Group
+Wisconsin Legacy Data
+ADTs
+CLOS
+ADTs
+OODB
+Microsoft
+Smalltalk
+Wisconsin Legacy Data
+Parallelization Another place
+CLOS
+Object Management Group
+DBMS
+EXODUS
+VLDB
+Relational Database Systems
+CORBA
+CLOS
+Object Management Group
+Wisconsin Legacy Data
+EXODUS
+Parallelization Another place
+OODB
+ADTs
+CORBA
+Microsoft
+DBMS
+VLDB
+Relational Database Systems
+Smalltalk

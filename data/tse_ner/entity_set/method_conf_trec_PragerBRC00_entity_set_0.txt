@@ -1,0 +1,33 @@
+SMART
+TREC
+Qintex
+MRAR
+QA-Tokens
+QA-Token
+Reciprocal Document Rank
+Predictive Annotation and
+Answer Selection This
+MRDR
+NIST
+Answer Selection This
+MRAR
+Predictive Annotation and
+QA-Token
+MRDR
+Reciprocal Document Rank
+TREC
+SMART
+NIST
+QA-Tokens
+Qintex
+QA-Token
+Answer Selection This
+Reciprocal Document Rank
+TREC
+QA-Tokens
+Qintex
+Predictive Annotation and
+NIST
+MRDR
+SMART
+MRAR

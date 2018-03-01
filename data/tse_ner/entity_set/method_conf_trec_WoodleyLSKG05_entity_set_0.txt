@@ -1,0 +1,51 @@
+Porter
+INEX
+Round Robin method
+Search Engine Group
+XPath
+Technology Zettair is
+Research Methodology The
+TREC
+Single Index System
+AQUAINT
+Wordnet
+Other Participants Query
+Query Times Retrieval
+Index Indexing Times
+NLQs
+Source Information Retrieval
+NLPX
+Porter
+XPath
+Query Times Retrieval
+Research Methodology The
+Single Index System
+NLPX
+Other Participants Query
+Source Information Retrieval
+NLQs
+Technology Zettair is
+Search Engine Group
+TREC
+Round Robin method
+Index Indexing Times
+Wordnet
+AQUAINT
+INEX
+Porter
+Other Participants Query
+Index Indexing Times
+Source Information Retrieval
+TREC
+NLQs
+Single Index System
+INEX
+Wordnet
+AQUAINT
+XPath
+Search Engine Group
+Technology Zettair is
+NLPX
+Query Times Retrieval
+Research Methodology The
+Round Robin method

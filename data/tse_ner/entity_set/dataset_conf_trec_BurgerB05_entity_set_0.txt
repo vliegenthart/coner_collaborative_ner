@@ -1,0 +1,4 @@
+TREC
+WordNet
+IDF-weighted
+Qanda

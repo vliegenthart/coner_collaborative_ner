@@ -1,0 +1,45 @@
+Lucene
+UIUC
+Semantic Type Recognition
+TREC
+Question Classification Question
+Document Retrieval Module
+WikiPedia Experimental Setup
+AQUAINT
+Question Answering task
+Exact Answer Selection
+Semantic Class Recognition
+Question Answering system
+Factoid
+Answer Retrieval Module
+FACTOID
+WikiPedia Experimental Setup
+Question Classification Question
+Question Answering system
+Exact Answer Selection
+UIUC
+Factoid
+Document Retrieval Module
+TREC
+Semantic Class Recognition
+Question Answering task
+FACTOID
+Semantic Type Recognition
+Answer Retrieval Module
+AQUAINT
+Lucene
+Factoid
+Semantic Class Recognition
+FACTOID
+TREC
+UIUC
+Answer Retrieval Module
+Question Answering system
+Lucene
+AQUAINT
+Exact Answer Selection
+Document Retrieval Module
+Question Classification Question
+Semantic Type Recognition
+Question Answering task
+WikiPedia Experimental Setup

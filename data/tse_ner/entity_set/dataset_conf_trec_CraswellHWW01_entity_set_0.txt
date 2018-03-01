@@ -1,0 +1,7 @@
+Group1
+NorthernLight
+TREC-10
+BM25
+CSIRO
+Teoma
+PADRE99

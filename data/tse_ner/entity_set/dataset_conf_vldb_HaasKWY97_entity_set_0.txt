@@ -1,0 +1,9 @@
+Cardinality
+PushDown
+FinishRoot
+Garlic
+STARS
+QBIC
+DamStream
+ObjectStore
+JoinRoot

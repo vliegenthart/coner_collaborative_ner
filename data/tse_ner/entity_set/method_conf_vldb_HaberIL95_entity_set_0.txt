@@ -1,0 +1,48 @@
+VLDB
+GroupEdges
+Departments
+DTSM
+OPOSSUM
+Problem During schema
+ASCII
+Cupid
+Informix Permission to
+Opossum
+DecStations
+MOOSE
+GroupEdge
+TRAN
+HUMANOID
+Visual Abstraction Large
+Opossum
+Departments
+GroupEdges
+GroupEdge
+MOOSE
+DecStations
+TRAN
+OPOSSUM
+Cupid
+Informix Permission to
+DTSM
+VLDB
+Visual Abstraction Large
+HUMANOID
+Problem During schema
+ASCII
+Departments
+GroupEdges
+MOOSE
+Informix Permission to
+DTSM
+DecStations
+Cupid
+OPOSSUM
+TRAN
+GroupEdge
+Visual Abstraction Large
+Problem During schema
+HUMANOID
+Opossum
+ASCII
+VLDB

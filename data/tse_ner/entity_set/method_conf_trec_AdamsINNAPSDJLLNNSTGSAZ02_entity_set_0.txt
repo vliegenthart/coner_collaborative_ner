@@ -1,0 +1,39 @@
+Feature Training collection
+Lexicon design The
+TREC
+Average Precision improved
+Feature Test which
+Average Precision 0.12
+Video
+MPEG-1
+MPEG-7
+NIST
+Average Precision is
+CueVideo
+MLLR
+Video
+MPEG-7
+TREC
+CueVideo
+Feature Test which
+MLLR
+Average Precision 0.12
+NIST
+MPEG-1
+Average Precision is
+Average Precision improved
+Feature Training collection
+Lexicon design The
+TREC
+Average Precision 0.12
+MPEG-7
+Feature Test which
+Lexicon design The
+NIST
+MPEG-1
+Feature Training collection
+MLLR
+Video
+Average Precision improved
+CueVideo
+Average Precision is

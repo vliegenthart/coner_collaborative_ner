@@ -1,0 +1,33 @@
+VLDB
+General Aggregation algorithm
+ISFC
+Experimental Results Experiment
+Terminology Aggregation is
+Multidimensional Files †
+OLAP
+CLOCK
+General Aggregation may
+Aggregation Computation Model
+MOLAP
+CLOCK
+ISFC
+General Aggregation algorithm
+Experimental Results Experiment
+General Aggregation may
+Aggregation Computation Model
+MOLAP
+VLDB
+Terminology Aggregation is
+OLAP
+Multidimensional Files †
+Terminology Aggregation is
+Experimental Results Experiment
+OLAP
+Multidimensional Files †
+General Aggregation may
+General Aggregation algorithm
+MOLAP
+CLOCK
+ISFC
+VLDB
+Aggregation Computation Model

@@ -1,0 +1,30 @@
+PSVD
+TREC
+Semantic Indexing (
+TREC Legal Track
+MATLAB
+CLAPACK
+TREC Legal learning
+ENRON
+EDLSI
+Semantic Indexing LSI
+Semantic Indexing LSI
+PSVD
+TREC Legal learning
+CLAPACK
+TREC
+Semantic Indexing (
+ENRON
+EDLSI
+TREC Legal Track
+MATLAB
+EDLSI
+PSVD
+MATLAB
+TREC
+Semantic Indexing LSI
+ENRON
+TREC Legal learning
+CLAPACK
+TREC Legal Track
+Semantic Indexing (

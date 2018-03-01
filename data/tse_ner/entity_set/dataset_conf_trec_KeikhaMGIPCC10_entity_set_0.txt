@@ -1,0 +1,6 @@
+ClueWeb
+Terrier
+BM25
+Blog06
+ComSum
+TREC

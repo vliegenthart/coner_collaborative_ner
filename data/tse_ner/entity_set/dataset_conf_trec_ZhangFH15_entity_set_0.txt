@@ -1,0 +1,8 @@
+UMLS Metathesaurus RESULTS
+BM25
+NXML
+CUIs
+TREC
+UMLS
+PubMed
+MetaMap

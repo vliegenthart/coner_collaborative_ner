@@ -1,0 +1,9 @@
+NonPJoin
+ByTable
+GLAV
+TopKByTable
+SELECT
+Cartesian
+ProjectedPJoin
+WHERE
+PTIME

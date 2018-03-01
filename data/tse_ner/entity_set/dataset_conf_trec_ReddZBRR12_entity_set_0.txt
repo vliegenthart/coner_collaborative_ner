@@ -1,0 +1,15 @@
+MRREL
+Lucene
+BMIUOUbase
+BMIUOUens
+NOMEDCT
+SemRep
+UMLS CUIs which
+SPECIALIST
+CUIs
+TREC
+BMIUOUsyn
+MRCONSO
+UMLS
+BMIUOUensneg
+MetaMap

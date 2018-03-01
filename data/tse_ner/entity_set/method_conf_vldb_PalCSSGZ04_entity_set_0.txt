@@ -1,0 +1,39 @@
+Scale Factor 30
+DOCS
+Experimental Setup and
+IDREF
+XMark
+BOOK
+ISBN
+Experimental Results using
+XQuery
+XDOC
+XMLGEN
+OrdPath
+XPath
+Scale Factor 30
+BOOK
+XMark
+XPath
+XQuery
+XDOC
+Experimental Results using
+XMLGEN
+ISBN
+IDREF
+OrdPath
+Experimental Setup and
+DOCS
+Scale Factor 30
+XPath
+ISBN
+XDOC
+DOCS
+BOOK
+XMLGEN
+XMark
+Experimental Results using
+XQuery
+Experimental Setup and
+IDREF
+OrdPath

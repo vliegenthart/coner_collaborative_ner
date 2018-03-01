@@ -1,0 +1,12 @@
+TriggerMan
+DupElim
+YFilter
+DocDepth
+SI0122599
+MaxRepeats
+BoundNodes
+FLWR
+GroupBy
+DTD-based
+BoundNode
+MaxValue

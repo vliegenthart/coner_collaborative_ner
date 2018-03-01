@@ -1,0 +1,48 @@
+ParallelCommitPhase
+ICCA
+Certification
+ICCAlll
+Experimental Setup The
+PREWRITE
+Execution Phase During
+DMXOMMIT
+DMWRITE
+PRFJVRITE
+Phase Locking method
+FCFS
+TCNs
+ParalIelCommitPhase
+JCCA
+DMJVRITE
+Execution Phase During
+Certification
+DMJVRITE
+DMWRITE
+ICCAlll
+ICCA
+DMXOMMIT
+PRFJVRITE
+PREWRITE
+TCNs
+Phase Locking method
+Experimental Setup The
+ParalIelCommitPhase
+ParallelCommitPhase
+JCCA
+FCFS
+ICCA
+DMXOMMIT
+PREWRITE
+TCNs
+JCCA
+DMJVRITE
+ParalIelCommitPhase
+Execution Phase During
+ICCAlll
+Certification
+PRFJVRITE
+Phase Locking method
+FCFS
+Experimental Setup The
+ParallelCommitPhase
+DMWRITE

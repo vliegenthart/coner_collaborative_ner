@@ -1,0 +1,8 @@
+Lucene
+SinglePass
+BM25
+TERRIER
+MetaMap-2010
+UMLS
+Medication
+Wikipedia

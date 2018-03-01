@@ -1,0 +1,54 @@
+CSIRO
+Intelligence Advanced Research
+GOV2
+Sabir Research TREC
+Standards
+TREC
+TREC-3
+AQUAINT
+Complex Document Information
+California
+NIST-produced
+Industrial Research Organisation
+Waterloo
+NIST
+AQUAINT-2
+URLs
+Information Retrieval Information
+TREC-5
+Intelligence Advanced Research
+GOV2
+NIST-produced
+AQUAINT-2
+Sabir Research TREC
+Information Retrieval Information
+Standards
+TREC
+California
+TREC-3
+Industrial Research Organisation
+Complex Document Information
+NIST
+CSIRO
+Waterloo
+AQUAINT
+URLs
+TREC-5
+Sabir Research TREC
+California
+TREC-3
+TREC
+Waterloo
+URLs
+NIST
+Industrial Research Organisation
+GOV2
+AQUAINT-2
+Complex Document Information
+NIST-produced
+AQUAINT
+Intelligence Advanced Research
+TREC-5
+Information Retrieval Information
+Standards
+CSIRO

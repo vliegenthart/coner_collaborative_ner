@@ -1,0 +1,42 @@
+Arguing
+IMDB
+KLEE-4
+Experimental Setup Our
+Bandwidth Costs Figures
+TPUT
+KLEE
+XGOV
+CLFs
+TotalScore
+HistogramBlooms
+CLFM
+WordNet
+KLEE-3
+XGOV
+HistogramBlooms
+TotalScore
+CLFs
+WordNet
+IMDB
+KLEE-4
+KLEE-3
+TPUT
+CLFM
+Bandwidth Costs Figures
+Experimental Setup Our
+Arguing
+KLEE
+Bandwidth Costs Figures
+IMDB
+HistogramBlooms
+KLEE-3
+CLFM
+CLFs
+Arguing
+TPUT
+TotalScore
+KLEE
+WordNet
+KLEE-4
+Experimental Setup Our
+XGOV

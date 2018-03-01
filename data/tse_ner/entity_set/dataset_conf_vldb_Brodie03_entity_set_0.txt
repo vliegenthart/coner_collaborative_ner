@@ -1,0 +1,7 @@
+Internet
+ORBs
+RDBMS
+CORBA
+Trader
+Moon
+DBMS

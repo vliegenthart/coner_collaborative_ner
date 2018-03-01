@@ -1,0 +1,30 @@
+TREC CLIR collections
+German
+CLIR
+TREC
+Machine Translation Machine
+TREC-7
+Automatic Compiled Resources
+NIST
+GIRT
+RSVs
+Automatic Compiled Resources
+CLIR
+RSVs
+Machine Translation Machine
+TREC-7
+TREC
+GIRT
+NIST
+German
+TREC CLIR collections
+Machine Translation Machine
+CLIR
+German
+TREC
+TREC-7
+TREC CLIR collections
+NIST
+RSVs
+Automatic Compiled Resources
+GIRT

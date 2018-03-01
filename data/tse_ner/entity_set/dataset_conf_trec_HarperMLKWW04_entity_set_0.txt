@@ -1,0 +1,7 @@
+KLdiscrimination
+BM25
+Lemur
+TREC
+KLdiscriminative
+OKAPI
+Run10

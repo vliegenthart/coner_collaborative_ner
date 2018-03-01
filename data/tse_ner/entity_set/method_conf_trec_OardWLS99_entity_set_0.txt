@@ -1,0 +1,63 @@
+Document Overlap Among
+DQT-ET
+Semantic Indexing on
+Financial Times documents
+SyncMatcher
+Latent semantic indexing
+CLIR
+SMART
+TREC
+Multilingual Indexing Once
+TREC-8
+TREC-7
+MINIPAR
+Question Answering track
+Maryland
+Since Andreesen and
+TDT-2
+Question Answering Many
+SVDPACKC
+TREC-6
+Question Answering while
+MINIPAR
+CLIR
+Latent semantic indexing
+TREC-8
+SVDPACKC
+Multilingual Indexing Once
+Document Overlap Among
+Question Answering track
+Question Answering Many
+TREC-6
+TREC-7
+TREC
+DQT-ET
+Financial Times documents
+SMART
+Since Andreesen and
+Maryland
+Question Answering while
+TDT-2
+SyncMatcher
+Semantic Indexing on
+CLIR
+Latent semantic indexing
+DQT-ET
+TDT-2
+TREC
+Multilingual Indexing Once
+Financial Times documents
+Question Answering track
+Question Answering Many
+SVDPACKC
+TREC-7
+Since Andreesen and
+Document Overlap Among
+Maryland
+SyncMatcher
+MINIPAR
+SMART
+TREC-8
+Semantic Indexing on
+Question Answering while
+TREC-6

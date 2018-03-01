@@ -1,0 +1,4 @@
+START
+TREC
+TREC2006
+SmartQA

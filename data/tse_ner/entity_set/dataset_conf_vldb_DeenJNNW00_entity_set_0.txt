@@ -1,0 +1,6 @@
+Asilomar
+CODASYL
+VLDB
+DARPA
+DBMS
+Alexandria

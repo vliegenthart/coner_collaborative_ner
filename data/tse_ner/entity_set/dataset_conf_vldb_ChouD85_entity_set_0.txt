@@ -1,0 +1,7 @@
+Austin
+DBMIN
+HISS
+RAND
+Ihcrc
+CLOCK
+QLSM

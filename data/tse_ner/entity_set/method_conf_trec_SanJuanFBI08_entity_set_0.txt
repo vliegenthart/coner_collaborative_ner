@@ -1,0 +1,27 @@
+Passage Retrieval component
+CSIRO
+LiaIndriMan
+SOMs
+TREC
+Indri
+Question Answering systems
+INDRI
+Answer Extraction Strategies
+Passage Retrieval component
+SOMs
+Indri
+INDRI
+TREC
+Answer Extraction Strategies
+Question Answering systems
+CSIRO
+LiaIndriMan
+SOMs
+Indri
+TREC
+LiaIndriMan
+Passage Retrieval component
+Answer Extraction Strategies
+Question Answering systems
+INDRI
+CSIRO

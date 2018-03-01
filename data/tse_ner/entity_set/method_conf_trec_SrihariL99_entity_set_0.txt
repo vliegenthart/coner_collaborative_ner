@@ -1,0 +1,30 @@
+NE-Supported
+Question Processor is
+TREC
+Textract
+Question Processor consists
+Named Entity tagging
+TREC-8
+Architecture Question Processing
+Question Expansion The
+Question Template Expansion
+TREC-8
+Question Expansion The
+TREC
+Question Processor is
+Textract
+Architecture Question Processing
+NE-Supported
+Named Entity tagging
+Question Template Expansion
+Question Processor consists
+Named Entity tagging
+Textract
+Question Processor consists
+TREC
+NE-Supported
+Question Template Expansion
+Question Processor is
+Question Expansion The
+TREC-8
+Architecture Question Processing

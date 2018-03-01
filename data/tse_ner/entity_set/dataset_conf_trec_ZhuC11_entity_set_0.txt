@@ -1,0 +1,7 @@
+CLEF-A
+Dirichlet
+ImageCLEF
+TREC
+CORI
+Indri
+PubMed

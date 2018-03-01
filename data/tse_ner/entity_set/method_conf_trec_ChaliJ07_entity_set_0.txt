@@ -1,0 +1,42 @@
+Question Answering (
+Birth
+VERB
+TREC
+Redundancy Checking Answers
+Question Normalization Before
+DATE
+Central America and
+WordNet
+Belize
+Answer Ranking Formula
+Answer Extraction Answer
+FACTOID
+Caribbean
+Answer Ranking Formula
+DATE
+Answer Extraction Answer
+VERB
+Question Answering (
+Birth
+TREC
+Central America and
+FACTOID
+Question Normalization Before
+WordNet
+Caribbean
+Belize
+Redundancy Checking Answers
+Question Answering (
+Answer Ranking Formula
+Birth
+TREC
+Question Normalization Before
+FACTOID
+VERB
+Belize
+Caribbean
+Central America and
+DATE
+WordNet
+Answer Extraction Answer
+Redundancy Checking Answers

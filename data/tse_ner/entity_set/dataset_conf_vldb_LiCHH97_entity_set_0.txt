@@ -1,0 +1,7 @@
+SEMantics
+SEMCOG
+Facilitator
+CSQL
+Chabot
+COGnition-based
+SQL-like

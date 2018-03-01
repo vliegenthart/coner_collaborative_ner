@@ -1,0 +1,48 @@
+FAoperations
+Object Oriented DBMS
+LATE
+FAexpression
+DBMS
+Object Oriented approach
+NFNF
+VIDB
+INGRES
+TINF
+SQL-like
+SPECDOQ
+Abstract Form (
+dynamic
+Abstract
+ESE-expression
+ESE-expression
+LATE
+Object Oriented DBMS
+dynamic
+Abstract
+Object Oriented approach
+NFNF
+Abstract Form (
+DBMS
+SPECDOQ
+VIDB
+INGRES
+SQL-like
+FAexpression
+FAoperations
+TINF
+NFNF
+Object Oriented approach
+TINF
+Abstract
+SQL-like
+INGRES
+SPECDOQ
+Object Oriented DBMS
+LATE
+FAoperations
+dynamic
+ESE-expression
+Abstract Form (
+FAexpression
+DBMS
+VIDB

@@ -1,0 +1,33 @@
+VLDB
+Error Guarantees Using
+RawShapelet
+Schneider
+Rtree
+Pointwise Arithmetic and
+Refregier
+Various Vague Spatial
+Signature Experimental Evaluation
+Gaussian
+probabilistic density functions
+Various Vague Spatial
+Pointwise Arithmetic and
+Signature Experimental Evaluation
+Rtree
+probabilistic density functions
+Error Guarantees Using
+Gaussian
+Schneider
+Refregier
+VLDB
+RawShapelet
+Gaussian
+RawShapelet
+Pointwise Arithmetic and
+probabilistic density functions
+Rtree
+Refregier
+Schneider
+Various Vague Spatial
+Signature Experimental Evaluation
+VLDB
+Error Guarantees Using

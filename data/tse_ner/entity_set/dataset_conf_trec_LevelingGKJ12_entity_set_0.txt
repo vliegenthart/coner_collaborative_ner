@@ -1,0 +1,6 @@
+SUBTYPE
+BM25
+TRECMed
+UMLS
+NTCIR
+MetaMap

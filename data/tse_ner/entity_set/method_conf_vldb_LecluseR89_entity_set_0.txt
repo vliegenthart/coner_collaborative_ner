@@ -1,0 +1,45 @@
+Basic Rather than
+Monument
+Damokles
+Object Creation Creation
+Inheritance Inheritance is
+DBMS
+Historicalhotel
+Vbase
+OODBS
+Monuments
+Subtyping Subtyping is
+Gemstone
+Cardellilike
+Eiffelfower
+Altair
+Cardellilike
+Monuments
+Damokles
+Gemstone
+Altair
+Basic Rather than
+Object Creation Creation
+Eiffelfower
+DBMS
+Vbase
+OODBS
+Historicalhotel
+Subtyping Subtyping is
+Monument
+Inheritance Inheritance is
+Monuments
+Subtyping Subtyping is
+OODBS
+Eiffelfower
+Monument
+Historicalhotel
+Basic Rather than
+Vbase
+Cardellilike
+Inheritance Inheritance is
+Gemstone
+Altair
+DBMS
+Object Creation Creation
+Damokles

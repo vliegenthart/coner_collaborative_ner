@@ -1,0 +1,13 @@
+MedTagger
+Lucene
+WebMD.com
+HMKTB
+SemRep
+MedlinePlus
+MDRUB
+TREC
+MDRUN
+UMLS
+CHEM
+PubMed
+MayoClinic.org

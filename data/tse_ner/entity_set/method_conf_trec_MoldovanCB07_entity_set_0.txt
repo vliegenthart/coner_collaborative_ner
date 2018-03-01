@@ -1,0 +1,51 @@
+Human Seeking List
+Factoid Answer Selection
+Maureen Chiquet are
+COGEX
+TREC
+Wikipedia
+AQUAINT
+Concept Tagger is
+Question Class Models
+Question Logic Transformation
+WordNet
+Concept Tagger module
+Apache Lucene in
+Future Directions TREC
+PowerAnswer
+Question Class Hierarchy
+FACTOID
+Concept Tagger is
+Question Class Models
+Maureen Chiquet are
+Human Seeking List
+Wikipedia
+Factoid Answer Selection
+TREC
+PowerAnswer
+Concept Tagger module
+FACTOID
+Question Logic Transformation
+Question Class Hierarchy
+WordNet
+AQUAINT
+Apache Lucene in
+COGEX
+Future Directions TREC
+Maureen Chiquet are
+Concept Tagger module
+Concept Tagger is
+Factoid Answer Selection
+TREC
+COGEX
+Question Class Hierarchy
+Apache Lucene in
+FACTOID
+Question Logic Transformation
+Future Directions TREC
+AQUAINT
+WordNet
+PowerAnswer
+Wikipedia
+Human Seeking List
+Question Class Models

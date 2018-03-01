@@ -1,0 +1,30 @@
+TextCat
+TREC
+support vector machine
+TREC-8
+NIST
+RCV1
+RELIEFS
+North Texas participated
+SVMs
+CLARIT
+TREC-8
+SVMs
+TREC
+TextCat
+NIST
+support vector machine
+RELIEFS
+CLARIT
+North Texas participated
+RCV1
+SVMs
+CLARIT
+TREC
+North Texas participated
+NIST
+RCV1
+support vector machine
+TextCat
+TREC-8
+RELIEFS

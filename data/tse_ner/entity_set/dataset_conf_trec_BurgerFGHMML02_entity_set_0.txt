@@ -1,0 +1,7 @@
+WordNet
+Qanda
+TREC-11
+ROVERstyle
+IDF-weighted
+TREC
+LITREF

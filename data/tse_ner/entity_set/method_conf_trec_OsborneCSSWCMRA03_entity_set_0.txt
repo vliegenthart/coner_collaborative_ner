@@ -1,0 +1,45 @@
+Lucene
+TREC-like
+IRAP
+TREC-Genomics
+TREC
+LocusLink
+DICE
+TREC-supplied
+Maximum Entropy classification
+CDK-interaction
+Maximum Entropy classifier
+Edinburgh
+SwissProt
+Since Lucene returns
+Disease
+SwissProt
+CDK-interaction
+Disease
+DICE
+Edinburgh
+TREC
+IRAP
+Maximum Entropy classifier
+TREC-Genomics
+Maximum Entropy classification
+TREC-like
+Since Lucene returns
+Lucene
+LocusLink
+TREC-supplied
+IRAP
+TREC
+DICE
+TREC-supplied
+CDK-interaction
+Lucene
+SwissProt
+TREC-like
+Maximum Entropy classifier
+TREC-Genomics
+Since Lucene returns
+Maximum Entropy classification
+LocusLink
+Disease
+Edinburgh

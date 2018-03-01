@@ -1,0 +1,10 @@
+Inexpensive
+IZDBMS
+OLAP
+RDBMS
+OLTP
+Redmond
+Walmart
+ubiquitous.databases
+Microsoft
+MRP-Manufacturing

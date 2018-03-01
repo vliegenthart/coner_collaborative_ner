@@ -1,0 +1,8 @@
+USAID
+DAAT
+Qrels
+TAAT
+Answers.com
+Boolean
+Google
+WAND

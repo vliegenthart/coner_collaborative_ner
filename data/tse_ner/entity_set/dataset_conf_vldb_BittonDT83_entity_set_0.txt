@@ -1,0 +1,9 @@
+WISC
+Accelerator
+IDMdao
+INGRKS
+IDMdac
+INGRES
+Unix
+BufTer
+INCRES

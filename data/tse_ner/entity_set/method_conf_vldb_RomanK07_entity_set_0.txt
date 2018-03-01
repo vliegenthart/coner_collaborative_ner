@@ -1,0 +1,30 @@
+Semantic Web Services
+VLDB
+SWSL
+Concurrent Transaction Logic
+CONST
+EVENT
+Semantic Web with
+ENACTMENT
+Extended Inference System
+WSMO
+Extended Inference System
+WSMO
+VLDB
+Semantic Web Services
+CONST
+Concurrent Transaction Logic
+ENACTMENT
+Semantic Web with
+SWSL
+EVENT
+Concurrent Transaction Logic
+SWSL
+Semantic Web Services
+Semantic Web with
+ENACTMENT
+CONST
+EVENT
+Extended Inference System
+WSMO
+VLDB

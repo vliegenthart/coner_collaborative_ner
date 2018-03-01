@@ -1,0 +1,6 @@
+CheckMonotonic
+Seminaive
+Monotonicity
+Fibonacci
+FindHeight
+FindLimit

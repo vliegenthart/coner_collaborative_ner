@@ -1,0 +1,54 @@
+BIDs
+Prefetching
+RIDS
+Block Fetch operation
+HPUX
+SORT
+Query Graph Model
+Block Fetch method
+ORing
+ANDing
+Block Index Look
+BILA
+Canada
+POPS
+RIDs
+salesDate
+Query Compiler and
+Query Optimizer enhancements
+RIDs
+Block Fetch method
+HPUX
+BIDs
+Prefetching
+BILA
+Block Index Look
+Canada
+POPS
+Query Graph Model
+RIDS
+ORing
+SORT
+Block Fetch operation
+Query Optimizer enhancements
+ANDing
+salesDate
+Query Compiler and
+Block Fetch method
+Query Graph Model
+POPS
+RIDS
+RIDs
+Block Fetch operation
+BIDs
+ANDing
+Query Optimizer enhancements
+Prefetching
+salesDate
+Block Index Look
+Query Compiler and
+Canada
+ORing
+HPUX
+BILA
+SORT

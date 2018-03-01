@@ -1,0 +1,5 @@
+QUERY
+ODMG-93
+UnivDB
+Garlic
+SQL-style

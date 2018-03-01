@@ -1,0 +1,7 @@
+ReDDE
+BM25
+Dirichlet
+TREC
+SentiWordNet
+CombSUM
+FedWeb

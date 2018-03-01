@@ -1,0 +1,30 @@
+SORT
+DBMS
+DESC
+Relation Sorting is
+HDBL
+Inputn
+Query Evaluation The
+IGNORE
+SQL-like
+Supported Structures The
+IGNORE
+HDBL
+SORT
+DESC
+DBMS
+Supported Structures The
+SQL-like
+Inputn
+Relation Sorting is
+Query Evaluation The
+SQL-like
+Supported Structures The
+Inputn
+DESC
+Relation Sorting is
+IGNORE
+HDBL
+Query Evaluation The
+DBMS
+SORT

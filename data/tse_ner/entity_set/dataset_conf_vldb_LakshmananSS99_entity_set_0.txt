@@ -1,0 +1,8 @@
+OLAP
+RDBMS
+SchemaSQL
+SchemaSQLbased
+OLTP
+WIV988
+TPC-D
+GLS966

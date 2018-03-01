@@ -1,0 +1,51 @@
+Unstructured Information Perhaps
+Answer Resolution Knowledge
+QFrame
+NIL-assignment
+PIQUANT
+Average Precision Scores
+Knowledge Source Adapter
+QUANT
+TREC
+NIST Performance Evaluation
+AQUAINT
+Predictive Annotation (
+Question Answering Answering
+Maryland
+NILassignment
+TION
+NIST
+TION
+Question Answering Answering
+QFrame
+NIL-assignment
+NIST Performance Evaluation
+PIQUANT
+Average Precision Scores
+TREC
+QUANT
+Knowledge Source Adapter
+NIST
+Answer Resolution Knowledge
+Maryland
+NILassignment
+Predictive Annotation (
+AQUAINT
+Unstructured Information Perhaps
+QFrame
+QUANT
+TREC
+Knowledge Source Adapter
+NIL-assignment
+NIST
+Question Answering Answering
+Answer Resolution Knowledge
+PIQUANT
+Maryland
+Predictive Annotation (
+NILassignment
+NIST Performance Evaluation
+AQUAINT
+Average Precision Scores
+Unstructured Information Perhaps
+TION

@@ -1,0 +1,42 @@
+Number Total passage
+TreeTagger
+Question Answering (
+Question Analysis The
+Semantic Categories of
+Candidate Answer Selection
+WordNet Category vector
+TREC-9
+WordNet
+KUQA
+CITY
+Unsupported
+Experimental Results Our
+OKAPI
+TreeTagger
+Semantic Categories of
+Experimental Results Our
+TREC-9
+KUQA
+Number Total passage
+Question Answering (
+WordNet Category vector
+Question Analysis The
+OKAPI
+Candidate Answer Selection
+WordNet
+CITY
+Unsupported
+Question Answering (
+Experimental Results Our
+KUQA
+Number Total passage
+TREC-9
+WordNet Category vector
+CITY
+Candidate Answer Selection
+Question Analysis The
+OKAPI
+WordNet
+TreeTagger
+Unsupported
+Semantic Categories of

@@ -1,0 +1,81 @@
+INTEGER
+Database Catalog The
+Static Types Versus
+LISP
+Pascal
+PASCAL
+SQL-like
+Functions Information about
+POSTGRES
+Extensible Data Types)
+VLDB
+Galileo
+POSTQUEL
+HDBL
+EXODUS
+Advanced Information Management
+Introduction Current database
+DBMSs
+STARBURST
+DBMS
+DMBS
+GENESIS
+Robotics Database System
+Functions Although being
+PRTV
+DATE
+dynamic
+Introduction Current database
+DATE
+PRTV
+DMBS
+SQL-like
+Static Types Versus
+GENESIS
+DBMSs
+DBMS
+POSTQUEL
+dynamic
+LISP
+STARBURST
+VLDB
+Database Catalog The
+Galileo
+Functions Although being
+HDBL
+Advanced Information Management
+INTEGER
+Robotics Database System
+Functions Information about
+PASCAL
+EXODUS
+Extensible Data Types)
+POSTGRES
+Pascal
+EXODUS
+POSTQUEL
+SQL-like
+DATE
+Introduction Current database
+POSTGRES
+Extensible Data Types)
+Galileo
+Database Catalog The
+Advanced Information Management
+DMBS
+Static Types Versus
+PASCAL
+Functions Information about
+HDBL
+INTEGER
+GENESIS
+DBMS
+PRTV
+Robotics Database System
+STARBURST
+Functions Although being
+LISP
+DBMSs
+dynamic
+Pascal
+VLDB

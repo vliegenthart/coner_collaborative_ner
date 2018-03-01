@@ -1,0 +1,48 @@
+Lowercase
+Lucene
+Central Limit Theorem
+GOV2
+TREC
+TREC Million Query
+HTML
+ARSC
+GPPs
+Assessments Assessors made
+RMIT
+Million Query track
+Technology
+UMass
+NIST
+Glasgow
+UMass
+RMIT
+HTML
+Lowercase
+GOV2
+ARSC
+Million Query track
+Assessments Assessors made
+Central Limit Theorem
+GPPs
+TREC
+NIST
+TREC Million Query
+Glasgow
+Technology
+Lucene
+Million Query track
+GPPs
+TREC
+Technology
+Lowercase
+Lucene
+ARSC
+GOV2
+NIST
+Assessments Assessors made
+Glasgow
+TREC Million Query
+RMIT
+Central Limit Theorem
+HTML
+UMass

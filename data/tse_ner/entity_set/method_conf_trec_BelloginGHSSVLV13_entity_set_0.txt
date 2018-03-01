@@ -1,0 +1,39 @@
+Model Existing work
+Resource Selection For
+Resource Selection Task
+WikiLink
+Indri
+HTML
+TREC
+Wikipedia
+Collaborative Filtering Methodology
+URLs
+Croft
+Jaccard
+Feature Analysis and
+Resource Selection For
+HTML
+Indri
+Jaccard
+Model Existing work
+Wikipedia
+TREC
+Resource Selection Task
+Feature Analysis and
+WikiLink
+Collaborative Filtering Methodology
+URLs
+Croft
+Jaccard
+WikiLink
+Resource Selection For
+Indri
+Model Existing work
+TREC
+Resource Selection Task
+URLs
+Croft
+Collaborative Filtering Methodology
+Wikipedia
+Feature Analysis and
+HTML

@@ -1,0 +1,12 @@
+Legal
+BoolTermsWildcardExp
+CombiTextTerms
+FinalQuery
+CombSUM
+CombiTextTermsWildcard
+TextOnly
+RequestedText
+Boolean
+BoolLuceneTrans
+CombiTextLuceneTrans
+LUCENE

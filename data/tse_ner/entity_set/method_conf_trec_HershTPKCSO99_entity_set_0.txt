@@ -1,0 +1,36 @@
+Librarians
+TREC
+Interactive Track over
+Okapi
+TREC-8
+TREC-7
+TREC-7 Interactive Track
+Results Average Methods
+Q-expressions
+TREC-6
+OHSU
+NIST
+TREC-8
+Interactive Track over
+TREC-6
+TREC-7
+Okapi
+TREC
+TREC-7 Interactive Track
+Q-expressions
+NIST
+Librarians
+OHSU
+Results Average Methods
+TREC
+TREC-7
+NIST
+Librarians
+Interactive Track over
+TREC-7 Interactive Track
+Q-expressions
+Okapi
+TREC-8
+OHSU
+Results Average Methods
+TREC-6

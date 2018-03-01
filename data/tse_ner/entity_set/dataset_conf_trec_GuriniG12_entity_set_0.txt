@@ -1,0 +1,5 @@
+TIKA
+Mscore
+BM25
+TextCat
+TREC

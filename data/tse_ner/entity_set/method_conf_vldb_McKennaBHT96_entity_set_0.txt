@@ -1,0 +1,36 @@
+ExprSpace
+OODB
+BU-Enumerator
+Enumerator
+ExprXlass
+EROC-based
+ERIC
+Cartesian
+dynamic programming (
+Mapper
+Future Directions EROC
+GIJI
+Expression Representations Expressions
+Volcano EROC provides
+dynamic programming Volcano
+EROC
+OODBMS
+EROCbased
+ERIC
+Mapper
+BU-Enumerator
+Enumerator
+ExprXlass
+OODBMS
+OODB
+dynamic programming (
+Expression Representations Expressions
+EROC-based
+ExprSpace
+Cartesian
+Future Directions EROC
+Volcano EROC provides
+dynamic programming Volcano
+EROCbased
+EROC
+GIJI

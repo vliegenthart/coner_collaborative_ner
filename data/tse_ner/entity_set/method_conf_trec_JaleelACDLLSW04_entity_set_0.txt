@@ -1,0 +1,36 @@
+Massachusetts Amherst participated
+TREC
+Relevant Sentence Retrieval
+Retrieval Passage retrieval
+support vector machine
+TFIDF
+UMass
+Extracted Entities Previous
+SVMS
+Identifying Novel Sentences
+SVMbased
+SVMs
+SVMbased
+UMass
+Relevant Sentence Retrieval
+TFIDF
+SVMs
+Massachusetts Amherst participated
+TREC
+SVMS
+Extracted Entities Previous
+support vector machine
+Identifying Novel Sentences
+Retrieval Passage retrieval
+UMass
+TFIDF
+SVMs
+Massachusetts Amherst participated
+TREC
+Relevant Sentence Retrieval
+SVMS
+Extracted Entities Previous
+Retrieval Passage retrieval
+support vector machine
+Identifying Novel Sentences
+SVMbased

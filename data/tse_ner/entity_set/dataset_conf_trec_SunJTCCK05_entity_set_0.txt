@@ -1,0 +1,5 @@
+WordNet
+MiniPar
+TREC
+ASSERT
+PropBank

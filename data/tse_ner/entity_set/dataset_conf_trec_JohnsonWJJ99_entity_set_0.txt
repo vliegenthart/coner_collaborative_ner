@@ -1,0 +1,5 @@
+WordNet
+ASR-transcribed
+American
+LIMSI
+MLLR

@@ -1,0 +1,7 @@
+PIRC
+WIDIT
+WordNet
+PIRCS
+SpamGuru
+BoolAnd
+Google

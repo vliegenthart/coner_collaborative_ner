@@ -1,0 +1,39 @@
+Semantic Vectors (
+Lucene
+TREC-med
+Random Indexing Evaluation
+Since Lucene ranks
+TREC
+EMRs
+ICD-9
+UMLS
+Baseline Apache Lucene
+MedTagger
+NLP-driven
+OHSU
+NLP-driven
+Random Indexing Evaluation
+Semantic Vectors (
+EMRs
+Since Lucene ranks
+ICD-9
+Lucene
+MedTagger
+TREC-med
+TREC
+OHSU
+UMLS
+Baseline Apache Lucene
+Semantic Vectors (
+Baseline Apache Lucene
+TREC
+NLP-driven
+MedTagger
+UMLS
+Random Indexing Evaluation
+Lucene
+EMRs
+Since Lucene ranks
+OHSU
+TREC-med
+ICD-9

@@ -1,0 +1,30 @@
+TREC
+Question Answering track;
+Encyclopedia Stream Many
+QUARTZ
+AQUAINT
+Wikipedia
+Monday
+DATE
+Question Answering track
+Target Corpus and
+DATE
+QUARTZ
+Question Answering track;
+Monday
+Question Answering track
+Wikipedia
+TREC
+Encyclopedia Stream Many
+AQUAINT
+Target Corpus and
+TREC
+Target Corpus and
+AQUAINT
+DATE
+QUARTZ
+Monday
+Encyclopedia Stream Many
+Wikipedia
+Question Answering track
+Question Answering track;

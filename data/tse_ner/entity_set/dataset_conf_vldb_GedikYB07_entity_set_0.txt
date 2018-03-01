@@ -1,0 +1,8 @@
+DMA-list
+SPE-transparent
+DBMSs
+SPEs
+SPE-side
+Xeon
+SIMD
+PPE-side

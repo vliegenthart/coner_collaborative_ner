@@ -3,10 +3,19 @@
 # BEFORE RUNNING THIS SCRIPT, MAKE SURE ALL PDF FILES AND PDF_NAME_entities.json ARE THERE!
 
 # TODO
+# - IMPORTANT: MORE filtering needed for extracted entities: method_conf_vldb_X00_entity_set_0
+# - IMPORTANT: Combine all term sets for extraction, go give it bigger influence!!!
+# - Calculate top papers using ALL FACETS, both method and dataset (and maybe combined term_set?)
+# - Determine weight of terms vs weights to normalize the bias: Calculate according to 
+#   total number unique entities extracted in X sample papers and total unique terms in X terms sets for facet
 # - EXTRACT ALLLLLLL THE DATA DANIEL! ALSO FOR EACH FACET AND ALL PDFS
 # - Maybe just crawl entire publications collection and save it locally???
 # - Add supports and parameter passing for FACETS
 # - Fix facet for enrichment XHTML
+# - Add some statistics about percentage papers with direct link to pdf, and how many to crawl for: 
+#     - Dataset, 1000 PDFS: 3754 -> 37.5%
+#     - Method, 500 PDFS: 1571 -> 31.8%
+# - Build a way for Coner PDFNLT Bash to only analyse subset of PDFS
 
 # ############## #
 #      SETUP     #
@@ -90,28 +99,26 @@ echo $string_lines
 # Create overview of all papers with journal and number extracted entities
 if [ ! -f "../named_entity_recognizer/data/${database}/${facet}_papers_journal_entities_overview.csv" ]; then
   python "../named_entity_recognizer/create_papers_journal_entities_overview.py" $database $facet
+
+  echo "Copying papers_journal_entities overview to data/${database}/ directory..."
+  cp -R "data/${database}/${facet}_papers_journal_entities_overview.csv" "data/${database}/OLD_${facet}_papers_journal_entities_overview.csv" || :
+  cp -R "../named_entity_recognizer/data/${database}/${facet}_papers_journal_entities_overview.csv" "data/${database}/${facet}_papers_journal_entities_overview.csv"
 fi
-
-echo "Copying papers_journal_entities overview to data/${database}/ directory..."
-cp -R "data/${database}/${facet}_papers_journal_entities_overview.csv" "data/${database}/OLD_${facet}_papers_journal_entities_overview.csv" || :
-cp -R "../named_entity_recognizer/data/${database}/${facet}_papers_journal_entities_overview.csv" "data/${database}/${facet}_papers_journal_entities_overview.csv"
-
 
 # Fetch, write and copy papers information from TSE-NER server; publication attributes, pdf file, entities and full text
-if [ ! -z $4 ]; then
+if [[ ! -z "$4" ]]; then
   python "../named_entity_recognizer/download_paper_objects.py" $database $facet $sample_number_papers 
+
+  echo "Copying papers information from ${database} server; publication attributes, pdf file, entities and full text..."
+  cp -R "data/${database}/${facet}_papers_information_overview.csv" "data/${database}/OLD_${facet}_papers_information_overview.csv" || :
+  cp -R "../named_entity_recognizer/data/${database}/" "data/${database}/"
+  cp -R "../named_entity_recognizer/data/${database}/pdf/" "../PDFNLT/pdfanalyzer/${database}_pdf/"
 fi
 
-echo "Copying papers information from ${database} server; publication attributes, pdf file, entities and full text..."
-cp -R "data/${database}/${facet}_papers_information_overview.csv" "data/${database}/OLD_${facet}_papers_information_overview.csv" || :
-cp -R "../named_entity_recognizer/data/${database}/" "data/${database}/"
-cp -R "../named_entity_recognizer/data/${database}/pdf/" "../PDFNLT/pdfanalyzer/${database}_pdf/"
+
 
 # 
 # cp -R "data/${database}/${facet}_papers_journal_entities_overview.csv" "data/${database}/OLD_${facet}_papers_journal_entities_overview.csv" || :
 # cp -R "../named_entity_recognizer/data/${database}/${facet}_papers_journal_entities_overview.csv" "data/${database}/${facet}_papers_journal_entities_overview.csv"
-
-
-
 
 

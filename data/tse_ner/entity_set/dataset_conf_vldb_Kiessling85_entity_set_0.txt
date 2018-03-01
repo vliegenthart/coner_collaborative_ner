@@ -1,0 +1,13 @@
+COUNT
+NULL-values
+SUPPLY
+PNUM
+RTI-Ingres
+Berkeley
+QUEL-like
+QUEL
+SELECT
+QUEL-queries
+COUNT-aggregate
+SQL-like
+WHERE

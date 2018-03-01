@@ -1,0 +1,4 @@
+CNLP
+WordNet
+TREC
+PRISE

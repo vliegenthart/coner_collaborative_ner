@@ -1,0 +1,9 @@
+ISIDE
+tResearch
+PCNfor
+ANCESTOR
+DATALOGneg
+DATALOGset
+DBMS
+DATALOG
+Ancestor

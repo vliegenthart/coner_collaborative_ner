@@ -1,0 +1,42 @@
+Multiple Iterators Bidirectional
+MI-Backward
+DBLP
+JDBC
+IDREF
+OutputHeap Activation Initialization
+Directionality
+Graph Data Model
+RDBMS
+BANKS
+OutputHeap
+Bidirectional search with
+Discouraging
+Pagerank Backward Expanding
+BANKS
+Pagerank Backward Expanding
+DBLP
+Multiple Iterators Bidirectional
+OutputHeap Activation Initialization
+RDBMS
+OutputHeap
+IDREF
+MI-Backward
+Directionality
+Discouraging
+Bidirectional search with
+JDBC
+Graph Data Model
+OutputHeap
+DBLP
+OutputHeap Activation Initialization
+BANKS
+RDBMS
+Discouraging
+MI-Backward
+JDBC
+Pagerank Backward Expanding
+IDREF
+Directionality
+Graph Data Model
+Bidirectional search with
+Multiple Iterators Bidirectional

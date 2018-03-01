@@ -1,0 +1,7 @@
+dry.clean
+WordNet
+us.air
+job.application
+TREC
+cont.air
+air.force

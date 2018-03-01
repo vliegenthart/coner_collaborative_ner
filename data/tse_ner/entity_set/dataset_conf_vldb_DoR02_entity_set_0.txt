@@ -1,0 +1,5 @@
+COMA
+TypeName
+NamePath
+www.biztalk.org
+MatchCompose

@@ -1,0 +1,8 @@
+Dept
+DeptHead
+QUEL
+Datatype
+TopEmployee
+SubComponents
+DeptHeadof
+ARIEL

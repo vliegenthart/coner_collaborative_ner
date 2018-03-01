@@ -1,0 +1,30 @@
+Berkeley
+dynamic programming technique
+CLEF
+Taiwan
+TREC
+European
+TREC-9
+TREC-2 Manual queries
+Chinese
+GOOGLE
+TREC-2 Manual queries
+TREC-9
+TREC
+GOOGLE
+Chinese
+European
+Taiwan
+Berkeley
+CLEF
+dynamic programming technique
+European
+Chinese
+CLEF
+dynamic programming technique
+TREC
+TREC-9
+Taiwan
+GOOGLE
+TREC-2 Manual queries
+Berkeley

@@ -1,0 +1,6 @@
+Objects
+RDBMS
+ODBMS
+COOL
+COCOON
+UpperManagement

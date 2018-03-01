@@ -1,0 +1,7 @@
+NULL
+Theorem
+BHUNT
+Bernoulli
+TPC-D
+DBMS
+WHERE

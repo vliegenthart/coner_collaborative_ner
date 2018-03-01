@@ -1,0 +1,6 @@
+WordNet
+COGEX
+TREC
+SUMO
+Conditional
+PowerAnswer

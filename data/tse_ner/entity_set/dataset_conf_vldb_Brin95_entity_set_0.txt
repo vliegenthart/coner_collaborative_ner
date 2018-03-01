@@ -1,0 +1,6 @@
+Euclidean
+Seurat
+Dirichlet
+GNAT
+Edit
+InsDel

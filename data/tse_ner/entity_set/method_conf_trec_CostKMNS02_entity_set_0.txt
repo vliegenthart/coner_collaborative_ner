@@ -1,0 +1,48 @@
+Platform Agent creates
+Distributed Information Retrieval
+Cluster Agent is
+WONDIR
+Jackal
+SavvySearch Distributed Information
+Jackal Each Cluster
+TREC
+Collection Manager becomes
+RUN3
+CORI
+Inverse Collection Frequency
+Cluster Agent Because
+Inverse Document Frequency
+Operation Metadata distribution
+CARROT
+Distributed Information Retrieval
+CORI
+CARROT
+Inverse Collection Frequency
+Cluster Agent Because
+Operation Metadata distribution
+Platform Agent creates
+Inverse Document Frequency
+Jackal Each Cluster
+TREC
+SavvySearch Distributed Information
+WONDIR
+RUN3
+Cluster Agent is
+Jackal
+Collection Manager becomes
+Distributed Information Retrieval
+Operation Metadata distribution
+CARROT
+TREC
+Inverse Document Frequency
+WONDIR
+Jackal Each Cluster
+RUN3
+Collection Manager becomes
+SavvySearch Distributed Information
+Jackal
+Inverse Collection Frequency
+Cluster Agent Because
+CORI
+Cluster Agent is
+Platform Agent creates

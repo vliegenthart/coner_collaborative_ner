@@ -1,0 +1,17 @@
+SeekFactor
+DBMIN-based
+DisbZonst
+Source
+NumTracks
+DBMIN
+CPUs
+RepPolpi
+JoinMethodi
+AcCewWPothii
+OptBufs
+OptBufsHtmm
+BYES
+LRU-based
+DBMJN
+DBMS
+BYEFCNODYES

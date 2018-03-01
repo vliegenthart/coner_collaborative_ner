@@ -1,0 +1,36 @@
+Lucene
+Nugget Identification and
+Final Evaluation Results
+TREC
+AQUAINT
+JAPE
+Question Anwering Like
+Target Original Question
+Saggion Pattern Semantic
+Factoid
+WordNet
+MadCow
+Saggion Pattern Semantic
+Factoid
+JAPE
+Final Evaluation Results
+TREC
+Question Anwering Like
+Nugget Identification and
+MadCow
+Target Original Question
+WordNet
+AQUAINT
+Lucene
+Question Anwering Like
+Factoid
+TREC
+Lucene
+MadCow
+AQUAINT
+Saggion Pattern Semantic
+Nugget Identification and
+Target Original Question
+WordNet
+Final Evaluation Results
+JAPE

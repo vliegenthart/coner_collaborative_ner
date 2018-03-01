@@ -1,0 +1,39 @@
+TREC
+VLDB
+SVM-best
+Reuters
+ANSI
+SVMlight
+OHSUMED
+SIMPL
+WEKA
+SMART
+Iterative Multiple Projection
+Linear support vector
+SVMs
+SVMs
+Iterative Multiple Projection
+SVMlight
+Linear support vector
+TREC
+VLDB
+ANSI
+WEKA
+Reuters
+OHSUMED
+SIMPL
+SVM-best
+SMART
+Reuters
+ANSI
+SMART
+TREC
+Linear support vector
+SVM-best
+SVMlight
+WEKA
+OHSUMED
+SIMPL
+Iterative Multiple Projection
+VLDB
+SVMs

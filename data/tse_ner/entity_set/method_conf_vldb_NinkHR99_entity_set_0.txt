@@ -1,0 +1,54 @@
+Implementations Regarding binding
+DBMSs
+Advanced Database Application
+APIs
+SQLJ
+JDBC
+LATE
+DBMS
+SWIZZLE
+COAPI
+AtomicPart
+CLIs
+QueryParts
+DBLs
+Programming Models Different
+LAZY
+Statements Given an
+EAGER
+Advanced Database Application
+Programming Models Different
+DBMSs
+Implementations Regarding binding
+LATE
+SWIZZLE
+COAPI
+APIs
+Statements Given an
+DBLs
+CLIs
+AtomicPart
+DBMS
+LAZY
+EAGER
+QueryParts
+JDBC
+SQLJ
+Statements Given an
+EAGER
+Advanced Database Application
+COAPI
+DBMSs
+AtomicPart
+LATE
+APIs
+Programming Models Different
+JDBC
+CLIs
+Implementations Regarding binding
+LAZY
+SWIZZLE
+DBMS
+SQLJ
+DBLs
+QueryParts

@@ -1,0 +1,15 @@
+ExecuteQuery
+GetObject
+SetID
+RDBMS
+OODBs
+Microsoft
+GetNext
+AttrName
+ObjectID
+ObjID
+POODB
+GetAttribute
+ObjectInstances
+OMRDB
+Smalltalk

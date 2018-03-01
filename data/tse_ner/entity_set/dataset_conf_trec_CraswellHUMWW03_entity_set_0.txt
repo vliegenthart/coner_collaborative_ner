@@ -1,0 +1,8 @@
+TDLinear
+TDHierarchic
+TDHiearchic
+Searcher
+NPonly
+CSIRO
+TDAuto
+Likert

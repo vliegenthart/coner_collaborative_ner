@@ -1,0 +1,6 @@
+NFNF
+BEFORE
+AFTER
+SPECDOQ
+ESE-expression
+SQL-like

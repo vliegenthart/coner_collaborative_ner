@@ -1,0 +1,36 @@
+Unicode Standard Searching
+DOCNO
+UNIX
+DLEN
+TREC
+HTML
+SearchServer
+ROOT
+NTFS
+North American Windows
+META
+European
+META
+HTML
+NTFS
+SearchServer
+North American Windows
+TREC
+DOCNO
+European
+ROOT
+Unicode Standard Searching
+DLEN
+UNIX
+European
+Unicode Standard Searching
+DLEN
+SearchServer
+TREC
+ROOT
+NTFS
+North American Windows
+META
+DOCNO
+UNIX
+HTML

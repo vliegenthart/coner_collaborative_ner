@@ -1,0 +1,33 @@
+Arabic
+IRbased
+TREC
+Inverse Collection Term
+SJMN-3
+PRISE
+FBIS-5 Approach Our
+TREC-9
+NIST
+Chinese
+PIRCS
+PRISE
+FBIS-5 Approach Our
+Inverse Collection Term
+SJMN-3
+TREC-9
+TREC
+NIST
+Chinese
+Arabic
+PIRCS
+IRbased
+Chinese
+PRISE
+TREC
+TREC-9
+FBIS-5 Approach Our
+PIRCS
+NIST
+Inverse Collection Term
+Arabic
+IRbased
+SJMN-3

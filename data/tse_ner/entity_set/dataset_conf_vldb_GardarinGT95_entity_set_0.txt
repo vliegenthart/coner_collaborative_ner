@@ -1,0 +1,5 @@
+IOXompXost
+NbPage
+Comp
+ObjectStore
+IO-Cost

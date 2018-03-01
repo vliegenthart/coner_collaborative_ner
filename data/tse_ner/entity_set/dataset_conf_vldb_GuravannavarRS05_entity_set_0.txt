@@ -1,0 +1,13 @@
+LQDAG
+PQDAG
+DAILYSALES
+LATERAL
+Optimizer
+LINEITEM
+SELECT
+PhysEqNode
+PhysProp
+ParamSortOrder
+PostgreSQL
+WHERE
+FindBestPlan

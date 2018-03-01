@@ -1,0 +1,6 @@
+Lucene
+STIRS
+WordNet
+TREC
+TREC-format
+Google

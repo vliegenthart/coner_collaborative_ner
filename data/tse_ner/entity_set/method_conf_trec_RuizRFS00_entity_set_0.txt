@@ -1,0 +1,42 @@
+HowNet
+Conceptual Interlingua resources
+CINDOR
+SMART
+TREC
+TREC-8
+Conceptual Interlingua languages
+Conceptual Interlingua can
+TREC-9
+TREC-6 Chinese track
+Conceptual Interlingua approach
+NIST
+Chinese
+TREC-5
+Conceptual Interlingua languages
+TREC-8
+TREC-9
+HowNet
+CINDOR
+TREC
+Conceptual Interlingua resources
+SMART
+Chinese
+NIST
+Conceptual Interlingua approach
+TREC-6 Chinese track
+TREC-5
+Conceptual Interlingua can
+Chinese
+HowNet
+TREC-6 Chinese track
+TREC
+TREC-9
+Conceptual Interlingua resources
+NIST
+Conceptual Interlingua approach
+Conceptual Interlingua can
+SMART
+TREC-5
+TREC-8
+CINDOR
+Conceptual Interlingua languages

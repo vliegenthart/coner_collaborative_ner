@@ -1,0 +1,42 @@
+Mechanical Turk and
+Participant Approaches 17
+Assessors
+Contexts Contexts describe
+TREC
+BJUT
+FDWD
+GeoFiltered
+TouristFiltered
+RAMA
+URLs
+Random Forest (
+NIST
+Example Suggestions First
+TouristFiltered
+Participant Approaches 17
+Mechanical Turk and
+Example Suggestions First
+Random Forest (
+BJUT
+TREC
+NIST
+RAMA
+GeoFiltered
+URLs
+Contexts Contexts describe
+Assessors
+FDWD
+BJUT
+Contexts Contexts describe
+TREC
+Random Forest (
+FDWD
+Mechanical Turk and
+URLs
+NIST
+RAMA
+TouristFiltered
+Example Suggestions First
+Participant Approaches 17
+Assessors
+GeoFiltered

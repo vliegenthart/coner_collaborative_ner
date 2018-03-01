@@ -1,0 +1,42 @@
+ARDA
+GOV2
+GTTs
+Sabir Research TREC
+TREC
+HTML
+TREC-3
+TREC-5
+AQUAINT
+Retrieval Information retrieval
+Waterloo
+NIST
+Glasgow
+NIST Thirteen groups
+GTTs
+GOV2
+HTML
+Sabir Research TREC
+ARDA
+TREC
+TREC-3
+NIST
+Retrieval Information retrieval
+Glasgow
+NIST Thirteen groups
+Waterloo
+AQUAINT
+TREC-5
+Sabir Research TREC
+NIST Thirteen groups
+TREC
+TREC-3
+Retrieval Information retrieval
+Waterloo
+ARDA
+AQUAINT
+NIST
+GOV2
+GTTs
+TREC-5
+Glasgow
+HTML

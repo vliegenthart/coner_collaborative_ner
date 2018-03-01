@@ -1,0 +1,63 @@
+VLDB
+Saxon
+XQUF
+FunApp
+SOAP Fault message
+ODBC
+JDBC
+XQuery Updating Functions
+SOAP XRPC protocol
+XQuery
+SOAP
+XRPC
+XQuery Formal Semantics
+Repeatable Read XQuery
+Function Cache With
+XQuery Modules Queries
+Formal Semantics is
+dynamic environment dynEnv
+SOAP XRPC message
+RPCs
+XPath
+SOAP Fault message
+Function Cache With
+XPath
+XQuery
+SOAP XRPC protocol
+dynamic environment dynEnv
+XQuery Formal Semantics
+JDBC
+XQuery Updating Functions
+ODBC
+Formal Semantics is
+XRPC
+FunApp
+SOAP
+Saxon
+RPCs
+SOAP XRPC message
+XQuery Modules Queries
+VLDB
+Repeatable Read XQuery
+XQUF
+Repeatable Read XQuery
+XPath
+Function Cache With
+SOAP Fault message
+dynamic environment dynEnv
+XQuery Modules Queries
+XRPC
+ODBC
+Formal Semantics is
+SOAP XRPC message
+SOAP
+XQuery
+XQUF
+SOAP XRPC protocol
+JDBC
+RPCs
+Saxon
+VLDB
+XQuery Formal Semantics
+FunApp
+XQuery Updating Functions

@@ -1,0 +1,5 @@
+Insert
+EMPLOYEE
+DEPARTMENT
+InsertMAX
+Dept

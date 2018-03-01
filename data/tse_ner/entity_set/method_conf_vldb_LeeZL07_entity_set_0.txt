@@ -1,0 +1,39 @@
+Initial Delay when
+Initial Delay and
+Implementation Issues There
+Request Window works
+Maximized Delay Time
+LINEITEM
+Sharing Transferred Data
+DIOP
+IGNITE
+QPipe
+Total Transfer Time
+RDBMS
+Append
+Implementation Issues There
+IGNITE
+Sharing Transferred Data
+QPipe
+RDBMS
+LINEITEM
+Request Window works
+Maximized Delay Time
+Append
+DIOP
+Initial Delay and
+Initial Delay when
+Total Transfer Time
+IGNITE
+Request Window works
+QPipe
+Implementation Issues There
+RDBMS
+DIOP
+Append
+Total Transfer Time
+Initial Delay when
+Sharing Transferred Data
+Maximized Delay Time
+Initial Delay and
+LINEITEM

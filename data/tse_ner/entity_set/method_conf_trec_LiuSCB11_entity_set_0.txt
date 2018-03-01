@@ -1,0 +1,30 @@
+Rgposneg
+Rsposneg
+TREC
+Indri
+David Pane at
+SERP
+Lemur
+TREC-6
+IMLS
+SERPs
+SERP
+Indri
+David Pane at
+TREC-6
+Rgposneg
+Rsposneg
+TREC
+Lemur
+SERPs
+IMLS
+Rsposneg
+Indri
+IMLS
+TREC
+David Pane at
+SERP
+Rgposneg
+Lemur
+SERPs
+TREC-6

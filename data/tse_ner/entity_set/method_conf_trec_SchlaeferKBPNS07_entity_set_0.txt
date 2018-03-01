@@ -1,0 +1,30 @@
+TREC
+Ephyra
+Wikipedia
+Semantic Features @BULLET
+ASSERT
+Candidate Answers Semantic
+Since Wikipedia is
+Score Normalization and
+Kaisser
+Answer Generator (
+Ephyra
+Kaisser
+ASSERT
+Candidate Answers Semantic
+Wikipedia
+TREC
+Semantic Features @BULLET
+Answer Generator (
+Since Wikipedia is
+Score Normalization and
+ASSERT
+TREC
+Semantic Features @BULLET
+Kaisser
+Answer Generator (
+Score Normalization and
+Wikipedia
+Ephyra
+Since Wikipedia is
+Candidate Answers Semantic

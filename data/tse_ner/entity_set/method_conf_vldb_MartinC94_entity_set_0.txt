@@ -1,0 +1,42 @@
+CORBA
+Relationship Service and
+Common Object Services
+DBMS
+Relationship Service is
+TheservicesarespecifiedinOMGIDLandateintended
+CGRBA
+CORIMDL
+COSS
+CORRA
+Object Management Group
+Traversal
+Related Objects When
+Distributed Object Systems
+Relationship Service is
+Relationship Service and
+TheservicesarespecifiedinOMGIDLandateintended
+Common Object Services
+CGRBA
+CORIMDL
+COSS
+Object Management Group
+CORRA
+DBMS
+Distributed Object Systems
+Traversal
+Related Objects When
+CORBA
+Object Management Group
+Related Objects When
+CORIMDL
+DBMS
+TheservicesarespecifiedinOMGIDLandateintended
+Common Object Services
+Traversal
+CGRBA
+Relationship Service is
+Relationship Service and
+COSS
+CORBA
+Distributed Object Systems
+CORRA

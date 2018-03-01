@@ -1,0 +1,4 @@
+VotingModel
+BM25
+TREC
+POSTECH

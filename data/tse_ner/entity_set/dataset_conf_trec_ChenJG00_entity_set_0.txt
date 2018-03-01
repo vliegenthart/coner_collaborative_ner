@@ -1,0 +1,5 @@
+CLEF
+GOOGLE
+TREC
+Berkeley
+KingSoft

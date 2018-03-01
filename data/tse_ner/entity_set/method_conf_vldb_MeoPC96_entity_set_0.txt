@@ -1,0 +1,36 @@
+VLDB
+AllGroups
+ItemHierarchy
+OrderedSets
+CountAllGroups
+Mining Condition Hierarchies
+AddConfidence
+SimpleAssociations
+AddSupport
+MIME
+DISTINCT
+Permission
+DISTINCT
+SimpleAssociations
+Mining Condition Hierarchies
+OrderedSets
+AddSupport
+Permission
+CountAllGroups
+MIME
+VLDB
+AddConfidence
+AllGroups
+ItemHierarchy
+AddConfidence
+OrderedSets
+Permission
+Mining Condition Hierarchies
+CountAllGroups
+ItemHierarchy
+DISTINCT
+SimpleAssociations
+AllGroups
+MIME
+VLDB
+AddSupport

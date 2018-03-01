@@ -1,0 +1,30 @@
+Classes Employee and
+DeptHead
+DBMS
+ARIE
+DAPLEX
+TopEmployee
+ARIEL
+QUEL
+Aggregate Functions When
+Employee
+Classes Employee and
+QUEL
+ARIEL
+DAPLEX
+ARIE
+DBMS
+DeptHead
+Aggregate Functions When
+Employee
+TopEmployee
+Aggregate Functions When
+QUEL
+ARIEL
+Classes Employee and
+Employee
+DBMS
+ARIE
+DeptHead
+DAPLEX
+TopEmployee

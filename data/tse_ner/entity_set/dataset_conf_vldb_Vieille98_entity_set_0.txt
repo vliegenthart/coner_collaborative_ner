@@ -1,0 +1,5 @@
+Datalog
+VALIDITY
+ODMG-like
+Prolog
+Declarativity

@@ -1,0 +1,36 @@
+ODUS
+UNIX
+DEMOS
+Bitmap Encoding Space
+DBMS
+CRAY
+XDFS
+INGRES
+EXODUS
+Design Goals Three
+Alpine
+DTSS
+UNIX
+Alpine
+DTSS
+XDFS
+Bitmap Encoding Space
+DBMS
+EXODUS
+Design Goals Three
+ODUS
+INGRES
+CRAY
+DEMOS
+ODUS
+EXODUS
+CRAY
+DTSS
+UNIX
+INGRES
+XDFS
+Design Goals Three
+Alpine
+DEMOS
+DBMS
+Bitmap Encoding Space

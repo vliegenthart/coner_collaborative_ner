@@ -1,0 +1,5 @@
+TREC-11
+Reuters
+TREC-10
+TFIDF
+SMART

@@ -1,0 +1,6 @@
+WordNet
+TREC11
+FASTR
+TreeTagger
+TREC
+QALC

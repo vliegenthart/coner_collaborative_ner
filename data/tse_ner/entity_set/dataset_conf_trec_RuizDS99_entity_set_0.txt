@@ -1,0 +1,6 @@
+ConText
+SMART
+WordNet
+TREC
+Oracle
+CINDOR

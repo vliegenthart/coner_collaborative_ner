@@ -1,0 +1,33 @@
+Navigation Knowledge Function
+Navigation Knowledge Navigation
+System Capability Before
+HTML
+Classification Knowledge Function
+Result Presenter asks
+ApplyClassification
+URLs
+Segment Graph Module
+Classification Knowledge The
+Locator Locator returns
+System Capability Before
+Locator Locator returns
+Result Presenter asks
+HTML
+URLs
+ApplyClassification
+Classification Knowledge The
+Navigation Knowledge Navigation
+Navigation Knowledge Function
+Segment Graph Module
+Classification Knowledge Function
+Segment Graph Module
+Locator Locator returns
+Classification Knowledge Function
+Navigation Knowledge Function
+HTML
+System Capability Before
+Result Presenter asks
+Navigation Knowledge Navigation
+Classification Knowledge The
+URLs
+ApplyClassification

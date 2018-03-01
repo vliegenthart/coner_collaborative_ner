@@ -1,0 +1,12 @@
+SqlConnect
+Trigger
+Alert
+SqlDisconnect
+SqlRead
+SqIConnect
+SqlExec
+DBMS
+SqZExec
+IZB901
+INRIA
+Deduction

@@ -1,0 +1,69 @@
+Arabic
+SearchServer
+CLEF
+TREC
+TREC-9
+NIST
+WordPerfect
+SQLFetch
+SGML
+HTML
+Unicode
+Fulcrum Technologies Document
+Statistical Relevance Ranking
+Okapi Query Stop
+German
+UNIX
+FTDF
+ODBC
+North American Windows
+TRAILER
+Finnish
+PARSER
+UTF-8
+FTDF
+HTML
+PARSER
+TRAILER
+SearchServer
+North American Windows
+UTF-8
+Okapi Query Stop
+Finnish
+Unicode
+German
+CLEF
+Statistical Relevance Ranking
+SGML
+SQLFetch
+TREC
+UNIX
+WordPerfect
+ODBC
+TREC-9
+Arabic
+NIST
+Fulcrum Technologies Document
+CLEF
+SQLFetch
+Statistical Relevance Ranking
+German
+TREC
+TREC-9
+SGML
+FTDF
+Finnish
+North American Windows
+PARSER
+UNIX
+Fulcrum Technologies Document
+HTML
+Okapi Query Stop
+NIST
+Arabic
+ODBC
+WordPerfect
+TRAILER
+UTF-8
+SearchServer
+Unicode

@@ -1,0 +1,9 @@
+COLINT
+DelticProject
+NULLS
+Outerjoins
+DeltsProject
+SELECT
+EXISTS
+DEPT
+WHERE

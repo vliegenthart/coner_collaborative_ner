@@ -1,0 +1,39 @@
+Apache Lucene Find
+Lucene
+Substring Anaphoras such
+Standard Analyzer provided
+PMID
+TGFB
+PMIDs
+TREC
+Search Information regarding
+SCOs
+MedLine
+ASCII
+MEDLINE
+Substring Anaphoras such
+PMIDs
+Search Information regarding
+Apache Lucene Find
+MEDLINE
+Lucene
+MedLine
+SCOs
+TREC
+ASCII
+Standard Analyzer provided
+PMID
+TGFB
+TREC
+Apache Lucene Find
+SCOs
+Standard Analyzer provided
+PMIDs
+Lucene
+MEDLINE
+ASCII
+TGFB
+MedLine
+Search Information regarding
+Substring Anaphoras such
+PMID

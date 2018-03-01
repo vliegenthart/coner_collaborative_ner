@@ -1,0 +1,7 @@
+ACID
+PlanetLab
+DHT-based
+DHTbased
+PIER
+SQL-like
+TBIT

@@ -1,0 +1,30 @@
+USPTO
+TREC
+WIPO
+LMIR
+TDAC
+Engineering
+Comparing Other observations
+IIIA
+PubChem
+SCAI
+WIPO
+IIIA
+Engineering
+SCAI
+TREC
+TDAC
+LMIR
+USPTO
+PubChem
+Comparing Other observations
+TREC
+Engineering
+TDAC
+Comparing Other observations
+WIPO
+LMIR
+IIIA
+SCAI
+PubChem
+USPTO

@@ -1,0 +1,5 @@
+MPLS
+Fisher
+PROPORTIONAL
+Hessian
+Multinomial

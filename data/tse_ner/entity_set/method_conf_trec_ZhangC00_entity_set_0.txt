@@ -1,0 +1,36 @@
+YFILTER
+TREC-9 Adaptive Filtering
+TREC
+MESH
+TREC-8
+YFilter
+TREC-9
+OHSUMED
+TREC-9 Further experiments
+TREC-6
+OHSU
+MEDLINE
+TREC-9 Further experiments
+YFILTER
+TREC-9 Adaptive Filtering
+TREC-8
+OHSUMED
+TREC-9
+MEDLINE
+TREC-6
+MESH
+TREC
+YFilter
+OHSU
+OHSUMED
+TREC
+TREC-9 Adaptive Filtering
+TREC-9 Further experiments
+YFILTER
+TREC-9
+MEDLINE
+MESH
+TREC-8
+YFilter
+OHSU
+TREC-6

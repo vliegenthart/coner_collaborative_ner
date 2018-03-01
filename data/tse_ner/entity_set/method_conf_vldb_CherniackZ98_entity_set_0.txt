@@ -1,0 +1,33 @@
+VLDB
+KOLA
+KQLA
+Predicate Strength Rules
+Semantic Transformations Some
+Starburst Conditionul rewrite
+Predicate Strength Example
+KOLA KOLA is
+COKO
+Strength Predicate strength
+Semantic Capabilities to
+Predicate Strength Example
+KOLA
+COKO
+VLDB
+Predicate Strength Rules
+Semantic Transformations Some
+Semantic Capabilities to
+KOLA KOLA is
+KQLA
+Starburst Conditionul rewrite
+Strength Predicate strength
+Semantic Capabilities to
+Semantic Transformations Some
+Predicate Strength Example
+KQLA
+KOLA
+Predicate Strength Rules
+Strength Predicate strength
+KOLA KOLA is
+COKO
+VLDB
+Starburst Conditionul rewrite

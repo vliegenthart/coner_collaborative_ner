@@ -1,0 +1,39 @@
+California
+DBMSs
+Internet Search engines
+Query Execution Strategies
+Zipfian
+DBMS
+Restarts
+PHASED
+Multidimensional Histograms For
+MAXDIFF
+Different Scoring Functions
+Traditional Selection Query
+NoRestarts
+MAXDIFF
+DBMSs
+NoRestarts
+Internet Search engines
+Restarts
+PHASED
+Traditional Selection Query
+California
+DBMS
+Multidimensional Histograms For
+Different Scoring Functions
+Query Execution Strategies
+Zipfian
+Different Scoring Functions
+NoRestarts
+MAXDIFF
+PHASED
+DBMSs
+Multidimensional Histograms For
+Restarts
+Internet Search engines
+Zipfian
+Query Execution Strategies
+California
+DBMS
+Traditional Selection Query

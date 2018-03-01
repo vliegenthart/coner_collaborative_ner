@@ -1,0 +1,33 @@
+GermanFrench
+CLIR
+TREC
+FrenchEnglish
+Spoken Document Retrieval
+TREC-8
+Language Systems group
+TREC-7
+French
+EqFdsystem
+EnglishFrench
+CLIR
+Language Systems group
+French
+TREC-8
+FrenchEnglish
+Spoken Document Retrieval
+TREC-7
+TREC
+EnglishFrench
+GermanFrench
+EqFdsystem
+CLIR
+EnglishFrench
+TREC
+Language Systems group
+Spoken Document Retrieval
+TREC-7
+French
+TREC-8
+GermanFrench
+EqFdsystem
+FrenchEnglish

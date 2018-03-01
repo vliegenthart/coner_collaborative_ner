@@ -1,0 +1,30 @@
+CDIP
+TREC
+Indri
+RequestText
+Legal Track provides
+Okapi
+FinalQuery
+TFIDF
+RejoinderByPlaintiff
+Porter Stemmer during
+CDIP
+Indri
+Porter Stemmer during
+TFIDF
+TREC
+Okapi
+RequestText
+Legal Track provides
+FinalQuery
+RejoinderByPlaintiff
+Indri
+TFIDF
+TREC
+RejoinderByPlaintiff
+Porter Stemmer during
+CDIP
+Okapi
+FinalQuery
+RequestText
+Legal Track provides

@@ -1,0 +1,42 @@
+Exact Precision Initial
+TREC-7 CLIR topics
+CLIR
+Italian
+TREC
+European
+CLARITECH
+TREC-8 CLIR track
+TREC-8
+SYSTRAN Enterprise ,
+TREC-7
+TREC-6
+Chinese CLIR With
+CLARIT
+CLIR
+TREC-8
+CLARITECH
+TREC-6
+TREC-7
+TREC
+Italian
+Exact Precision Initial
+Chinese CLIR With
+European
+TREC-7 CLIR topics
+SYSTRAN Enterprise ,
+CLARIT
+TREC-8 CLIR track
+European
+CLIR
+TREC-7 CLIR topics
+CLARIT
+TREC
+TREC-8 CLIR track
+Exact Precision Initial
+TREC-7
+Chinese CLIR With
+TREC-6
+CLARITECH
+TREC-8
+SYSTRAN Enterprise ,
+Italian

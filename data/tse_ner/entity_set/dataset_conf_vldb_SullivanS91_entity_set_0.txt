@@ -1,0 +1,12 @@
+Sprite
+POSTGRES
+Writable
+Guarding
+ExposeData
+CPU-bound
+Taos
+HideData
+DECStation
+DBMS
+InstullDala
+MideDara

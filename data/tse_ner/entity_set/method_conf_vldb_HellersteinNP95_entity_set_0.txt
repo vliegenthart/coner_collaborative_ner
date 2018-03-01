@@ -1,0 +1,39 @@
+Decompress
+ChooseSubtree
+Search
+PickSplit
+DBMS
+AdjustKeys
+Rtrees
+Decompressed
+Generalized Search Tree
+Rtree
+Penalty
+MinDJext
+Kornacker
+MinDJext
+Rtree
+AdjustKeys
+Penalty
+PickSplit
+Kornacker
+Decompressed
+DBMS
+Generalized Search Tree
+Search
+Rtrees
+Decompress
+ChooseSubtree
+MinDJext
+AdjustKeys
+PickSplit
+DBMS
+Generalized Search Tree
+Rtree
+Kornacker
+Decompressed
+Search
+ChooseSubtree
+Penalty
+Rtrees
+Decompress

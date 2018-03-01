@@ -1,0 +1,39 @@
+Lucene
+MRCONSO
+BMIUOUbase
+TREC
+CUIs
+SemRep
+Although Lucene is
+UMLS
+SPECIALIST
+MetaMap
+MRREL
+MEDLINE
+BMIUOUensneg
+Although Lucene is
+BMIUOUensneg
+SPECIALIST
+MEDLINE
+MetaMap
+MRREL
+MRCONSO
+TREC
+SemRep
+BMIUOUbase
+CUIs
+UMLS
+Lucene
+SPECIALIST
+TREC
+SemRep
+MRCONSO
+UMLS
+Lucene
+MEDLINE
+CUIs
+BMIUOUensneg
+MetaMap
+BMIUOUbase
+Although Lucene is
+MRREL

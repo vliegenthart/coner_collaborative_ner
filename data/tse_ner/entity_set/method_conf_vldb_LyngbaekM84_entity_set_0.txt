@@ -1,0 +1,36 @@
+RESTAURANT
+FOOD
+Showtimes Objects corresponding
+RESTAURANTS
+PERSONS
+FRIENDS
+THEATRES
+ENTERTAINMENT
+Personal Computer (
+Restore
+Very Large Data
+Rater
+Very Large Data
+FRIENDS
+RESTAURANT
+ENTERTAINMENT
+Personal Computer (
+THEATRES
+FOOD
+Restore
+Showtimes Objects corresponding
+PERSONS
+Rater
+RESTAURANTS
+Restore
+Rater
+ENTERTAINMENT
+RESTAURANT
+Showtimes Objects corresponding
+Personal Computer (
+FRIENDS
+Very Large Data
+THEATRES
+FOOD
+RESTAURANTS
+PERSONS

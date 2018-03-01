@@ -1,0 +1,66 @@
+Information System design
+INGRES
+dynamic transitions which
+Event Processor allows
+Application Development Using
+PASCAL
+RUBIS Implementation Certain
+EXEC
+RUBIS
+ABORT
+Rubis Virtual Machine
+PROQUBL
+DBMS
+R-Schema
+PROQUEL
+YACC
+TRIGGER
+LOAN
+PROQUEL Interpreter is
+DATE
+dynamic
+Software Development Prototyping
+RUBIS Implementation Certain
+LOAN
+DATE
+YACC
+PROQUEL
+Information System design
+ABORT
+TRIGGER
+Application Development Using
+DBMS
+EXEC
+Software Development Prototyping
+Event Processor allows
+R-Schema
+dynamic
+RUBIS
+PROQUBL
+PASCAL
+Rubis Virtual Machine
+PROQUEL Interpreter is
+INGRES
+dynamic transitions which
+R-Schema
+PROQUEL
+DATE
+Event Processor allows
+Application Development Using
+TRIGGER
+EXEC
+INGRES
+Information System design
+RUBIS
+RUBIS Implementation Certain
+PASCAL
+PROQUEL Interpreter is
+Software Development Prototyping
+dynamic transitions which
+PROQUBL
+DBMS
+ABORT
+Rubis Virtual Machine
+YACC
+dynamic
+LOAN

@@ -1,0 +1,30 @@
+Support Vector Machine
+Method Document Retrieval
+TREC
+Documents Representing each
+Negative Labels to
+LocusLink
+TFIDF
+Feature Selection All
+Keyword Search TREC
+Machine learning methods
+Documents Representing each
+Method Document Retrieval
+Keyword Search TREC
+Feature Selection All
+Support Vector Machine
+TFIDF
+TREC
+Machine learning methods
+Negative Labels to
+LocusLink
+TFIDF
+Machine learning methods
+Feature Selection All
+TREC
+Documents Representing each
+Support Vector Machine
+Method Document Retrieval
+Negative Labels to
+Keyword Search TREC
+LocusLink

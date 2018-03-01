@@ -1,0 +1,7 @@
+VirtPublisher
+Publisher.name
+Proceedings.rating
+Publicationourprice
+RefereedPub
+RefereedPubl
+Publiaher.name

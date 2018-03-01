@@ -1,0 +1,33 @@
+VLDB
+ProbeCluster
+Intel Pentium 3.40GHz
+DBLP
+DBMS
+PartEnum
+LargeFirst
+VGEN
+MergeCount
+VGRAM
+Inverted Lists Algorithms
+LargeFirst
+VGRAM
+Inverted Lists Algorithms
+DBLP
+ProbeCluster
+PartEnum
+DBMS
+Intel Pentium 3.40GHz
+VLDB
+MergeCount
+VGEN
+DBLP
+VGRAM
+Inverted Lists Algorithms
+Intel Pentium 3.40GHz
+VGEN
+VLDB
+ProbeCluster
+MergeCount
+DBMS
+PartEnum
+LargeFirst

@@ -1,0 +1,16 @@
+FCFS
+DMJVRITE
+PREJRITE
+ICCA
+DMWRITE
+DMXOMMIT
+JCCA
+PRGWRITE
+ICCAlll
+ParallelCommitPhase
+ParalIelCommitPhase
+PRFJVRITE
+Certification
+PwallelizerJu
+ThePhysical
+PREWRITE

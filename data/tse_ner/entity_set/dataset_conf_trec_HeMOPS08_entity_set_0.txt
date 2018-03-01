@@ -1,0 +1,10 @@
+OpinionFinder
+Blogs06
+Terrier
+DFR-based
+Binomial
+TREC
+Normalisation
+Poisson
+PL2F
+Enterprise

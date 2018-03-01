@@ -1,0 +1,7 @@
+WordNet
+BM25
+Factual
+Freebase
+INDRI
+Clueweb09
+TREC

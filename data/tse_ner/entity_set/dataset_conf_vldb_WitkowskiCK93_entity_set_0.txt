@@ -1,0 +1,15 @@
+SPARC
+PMAs
+Journalling
+NUSI
+BYNET
+OLTP
+BYNRT
+RAID
+HNUSI
+AMPS
+UNIX
+DBMS
+ReguZur
+Vprocs
+Teradata

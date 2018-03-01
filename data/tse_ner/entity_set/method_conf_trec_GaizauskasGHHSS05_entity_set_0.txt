@@ -1,0 +1,39 @@
+Lucene
+Answering Factoid and
+Spain
+TREC
+SUPPLE Question Target
+SGML
+AQUAINT
+Semantic Entity Detection
+SUPPLE
+Question Processing Both
+MadCow
+Question Hierarchy Just
+Parsing
+Semantic Entity Detection
+SGML
+Answering Factoid and
+Question Hierarchy Just
+Parsing
+SUPPLE
+TREC
+SUPPLE Question Target
+MadCow
+Question Processing Both
+Spain
+AQUAINT
+Lucene
+Answering Factoid and
+TREC
+SUPPLE Question Target
+SGML
+Question Hierarchy Just
+Lucene
+AQUAINT
+MadCow
+Spain
+Semantic Entity Detection
+SUPPLE
+Question Processing Both
+Parsing

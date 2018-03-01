@@ -1,0 +1,30 @@
+Model Probabilistic language
+YFILTER
+Rocchio
+Average Precision and
+Filtering
+Scoring Method Each
+ANALYSIS
+NIST
+Category Structure The
+Naive Bayes ,
+Average Precision and
+YFILTER
+ANALYSIS
+Category Structure The
+Scoring Method Each
+Naive Bayes ,
+NIST
+Model Probabilistic language
+Filtering
+Rocchio
+Category Structure The
+Average Precision and
+YFILTER
+Naive Bayes ,
+NIST
+ANALYSIS
+Filtering
+Scoring Method Each
+Rocchio
+Model Probabilistic language

@@ -1,0 +1,36 @@
+Expert Search Query
+Homepage Anchor Text
+Poisson
+CohesivenessCos
+Expert Search Task
+OpinionFinder
+TREC
+Expansion Terrier implements
+CERC
+ENTERPRISE
+Setup Similar to
+Models Document structure
+Setup Similar to
+Expert Search Query
+Poisson
+ENTERPRISE
+OpinionFinder
+TREC
+Expansion Terrier implements
+Expert Search Task
+Models Document structure
+CohesivenessCos
+Homepage Anchor Text
+CERC
+CERC
+OpinionFinder
+ENTERPRISE
+TREC
+Poisson
+Homepage Anchor Text
+Expert Search Query
+Setup Similar to
+Expansion Terrier implements
+CohesivenessCos
+Models Document structure
+Expert Search Task

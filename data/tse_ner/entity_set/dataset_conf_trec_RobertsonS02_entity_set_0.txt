@@ -1,0 +1,8 @@
+TextCat
+TRECs
+Reuters
+CLARIT
+CLIPS
+RELIEFS
+SVMs
+TREC

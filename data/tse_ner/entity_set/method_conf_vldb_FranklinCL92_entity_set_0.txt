@@ -1,0 +1,42 @@
+Global Memory Management
+Defense Advanced Research
+VLDB
+FWJX
+LIFO
+Parameter Settings The
+DBMS
+ObServer
+IPCs
+Workload Models Physical
+Client Manager sends
+Client Manager must
+HOTCOLD
+Sending Dropped Pages
+IPCs
+Global Memory Management
+Defense Advanced Research
+Sending Dropped Pages
+DBMS
+Client Manager must
+Client Manager sends
+FWJX
+HOTCOLD
+ObServer
+LIFO
+VLDB
+Parameter Settings The
+Workload Models Physical
+ObServer
+Workload Models Physical
+HOTCOLD
+IPCs
+Parameter Settings The
+LIFO
+Sending Dropped Pages
+Global Memory Management
+Defense Advanced Research
+Client Manager must
+FWJX
+DBMS
+VLDB
+Client Manager sends

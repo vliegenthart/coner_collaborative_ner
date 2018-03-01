@@ -1,0 +1,8 @@
+Metamap
+InfAP
+BM25
+UMLS Metathesaurus 4)
+TREC
+UMLS Metathesaurus ,
+UMLS
+PubMed

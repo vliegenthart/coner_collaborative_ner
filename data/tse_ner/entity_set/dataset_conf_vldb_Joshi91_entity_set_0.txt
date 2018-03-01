@@ -1,0 +1,6 @@
+NOTIFICATION
+RdblVMS
+NOWAIT
+NOWATT
+DBA-defined
+VAXcluster

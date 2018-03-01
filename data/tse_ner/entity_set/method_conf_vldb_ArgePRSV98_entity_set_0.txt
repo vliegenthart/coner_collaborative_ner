@@ -1,0 +1,33 @@
+Rhode Island ,
+QPBSM
+Motivation Geographic Information
+TIGER
+SSSJ
+TPIE
+Synthetic
+MPBSM
+TreeSweep
+StripedSweep
+PBSM
+Rhode Island ,
+Synthetic
+TPIE
+MPBSM
+SSSJ
+PBSM
+StripedSweep
+QPBSM
+TIGER
+Motivation Geographic Information
+TreeSweep
+Rhode Island ,
+SSSJ
+TPIE
+TIGER
+Motivation Geographic Information
+PBSM
+StripedSweep
+MPBSM
+TreeSweep
+Synthetic
+QPBSM

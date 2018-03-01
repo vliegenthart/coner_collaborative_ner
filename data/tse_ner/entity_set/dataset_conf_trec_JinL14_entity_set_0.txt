@@ -1,0 +1,5 @@
+SEIF
+WordNet
+FebWeb
+TREC
+SEIFscore

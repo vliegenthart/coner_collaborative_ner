@@ -1,0 +1,42 @@
+ACGs
+VLDB
+Remark
+Kripke
+dynamic aspect of
+DBMS
+Predicate Transition Nets
+Correctness
+DATALOGset
+DATALOGneg
+RDLl
+DATALOG
+ANCESTOR
+ESPRIT Project ISIDE
+ESPRIT Project ISIDE
+DATALOG
+RDLl
+dynamic aspect of
+DATALOGneg
+ACGs
+Correctness
+Remark
+ANCESTOR
+DATALOGset
+DBMS
+VLDB
+Kripke
+Predicate Transition Nets
+ACGs
+Kripke
+DATALOGneg
+DATALOGset
+dynamic aspect of
+Predicate Transition Nets
+DBMS
+RDLl
+DATALOG
+ESPRIT Project ISIDE
+Remark
+ANCESTOR
+Correctness
+VLDB

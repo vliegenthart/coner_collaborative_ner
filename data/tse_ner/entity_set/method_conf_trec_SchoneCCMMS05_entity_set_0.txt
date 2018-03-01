@@ -1,0 +1,27 @@
+Actual Information Need?
+TREC
+AQUAINT
+Filters
+Knowledge Graph Induction
+MRRs
+QACTIS
+NIST
+Analysis
+Actual Information Need?
+QACTIS
+MRRs
+Analysis
+TREC
+Knowledge Graph Induction
+NIST
+Filters
+AQUAINT
+Analysis
+TREC
+Actual Information Need?
+Filters
+NIST
+AQUAINT
+Knowledge Graph Induction
+QACTIS
+MRRs

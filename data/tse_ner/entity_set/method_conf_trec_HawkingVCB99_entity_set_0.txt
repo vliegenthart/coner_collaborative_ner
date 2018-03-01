@@ -1,0 +1,51 @@
+Claritech
+PageRank
+MITI
+TREC
+HTML
+IRIT
+Neuchatel
+Large Web Task:
+RMIT
+TREC-8
+TREC-7
+UWaterloo
+ASCII
+Fujitsu Laboratories report
+VLC2
+PageRanks
+Semantic Indexing UWaterloo
+Large Web Task:
+PageRanks
+RMIT
+HTML
+TREC-8
+IRIT
+TREC-7
+Claritech
+TREC
+Semantic Indexing UWaterloo
+VLC2
+ASCII
+PageRank
+MITI
+Fujitsu Laboratories report
+UWaterloo
+Neuchatel
+UWaterloo
+TREC
+Neuchatel
+Large Web Task:
+PageRank
+IRIT
+TREC-7
+Claritech
+Semantic Indexing UWaterloo
+ASCII
+PageRanks
+Fujitsu Laboratories report
+TREC-8
+RMIT
+HTML
+VLC2
+MITI

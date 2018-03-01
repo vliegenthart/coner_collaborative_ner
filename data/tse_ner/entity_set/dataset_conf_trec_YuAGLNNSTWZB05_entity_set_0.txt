@@ -1,0 +1,9 @@
+ASCII
+Lucene
+qrels.txt
+NM23
+BioAI
+MEDLINE
+TREC
+MedLine
+PMID

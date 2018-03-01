@@ -1,0 +1,14 @@
+NodeIdentifier
+UNICODE
+JDBC
+CharData
+ANTLR
+JXQI
+Caching
+XSLT
+ELEMENT
+WebLogic
+XQRL
+XMLcentric
+PreparedStatement
+XQuery

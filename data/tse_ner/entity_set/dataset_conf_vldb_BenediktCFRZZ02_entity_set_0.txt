@@ -1,0 +1,7 @@
+PartSupp
+Nation
+ATGs
+DTD-directed
+DBMSs
+MadeOf
+PRATA

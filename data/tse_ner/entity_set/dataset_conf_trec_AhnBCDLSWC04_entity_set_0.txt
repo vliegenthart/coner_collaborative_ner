@@ -1,0 +1,7 @@
+ACQUAINT
+Lucene
+POS-tagging
+WordNet
+QAAM
+DRSs
+TREC

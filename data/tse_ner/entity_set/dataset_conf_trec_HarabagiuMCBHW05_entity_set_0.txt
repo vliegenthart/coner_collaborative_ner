@@ -1,0 +1,5 @@
+TREC
+WordNet
+COGEX
+PowerAnswer
+PALANTIR

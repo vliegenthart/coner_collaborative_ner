@@ -1,0 +1,7 @@
+PageRank
+TouristFiltered
+NIST
+GeoFiltered
+Wikitravel
+RankNet
+Softmax

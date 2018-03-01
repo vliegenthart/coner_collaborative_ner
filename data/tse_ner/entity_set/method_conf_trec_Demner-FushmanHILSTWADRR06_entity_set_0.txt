@@ -1,0 +1,36 @@
+UTF-8
+GTTs
+SMART
+TREC
+HTML
+Essie
+UMLS
+Essie Essie is
+CFTR
+COP2
+MEDLINE
+ABGene
+Essie
+GTTs
+HTML
+COP2
+MEDLINE
+CFTR
+TREC
+ABGene
+UTF-8
+SMART
+UMLS
+Essie Essie is
+UTF-8
+Essie
+COP2
+TREC
+UMLS
+Essie Essie is
+MEDLINE
+GTTs
+CFTR
+SMART
+ABGene
+HTML

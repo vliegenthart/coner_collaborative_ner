@@ -1,0 +1,30 @@
+Lucene
+Document Search Task
+System Overview Before
+Closeness Based Classification
+Closeness
+TREC
+Indri
+Methodology Similar to
+Legal Track is
+Future Works Here
+Legal Track is
+System Overview Before
+Document Search Task
+Indri
+Future Works Here
+TREC
+Closeness Based Classification
+Closeness
+Methodology Similar to
+Lucene
+Closeness
+Indri
+Legal Track is
+TREC
+Future Works Here
+Lucene
+Methodology Similar to
+System Overview Before
+Closeness Based Classification
+Document Search Task

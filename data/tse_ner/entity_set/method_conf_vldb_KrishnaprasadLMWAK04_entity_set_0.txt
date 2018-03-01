@@ -1,0 +1,69 @@
+SQLX-Bucky
+XATG
+XMLConcat
+TREAT
+XPath
+XMLForest
+XMLdata
+OATG
+XAGG Algebraic rules
+XMLType
+ExistsNode
+NULL
+UMKXML
+XMLElement
+Extractvalue
+XMark
+XMLElement Algebraic rules
+XPath Predicates XPath
+MKXML
+Merging Relational view
+CLOB
+Object Relational Algebra
+Oracle
+XMLElement
+XMark
+Object Relational Algebra
+OATG
+XATG
+NULL
+ExistsNode
+Merging Relational view
+XAGG Algebraic rules
+XMLConcat
+XMLForest
+XMLType
+XMLdata
+UMKXML
+MKXML
+SQLX-Bucky
+XPath Predicates XPath
+CLOB
+TREAT
+XPath
+XMLElement Algebraic rules
+Extractvalue
+Oracle
+XMLElement Algebraic rules
+NULL
+TREAT
+Merging Relational view
+SQLX-Bucky
+XAGG Algebraic rules
+MKXML
+OATG
+XMLConcat
+XMLElement
+XMark
+UMKXML
+XATG
+ExistsNode
+Oracle
+XMLForest
+CLOB
+XPath Predicates XPath
+Object Relational Algebra
+XMLType
+XPath
+Extractvalue
+XMLdata

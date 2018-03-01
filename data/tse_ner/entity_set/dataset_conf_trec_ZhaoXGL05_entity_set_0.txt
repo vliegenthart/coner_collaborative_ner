@@ -1,0 +1,7 @@
+TREC2005
+SMART
+WordNet
+DISK
+WorldNet
+WebRept
+InsunAbs

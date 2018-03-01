@@ -1,0 +1,33 @@
+XML-based
+Start Element Handler
+NITF
+XFilter
+Handling Nested Path
+SIFT
+Query Index is
+XPath
+Finite State Machine
+Parser
+Prefiltering
+XML-based
+XPath
+Finite State Machine
+XFilter
+NITF
+Prefiltering
+Parser
+Start Element Handler
+Query Index is
+SIFT
+Handling Nested Path
+XPath
+XML-based
+Query Index is
+NITF
+Handling Nested Path
+XFilter
+Parser
+Prefiltering
+Finite State Machine
+Start Element Handler
+SIFT

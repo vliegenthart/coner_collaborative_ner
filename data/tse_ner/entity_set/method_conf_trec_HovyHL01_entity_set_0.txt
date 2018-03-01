@@ -1,0 +1,39 @@
+Semantic Relation Matching
+Kosovo
+Webclopedia
+TREC
+United States which
+Dianne Feinstein at
+Washington
+Little Additional Knowledge
+QSUBUMED
+CONTEX
+WordNet
+Robustness Good Generalization
+Parse Trees Phone
+Little Additional Knowledge
+Dianne Feinstein at
+Robustness Good Generalization
+CONTEX
+Parse Trees Phone
+Kosovo
+United States which
+Semantic Relation Matching
+Webclopedia
+TREC
+Washington
+WordNet
+QSUBUMED
+Webclopedia
+TREC
+Parse Trees Phone
+Dianne Feinstein at
+Little Additional Knowledge
+Washington
+Kosovo
+Robustness Good Generalization
+CONTEX
+WordNet
+QSUBUMED
+Semantic Relation Matching
+United States which

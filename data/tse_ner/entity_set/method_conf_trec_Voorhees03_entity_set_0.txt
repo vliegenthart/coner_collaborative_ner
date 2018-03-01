@@ -1,0 +1,48 @@
+ARDA
+Biotechnology Information The
+TREC
+SGML
+TREC-3
+Standards
+AQUAINT
+LocusLink
+TREC-8
+Federal Register articles
+Defense Advanced Research
+NIST
+Congressional Record and
+Information Retrieval Information
+TREC-5
+FAMILIARITY
+FAMILIARITY
+Biotechnology Information The
+SGML
+Congressional Record and
+TREC-8
+TREC-5
+Information Retrieval Information
+Standards
+TREC
+Federal Register articles
+TREC-3
+ARDA
+NIST
+Defense Advanced Research
+AQUAINT
+LocusLink
+FAMILIARITY
+Biotechnology Information The
+Federal Register articles
+TREC-3
+TREC
+Congressional Record and
+SGML
+ARDA
+NIST
+Defense Advanced Research
+AQUAINT
+TREC-5
+TREC-8
+LocusLink
+Information Retrieval Information
+Standards

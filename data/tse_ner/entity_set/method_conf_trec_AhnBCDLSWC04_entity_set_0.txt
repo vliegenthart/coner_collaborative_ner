@@ -1,0 +1,36 @@
+Lucene
+Discourse Representation Theory
+dynamic programming matrix
+Discussion Experimental Setup
+Passage Segmentation Using
+TREC
+AQUAINT
+DRSs
+Question Answering system
+ACQUAINT
+Edinburgh
+QAAM
+Question Answering system
+DRSs
+Edinburgh
+ACQUAINT
+TREC
+QAAM
+Passage Segmentation Using
+Discourse Representation Theory
+dynamic programming matrix
+AQUAINT
+Lucene
+Discussion Experimental Setup
+TREC
+DRSs
+Discourse Representation Theory
+Question Answering system
+QAAM
+AQUAINT
+Lucene
+Passage Segmentation Using
+ACQUAINT
+dynamic programming matrix
+Edinburgh
+Discussion Experimental Setup

@@ -1,0 +1,48 @@
+Lucene
+Question Answering (
+Massachusetts
+System Overview Current
+Document Retrieval Web
+Computer Science at
+TREC
+NTCIR-5
+TREC-type
+Question Answering We
+TFIDF
+Sentence Retrieval module
+Lemur
+Factoid
+Knowledge Resources EagleQA
+NIST
+Question Answering We
+Massachusetts
+TREC-type
+TFIDF
+System Overview Current
+Factoid
+TREC
+NTCIR-5
+Computer Science at
+NIST
+Lemur
+Document Retrieval Web
+Sentence Retrieval module
+Knowledge Resources EagleQA
+Lucene
+Question Answering (
+Sentence Retrieval module
+Question Answering (
+TFIDF
+Factoid
+System Overview Current
+TREC
+Document Retrieval Web
+Computer Science at
+TREC-type
+Question Answering We
+Lucene
+NIST
+NTCIR-5
+Massachusetts
+Lemur
+Knowledge Resources EagleQA

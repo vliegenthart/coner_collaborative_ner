@@ -1,0 +1,8 @@
+AQUAINT
+MySQL
+WordNet
+Starfish
+Pyramid
+TREC
+PRISE
+RegExp

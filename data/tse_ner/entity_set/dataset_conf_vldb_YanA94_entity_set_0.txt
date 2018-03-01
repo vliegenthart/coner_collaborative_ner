@@ -1,0 +1,17 @@
+OpenODB
+ProgNote
+DRUG
+ProgNotcPar
+DisSumPar
+ProgNoteDoc
+TOMM
+MedNoteSect
+ProgNotePar
+OSQL
+TextObj
+MedNote
+GetTextObjs
+TupletypeQnteger
+ProgNoteSect
+TextMachine
+MedNotePar

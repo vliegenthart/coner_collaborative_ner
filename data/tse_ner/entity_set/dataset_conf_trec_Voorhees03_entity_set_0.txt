@@ -1,0 +1,11 @@
+GeneRIF
+TRECs
+PURPOSE
+Berkeley
+FAMILIARITY
+TREC
+SGML
+CSIRO
+Likert
+FinalScore
+LocusLink

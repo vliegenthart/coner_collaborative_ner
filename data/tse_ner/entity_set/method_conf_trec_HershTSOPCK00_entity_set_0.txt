@@ -1,0 +1,33 @@
+TREC
+TREC-8 Interactive Track
+Okapi
+TREC-8
+TFIDF
+TREC-7
+Interactive Track experiments
+TREC-6
+NIST
+TREC-9 Interactive Track
+OHSU
+TREC-9 Interactive Track
+TREC-8
+TFIDF
+TREC-6
+TREC-7
+TREC
+Okapi
+NIST
+TREC-8 Interactive Track
+OHSU
+Interactive Track experiments
+TFIDF
+TREC
+TREC-8 Interactive Track
+Interactive Track experiments
+TREC-7
+TREC-9 Interactive Track
+NIST
+Okapi
+TREC-8
+OHSU
+TREC-6

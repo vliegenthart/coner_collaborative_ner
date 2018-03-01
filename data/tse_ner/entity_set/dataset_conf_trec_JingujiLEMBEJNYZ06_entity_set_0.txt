@@ -1,0 +1,9 @@
+Litowski
+Lucene
+UIUC
+UW574
+WordNet
+GoogleAPI
+UWCLMA
+TREC
+Aquaint

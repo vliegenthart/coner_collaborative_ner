@@ -1,0 +1,6 @@
+TU11
+Bayesian
+HITIQA
+Rocchio
+TREC
+Chicago

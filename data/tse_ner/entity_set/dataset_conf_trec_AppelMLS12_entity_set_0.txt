@@ -1,0 +1,7 @@
+CurrentTV
+STIRS
+MSNBC
+TREC
+Wikipedia
+RankedJoin
+URLOnly

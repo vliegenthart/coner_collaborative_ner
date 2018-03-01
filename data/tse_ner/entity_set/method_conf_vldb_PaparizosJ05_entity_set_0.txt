@@ -1,0 +1,33 @@
+Final Words Ordering
+Ordering Specification provide
+FLWOR
+Annotated Pattern Tree
+D-Spec
+Annotated Pattern Trees
+Duplicate Specification D-Spec
+O-Item
+TIMBER
+XQuery
+Reorder
+O-Item
+Reorder
+FLWOR
+XQuery
+Ordering Specification provide
+Annotated Pattern Tree
+Annotated Pattern Trees
+TIMBER
+D-Spec
+Duplicate Specification D-Spec
+Final Words Ordering
+O-Item
+Ordering Specification provide
+FLWOR
+Annotated Pattern Trees
+TIMBER
+D-Spec
+Final Words Ordering
+Annotated Pattern Tree
+XQuery
+Duplicate Specification D-Spec
+Reorder

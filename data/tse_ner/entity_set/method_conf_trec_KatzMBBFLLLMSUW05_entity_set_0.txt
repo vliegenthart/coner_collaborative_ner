@@ -1,0 +1,33 @@
+Lucene
+Answer Selection Answer
+Adding Definition Questions
+Question Analysis Training
+Wikipedia
+Candidate Generation Candidates
+TREC Question Answering
+Question Answering System
+PRISE
+NIST
+Document Retrieval Results
+PRISE
+TREC Question Answering
+Question Answering System
+Candidate Generation Candidates
+Wikipedia
+Question Analysis Training
+Adding Definition Questions
+NIST
+Answer Selection Answer
+Lucene
+Document Retrieval Results
+Document Retrieval Results
+Question Analysis Training
+PRISE
+Candidate Generation Candidates
+Lucene
+NIST
+Answer Selection Answer
+Wikipedia
+TREC Question Answering
+Adding Definition Questions
+Question Answering System

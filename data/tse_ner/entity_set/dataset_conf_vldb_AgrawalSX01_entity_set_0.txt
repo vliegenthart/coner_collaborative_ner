@@ -1,0 +1,7 @@
+SQL-92
+Horizontal
+SchemaSQL
+HorizontalSQL
+VerticalSQL
+Grouping
+VerticalUDF

@@ -1,0 +1,33 @@
+ERCexpressions
+Tuple Relational Calculus
+CS-DEPART
+ERtonsistent
+ERconsistent
+ENROLL
+NAME
+DEPARTMENT
+ERD-transformations
+R-operation
+TAKB
+CS-DEPART
+ERD-transformations
+R-operation
+DEPARTMENT
+ERCexpressions
+ERconsistent
+NAME
+ENROLL
+Tuple Relational Calculus
+ERtonsistent
+TAKB
+ERD-transformations
+ERCexpressions
+Tuple Relational Calculus
+NAME
+ENROLL
+TAKB
+DEPARTMENT
+ERconsistent
+CS-DEPART
+R-operation
+ERtonsistent

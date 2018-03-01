@@ -1,0 +1,39 @@
+Lucene
+MDRUB
+HMKTB
+TREC
+SemRep
+CHEM
+DFML
+HAKT
+UMLS
+MedlinePlus
+Semantic Hierarchical Iterative
+MedTagger
+Lucene Apache Lucene
+Semantic Hierarchical Iterative
+MedlinePlus
+MedTagger
+CHEM
+TREC
+HAKT
+HMKTB
+DFML
+SemRep
+MDRUB
+UMLS
+Lucene
+Lucene Apache Lucene
+Semantic Hierarchical Iterative
+TREC
+MedTagger
+SemRep
+UMLS
+Lucene
+CHEM
+MedlinePlus
+DFML
+MDRUB
+HMKTB
+HAKT
+Lucene Apache Lucene

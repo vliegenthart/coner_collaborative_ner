@@ -1,0 +1,6 @@
+Oracle
+RFIDtagged
+EPCs
+RFID-based
+DBMS
+RFID

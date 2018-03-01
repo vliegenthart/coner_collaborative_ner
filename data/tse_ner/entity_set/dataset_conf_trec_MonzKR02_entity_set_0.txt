@@ -1,0 +1,10 @@
+tfx.nfx
+TRECs
+AQUAINT
+WordNet
+Novelty
+TreeTagger
+CSIRO
+Tequesta
+Lnu.ltc
+FlexIR

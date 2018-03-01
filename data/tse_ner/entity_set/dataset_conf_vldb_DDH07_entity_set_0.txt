@@ -1,0 +1,10 @@
+BottomLeft
+CostGreedy
+NP-Hard
+ThresholdGreedy
+THEOREM
+AvgEst
+PlanRed
+TopRight
+LEMMA
+AreaGreedy

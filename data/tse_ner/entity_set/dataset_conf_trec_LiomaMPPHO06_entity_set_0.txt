@@ -1,0 +1,7 @@
+Adhoc
+BM25
+Binomial
+Terabyte
+CombSUM
+Poisson
+PL2F

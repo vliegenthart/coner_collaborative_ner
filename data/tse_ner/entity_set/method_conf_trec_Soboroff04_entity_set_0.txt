@@ -1,0 +1,42 @@
+CDVP
+TREC
+IRIT
+THUIR
+ImportanceValue
+AQUAINT
+Southern California –
+TFIDF
+Massachusetts CIIR 2
+POS-tagging
+Named Entities ,
+NIST
+Bayesian
+Southern
+CDVP
+THUIR
+Southern California –
+TFIDF
+Bayesian
+IRIT
+Named Entities ,
+Southern
+TREC
+NIST
+Massachusetts CIIR 2
+ImportanceValue
+POS-tagging
+AQUAINT
+TFIDF
+THUIR
+TREC
+Named Entities ,
+CDVP
+POS-tagging
+IRIT
+NIST
+Southern
+AQUAINT
+Southern California –
+Bayesian
+ImportanceValue
+Massachusetts CIIR 2

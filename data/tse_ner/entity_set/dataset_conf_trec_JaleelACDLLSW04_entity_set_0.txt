@@ -1,0 +1,5 @@
+Dirichlet
+TREC
+SVMbased
+UMassMerge
+TFIDF

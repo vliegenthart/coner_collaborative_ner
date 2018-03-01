@@ -1,0 +1,7 @@
+XML-based
+ODBC
+SOAP
+XQUF
+FunApp
+XRPC
+XQuery

@@ -1,0 +1,9 @@
+ANDing
+tupleID
+Eddy
+physicalID
+WindowsTable
+Psoup
+PSoup
+Telegraph
+WHERE

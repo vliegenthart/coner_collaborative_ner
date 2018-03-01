@@ -1,0 +1,10 @@
+GATE
+UMLS metathesaurus contains
+Visit
+Neo4j
+Terrier
+Nadkarni
+TREC
+Medicine
+UMLS
+BreakIterator

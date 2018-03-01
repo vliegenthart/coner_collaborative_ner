@@ -1,0 +1,93 @@
+Greedy Algorithm generates
+BYNET
+AMPc
+Greedy Algorithm with
+Teradata DBMS provides
+NUSI
+HNUSI
+PMAs
+Unlike YNET ,
+YNET
+Unique Secondary Index
+Greedy Algorithm is
+Global Distributed Objects
+AMPI
+VLDB
+OLTP
+AMRc
+AMPs
+GDGs
+Suppose
+Binary Optimizer Join
+Greedy Algorithm looks
+TPAs
+Globally Distributed Objects
+AMPS
+Vprocs
+DBMS
+Distributed Memory DBMS
+SCSI-2
+Vproc
+RAID
+AMPs
+NUSI
+PMAs
+Unlike YNET ,
+Greedy Algorithm with
+Global Distributed Objects
+AMPS
+Teradata DBMS provides
+YNET
+BYNET
+Binary Optimizer Join
+Globally Distributed Objects
+OLTP
+DBMS
+AMPI
+Vprocs
+SCSI-2
+Vproc
+AMPc
+Greedy Algorithm is
+RAID
+Suppose
+AMRc
+Greedy Algorithm looks
+HNUSI
+Unique Secondary Index
+VLDB
+Greedy Algorithm generates
+Distributed Memory DBMS
+GDGs
+TPAs
+PMAs
+BYNET
+Vprocs
+RAID
+Greedy Algorithm generates
+HNUSI
+Vproc
+Globally Distributed Objects
+NUSI
+AMPS
+AMPc
+Global Distributed Objects
+TPAs
+AMPI
+Unlike YNET ,
+Greedy Algorithm looks
+AMPs
+Suppose
+GDGs
+SCSI-2
+Binary Optimizer Join
+YNET
+DBMS
+OLTP
+Greedy Algorithm is
+Distributed Memory DBMS
+AMRc
+Unique Secondary Index
+Teradata DBMS provides
+Greedy Algorithm with
+VLDB

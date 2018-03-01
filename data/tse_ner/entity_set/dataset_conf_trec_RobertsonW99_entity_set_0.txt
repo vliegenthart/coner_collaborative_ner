@@ -1,0 +1,7 @@
+BritishhAmerican
+Cambridge
+VLC98
+BM25
+TREC
+Okapi
+Microsoft

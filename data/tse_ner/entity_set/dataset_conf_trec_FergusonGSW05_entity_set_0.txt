@@ -1,0 +1,4 @@
+GOV2
+BM25
+TREC
+WeightedTF

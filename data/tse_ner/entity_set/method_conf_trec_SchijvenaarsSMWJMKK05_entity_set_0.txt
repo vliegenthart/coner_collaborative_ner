@@ -1,0 +1,33 @@
+Collexis
+Methods Indexing Text
+CCVpos
+GTTs
+TREC
+whereas
+M-dimensional
+CCVneg
+UMLS
+Medline
+Entrez Gene (
+CCVpos
+Medline
+GTTs
+M-dimensional
+Collexis
+Methods Indexing Text
+TREC
+Entrez Gene (
+CCVneg
+whereas
+UMLS
+whereas
+TREC
+Medline
+CCVpos
+UMLS
+Methods Indexing Text
+Entrez Gene (
+GTTs
+M-dimensional
+Collexis
+CCVneg

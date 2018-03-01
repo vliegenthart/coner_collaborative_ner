@@ -1,0 +1,66 @@
+Nootropia
+Session Type method
+WILDCAT
+Massachusetts
+TREC
+Delaware
+TREC Question Answering
+Essex
+BOSS
+Correlations Between Evaluation
+NIST
+UMASS Amherst CIIR
+DUTIR
+RMIT
+Pittsburg
+Question Answering track
+URLs
+Sciences
+Wikipedia
+Technology
+Hardees
+Question Answering topic
+RMIT
+TREC Question Answering
+Massachusetts
+Sciences
+Wikipedia
+Delaware
+Nootropia
+BOSS
+Technology
+DUTIR
+Hardees
+Question Answering track
+TREC
+Correlations Between Evaluation
+WILDCAT
+Essex
+Question Answering topic
+Session Type method
+NIST
+Pittsburg
+URLs
+UMASS Amherst CIIR
+Delaware
+UMASS Amherst CIIR
+DUTIR
+Essex
+Sciences
+Technology
+Session Type method
+TREC Question Answering
+Nootropia
+TREC
+Massachusetts
+Question Answering track
+RMIT
+WILDCAT
+URLs
+NIST
+Wikipedia
+BOSS
+Question Answering topic
+Hardees
+Correlations Between Evaluation
+Pittsburg

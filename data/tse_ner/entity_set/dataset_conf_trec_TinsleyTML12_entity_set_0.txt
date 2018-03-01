@@ -1,0 +1,6 @@
+QNLP
+EMRs
+TREC
+CNLP
+NegEx
+NLP-P

@@ -1,0 +1,36 @@
+ABAP
+MARD
+OLTP
+CPUs
+LGORT
+SSQJ
+Select Statements Another
+WERKS
+MARC
+Partitions Partitioning Techniques
+Business Application Programming
+RAID
+ABAP
+CPUs
+SSQJ
+OLTP
+Business Application Programming
+RAID
+Select Statements Another
+MARD
+WERKS
+Partitions Partitioning Techniques
+MARC
+LGORT
+Select Statements Another
+MARD
+WERKS
+OLTP
+RAID
+Business Application Programming
+SSQJ
+MARC
+LGORT
+CPUs
+ABAP
+Partitions Partitioning Techniques

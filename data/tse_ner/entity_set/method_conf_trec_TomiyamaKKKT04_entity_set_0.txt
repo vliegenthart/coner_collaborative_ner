@@ -1,0 +1,42 @@
+Support Vector Machine
+Weighting Representative vector
+Sentence Weight Score
+TREC
+HTML
+Novelty Conclusions Results
+CFSs
+SvmLight
+Engine System Overview
+Semantic Vector 1
+Conceptual Fuzzy Sets
+Novelty Track is
+Sentences Retrieval Relevant
+Semantic Vector ,
+Weighting Representative vector
+Semantic Vector 1
+HTML
+Novelty Conclusions Results
+Engine System Overview
+CFSs
+Support Vector Machine
+TREC
+Sentence Weight Score
+Conceptual Fuzzy Sets
+Sentences Retrieval Relevant
+Semantic Vector ,
+Novelty Track is
+SvmLight
+Weighting Representative vector
+Novelty Track is
+Support Vector Machine
+SvmLight
+TREC
+Engine System Overview
+Semantic Vector ,
+Sentences Retrieval Relevant
+Sentence Weight Score
+Conceptual Fuzzy Sets
+Novelty Conclusions Results
+Semantic Vector 1
+CFSs
+HTML

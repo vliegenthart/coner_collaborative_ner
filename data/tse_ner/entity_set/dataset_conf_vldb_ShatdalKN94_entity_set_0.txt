@@ -1,0 +1,8 @@
+DRAM
+DECstation
+PartitionedSort
+PartitionedHash
+BaseNestedLoop
+ImprovedSort
+BlockSize
+VLSI

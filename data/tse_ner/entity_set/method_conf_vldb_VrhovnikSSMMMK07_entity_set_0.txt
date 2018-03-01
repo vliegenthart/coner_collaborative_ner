@@ -1,0 +1,39 @@
+Siebel
+Update Merging rule
+DBMS
+BPEL
+OrderConfirmation
+Activity Merging Rules
+Microsoft Corporation WebSphere
+Performance Improvement Property
+ForEach
+SOSs
+XQuery
+Update Merging Rules
+XPath
+Microsoft Corporation WebSphere
+SOSs
+Siebel
+Performance Improvement Property
+XPath
+BPEL
+Update Merging rule
+XQuery
+ForEach
+OrderConfirmation
+DBMS
+Update Merging Rules
+Activity Merging Rules
+XPath
+Siebel
+ForEach
+Performance Improvement Property
+SOSs
+BPEL
+Microsoft Corporation WebSphere
+XQuery
+Activity Merging Rules
+Update Merging rule
+OrderConfirmation
+Update Merging Rules
+DBMS

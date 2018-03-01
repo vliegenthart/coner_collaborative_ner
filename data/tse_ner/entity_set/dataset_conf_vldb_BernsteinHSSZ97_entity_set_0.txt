@@ -1,0 +1,16 @@
+IDispatch
+QueryInterface
+TechnologyType
+OODBs
+ITypeLib
+GetIDsOfNames
+Redmond
+ClassDef
+QueryInterf
+CoCreateInstance
+RelationshipDef
+InterfaceDef
+RepositoryObject
+Microsoft
+IComponentDescription
+IRelationshipCol

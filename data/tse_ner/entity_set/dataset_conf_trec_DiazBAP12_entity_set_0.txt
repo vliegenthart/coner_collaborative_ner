@@ -1,0 +1,5 @@
+StopAnalyzer
+NAMES
+PorterStemFilter
+StandardAnalyzer
+Lucene

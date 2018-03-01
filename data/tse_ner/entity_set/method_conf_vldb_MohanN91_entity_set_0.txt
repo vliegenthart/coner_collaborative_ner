@@ -1,0 +1,42 @@
+Zogfcal
+ARIES
+RLSN
+LSNs
+VAXcluster
+DBMS
+SDcomplex
+Medium
+Showing Physical Locking
+Ownership Acquisition with
+LLMs
+RLSNs
+Tracking Recover LSN
+Medium Scheme Details
+Medium
+Medium Scheme Details
+Ownership Acquisition with
+Tracking Recover LSN
+Zogfcal
+VAXcluster
+RLSN
+Showing Physical Locking
+DBMS
+LSNs
+ARIES
+SDcomplex
+LLMs
+RLSNs
+Tracking Recover LSN
+LSNs
+Showing Physical Locking
+ARIES
+Medium
+VAXcluster
+DBMS
+Ownership Acquisition with
+Zogfcal
+SDcomplex
+RLSNs
+LLMs
+Medium Scheme Details
+RLSN

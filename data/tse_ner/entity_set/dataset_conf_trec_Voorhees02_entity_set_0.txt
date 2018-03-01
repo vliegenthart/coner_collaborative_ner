@@ -1,0 +1,11 @@
+MSNSearch
+SIGIR
+TRECVID
+TRECs
+AskJeeves
+Reuters
+NIST
+TREC
+SGML
+CSIRO
+NTCIR

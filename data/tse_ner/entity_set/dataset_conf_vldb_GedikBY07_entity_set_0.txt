@@ -1,0 +1,8 @@
+AbiSort
+SIMDization
+SIMDized
+CellSort
+CPU-based
+SPEs
+SIMD
+BASICS

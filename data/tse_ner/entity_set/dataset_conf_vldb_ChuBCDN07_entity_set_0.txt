@@ -1,0 +1,11 @@
+LastName
+LastModificationDate
+PageId
+DBAs
+ContributorUserName
+FirstName
+PageText
+PostgreSQL
+RDBMS-provided
+SectionName
+Weikum

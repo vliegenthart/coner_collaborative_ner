@@ -1,0 +1,72 @@
+Lexical Chains (
+Answer Extraction phase
+Factoid Answer Extraction
+Semantic Constraints Set
+AQUAINT
+Answer Selection After
+Question Classification subsystem
+Question Classification module
+Aranea
+Answer Selection (
+Lucene
+TREC
+LCSUM System LCSUM
+Question Answering (
+Named Entity Recognition
+Question Answering system
+Lucene Information Retrieval
+TALP-QA
+Candidates Extraction module
+Aranea TALP-QA is
+Question Answering Task
+LCSUM
+Document Ranking tasks
+Question Processing The
+Question Answering system
+Answer Selection (
+Factoid Answer Extraction
+Question Classification subsystem
+Semantic Constraints Set
+Question Answering Task
+Candidates Extraction module
+Question Classification module
+Document Ranking tasks
+Lucene
+Question Answering (
+LCSUM
+LCSUM System LCSUM
+TREC
+Aranea TALP-QA is
+TALP-QA
+AQUAINT
+Answer Selection After
+Answer Extraction phase
+Lucene Information Retrieval
+Question Processing The
+Named Entity Recognition
+Lexical Chains (
+Aranea
+Lucene
+Answer Selection (
+Question Answering Task
+LCSUM
+Question Answering (
+TREC
+Factoid Answer Extraction
+AQUAINT
+Named Entity Recognition
+Document Ranking tasks
+LCSUM System LCSUM
+Aranea TALP-QA is
+Semantic Constraints Set
+Question Answering system
+Question Classification subsystem
+Answer Extraction phase
+TALP-QA
+Lucene Information Retrieval
+Aranea
+Answer Selection After
+Candidates Extraction module
+Question Processing The
+Lexical Chains (
+Question Classification module

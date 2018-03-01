@@ -1,0 +1,42 @@
+NATO
+Predicates Evaluation Sequence
+DROP
+ROWLABEL
+Multilevel Secure Relational
+Abstract Data Type
+Labeled Tables There
+MULTIVALUED
+MLS-like
+RDBMS
+Problem Statement MAC
+Relational Database Management
+GRANT
+REVOKE
+MULTIVALUED
+ROWLABEL
+Relational Database Management
+GRANT
+RDBMS
+Predicates Evaluation Sequence
+DROP
+REVOKE
+Problem Statement MAC
+Abstract Data Type
+MLS-like
+NATO
+Multilevel Secure Relational
+Labeled Tables There
+Problem Statement MAC
+REVOKE
+RDBMS
+DROP
+MLS-like
+Abstract Data Type
+MULTIVALUED
+Multilevel Secure Relational
+ROWLABEL
+Labeled Tables There
+GRANT
+Predicates Evaluation Sequence
+NATO
+Relational Database Management

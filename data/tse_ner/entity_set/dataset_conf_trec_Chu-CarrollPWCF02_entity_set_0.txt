@@ -1,0 +1,7 @@
+TREC-10
+WordNet
+PIQUANT
+QFrame
+TREC
+NILassignment
+NIL-assignment

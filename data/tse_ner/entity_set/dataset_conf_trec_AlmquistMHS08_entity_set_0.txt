@@ -1,0 +1,9 @@
+TFIDF
+SMART
+WordNet
+TREC
+RequestText
+CombSum
+Boolean
+GOV2
+Okapi

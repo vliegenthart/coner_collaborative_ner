@@ -1,0 +1,10 @@
+NAME
+TRUE
+ChangeSal
+WORKSJN
+ODMG-93
+TinyDatabase
+QRES
+SalNet
+lThey
+LOQIS

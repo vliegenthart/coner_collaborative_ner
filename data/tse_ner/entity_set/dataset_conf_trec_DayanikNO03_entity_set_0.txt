@@ -1,0 +1,6 @@
+GenBank
+eIF4E
+MEDLINE
+SwissProt
+PROSITE
+LocusLink

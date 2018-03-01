@@ -1,0 +1,33 @@
+KLdivergence
+LOOCV
+NTCIR-4 Document Length
+Summary Reference database
+TREC
+PLLS
+Lafferty
+LocusLink
+TREC-9
+Croft
+Patolis Corporation group
+Patolis Corporation group
+TREC-9
+PLLS
+LOOCV
+TREC
+Croft
+NTCIR-4 Document Length
+Summary Reference database
+Lafferty
+KLdivergence
+LocusLink
+TREC
+TREC-9
+KLdivergence
+Patolis Corporation group
+Croft
+Summary Reference database
+PLLS
+LOOCV
+NTCIR-4 Document Length
+LocusLink
+Lafferty

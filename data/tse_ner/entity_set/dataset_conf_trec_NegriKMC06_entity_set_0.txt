@@ -1,0 +1,6 @@
+WordNet
+CLEF
+ITC-irst
+TREC
+NTCIR
+DIOGENE

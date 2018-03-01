@@ -1,0 +1,36 @@
+Event
+Lucene
+XML-tagged
+XPath
+SGML
+TREC
+AQUAINT
+UMLS
+Knowledge Management System
+DIMAP
+Miscellaneous Functions Miscellaneous
+NIST
+Event
+SGML
+Knowledge Management System
+XML-tagged
+XPath
+TREC
+Miscellaneous Functions Miscellaneous
+NIST
+DIMAP
+AQUAINT
+UMLS
+Lucene
+Knowledge Management System
+XML-tagged
+TREC
+SGML
+UMLS
+Lucene
+NIST
+AQUAINT
+XPath
+Miscellaneous Functions Miscellaneous
+DIMAP
+Event

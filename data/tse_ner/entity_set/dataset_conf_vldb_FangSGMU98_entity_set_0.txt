@@ -1,0 +1,7 @@
+BITMAP
+DocumentOverlap
+UNISCAN
+BUCKET
+MULTISCAN
+HYBRID
+AltaVista

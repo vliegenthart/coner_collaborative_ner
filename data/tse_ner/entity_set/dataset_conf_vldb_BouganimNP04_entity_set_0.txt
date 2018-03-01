@@ -1,0 +1,5 @@
+Sigmod
+TCSBR
+Skip
+XPath
+DecideSubtree

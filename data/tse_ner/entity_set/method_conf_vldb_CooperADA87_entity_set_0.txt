@@ -1,0 +1,30 @@
+Persistent Programming Research
+VLDB
+Persistence
+DBMS
+Abstract Data Type
+Architecture With Several
+RAQUEL
+dynamic
+Query Languages provided
+EFDM
+RAQUEL
+dynamic
+Query Languages provided
+Persistent Programming Research
+Persistence
+DBMS
+Abstract Data Type
+VLDB
+Architecture With Several
+EFDM
+Persistence
+Persistent Programming Research
+Abstract Data Type
+RAQUEL
+Query Languages provided
+dynamic
+Architecture With Several
+EFDM
+DBMS
+VLDB

@@ -1,0 +1,7 @@
+UNKNOWN
+TARGET
+AQUAINT
+WordNet
+TREC
+FlyPlaya
+MadCow

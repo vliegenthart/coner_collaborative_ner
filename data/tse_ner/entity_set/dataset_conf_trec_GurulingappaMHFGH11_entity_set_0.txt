@@ -1,0 +1,8 @@
+IPCCAT
+DrugBank
+TREC
+IUPAC
+TRECCHEM
+UMLS
+PubMed
+MetaMap

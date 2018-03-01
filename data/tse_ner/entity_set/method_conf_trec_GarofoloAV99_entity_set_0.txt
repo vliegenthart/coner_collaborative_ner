@@ -1,0 +1,60 @@
+Audio Collection Evaluation
+NIST
+NASA
+TREC
+Language Processing and
+Standards
+London
+BEOWULF
+DARPA
+TREC-8
+Cross Recognizer retrieval
+TREC-7
+PRISE
+Technology
+TREC-9
+MMIR
+Item Retrieval Evaluation
+TREC-6
+TREC-5
+PC-LINUX-based
+Item Retrieval Evaluation
+PRISE
+TREC-8
+TREC-9
+London
+DARPA
+TREC-6
+BEOWULF
+Cross Recognizer retrieval
+Standards
+TREC
+TREC-7
+NASA
+NIST
+PC-LINUX-based
+Audio Collection Evaluation
+Language Processing and
+Technology
+MMIR
+TREC-5
+PC-LINUX-based
+Item Retrieval Evaluation
+PRISE
+TREC
+London
+Technology
+TREC-9
+NASA
+TREC-7
+NIST
+MMIR
+TREC-5
+Cross Recognizer retrieval
+Language Processing and
+Audio Collection Evaluation
+DARPA
+TREC-8
+BEOWULF
+Standards
+TREC-6

@@ -1,0 +1,6 @@
+AQUAINT
+PropBank
+VerbNet
+TREC
+YouTube
+FrameNet

@@ -1,0 +1,12 @@
+OTWEBTREC
+DOCNO
+WordPerfect
+PowerPoint
+QueryToRankings
+DOCID
+FILEID
+SELECT
+TREC
+SearchServer
+SearchSQL
+README

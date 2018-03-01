@@ -1,0 +1,30 @@
+Retrieval Final retrieval
+North
+TREC
+SGML
+Pivot Detection Pivots
+TREC-8
+LASSO
+WordNet
+Answer Ranking Score
+NIST
+SGML
+TREC-8
+Retrieval Final retrieval
+Pivot Detection Pivots
+Answer Ranking Score
+TREC
+NIST
+North
+WordNet
+LASSO
+Retrieval Final retrieval
+TREC
+SGML
+NIST
+Pivot Detection Pivots
+WordNet
+Answer Ranking Score
+TREC-8
+LASSO
+North

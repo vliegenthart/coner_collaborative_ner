@@ -1,0 +1,30 @@
+OODBMS
+Cache Management Algorithm
+Hierarchy Search Order
+LSNs
+DBMS
+DBMSs Extended Cache
+Extended Cache WC
+dynamic aspects of
+LDIA
+IECCSS Iocalily ,
+LDIA
+Cache Management Algorithm
+IECCSS Iocalily ,
+dynamic aspects of
+Extended Cache WC
+DBMS
+LSNs
+Hierarchy Search Order
+DBMSs Extended Cache
+OODBMS
+LSNs
+OODBMS
+Cache Management Algorithm
+Extended Cache WC
+dynamic aspects of
+IECCSS Iocalily ,
+LDIA
+DBMSs Extended Cache
+Hierarchy Search Order
+DBMS

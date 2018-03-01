@@ -1,0 +1,13 @@
+ROWNUM
+SAMPLE
+NUMROWS
+Microsoft
+Theorem
+DefinitionThat
+DBGEN
+COMMENT
+DBMS
+LINEITM
+Oracle
+LINEITEM
+TPC-H

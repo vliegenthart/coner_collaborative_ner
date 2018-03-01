@@ -1,0 +1,9 @@
+TranID
+BlockID
+RecID
+Coordinator
+Shutdown
+SHUTDOWN
+Mohan
+NodeID
+Hsiao

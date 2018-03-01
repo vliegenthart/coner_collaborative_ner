@@ -1,0 +1,42 @@
+Question Pilot run
+ARDA
+QA-by-Dossier
+PIQUANT
+Everglades
+TREC
+Definition Questions The
+Statistical Query Agent
+THING
+Florida
+Factoid
+NIST
+Virtual Annotation technique
+Predictive Annotation techniques
+THING
+Everglades
+PIQUANT
+Factoid
+Statistical Query Agent
+ARDA
+TREC
+QA-by-Dossier
+Definition Questions The
+Virtual Annotation technique
+Florida
+Predictive Annotation techniques
+NIST
+Question Pilot run
+Predictive Annotation techniques
+Everglades
+Florida
+THING
+Factoid
+Statistical Query Agent
+Virtual Annotation technique
+TREC
+ARDA
+NIST
+PIQUANT
+Question Pilot run
+Definition Questions The
+QA-by-Dossier

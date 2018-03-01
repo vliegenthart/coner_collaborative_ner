@@ -1,0 +1,6 @@
+Cauchy
+Hamming
+Network
+UltraSparc
+NetFlow
+Gaussian

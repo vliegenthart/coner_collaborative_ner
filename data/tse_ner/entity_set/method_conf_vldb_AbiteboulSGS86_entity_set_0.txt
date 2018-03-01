@@ -1,0 +1,45 @@
+Inria
+SVPJ
+CONS
+DBMS
+LISP
+Pascal programming language
+VERSO
+SABRE
+Verso
+V-relations
+Sabre
+QUEL
+Ingres
+Wisconsin
+CNET
+Verso
+Pascal programming language
+Wisconsin
+Ingres
+SVPJ
+QUEL
+CNET
+DBMS
+Sabre
+Inria
+LISP
+VERSO
+CONS
+SABRE
+V-relations
+QUEL
+SABRE
+LISP
+Verso
+CONS
+Inria
+Sabre
+V-relations
+Pascal programming language
+Wisconsin
+CNET
+VERSO
+SVPJ
+DBMS
+Ingres

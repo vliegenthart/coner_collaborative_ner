@@ -1,0 +1,5 @@
+Circle
+TREC
+BM25
+Wordnet
+Noise

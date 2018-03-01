@@ -1,0 +1,5 @@
+INTERSECT
+Gamma
+EXISTS
+Sal.Name
+WHERE

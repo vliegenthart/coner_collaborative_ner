@@ -1,0 +1,33 @@
+VLDB
+DBMS
+Based Replacement policy
+IXIgcs
+dynamic
+WCII
+OVCI
+ISOO
+TPC-A-like
+IIIC
+IICW
+IXIgcs
+dynamic
+TPC-A-like
+IICW
+ISOO
+Based Replacement policy
+VLDB
+DBMS
+OVCI
+WCII
+IIIC
+IICW
+IXIgcs
+Based Replacement policy
+WCII
+TPC-A-like
+IIIC
+OVCI
+dynamic
+ISOO
+DBMS
+VLDB

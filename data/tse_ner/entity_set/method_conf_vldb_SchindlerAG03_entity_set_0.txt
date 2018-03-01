@@ -1,0 +1,33 @@
+ARIES
+DBA-specified
+OLTP
+DBMS
+Lachesis
+Shore
+PREFETCHSIZE
+Gamma Database Machine
+DIXtrac
+SCSI
+Heavy
+Lachesis
+OLTP
+PREFETCHSIZE
+Shore
+DBMS
+ARIES
+Heavy
+SCSI
+DBA-specified
+Gamma Database Machine
+DIXtrac
+DBA-specified
+OLTP
+PREFETCHSIZE
+ARIES
+DBMS
+Shore
+Heavy
+SCSI
+Gamma Database Machine
+DIXtrac
+Lachesis

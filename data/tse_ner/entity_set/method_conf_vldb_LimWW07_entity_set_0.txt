@@ -1,0 +1,33 @@
+VLDB
+XMLExists
+ISSUBSUMED
+DBMS
+WhiteWine
+HasColor
+EdnaValley
+RDBMS
+Extracted Information in
+Properties Transitive properties
+California
+Extracted Information in
+RDBMS
+California
+HasColor
+EdnaValley
+DBMS
+Properties Transitive properties
+ISSUBSUMED
+WhiteWine
+XMLExists
+VLDB
+WhiteWine
+EdnaValley
+RDBMS
+HasColor
+Properties Transitive properties
+Extracted Information in
+California
+XMLExists
+VLDB
+DBMS
+ISSUBSUMED

@@ -1,0 +1,7 @@
+DataRefresher
+DatPAnalyst
+InfoReplicator
+DataPropagator
+BACHMAN
+InfoPropagator
+also.profiting

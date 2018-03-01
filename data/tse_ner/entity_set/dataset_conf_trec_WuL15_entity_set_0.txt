@@ -1,0 +1,9 @@
+Ask.Web
+Webbased
+Ask.web
+Bing
+WikiAnswers
+CQAbased
+NLTK
+Likert
+SVM-rank

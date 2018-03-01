@@ -1,0 +1,7 @@
+MARS
+GLAV
+DEDs
+XML-to-relational
+XBind
+XQuery
+PTIME

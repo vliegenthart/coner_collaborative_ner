@@ -1,0 +1,9 @@
+EddyJoins
+BuildFirst
+Telegraph
+STAIRs
+Wisconsin
+RedHat
+PostgreSQL
+STAIR
+TPC-H

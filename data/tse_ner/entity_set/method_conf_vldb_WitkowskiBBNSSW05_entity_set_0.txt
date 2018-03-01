@@ -1,0 +1,45 @@
+HLOOKUP
+Existential
+Assignment Linearization ,
+Reference Linearization ,
+Excel Sorting is
+Excel
+RTables
+ANSI
+UNION
+PivotTable
+RDBMS
+SUMPRODUCT
+Relational Databases Excel
+RTable
+Equivalent Rules optimization
+Equivalent Rules optimization
+Existential
+UNION
+RTables
+Excel Sorting is
+HLOOKUP
+Reference Linearization ,
+RDBMS
+RTable
+Relational Databases Excel
+ANSI
+PivotTable
+Excel
+Assignment Linearization ,
+SUMPRODUCT
+Reference Linearization ,
+Relational Databases Excel
+ANSI
+RDBMS
+Excel
+SUMPRODUCT
+Excel Sorting is
+PivotTable
+Existential
+UNION
+RTables
+HLOOKUP
+Equivalent Rules optimization
+RTable
+Assignment Linearization ,

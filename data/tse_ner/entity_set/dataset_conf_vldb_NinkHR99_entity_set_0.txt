@@ -1,0 +1,8 @@
+COAPI
+NestedCursor
+CLIs
+BINDING
+AtomicPart
+QueryParts
+EAGER
+RowParts

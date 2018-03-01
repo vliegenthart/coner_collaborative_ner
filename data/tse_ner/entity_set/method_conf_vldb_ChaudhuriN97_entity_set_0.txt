@@ -1,0 +1,36 @@
+AutoAdmin
+VLDB
+Generation Index selection
+Atomic Configurations Let
+Index Interaction Our
+Evaluating Atomic Configurations
+Index Selection Tool
+TPCD-4
+MC-ALL
+Microsoft
+Nonetheless
+Candidate Index Selection
+TPCD-4
+Microsoft
+Index Interaction Our
+Generation Index selection
+Index Selection Tool
+Atomic Configurations Let
+AutoAdmin
+MC-ALL
+Candidate Index Selection
+VLDB
+Nonetheless
+Evaluating Atomic Configurations
+Nonetheless
+TPCD-4
+Evaluating Atomic Configurations
+Generation Index selection
+VLDB
+Candidate Index Selection
+Index Selection Tool
+Atomic Configurations Let
+Microsoft
+MC-ALL
+AutoAdmin
+Index Interaction Our

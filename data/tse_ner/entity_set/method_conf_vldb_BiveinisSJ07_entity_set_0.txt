@@ -1,0 +1,36 @@
+GROUPUPDATE
+R-tree
+GROUPSPLIT
+Experimental Setup Three
+PUSHDOWNOPS
+GPS-equipped
+EMPTYBUFFER
+Deletion Operations Insertions
+MERGESUBTREES
+MBRs
+EXECUTEENTRIES
+PROOF
+MERGESUBTREES
+GPS-equipped
+GROUPUPDATE
+GROUPSPLIT
+EMPTYBUFFER
+PROOF
+EXECUTEENTRIES
+Experimental Setup Three
+R-tree
+PUSHDOWNOPS
+Deletion Operations Insertions
+MBRs
+MERGESUBTREES
+MBRs
+EMPTYBUFFER
+GPS-equipped
+GROUPSPLIT
+GROUPUPDATE
+PUSHDOWNOPS
+R-tree
+Experimental Setup Three
+Deletion Operations Insertions
+PROOF
+EXECUTEENTRIES

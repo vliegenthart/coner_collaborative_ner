@@ -1,0 +1,10 @@
+Porter
+LiveQA
+Twitter
+VowpalWabbit
+BM25
+CrowdFlower
+Jaccard
+TREC
+Magdy
+Shtok

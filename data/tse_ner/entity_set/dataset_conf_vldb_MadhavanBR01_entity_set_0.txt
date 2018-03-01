@@ -1,0 +1,13 @@
+Cupid
+IDREF
+RefInt
+TreeMatch
+ARTEMIS
+Excel.contactName
+InvoiceTo
+DeliverTo
+XMLattributes
+PurchaseOrder
+IsDerivedFrom
+RefInts
+XML-attribute

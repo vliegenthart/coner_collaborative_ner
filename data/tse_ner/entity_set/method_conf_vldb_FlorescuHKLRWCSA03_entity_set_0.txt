@@ -1,0 +1,45 @@
+FSAs
+UNICODE
+FLWR
+CharData
+JDBC
+Query Compilation and
+XQRL
+Token Iterator trees
+JXQI
+XDBC
+Token Iterator tree
+Schema Manager and
+XQuery
+Token Iterators ,
+XPath
+FLWR
+UNICODE
+Token Iterator tree
+XPath
+XQuery
+JXQI
+CharData
+Token Iterators ,
+FSAs
+Query Compilation and
+Schema Manager and
+Token Iterator trees
+XQRL
+XDBC
+JDBC
+XPath
+XDBC
+CharData
+Token Iterators ,
+UNICODE
+XQRL
+Token Iterator tree
+Token Iterator trees
+Schema Manager and
+FLWR
+XQuery
+FSAs
+JDBC
+Query Compilation and
+JXQI

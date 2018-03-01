@@ -1,0 +1,42 @@
+South American countries
+Generation Strategy Although
+COGEX
+FERRET
+POWERANSWER-2 Before relationship
+TREC
+Keyword Density strategy
+Answer Merging Answers
+Manual Correference and
+Ellipsis Keyword Selection
+WordNet
+PALANTIR
+South America Although
+Answer Merging module
+South American countries
+FERRET
+Generation Strategy Although
+PALANTIR
+Answer Merging Answers
+Manual Correference and
+South America Although
+TREC
+POWERANSWER-2 Before relationship
+Ellipsis Keyword Selection
+Keyword Density strategy
+Answer Merging module
+WordNet
+COGEX
+POWERANSWER-2 Before relationship
+South America Although
+Answer Merging module
+FERRET
+TREC
+COGEX
+South American countries
+Keyword Density strategy
+Generation Strategy Although
+WordNet
+PALANTIR
+Manual Correference and
+Answer Merging Answers
+Ellipsis Keyword Selection

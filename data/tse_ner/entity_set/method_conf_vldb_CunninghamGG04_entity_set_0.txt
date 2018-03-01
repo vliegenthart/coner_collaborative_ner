@@ -1,0 +1,30 @@
+Unpivot
+Filters
+RDBMS These improve
+Aggregation Missing values
+dynamic
+TPCH
+Execution Strategies Defining
+RDBMS
+NULL
+CUBE
+UNPIVOT
+UNPIVOT Filters interact
+Union
+OLAP
+CUSTPROPERTY
+CUBE
+Union
+OLAP
+NULL
+RDBMS These improve
+Unpivot
+Aggregation Missing values
+RDBMS
+Filters
+CUSTPROPERTY
+Execution Strategies Defining
+dynamic
+TPCH
+UNPIVOT Filters interact
+UNPIVOT

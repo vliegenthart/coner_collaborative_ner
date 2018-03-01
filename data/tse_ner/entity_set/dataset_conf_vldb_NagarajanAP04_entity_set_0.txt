@@ -1,0 +1,14 @@
+RefSeq
+PubMed
+MALDI
+SCIP
+caTIS
+MIAME
+NCICB
+XMLTYPE
+MIAPE
+LIMS
+HomoloGene
+UniGene
+LocusLink
+caBIG

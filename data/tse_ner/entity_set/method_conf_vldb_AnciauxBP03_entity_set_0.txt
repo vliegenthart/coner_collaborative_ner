@@ -1,0 +1,39 @@
+ILeft
+QEPs
+Split
+RAM-constrained
+CompMin
+IterMin
+Minimizing Required tuples
+IRight
+DFlow
+Eager
+Completeness
+CompMax
+Unicity
+CompMin
+CompMax
+Completeness
+Split
+DFlow
+Minimizing Required tuples
+IterMin
+Eager
+RAM-constrained
+ILeft
+IRight
+QEPs
+Unicity
+Minimizing Required tuples
+Unicity
+DFlow
+IterMin
+RAM-constrained
+IRight
+ILeft
+Completeness
+Eager
+CompMin
+CompMax
+QEPs
+Split

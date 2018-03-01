@@ -1,0 +1,33 @@
+Hidden Markov model
+TREC
+TREC-9 Chinese corpus
+Lexicon Indexing One
+Query Processing and
+TREC-9
+CETA
+HKNews
+Chinese
+WEAVER
+HMMbased
+HKNews
+CETA
+TREC-9
+Lexicon Indexing One
+HMMbased
+WEAVER
+TREC-9 Chinese corpus
+TREC
+Chinese
+Hidden Markov model
+Query Processing and
+Lexicon Indexing One
+Chinese
+TREC
+TREC-9
+Query Processing and
+TREC-9 Chinese corpus
+WEAVER
+Hidden Markov model
+HKNews
+CETA
+HMMbased

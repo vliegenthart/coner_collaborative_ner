@@ -1,0 +1,30 @@
+Enterprise
+Gaussian
+After indexing ,
+Poisson
+Average Inverse Collection
+Terrier
+Zaragoza
+TREC
+Email Dates evidence
+Identifying Documents for
+Gaussian
+Email Dates evidence
+Poisson
+Identifying Documents for
+Terrier
+TREC
+After indexing ,
+Average Inverse Collection
+Zaragoza
+Enterprise
+After indexing ,
+TREC
+Identifying Documents for
+Gaussian
+Poisson
+Enterprise
+Email Dates evidence
+Zaragoza
+Average Inverse Collection
+Terrier

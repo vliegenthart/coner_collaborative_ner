@@ -1,0 +1,6 @@
+McKeown
+BM25
+UWbaseTerms
+TREC
+DocLen
+UWbasePhrase

@@ -1,0 +1,30 @@
+Specialized Update Operations
+VLDB
+Current Database Assume
+DBMS
+Defense
+Jefferson
+INGRES
+Invalid
+Writes
+SHARD
+Current Database Assume
+Defense
+Writes
+Jefferson
+Invalid
+DBMS
+INGRES
+Specialized Update Operations
+VLDB
+SHARD
+Jefferson
+Invalid
+INGRES
+Writes
+Defense
+SHARD
+Specialized Update Operations
+DBMS
+VLDB
+Current Database Assume

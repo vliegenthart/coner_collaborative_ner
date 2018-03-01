@@ -1,0 +1,32 @@
+Linux Intel machine
+RFID
+CQJA
+UNION
+OLTP
+VSCN
+RDBMS
+DELETES
+Continuous Query is
+CQAJ
+SUSPENDED
+SCNs
+INSERTS
+Continuous Query Definition
+DMLs
+INCREASING
+CQJA
+INSERTS
+Linux Intel machine
+SCNs
+OLTP
+VSCN
+SUSPENDED
+RDBMS
+CQAJ
+Continuous Query Definition
+RFID
+Continuous Query is
+DELETES
+UNION
+DMLs
+INCREASING

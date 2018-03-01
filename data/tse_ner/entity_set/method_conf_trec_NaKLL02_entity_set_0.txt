@@ -1,0 +1,42 @@
+PRESIDENT
+System Description Question
+ENGINEER
+ATTs
+SMART
+TREC
+Question Classification determines
+Retrieval Passage Retrieval
+Entity Feedback is
+Candidate Answers Determining
+Candidate Answers ranks
+WordNet
+Candidate Answers semantically
+Candidate Answers After
+ENGINEER
+Question Classification determines
+WordNet
+System Description Question
+Candidate Answers semantically
+Entity Feedback is
+TREC
+ATTs
+Candidate Answers Determining
+SMART
+PRESIDENT
+Candidate Answers ranks
+Retrieval Passage Retrieval
+Candidate Answers After
+System Description Question
+Retrieval Passage Retrieval
+PRESIDENT
+TREC
+ENGINEER
+Candidate Answers semantically
+Question Classification determines
+WordNet
+Candidate Answers ranks
+ATTs
+SMART
+Entity Feedback is
+Candidate Answers Determining
+Candidate Answers After

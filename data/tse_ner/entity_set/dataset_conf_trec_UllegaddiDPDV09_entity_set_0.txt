@@ -1,0 +1,7 @@
+HDFS
+wikipedia.org
+WordNet
+WARC
+TREC
+Hadoop
+SequenceFile

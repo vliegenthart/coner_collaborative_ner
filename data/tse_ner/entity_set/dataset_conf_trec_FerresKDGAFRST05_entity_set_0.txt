@@ -1,0 +1,8 @@
+Lucene
+AQUAINT
+POS-tagging
+Sibyl
+Aranea
+TREC
+LCSUM
+EuroWordNet

@@ -1,0 +1,54 @@
+Lucene
+Carol Friedman et
+Human Diseases and
+BreakIterator
+TREC
+Senior Health Complete
+Uncertainty Detection Following
+ICD-9
+UMLS
+Nadkarni
+Swapna Abhyankar and
+ANNIE
+Lemur
+Pittsburgh
+Medicine
+Negated Report Text
+TREC Evaluation Results
+Chinnakotla
+Chinnakotla
+Uncertainty Detection Following
+BreakIterator
+Carol Friedman et
+ANNIE
+ICD-9
+TREC Evaluation Results
+Nadkarni
+Medicine
+TREC
+Negated Report Text
+Senior Health Complete
+UMLS
+Lemur
+Pittsburgh
+Human Diseases and
+Swapna Abhyankar and
+Lucene
+Medicine
+Carol Friedman et
+Chinnakotla
+TREC
+Senior Health Complete
+Human Diseases and
+UMLS
+Swapna Abhyankar and
+Lucene
+Nadkarni
+Pittsburgh
+ICD-9
+TREC Evaluation Results
+Negated Report Text
+ANNIE
+Uncertainty Detection Following
+BreakIterator
+Lemur

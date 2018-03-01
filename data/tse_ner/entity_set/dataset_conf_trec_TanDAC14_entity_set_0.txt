@@ -1,0 +1,4 @@
+BlackList
+UserID
+Foursquare
+TripAdvisor

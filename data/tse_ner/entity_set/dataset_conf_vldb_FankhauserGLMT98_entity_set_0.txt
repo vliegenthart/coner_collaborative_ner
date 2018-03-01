@@ -1,0 +1,5 @@
+OQL-queries
+ONTOS
+ODMG
+WWW-based
+ODBMS

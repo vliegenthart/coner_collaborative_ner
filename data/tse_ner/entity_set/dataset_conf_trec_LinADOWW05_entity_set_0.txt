@@ -1,0 +1,10 @@
+ThrNoQNarr
+ThrNoQuot
+KITitleNewText
+TitleNewText
+TitleDefault
+ThrQuot
+TitleTrans
+Quoted
+TREC
+INQUERY

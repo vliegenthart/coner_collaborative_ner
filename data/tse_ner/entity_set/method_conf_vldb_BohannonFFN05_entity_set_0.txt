@@ -1,0 +1,34 @@
+QualityOrdered
+Kleene
+XPath
+XQuery
+Schema Embeddings with
+XSLT
+Accuracy Results Varying
+RandomOrdered
+Target Schemas Target
+Embedding Quality There
+Handling Multiple Theorem
+Experimental Setting Experiments
+RandomMaxInd
+DTDs
+Finding Valid Local
+findPathsRand
+PTIME
+Kleene
+XPath
+XSLT
+QualityOrdered
+Embedding Quality There
+PTIME
+Target Schemas Target
+Accuracy Results Varying
+Finding Valid Local
+Schema Embeddings with
+XQuery
+DTDs
+Handling Multiple Theorem
+findPathsRand
+Experimental Setting Experiments
+RandomOrdered
+RandomMaxInd

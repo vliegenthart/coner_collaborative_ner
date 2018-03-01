@@ -1,0 +1,33 @@
+SMART
+AltaVista
+Standards
+TREC
+Named Entity recognition
+CNLP
+Boolean Question representation
+TREC-9
+Named Entity hierarchy
+NIST
+CNLP Named Entity
+CNLP Named Entity
+Named Entity recognition
+TREC-9
+Standards
+AltaVista
+TREC
+SMART
+NIST
+CNLP
+Boolean Question representation
+Named Entity hierarchy
+TREC
+Named Entity hierarchy
+Boolean Question representation
+TREC-9
+NIST
+CNLP
+AltaVista
+Named Entity recognition
+SMART
+CNLP Named Entity
+Standards

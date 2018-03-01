@@ -1,0 +1,7 @@
+SQL-92
+SQL-86
+SQL-Insert
+SomeType
+SQL-Descriptor
+IsEmpty
+SQL-Table

@@ -1,0 +1,39 @@
+VLDB
+dynamic class is
+DOCLEAF
+DBMS
+TIGRE
+SCHOOL
+EMPSAL
+BOID
+NAME
+dynamic attributes is
+INSCRLPTION
+DATE
+dynamic
+dynamic class is
+dynamic
+SCHOOL
+INSCRLPTION
+DATE
+TIGRE
+DBMS
+DOCLEAF
+NAME
+EMPSAL
+VLDB
+BOID
+dynamic attributes is
+NAME
+BOID
+SCHOOL
+DATE
+dynamic
+DOCLEAF
+dynamic class is
+EMPSAL
+INSCRLPTION
+dynamic attributes is
+DBMS
+VLDB
+TIGRE

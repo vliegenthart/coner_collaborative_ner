@@ -1,0 +1,9 @@
+XMLtagged
+NIST-provided
+XPath
+Proximity
+WordNet
+Kennedy
+TREC
+WhatIs
+XML-tagged

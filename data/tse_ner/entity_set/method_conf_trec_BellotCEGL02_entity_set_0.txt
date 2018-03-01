@@ -1,0 +1,63 @@
+Knowledge Bases developed
+NAME
+Coupling SIAC and
+Question Analysis ,
+Named Entity Recognition
+Knowledge Bases is
+Vector Space model
+TREC
+Expected Answer Types
+Question Ordering problem
+Question Taggings have
+ZTRM
+TREC-8
+TREC-9
+ORGAN
+SIAC
+Pronominal Anaphora is
+CITY
+Alcohol
+Question Answering task
+BIRD
+Knowledge Bases is
+Expected Answer Types
+Question Taggings have
+Vector Space model
+TREC-8
+BIRD
+SIAC
+TREC-9
+ZTRM
+Question Ordering problem
+Question Analysis ,
+TREC
+Alcohol
+NAME
+Coupling SIAC and
+Named Entity Recognition
+Pronominal Anaphora is
+Knowledge Bases developed
+Question Answering task
+CITY
+ORGAN
+Question Ordering problem
+Question Analysis ,
+TREC
+Knowledge Bases developed
+TREC-9
+CITY
+Alcohol
+Question Answering task
+Knowledge Bases is
+Pronominal Anaphora is
+BIRD
+Coupling SIAC and
+Vector Space model
+SIAC
+Question Taggings have
+Expected Answer Types
+ZTRM
+TREC-8
+ORGAN
+Named Entity Recognition
+NAME

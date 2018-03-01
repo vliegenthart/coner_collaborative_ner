@@ -1,0 +1,5 @@
+Boolean
+DOCDATE
+Windows-1252
+SearchServer
+Batch

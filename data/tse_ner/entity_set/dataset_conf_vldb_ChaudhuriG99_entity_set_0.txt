@@ -1,0 +1,10 @@
+Zipfian
+PHASED
+Restarts
+MAXDIFF
+Euclidean
+MHIST
+Irvine
+Census
+DBMS
+NoRestarts

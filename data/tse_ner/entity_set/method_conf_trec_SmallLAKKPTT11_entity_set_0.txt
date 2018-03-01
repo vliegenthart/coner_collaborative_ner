@@ -1,0 +1,48 @@
+Lucene
+Twitter
+Siena College community
+TREC
+Waikato
+Chavez
+Wikipedia
+HTML
+APPENDIX Sample Query
+STIRS
+Judgments
+WEKA
+NIST
+TREC-format
+URLs
+WordNet
+HTML
+Chavez
+WEKA
+TREC-format
+Waikato
+Judgments
+TREC
+Wikipedia
+Lucene
+Twitter
+NIST
+STIRS
+URLs
+Siena College community
+WordNet
+APPENDIX Sample Query
+Waikato
+TREC
+URLs
+Lucene
+NIST
+WEKA
+TREC-format
+Twitter
+WordNet
+Siena College community
+Chavez
+Judgments
+Wikipedia
+APPENDIX Sample Query
+STIRS
+HTML

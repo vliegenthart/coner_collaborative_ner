@@ -1,0 +1,11 @@
+UC-Berkeley
+OODB
+ADT-Ingres
+Paradise
+Ontologic
+SIGMOD
+CORBA
+Garlic
+DBMS
+Microsoft
+Smalltalk

@@ -1,0 +1,9 @@
+TRECs
+AQUAINT
+WordNet
+Perl
+TREC
+Britannica
+MURAX
+MadCow
+Okapi

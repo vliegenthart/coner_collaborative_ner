@@ -1,0 +1,10 @@
+TreeTagger
+FASTR
+CELEX
+TIMEX
+NLP-based
+TREC
+QuestionnSentence
+tf.idf
+QALC
+QuestionnAnswering

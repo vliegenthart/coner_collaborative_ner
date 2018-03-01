@@ -1,0 +1,8 @@
+MinDist
+PARADISE
+PageRank
+InLink
+BM25
+Duplicate
+RawScoretp
+GOV2

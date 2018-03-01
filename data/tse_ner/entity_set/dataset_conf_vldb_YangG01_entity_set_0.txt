@@ -1,0 +1,11 @@
+FracChange
+QueryLoginRatio
+Napster
+OpenNap
+MaxResults
+ExServ
+UsersPerServer
+UNCH
+NumServers
+FilesPerUserµ
+FilesPerUser

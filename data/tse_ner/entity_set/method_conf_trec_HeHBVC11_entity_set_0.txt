@@ -1,0 +1,36 @@
+CWIrun1
+Interactive Information Access
+Related Health Problems
+TREC
+Medical
+ICD-9
+MEDICAL
+Approaches Indexing Two
+Diseases
+CWI4
+ICD-code
+CWI2
+Medical
+ICD-9
+Related Health Problems
+CWIrun1
+CWI2
+TREC
+Approaches Indexing Two
+Diseases
+MEDICAL
+CWI4
+Interactive Information Access
+ICD-code
+ICD-code
+Interactive Information Access
+Medical
+TREC
+MEDICAL
+CWIrun1
+Approaches Indexing Two
+CWI4
+Related Health Problems
+CWI2
+Diseases
+ICD-9

@@ -1,0 +1,33 @@
+Document Selection The
+Question Answering To
+Logical Graph Rules
+TREC
+LGRs
+Inverse Document Frequency
+PRISE
+AnswerFinder
+LingPipe
+NIST
+Answer Selection The
+PRISE
+Question Answering To
+Logical Graph Rules
+LingPipe
+AnswerFinder
+TREC
+Inverse Document Frequency
+Answer Selection The
+NIST
+Document Selection The
+LGRs
+PRISE
+LGRs
+Inverse Document Frequency
+TREC
+Logical Graph Rules
+AnswerFinder
+LingPipe
+Answer Selection The
+NIST
+Document Selection The
+Question Answering To

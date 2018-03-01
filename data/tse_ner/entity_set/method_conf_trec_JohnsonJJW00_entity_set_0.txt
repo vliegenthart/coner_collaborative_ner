@@ -1,0 +1,45 @@
+Average Precision with
+Commercial Direct audio
+American
+January
+Average Precision by
+TREC
+whereas
+February
+TRANSCRIPTIONS
+TREC-8
+TREC-7
+TREC-9
+NIST
+UBRF
+MLLR
+Average Precision by
+UBRF
+TREC-8
+American
+TREC-9
+TREC-7
+TREC
+TRANSCRIPTIONS
+MLLR
+NIST
+January
+whereas
+Average Precision with
+February
+Commercial Direct audio
+whereas
+TRANSCRIPTIONS
+TREC
+TREC-9
+TREC-7
+NIST
+Commercial Direct audio
+February
+Average Precision by
+MLLR
+Average Precision with
+January
+UBRF
+TREC-8
+American

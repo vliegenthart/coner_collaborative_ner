@@ -1,0 +1,5 @@
+TPC-D
+HAVING
+NGAd
+SELECT
+Cartesian

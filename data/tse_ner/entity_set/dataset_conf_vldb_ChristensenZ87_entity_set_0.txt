@@ -1,0 +1,7 @@
+the.program
+SQLCODE
+Variables
+INGRES
+EQUEL
+ESQL
+COMMIT

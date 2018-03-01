@@ -1,0 +1,4 @@
+Terrier
+FEUP
+BM25
+Blog06

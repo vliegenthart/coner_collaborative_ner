@@ -1,0 +1,33 @@
+Lucene
+Retweets
+TREC
+HTML
+JSON
+Detection Score Content
+Final Burst Score
+BurstDetectionScore
+NIST
+Burst Detection Score
+ASCII
+HTML
+Retweets
+Detection Score Content
+JSON
+Final Burst Score
+TREC
+Burst Detection Score
+NIST
+ASCII
+BurstDetectionScore
+Lucene
+TREC
+Detection Score Content
+Burst Detection Score
+Lucene
+JSON
+NIST
+Retweets
+BurstDetectionScore
+ASCII
+Final Burst Score
+HTML

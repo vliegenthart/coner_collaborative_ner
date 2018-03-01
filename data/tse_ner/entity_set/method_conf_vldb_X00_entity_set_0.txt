@@ -1,0 +1,108 @@
+SUNY
+Pennsylvania
+Madison
+Florida
+TimesTen Performance Software
+Buffalo
+Pittsburgh
+Chicago
+California
+Irvine
+Maryland
+Santa Barbara ,
+Athens
+Peter Lockemann ,
+Queensland
+Toronto
+Southern California ,
+VLDB
+Manchester
+Turku
+Konstanz
+Riverside
+Surajit Chaudhuri and
+Waterloo
+Fribourg
+Limburg
+Denver
+Vienna
+Singapore
+Technology
+Texas
+Sciences
+Berlin
+Cairo
+Seoul
+Crete
+Technology
+Manchester
+Cairo
+Crete
+Southern California ,
+Athens
+Limburg
+Chicago
+Florida
+Denver
+Vienna
+Riverside
+Peter Lockemann ,
+Singapore
+Fribourg
+TimesTen Performance Software
+Berlin
+Pittsburgh
+SUNY
+Santa Barbara ,
+Maryland
+Buffalo
+Toronto
+Queensland
+VLDB
+Madison
+Seoul
+Pennsylvania
+Sciences
+Konstanz
+Irvine
+California
+Waterloo
+Turku
+Surajit Chaudhuri and
+Texas
+TimesTen Performance Software
+Singapore
+Turku
+California
+Florida
+Southern California ,
+Riverside
+Athens
+Madison
+Manchester
+Limburg
+Irvine
+Waterloo
+Toronto
+Pittsburgh
+SUNY
+Fribourg
+Seoul
+Texas
+Pennsylvania
+Chicago
+Berlin
+Denver
+Sciences
+Crete
+Konstanz
+Cairo
+Santa Barbara ,
+Peter Lockemann ,
+Queensland
+Vienna
+Technology
+Maryland
+Surajit Chaudhuri and
+VLDB
+Buffalo

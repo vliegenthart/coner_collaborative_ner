@@ -1,0 +1,8 @@
+THING
+QA-by-Dossier
+TREC2003
+TREC-style
+PIQUANT
+NIST
+Everglades
+PERSON-type

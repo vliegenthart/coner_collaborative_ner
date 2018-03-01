@@ -1,0 +1,9 @@
+SDbatch
+WHIPS
+SDoverwrite
+KeyInstall
+FullRecomp
+GenInstall
+TPC-D
+DBMS
+WHERE

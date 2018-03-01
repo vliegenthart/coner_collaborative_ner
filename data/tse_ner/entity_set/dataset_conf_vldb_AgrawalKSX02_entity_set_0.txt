@@ -1,0 +1,7 @@
+EasyCredit
+NumChildren
+EquiRate
+Alice
+Mallory
+Mississippi
+Trent

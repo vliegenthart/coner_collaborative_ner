@@ -1,0 +1,8 @@
+GIRT
+CLIR
+GermannEnglish
+SMART
+German
+SYSTRAN
+UMLS
+Chinesee33

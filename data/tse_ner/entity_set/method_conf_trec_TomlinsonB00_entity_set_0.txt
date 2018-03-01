@@ -1,0 +1,60 @@
+Fulcrum Technologies Document
+JOURNAL
+DESCRIPT
+Intuitive Searching All
+DOCNO
+UNIX
+FTDF
+TREC
+HTML
+SearchServer
+Narrative
+Query Track runs
+TREC-8
+TREC-9
+Approximate Text Searching
+META
+WordPerfect
+PowerPoint
+TREC-5
+NIST
+FTDF
+WordPerfect
+META
+Intuitive Searching All
+HTML
+JOURNAL
+TREC-8
+TREC-5
+DESCRIPT
+TREC-9
+Query Track runs
+SearchServer
+TREC
+DOCNO
+NIST
+Narrative
+Fulcrum Technologies Document
+PowerPoint
+UNIX
+Approximate Text Searching
+Query Track runs
+Approximate Text Searching
+TREC
+SearchServer
+TREC-9
+DESCRIPT
+FTDF
+JOURNAL
+Intuitive Searching All
+NIST
+PowerPoint
+META
+DOCNO
+TREC-5
+TREC-8
+WordPerfect
+UNIX
+Narrative
+HTML
+Fulcrum Technologies Document

@@ -1,0 +1,6 @@
+PageRank
+TrustRank
+AltaVista
+PakeRank
+Jacobi
+SelectSeed

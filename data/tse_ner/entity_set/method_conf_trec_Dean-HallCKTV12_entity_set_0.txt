@@ -1,0 +1,45 @@
+NIST
+CSIRO
+InfoLab
+Kullback Leibler scores
+HPLC
+TREC
+Waterloo These baselines
+IRIT
+Delaware
+Foursquare Venues were
+Vector Space Model
+BOSS
+Sample Suggestions Suggestions
+UDInfoCSTdc
+APIs
+InfoLab
+Sample Suggestions Suggestions
+Waterloo These baselines
+IRIT
+Delaware
+TREC
+APIs
+Foursquare Venues were
+HPLC
+NIST
+CSIRO
+BOSS
+Vector Space Model
+UDInfoCSTdc
+Kullback Leibler scores
+Delaware
+Vector Space Model
+Sample Suggestions Suggestions
+TREC
+APIs
+IRIT
+NIST
+Waterloo These baselines
+Foursquare Venues were
+CSIRO
+HPLC
+Kullback Leibler scores
+BOSS
+UDInfoCSTdc
+InfoLab

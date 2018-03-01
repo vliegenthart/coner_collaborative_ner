@@ -1,0 +1,30 @@
+StreamItem
+Pattern Matching method
+TREC
+Wikipedia
+DATE
+Passages Building Index
+Indri search function
+Useful Pattern Matching
+StreamItems
+Extracting Relevant Passages
+Extracting Relevant Passages
+Useful Pattern Matching
+Indri search function
+StreamItems
+DATE
+Pattern Matching method
+Wikipedia
+TREC
+Passages Building Index
+StreamItem
+TREC
+Passages Building Index
+Pattern Matching method
+DATE
+StreamItems
+Wikipedia
+Useful Pattern Matching
+StreamItem
+Indri search function
+Extracting Relevant Passages

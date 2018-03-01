@@ -6,6 +6,7 @@
 # TODO
 # Do XHTML enrichtment after calculating top papers, not before!
 # Change all 'ocurrances' to 'occurrences'
+# Balance papers that are used equally from all 10 journals before taking top!!!
 
 # ############## #
 #      SETUP     #

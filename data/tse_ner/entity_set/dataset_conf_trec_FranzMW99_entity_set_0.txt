@@ -1,0 +1,10 @@
+CLIR
+EqFd
+FrenchEnglish
+FrenchGerman
+EnglishFrench
+GermanFrench
+TREC
+EqFdsystem
+Okapi
+French

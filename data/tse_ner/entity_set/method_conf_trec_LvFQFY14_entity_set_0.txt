@@ -1,0 +1,48 @@
+QueryLMJMTweet
+IssueQuery
+Feature Generation Several
+TREC
+Vector Space Model
+TFIDF
+OriginQuery
+Model Score (
+InQuery
+MergeQuery
+Cosine Similarity Metric
+Semantic Score Features
+URLs
+China Grant 61370116
+TREC-API
+Feature Generation Component
+TREC-API
+InQuery
+Feature Generation Several
+Semantic Score Features
+TFIDF
+QueryLMJMTweet
+TREC
+Cosine Similarity Metric
+Vector Space Model
+Model Score (
+MergeQuery
+IssueQuery
+Feature Generation Component
+China Grant 61370116
+OriginQuery
+URLs
+IssueQuery
+Semantic Score Features
+TFIDF
+China Grant 61370116
+Vector Space Model
+TREC
+Model Score (
+OriginQuery
+MergeQuery
+URLs
+Feature Generation Component
+InQuery
+QueryLMJMTweet
+TREC-API
+Feature Generation Several
+Cosine Similarity Metric

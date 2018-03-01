@@ -1,0 +1,10 @@
+FunctionScan
+HashAggregate
+RDBMS
+IGNITE
+DIOP
+RDBMS-based
+PostgreSQL
+QPipe
+LINEITEM
+TPC-H

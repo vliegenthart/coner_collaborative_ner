@@ -1,0 +1,33 @@
+Runs Standard Document
+Classification Metadata annotation
+Values Relevance Relevant
+TREC
+Expert Granularity Document
+Phrase Genre Overview
+INQUERY-stopped
+AQUAINT
+Question Answering track
+CIIR
+Passage Retrieval Baseline
+CIIR
+INQUERY-stopped
+Values Relevance Relevant
+Runs Standard Document
+Passage Retrieval Baseline
+Question Answering track
+Classification Metadata annotation
+TREC
+Phrase Genre Overview
+Expert Granularity Document
+AQUAINT
+Expert Granularity Document
+Passage Retrieval Baseline
+TREC
+Values Relevance Relevant
+Phrase Genre Overview
+AQUAINT
+CIIR
+Runs Standard Document
+Question Answering track
+INQUERY-stopped
+Classification Metadata annotation

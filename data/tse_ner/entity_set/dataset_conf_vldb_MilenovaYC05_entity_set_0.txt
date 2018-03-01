@@ -1,0 +1,5 @@
+LIBSVM
+Euclidean
+Gaussian
+RDBMS
+PREDICTION

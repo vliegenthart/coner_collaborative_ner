@@ -1,0 +1,33 @@
+Reynar
+Initial System Overview
+Sentence Ranking Sentences
+Question Answering Track
+Ratnaparkhi
+SGML
+TREC
+Harman
+TREC-8
+NIST
+Question Answering task
+SGML
+TREC-8
+Reynar
+Question Answering Track
+Initial System Overview
+TREC
+Sentence Ranking Sentences
+Harman
+NIST
+Ratnaparkhi
+Question Answering task
+Reynar
+Harman
+Initial System Overview
+TREC
+SGML
+Sentence Ranking Sentences
+NIST
+Question Answering Track
+Ratnaparkhi
+TREC-8
+Question Answering task

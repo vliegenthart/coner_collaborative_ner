@@ -1,0 +1,5 @@
+LETOR
+ListNet
+DSPApprox
+Indri
+ClueWeb12-B13

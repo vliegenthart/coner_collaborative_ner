@@ -1,0 +1,5 @@
+DefaultSimilarity
+TREC-style
+IndoEuropeanTokenizer
+LingPipe
+BooleanQuery

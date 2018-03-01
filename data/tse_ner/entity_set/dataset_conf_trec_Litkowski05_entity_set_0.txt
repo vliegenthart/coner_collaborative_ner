@@ -1,0 +1,13 @@
+XML-based
+DIMAP
+XMLtagged
+XPath
+AQUAINT
+WordNet
+NIST
+TREC
+XML-tagged
+UMLS
+Google
+HowMany
+XML-generation

@@ -1,0 +1,33 @@
+Utility Support Component
+RESTORE
+KODA
+DBMS
+Craig Zastera have
+COMMIT
+PREPARE
+Transaction Management Component
+Component Oracle DBMS
+CODASYL
+SNAP
+PREPARE
+COMMIT
+Transaction Management Component
+Craig Zastera have
+RESTORE
+DBMS
+Component Oracle DBMS
+Utility Support Component
+CODASYL
+KODA
+SNAP
+KODA
+PREPARE
+Transaction Management Component
+RESTORE
+SNAP
+Craig Zastera have
+COMMIT
+Component Oracle DBMS
+CODASYL
+DBMS
+Utility Support Component

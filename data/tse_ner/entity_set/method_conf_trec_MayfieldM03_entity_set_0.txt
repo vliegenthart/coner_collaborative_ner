@@ -1,0 +1,36 @@
+Robust Retrieval Track
+TREC
+TopTen
+Query Track ,
+Narrative
+TREC-8
+TREC-9
+Robust Track Summary
+RIDF
+Washington
+MAP-Hardest
+TREC-6
+TREC-8
+TREC-9
+MAP-Hardest
+TREC-6
+RIDF
+Robust Track Summary
+TopTen
+Query Track ,
+TREC
+Narrative
+Robust Retrieval Track
+Washington
+RIDF
+TREC
+MAP-Hardest
+Washington
+TREC-9
+Robust Track Summary
+TopTen
+Robust Retrieval Track
+Query Track ,
+TREC-8
+Narrative
+TREC-6

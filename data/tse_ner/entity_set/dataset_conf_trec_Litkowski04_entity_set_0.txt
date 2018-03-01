@@ -1,0 +1,14 @@
+DIMAP
+XPath
+AQUAINT
+WordNet
+NIST-supplied
+Novelty
+NIST
+XMLbased
+XMLgeneration
+TREC
+Perl
+XML-tagged
+UMLS
+Google

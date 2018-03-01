@@ -1,0 +1,75 @@
+RFID Object Temporal
+Event Managers function
+Temporal Data Modeling
+Query Support Based
+OBJECTLOCATION
+OBSERVATION Location Transformation
+RFID-enabled Application Fundamental
+RDBMS
+Physical World Figure
+DRER
+RFID Platforms RFID
+Siemens
+Fixed Period Partition
+Dynamic Relationship Tables
+Query Support with
+RFID Middleware is
+Event Manager may
+Archive Product Data
+RFID Object Monitoring
+Dynamic Period Partition
+Dynamic Interactions between
+Dynamic Relationship ER
+RFID
+RFID Object Detection
+Siemens MOBY Related
+RFID Platforms RFID
+RFID Object Temporal
+Siemens MOBY Related
+Archive Product Data
+RFID Object Detection
+Dynamic Period Partition
+RDBMS
+OBSERVATION Location Transformation
+RFID Object Monitoring
+DRER
+Fixed Period Partition
+RFID Middleware is
+Temporal Data Modeling
+RFID-enabled Application Fundamental
+RFID
+Query Support Based
+Event Manager may
+Siemens
+OBJECTLOCATION
+Dynamic Relationship ER
+Query Support with
+Event Managers function
+Dynamic Relationship Tables
+Dynamic Interactions between
+Physical World Figure
+Siemens
+RFID-enabled Application Fundamental
+Temporal Data Modeling
+DRER
+Dynamic Interactions between
+RFID Object Temporal
+Dynamic Relationship Tables
+Archive Product Data
+RFID Middleware is
+RFID Platforms RFID
+Dynamic Period Partition
+Query Support Based
+Event Managers function
+Siemens MOBY Related
+Query Support with
+RFID
+Dynamic Relationship ER
+Fixed Period Partition
+Event Manager may
+Physical World Figure
+RFID Object Monitoring
+RFID Object Detection
+RDBMS
+OBSERVATION Location Transformation
+OBJECTLOCATION

@@ -1,0 +1,8 @@
+SPARCstation
+REDO
+OODBMS
+ACID
+CPU-intensive
+OIDs
+EXODUS
+OID-sized

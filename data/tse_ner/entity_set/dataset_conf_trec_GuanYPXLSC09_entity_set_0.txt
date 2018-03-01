@@ -1,0 +1,4 @@
+TREC
+BM25
+DOCconetent
+MAXWINDOW

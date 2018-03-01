@@ -1,0 +1,5 @@
+WordNet
+WNSense
+TREC
+Minipar
+PiQASso

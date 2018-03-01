@@ -1,0 +1,7 @@
+Porter
+MeSH
+SMART
+MEDLINE
+Rocchio
+Okapi
+PubMed

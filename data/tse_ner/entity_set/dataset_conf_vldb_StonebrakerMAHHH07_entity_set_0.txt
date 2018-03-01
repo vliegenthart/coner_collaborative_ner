@@ -1,0 +1,7 @@
+JDBC
+RDBMS
+Comdisco
+Stock
+OLTP
+DBMS
+TimesTen

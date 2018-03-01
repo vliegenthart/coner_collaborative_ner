@@ -1,0 +1,8 @@
+Dirichlet
+Lemur
+CombMNZ
+TREC
+Terabyte06
+GOV2
+OKAPI
+INQUERY

@@ -1,0 +1,14 @@
+GroupByCols
+FromTables
+WhereCols
+CostRatio
+NP-Hard
+JoinConds
+SLAVE
+DOMINATE
+SELECT
+ExecutionCost
+WorkloadTable
+REPRESENT
+WHERE
+OrderByCols

@@ -1,0 +1,36 @@
+INTEGER
+WARLOCK
+MDC design This
+First Order Jackknife
+Windows Future work
+FUDG
+TIMESTAMP
+RDBMS
+SALARY
+WEEK
+Experimental Results Test
+DATE
+Experimental Results Test
+WARLOCK
+SALARY
+INTEGER
+DATE
+First Order Jackknife
+RDBMS
+Windows Future work
+WEEK
+TIMESTAMP
+FUDG
+MDC design This
+WEEK
+TIMESTAMP
+RDBMS
+Windows Future work
+Experimental Results Test
+FUDG
+INTEGER
+DATE
+WARLOCK
+First Order Jackknife
+SALARY
+MDC design This

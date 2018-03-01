@@ -1,0 +1,8 @@
+RIDDLE
+QuickCorners
+THEOREM
+SVMs
+PostalCode
+Trillium
+LEMMA
+GBROrgs

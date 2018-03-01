@@ -1,0 +1,60 @@
+Basic Semantics Definition
+Models Several alternative
+Meaningful Data Fragment
+Query Evaluator can
+DBMS
+Query Evaluator Schema
+Schema Summary BACKGROUND
+Meaningful Schema Pattern
+Meaningful Schema Patterns
+MSPs
+Basic Semantics is
+Meaningful Relationship Function
+Query Evaluator and
+XMark
+Meaningful Query Pattern
+Basic Semantics if
+Query Rewriter is
+Basic Schema Pattern
+Query Evaluator component
+Meaningful Summary Query
+Meaningful Schema Patterns
+XMark
+Meaningful Data Fragment
+Basic Semantics if
+MSPs
+Meaningful Summary Query
+Meaningful Relationship Function
+Meaningful Schema Pattern
+Query Rewriter is
+Models Several alternative
+Schema Summary BACKGROUND
+Basic Semantics Definition
+DBMS
+Basic Schema Pattern
+Query Evaluator component
+Query Evaluator can
+Meaningful Query Pattern
+Query Evaluator Schema
+Query Evaluator and
+Basic Semantics is
+Meaningful Data Fragment
+Models Several alternative
+MSPs
+Query Evaluator component
+Meaningful Summary Query
+Basic Semantics if
+Basic Schema Pattern
+DBMS
+XMark
+Query Evaluator Schema
+Basic Semantics is
+Meaningful Relationship Function
+Query Rewriter is
+Basic Semantics Definition
+Query Evaluator and
+Meaningful Schema Pattern
+Query Evaluator can
+Schema Summary BACKGROUND
+Meaningful Schema Patterns
+Meaningful Query Pattern

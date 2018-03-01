@@ -1,0 +1,36 @@
+Lucene
+Query Track queries
+SMART
+RequestText
+HTML
+TREC
+TREC-3
+CombSum
+TFIDF
+Document Retrieval Indexing
+WEKA
+Relevance Feedback Training
+HTML
+CombSum
+TFIDF
+WEKA
+Document Retrieval Indexing
+TREC
+Relevance Feedback Training
+TREC-3
+SMART
+RequestText
+Query Track queries
+Lucene
+TFIDF
+TREC-3
+TREC
+CombSum
+Relevance Feedback Training
+Query Track queries
+Lucene
+WEKA
+SMART
+Document Retrieval Indexing
+RequestText
+HTML

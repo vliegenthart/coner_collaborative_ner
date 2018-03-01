@@ -1,0 +1,6 @@
+EEPROM
+MEMS-based
+MEMSbased
+MEMS
+NSM-like
+MicroElectroMechanical

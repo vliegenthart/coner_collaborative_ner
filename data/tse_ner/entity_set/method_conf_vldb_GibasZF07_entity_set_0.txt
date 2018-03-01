@@ -1,0 +1,30 @@
+LSDtree
+Query Types Cast
+Optimization Query Applications
+Processing
+Optimization Query Model
+Query Processing over
+BSPtree
+Operations Research literature
+Minimum Bounding Rectangles
+Convex Optimization (
+LSDtree
+BSPtree
+Minimum Bounding Rectangles
+Convex Optimization (
+Optimization Query Applications
+Optimization Query Model
+Processing
+Query Types Cast
+Query Processing over
+Operations Research literature
+Optimization Query Model
+Convex Optimization (
+LSDtree
+Query Types Cast
+Query Processing over
+Optimization Query Applications
+Operations Research literature
+Minimum Bounding Rectangles
+BSPtree
+Processing

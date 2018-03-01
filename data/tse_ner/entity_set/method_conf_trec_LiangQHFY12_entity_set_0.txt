@@ -1,0 +1,42 @@
+Iteration Algorithm is
+SVM-based Model Support
+TopicInfo
+Feature Selection Vectors
+TREC
+Temporal Feature Recentness
+Vector Space Model
+Boolean Retrieval Model
+Official
+Cosine Similarity Metric
+Dirichlet
+China Grant 60875033
+Boolean Retrieval System
+Unofficial
+Boolean Retrieval System
+TREC
+Iteration Algorithm is
+Feature Selection Vectors
+Boolean Retrieval Model
+Vector Space Model
+Cosine Similarity Metric
+Official
+SVM-based Model Support
+Dirichlet
+Unofficial
+China Grant 60875033
+Temporal Feature Recentness
+TopicInfo
+Unofficial
+Iteration Algorithm is
+Boolean Retrieval System
+Official
+TREC
+Dirichlet
+Vector Space Model
+China Grant 60875033
+Feature Selection Vectors
+Temporal Feature Recentness
+Boolean Retrieval Model
+Cosine Similarity Metric
+SVM-based Model Support
+TopicInfo

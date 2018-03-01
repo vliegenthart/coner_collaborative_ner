@@ -1,0 +1,6 @@
+Fekete
+S2PL
+SELECT
+CSDG
+PostgreSQL
+WHERE

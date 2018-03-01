@@ -1,0 +1,42 @@
+OMRDBs
+OMRDB
+Using Structure Context
+DBMS
+Referenced Objects Case
+ODMG
+Structure Context Structure
+POODB
+RDBMS
+ObjectInstances
+Michael Franklin patterns
+AttrName
+TEMP
+GetNext
+OMRDB
+Referenced Objects Case
+OMRDBs
+Structure Context Structure
+AttrName
+RDBMS
+GetNext
+POODB
+DBMS
+ObjectInstances
+Using Structure Context
+Michael Franklin patterns
+ODMG
+TEMP
+ObjectInstances
+TEMP
+Michael Franklin patterns
+AttrName
+OMRDBs
+OMRDB
+Referenced Objects Case
+RDBMS
+Structure Context Structure
+ODMG
+Using Structure Context
+GetNext
+POODB
+DBMS

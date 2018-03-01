@@ -1,0 +1,5 @@
+JuruXML
+TREC
+Configured
+QA-by-Dossier
+QA-byDossier

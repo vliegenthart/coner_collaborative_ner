@@ -1,0 +1,36 @@
+Retrieval Official results
+CLIR
+TREC
+HTML
+TREC-6 HAIRCUT benefits
+HAIRCUT
+TFIDF
+TREC-9
+North Carolina Chapel
+NIST
+Hiemstra
+SVMs
+CLIR
+HTML
+HAIRCUT
+TREC-9
+TFIDF
+SVMs
+Hiemstra
+North Carolina Chapel
+TREC
+NIST
+Retrieval Official results
+TREC-6 HAIRCUT benefits
+CLIR
+TFIDF
+SVMs
+TREC
+TREC-9
+HAIRCUT
+NIST
+North Carolina Chapel
+Hiemstra
+TREC-6 HAIRCUT benefits
+Retrieval Official results
+HTML

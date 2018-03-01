@@ -1,0 +1,6 @@
+XML-safe
+OpenText
+CDIP
+Windows-1252
+SearchServer
+Boolean

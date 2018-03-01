@@ -1,0 +1,42 @@
+ARIES
+SMTP
+LSNs
+CORBA
+Storage
+Heterogeneous Data Access
+POP3
+PLATO
+RDBMS
+Analysis
+DECS
+Backup
+NotesPump
+Lotus Domino is
+POP3
+Heterogeneous Data Access
+Storage
+SMTP
+NotesPump
+PLATO
+RDBMS
+Analysis
+LSNs
+ARIES
+DECS
+Backup
+Lotus Domino is
+CORBA
+PLATO
+DECS
+LSNs
+Storage
+RDBMS
+POP3
+Lotus Domino is
+ARIES
+NotesPump
+SMTP
+Analysis
+CORBA
+Heterogeneous Data Access
+Backup

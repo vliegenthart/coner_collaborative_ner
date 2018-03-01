@@ -1,0 +1,33 @@
+TreeTagger
+CSIRO
+Answer Selection Given
+Question Answering Track
+TREC
+AQUAINT
+Question Answering track
+Tequesta
+Question Answering ,
+NIST
+MINIPAR Question Analysis
+TreeTagger
+Question Answering ,
+Question Answering Track
+Question Answering track
+MINIPAR Question Analysis
+Answer Selection Given
+TREC
+Tequesta
+NIST
+CSIRO
+AQUAINT
+MINIPAR Question Analysis
+TREC
+Answer Selection Given
+NIST
+AQUAINT
+Question Answering Track
+Question Answering ,
+TreeTagger
+Question Answering track
+Tequesta
+CSIRO

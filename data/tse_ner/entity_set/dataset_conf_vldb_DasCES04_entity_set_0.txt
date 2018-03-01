@@ -1,0 +1,15 @@
+NAME
+RosettaNet
+RDBMS
+PRIOR
+Term2
+MaxCardinality
+BioInformatics
+OntologyName
+MinCardinality
+NOCYCLE
+INTERSECT
+AllValuesFrom
+SomeValuesFrom
+RelType
+PropertyValues

@@ -1,0 +1,6 @@
+TREC-10
+Tequesta
+TreeTagger
+UNIX
+Lnu.ltc
+FlexIR

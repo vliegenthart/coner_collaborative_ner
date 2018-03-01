@@ -1,0 +1,30 @@
+Handling Variable Length
+ALTER
+PCTTHRESHOLD
+OLTP
+DBAs
+Internet Search Engines
+Extensible Indexing Framework
+RDBMS
+DATE
+Processing Electronic order
+DBAs
+ALTER
+DATE
+OLTP
+PCTTHRESHOLD
+RDBMS
+Internet Search Engines
+Processing Electronic order
+Handling Variable Length
+Extensible Indexing Framework
+Internet Search Engines
+OLTP
+RDBMS
+PCTTHRESHOLD
+ALTER
+Processing Electronic order
+DATE
+DBAs
+Handling Variable Length
+Extensible Indexing Framework

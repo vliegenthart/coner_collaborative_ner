@@ -1,0 +1,39 @@
+VLDB
+BTell
+HTML
+DBMS
+Unilever
+EVAL
+Modern OLAP Systems
+Excel Furthermore ,
+ROLLUP
+OLAP
+XQuery
+PossibleTransports
+Customer Product Profit
+HTML
+Modern OLAP Systems
+XQuery
+BTell
+Customer Product Profit
+Unilever
+DBMS
+PossibleTransports
+Excel Furthermore ,
+EVAL
+VLDB
+OLAP
+ROLLUP
+Modern OLAP Systems
+PossibleTransports
+Customer Product Profit
+OLAP
+Excel Furthermore ,
+ROLLUP
+EVAL
+HTML
+XQuery
+BTell
+DBMS
+VLDB
+Unilever

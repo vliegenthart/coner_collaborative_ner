@@ -1,0 +1,10 @@
+PPREFETCHSIZE
+DIXtrac
+OLTP
+OLTP-like
+Lachesis
+Shore
+DBMS
+PREFETCHSIZE
+DBA-specified
+TPC-H

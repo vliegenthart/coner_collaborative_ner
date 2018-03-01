@@ -1,0 +1,15 @@
+WineOntology
+HasColor
+FROM-clause
+RDBMS
+XMLExists
+WhiteWine
+Zinfandel
+BASELINE
+EXPAND
+WHERE-clause
+EdnaValley
+LocatedIn
+DBMS
+Wine
+WHERE

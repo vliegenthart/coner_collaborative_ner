@@ -1,0 +1,42 @@
+PBRF
+Parallel Collection Frequency
+POSW
+PCFW
+DPBRF
+Predict Performance Term
+TERs
+TREC-8
+TDT-2
+TREC-7
+COMM-2
+WordNet
+NIST
+MLLR
+Parallel Collection Frequency
+TREC-8
+PBRF
+PCFW
+TERs
+TREC-7
+POSW
+MLLR
+DPBRF
+NIST
+COMM-2
+WordNet
+TDT-2
+Predict Performance Term
+Parallel Collection Frequency
+PBRF
+TDT-2
+TREC-7
+TERs
+NIST
+PCFW
+POSW
+Predict Performance Term
+MLLR
+WordNet
+DPBRF
+TREC-8
+COMM-2

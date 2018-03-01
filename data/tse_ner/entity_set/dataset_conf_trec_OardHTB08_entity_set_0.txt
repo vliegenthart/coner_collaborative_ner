@@ -1,0 +1,13 @@
+OCRing
+Interactive
+UrsinusVa
+WordNet
+BM25
+Zettair
+Wumpus
+DFRee
+MultiText
+TREC
+StandardAnalyzer
+CombSum
+Boolean

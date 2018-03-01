@@ -1,0 +1,27 @@
+Contextual Suggestion track
+Foursquare
+Dynamic Domain task
+Terrier
+TREC
+CORI
+Temporal Summarisation track
+Dynamic Domain track
+LBSN
+CORI
+Contextual Suggestion track
+Terrier
+TREC
+Dynamic Domain task
+Dynamic Domain track
+Foursquare
+Temporal Summarisation track
+LBSN
+Temporal Summarisation track
+LBSN
+TREC
+Foursquare
+Contextual Suggestion track
+Dynamic Domain track
+Dynamic Domain task
+CORI
+Terrier

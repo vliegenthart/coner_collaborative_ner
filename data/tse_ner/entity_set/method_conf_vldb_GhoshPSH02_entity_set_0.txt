@@ -1,0 +1,39 @@
+SIMCHECK
+Projection Attributes Given
+Different Selection Predicates
+Experimental Results Our
+NATION
+PLASTIC
+TION
+SARGable
+Query Distance Function
+GION
+Example Feature Vector
+Mapping Mapping tables
+Structural Features Join
+NATION
+Structural Features Join
+Different Selection Predicates
+TION
+SARGable
+SIMCHECK
+Experimental Results Our
+Mapping Mapping tables
+Projection Attributes Given
+Query Distance Function
+PLASTIC
+Example Feature Vector
+GION
+SARGable
+Query Distance Function
+Structural Features Join
+Projection Attributes Given
+Example Feature Vector
+PLASTIC
+NATION
+Mapping Mapping tables
+SIMCHECK
+GION
+TION
+Experimental Results Our
+Different Selection Predicates

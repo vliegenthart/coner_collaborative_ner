@@ -1,0 +1,33 @@
+MULTIBASE
+AWAD
+FNAME
+ONAME
+Currency
+Genentech
+Company Database has
+Entity Relationship Model
+Semantic Database Model
+FIRM
+BNAME
+MULTIBASE
+Company Database has
+BNAME
+Genentech
+FNAME
+ONAME
+Currency
+AWAD
+FIRM
+Semantic Database Model
+Entity Relationship Model
+Currency
+FIRM
+Company Database has
+BNAME
+MULTIBASE
+AWAD
+Semantic Database Model
+Genentech
+FNAME
+Entity Relationship Model
+ONAME

@@ -1,0 +1,5 @@
+WordNet
+QALC
+NPfocus
+FocusBeforeAnswerVB
+Trec10

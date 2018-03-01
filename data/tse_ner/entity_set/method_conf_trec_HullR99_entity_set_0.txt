@@ -1,0 +1,36 @@
+Financial Times to
+Financial Times document
+CUNY
+Dynamic Feedback Optimization
+TREC
+IRIT
+TREC-8
+TREC-7
+Financial Times collection
+NIST
+Semantic Indexing LSI
+TREC-5
+Semantic Indexing LSI
+Financial Times collection
+TREC-8
+CUNY
+Dynamic Feedback Optimization
+IRIT
+TREC-7
+TREC
+Financial Times document
+Financial Times to
+NIST
+TREC-5
+Financial Times collection
+TREC
+IRIT
+TREC-7
+NIST
+Financial Times to
+Semantic Indexing LSI
+CUNY
+Financial Times document
+Dynamic Feedback Optimization
+TREC-5
+TREC-8

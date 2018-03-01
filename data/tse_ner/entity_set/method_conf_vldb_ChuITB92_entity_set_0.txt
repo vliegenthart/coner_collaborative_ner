@@ -1,0 +1,39 @@
+OODBMS
+VLDB
+Functions Several useful
+EECS
+TEDM
+Temporal Evolutionary Queries
+Gemstone
+TEQL
+UHICH
+Temporal Queries Patients
+IMIS
+Temporal Evolutionary Data
+COUNT
+Gemstone
+EECS
+Temporal Evolutionary Data
+Functions Several useful
+Temporal Queries Patients
+TEDM
+Temporal Evolutionary Queries
+TEQL
+VLDB
+IMIS
+UHICH
+OODBMS
+COUNT
+TEQL
+OODBMS
+EECS
+Functions Several useful
+COUNT
+Temporal Evolutionary Queries
+IMIS
+Temporal Evolutionary Data
+Temporal Queries Patients
+Gemstone
+TEDM
+VLDB
+UHICH

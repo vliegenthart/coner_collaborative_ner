@@ -1,0 +1,54 @@
+NLP-based
+Cognition
+FASTR Named entity
+Automatic Indexing and
+FASTR Jacquemin ,
+TREC
+CELEX
+TIMEX
+QuestionnAnswering
+PHYSICS
+FASTR
+CITY
+DATE
+QALC
+Basic Similarity Measure
+Semantic Categories Each
+Mexico State University
+Question Analysis module
+Basic Similarity Measure
+DATE
+PHYSICS
+FASTR Jacquemin ,
+Automatic Indexing and
+Mexico State University
+Cognition
+TIMEX
+NLP-based
+QuestionnAnswering
+CELEX
+FASTR Named entity
+FASTR
+TREC
+Semantic Categories Each
+Question Analysis module
+QALC
+CITY
+Automatic Indexing and
+FASTR
+TREC
+QuestionnAnswering
+QALC
+CITY
+FASTR Jacquemin ,
+PHYSICS
+DATE
+FASTR Named entity
+TIMEX
+Cognition
+Question Analysis module
+CELEX
+Semantic Categories Each
+Basic Similarity Measure
+Mexico State University
+NLP-based

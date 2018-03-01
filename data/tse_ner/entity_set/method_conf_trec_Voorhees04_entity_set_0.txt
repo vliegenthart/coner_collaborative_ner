@@ -1,0 +1,39 @@
+GOV2
+TREC-5
+Sabir Research TREC
+Standards
+TREC
+TREC-3
+SGML
+HTML
+AQUAINT
+Defense Advanced Research
+NIST
+Information Retrieval Information
+MEDLINE
+SGML
+HTML
+GOV2
+Sabir Research TREC
+MEDLINE
+Information Retrieval Information
+Standards
+TREC
+TREC-3
+NIST
+Defense Advanced Research
+AQUAINT
+TREC-5
+Sabir Research TREC
+TREC-3
+TREC
+SGML
+NIST
+Defense Advanced Research
+MEDLINE
+AQUAINT
+GOV2
+TREC-5
+Information Retrieval Information
+Standards
+HTML

@@ -1,0 +1,4 @@
+WhoRole
+NLPWin
+BM25
+TherelativecontributionofaquestiontypeistheMRRforthetypemultipliedbytheproportionofthequestionswhichhave

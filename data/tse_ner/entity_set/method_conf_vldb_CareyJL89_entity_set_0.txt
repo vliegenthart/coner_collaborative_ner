@@ -1,0 +1,48 @@
+Allocation Buffer allocation
+CPUs
+Query Manager when
+DBMS
+PLRu
+OptBufs
+Transaction Admission policy
+Resource Manager have
+Query Manager is
+USIA
+DBMJN
+DBMIN
+JoinMethodi
+BYES
+Query Manager sends
+Olcteri
+JoinMethodi
+BYES
+Query Manager when
+OptBufs
+DBMJN
+Query Manager sends
+Transaction Admission policy
+PLRu
+CPUs
+USIA
+DBMIN
+Resource Manager have
+DBMS
+Olcteri
+Query Manager is
+Allocation Buffer allocation
+BYES
+OptBufs
+Allocation Buffer allocation
+Query Manager is
+DBMIN
+USIA
+Query Manager when
+JoinMethodi
+CPUs
+PLRu
+Transaction Admission policy
+Olcteri
+Resource Manager have
+DBMS
+DBMJN
+Query Manager sends

@@ -1,0 +1,57 @@
+Component Scoring Relevance
+Evaluation Metrics Three
+StandardAnalyzer
+Specific Interest Score
+Track Median by
+General Interest Model
+Score Aggregation and
+TREC
+Standards
+Average Track Median
+JSON
+RAMA
+dynamic
+IARPA
+Candidate Suggestion Score
+Worst
+Intelligence Advanced Research
+RUN1
+NIST
+dynamic
+Intelligence Advanced Research
+Average Track Median
+IARPA
+Score Aggregation and
+StandardAnalyzer
+Specific Interest Score
+JSON
+Worst
+RUN1
+Standards
+TREC
+Component Scoring Relevance
+General Interest Model
+Track Median by
+RAMA
+NIST
+Evaluation Metrics Three
+Candidate Suggestion Score
+Evaluation Metrics Three
+Component Scoring Relevance
+Specific Interest Score
+TREC
+Track Median by
+Score Aggregation and
+RAMA
+JSON
+General Interest Model
+NIST
+StandardAnalyzer
+Average Track Median
+Worst
+Candidate Suggestion Score
+dynamic
+RUN1
+Intelligence Advanced Research
+IARPA
+Standards
