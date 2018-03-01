@@ -140,7 +140,14 @@ def find_pdf_terms_in_sent_tsv(database, facet, pdf_name):
 
   # print("Analysing & processing sentences...")
 
-  entity_set = read_entity_set(f'data/{database}/model_term_set/{facet}_model_1_term_set_0.txt')
+  term_set = read_entity_set(f'data/{database}/model_term_set/{facet}_model_1_term_set_0.txt')
+  entity_set = read_entity_set(f'data/{database}/entity_set/{facet}_{pdf_name}_entity_set_0.txt')
+
+  entity_set = list(set().union(term_set, entity_set))
+
+  print(entity_set)
+
+
   sent_list, sent_obj, error_sents = process_sentences(f'../PDFNLT/pdfanalyzer/text/{pdf_name}.sent.tsv', pdf_name)
 
   pdf_term_info_list = create_terms_info(entity_set, sent_list, sent_obj)
