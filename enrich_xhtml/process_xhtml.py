@@ -66,3 +66,6 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, database, facet, pdf_name):
   with open(f'data/{database}/xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
     outputFile.write(str(xhtml_soup.prettify()))
 
+  with open(f'data/{database}/test_xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
+    outputFile.write(str(xhtml_soup.prettify()))
+
