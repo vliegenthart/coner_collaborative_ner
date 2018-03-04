@@ -5,7 +5,7 @@ Smalltalk
 TOMM
 DRUG
 SGML
-OIDs Basically ,
+OIDs Basically
 TextObj
 OIDs
 ProgNote
@@ -16,7 +16,7 @@ TextObj
 OIDs
 DisSumPar
 DRUG
-OIDs Basically ,
+OIDs Basically
 OSQL
 SGML
 ProgNote

@@ -5,7 +5,7 @@ DBMS
 Unilever
 EVAL
 Modern OLAP Systems
-Excel Furthermore ,
+Excel Furthermore
 ROLLUP
 OLAP
 XQuery
@@ -19,7 +19,7 @@ Customer Product Profit
 Unilever
 DBMS
 PossibleTransports
-Excel Furthermore ,
+Excel Furthermore
 EVAL
 VLDB
 OLAP
@@ -28,7 +28,7 @@ Modern OLAP Systems
 PossibleTransports
 Customer Product Profit
 OLAP
-Excel Furthermore ,
+Excel Furthermore
 ROLLUP
 EVAL
 HTML

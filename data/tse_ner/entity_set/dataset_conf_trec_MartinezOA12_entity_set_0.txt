@@ -9,7 +9,7 @@ BM25
 UMLS Metathesaurus is
 MRCOC
 UMLS
-UMLS Metathesaurus ,
+UMLS Metathesaurus
 TREC-2011
 DbPedia
 TREC-2012

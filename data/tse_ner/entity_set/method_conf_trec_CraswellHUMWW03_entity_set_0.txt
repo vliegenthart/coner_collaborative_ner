@@ -1,4 +1,4 @@
-experimental design ,
+experimental design
 Subjects Sixteen students
 CSIRO
 PageRank
@@ -14,7 +14,7 @@ TDAuto
 experimental design Subjects
 Topic Distillation runs
 PageRank
-experimental design ,
+experimental design
 NIST
 experimental design as
 CSIRO
@@ -29,7 +29,7 @@ TDAuto
 experimental design as
 PageRank
 NIST
-experimental design ,
+experimental design
 Topic Distillation with
 experimental design Subjects
 Topic Distillation from

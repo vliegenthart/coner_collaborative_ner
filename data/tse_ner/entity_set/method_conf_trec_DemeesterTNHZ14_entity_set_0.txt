@@ -12,7 +12,7 @@ Flickr
 Technology
 Search Engine Impact
 Resource Selection run
-Vertical Selection ,
+Vertical Selection
 ECNUCS
 Inverse Resource Frequency
 CRCS
@@ -30,13 +30,13 @@ TREC
 ICTNET
 ECNUCS
 Inverse Resource Frequency
-Vertical Selection ,
+Vertical Selection
 Resource Selection run
 Flickr
 Technology
 SUSHI
 ICTNET
-Vertical Selection ,
+Vertical Selection
 Google
 Search Engine Impact
 TREC

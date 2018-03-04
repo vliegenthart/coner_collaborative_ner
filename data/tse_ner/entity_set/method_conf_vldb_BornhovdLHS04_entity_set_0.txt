@@ -7,7 +7,7 @@ EPCs
 Defense
 Device Controller receives
 RFID
-Kimberly Clark ,
+Kimberly Clark
 Device Controllers allow
 Scalability Companies like
 Device Controllers (
@@ -20,7 +20,7 @@ EPCs
 Device Controllers with
 Device Controllers allow
 Scalability Companies like
-Kimberly Clark ,
+Kimberly Clark
 Conceptually
 Device Controller receives
 EPCs
@@ -28,7 +28,7 @@ RFID
 Device Controllers and
 Device Controllers (
 Defense
-Kimberly Clark ,
+Kimberly Clark
 Scalability Companies like
 Supply Chain Management
 Device Controllers with

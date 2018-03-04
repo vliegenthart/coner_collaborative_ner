@@ -13,7 +13,7 @@ RegExprewrite
 WordNet Generating Complete
 RegExprewriting
 Starfish
-Question Answering ,
+Question Answering
 Answer Matching phase
 NIST
 Question Processing The
@@ -22,7 +22,7 @@ Jellyfish Future work
 DATE
 RegExps
 Jellyfish
-Question Answering ,
+Question Answering
 RegExprewrite
 Question Processing component
 RegExp
@@ -47,7 +47,7 @@ AQUAINT
 NIST
 DATE
 Starfish
-Question Answering ,
+Question Answering
 RegExprewrite
 Answer Matching phase
 Jellyfish Future work

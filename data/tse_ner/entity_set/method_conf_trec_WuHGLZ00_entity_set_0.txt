@@ -8,7 +8,7 @@ MRAR
 China
 TREC-9
 OHSU
-Yaqian Zhou ,
+Yaqian Zhou
 CLIR
 Mutual Information higher
 Query Translation The
@@ -38,7 +38,7 @@ Mutual Information means
 TREC
 Knowledge Source Construction
 Fudan Question Answering
-Yaqian Zhou ,
+Yaqian Zhou
 Boolean Information Retrieval
 TREC-9
 Chinese
@@ -57,7 +57,7 @@ TREC-9
 TREC
 Systems Group in
 Question Analyzer attempts
-Yaqian Zhou ,
+Yaqian Zhou
 OHSU
 OODs
 Single Word Search

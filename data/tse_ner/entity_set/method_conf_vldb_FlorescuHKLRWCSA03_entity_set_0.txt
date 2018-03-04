@@ -11,7 +11,7 @@ XDBC
 Token Iterator tree
 Schema Manager and
 XQuery
-Token Iterators ,
+Token Iterators
 XPath
 FLWR
 UNICODE
@@ -20,7 +20,7 @@ XPath
 XQuery
 JXQI
 CharData
-Token Iterators ,
+Token Iterators
 FSAs
 Query Compilation and
 Schema Manager and
@@ -31,7 +31,7 @@ JDBC
 XPath
 XDBC
 CharData
-Token Iterators ,
+Token Iterators
 UNICODE
 XQRL
 Token Iterator tree

@@ -4,7 +4,7 @@ Mutual Information means
 Automatic Speech Recognition
 Video Retrieval System
 Question Experiment results
-Question Answering ,
+Question Answering
 Question Answering In
 Topic Detection and
 China
@@ -24,7 +24,7 @@ Question Processing The
 HTML
 Logarithm Mutual Information
 Query Formation First
-Question Answering ,
+Question Answering
 Question Answering In
 China
 Motion Vectors obtained
@@ -63,7 +63,7 @@ Query Formation First
 Question Answering In
 Topic Index Document
 Topic Detection and
-Question Answering ,
+Question Answering
 Question Processing The
 Question Answering module
 Video Retrieval System

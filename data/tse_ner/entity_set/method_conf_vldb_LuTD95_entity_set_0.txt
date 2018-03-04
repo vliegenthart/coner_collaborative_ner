@@ -1,5 +1,5 @@
 NumRet
-dynamic programming ,
+dynamic programming
 dynamic programming algorithm
 NumRel
 dynamic programming On
@@ -28,5 +28,5 @@ Search Space Based
 TreeShape
 dynamic programming algorithm
 Different Search Space
-dynamic programming ,
+dynamic programming
 VLDB

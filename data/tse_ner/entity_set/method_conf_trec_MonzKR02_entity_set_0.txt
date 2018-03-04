@@ -6,11 +6,11 @@ TREC
 AQUAINT
 Question Answering track
 Tequesta
-Question Answering ,
+Question Answering
 NIST
 MINIPAR Question Analysis
 TreeTagger
-Question Answering ,
+Question Answering
 Question Answering Track
 Question Answering track
 MINIPAR Question Analysis
@@ -26,7 +26,7 @@ Answer Selection Given
 NIST
 AQUAINT
 Question Answering Track
-Question Answering ,
+Question Answering
 TreeTagger
 Question Answering track
 Tequesta

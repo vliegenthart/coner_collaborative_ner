@@ -4,20 +4,20 @@ SURROGATE
 Poissonian
 DBMS
 PINDEX
-Ulster Polytechnic ,
+Ulster Polytechnic
 PRECI
 B-tree
-Talib Abbod ,
+Talib Abbod
 SHSs
 Engineering Research Council
 Very Large Data
-Talib Abbod ,
+Talib Abbod
 Very Large Data
 SOSi
 SHSs
 DBMS
 SURROGATE
-Ulster Polytechnic ,
+Ulster Polytechnic
 B-tree
 Engineering Research Council
 Poissonian
@@ -30,10 +30,10 @@ SHSs
 PINDEX
 Aberdeen University Many
 B-tree
-Talib Abbod ,
+Talib Abbod
 Engineering Research Council
 Very Large Data
-Ulster Polytechnic ,
+Ulster Polytechnic
 SURROGATE
 DBMS
 Poissonian

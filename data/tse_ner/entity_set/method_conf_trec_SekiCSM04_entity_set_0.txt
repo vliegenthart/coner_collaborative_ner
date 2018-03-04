@@ -1,7 +1,7 @@
 UNIX
 SGML
 TREC
-Entrez Utilities ,
+Entrez Utilities
 YAGI
 Methods Framework The
 TFIDF
@@ -15,7 +15,7 @@ TFIDF
 MEDLINE
 YAGI
 TREC
-Entrez Utilities ,
+Entrez Utilities
 TFCHI
 UNIX
 Methods Framework The
@@ -25,6 +25,6 @@ SGML
 TFCHI
 MEDLINE
 Feature Selection Several
-Entrez Utilities ,
+Entrez Utilities
 YAGI
 UNIX

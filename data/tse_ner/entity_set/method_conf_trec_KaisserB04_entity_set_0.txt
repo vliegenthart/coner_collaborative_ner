@@ -9,12 +9,12 @@ DFKI
 AQUAINT
 Further Directions Most
 Question Answering with
-Franz Kafka ,
+Franz Kafka
 Inhofe
 Google
 Fuzzy Pattern Matching
 Further Directions Most
-Franz Kafka ,
+Franz Kafka
 TREC
 DFKI
 Definition Questions The
@@ -23,7 +23,7 @@ AQUAINT
 Question Answering is
 Question Answering with
 DFKI
-Franz Kafka ,
+Franz Kafka
 Google
 TREC
 Further Directions Most

@@ -1,4 +1,4 @@
-Trigger Monitor ,
+Trigger Monitor
 SqZExec
 Trigger Monitor from
 Prolog Implementation techniques
@@ -23,7 +23,7 @@ Alert
 SqIConnect
 Starburst Rule System
 SqlConnect
-Trigger Monitor ,
+Trigger Monitor
 RDLI
 Trigger Monitor is
 DEPT

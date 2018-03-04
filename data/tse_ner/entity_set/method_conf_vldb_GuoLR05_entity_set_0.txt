@@ -1,5 +1,5 @@
 TPCD
-Presence Assumption ,
+Presence Assumption
 SwitchUnion
 DBMS
 Presence Control table
@@ -9,7 +9,7 @@ Completeness Control table
 CustCopy
 BookCopy
 Consistency Control table
-Presence Assumption ,
+Presence Assumption
 Presence Control table
 Consistency Control table
 BookCopy
@@ -25,7 +25,7 @@ SwitchUnion
 Completeness Control table
 BookCopy
 Consistency Control table
-Presence Assumption ,
+Presence Assumption
 Presence Control table
 TPCD
 AuthorCopy

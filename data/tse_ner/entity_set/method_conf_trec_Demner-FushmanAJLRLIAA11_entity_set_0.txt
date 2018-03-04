@@ -6,7 +6,7 @@ UMLS
 Question Frame development
 FEEDING
 RxNorm
-Lucene Briefly ,
+Lucene Briefly
 ECHO
 Essie
 ECHO
@@ -14,7 +14,7 @@ RxNorm
 Question Frame development
 PICO
 Intervention
-Lucene Briefly ,
+Lucene Briefly
 FEEDING
 UMLS
 Lucene
@@ -25,6 +25,6 @@ UMLS
 Lucene
 FEEDING
 PICO
-Lucene Briefly ,
+Lucene Briefly
 Intervention
 ECHO

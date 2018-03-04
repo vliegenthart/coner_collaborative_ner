@@ -7,10 +7,10 @@ DBMSs Extended Cache
 Extended Cache WC
 dynamic aspects of
 LDIA
-IECCSS Iocalily ,
+IECCSS Iocalily
 LDIA
 Cache Management Algorithm
-IECCSS Iocalily ,
+IECCSS Iocalily
 dynamic aspects of
 Extended Cache WC
 DBMS
@@ -23,7 +23,7 @@ OODBMS
 Cache Management Algorithm
 Extended Cache WC
 dynamic aspects of
-IECCSS Iocalily ,
+IECCSS Iocalily
 LDIA
 DBMSs Extended Cache
 Hierarchy Search Order

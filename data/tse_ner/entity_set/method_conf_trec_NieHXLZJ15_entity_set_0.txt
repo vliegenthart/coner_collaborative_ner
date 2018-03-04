@@ -2,7 +2,7 @@ Distributed Crwaler Part
 Question Answering websites)
 Question Processing Part
 TREC
-Summer Palace ,
+Summer Palace
 WordNet Distributed Crwaler
 Answer Processing Part
 AnswerBag
@@ -10,7 +10,7 @@ DBpedia
 Question Answering system
 Distributed Crawler Part
 CQAs
-Summer Palace ,
+Summer Palace
 AnswerBag
 Question Answering system
 Question Processing Part
@@ -28,7 +28,7 @@ DBpedia
 TREC
 Distributed Crawler Part
 Question Answering system
-Summer Palace ,
+Summer Palace
 CQAs
 Question Answering websites)
 Answer Processing Part

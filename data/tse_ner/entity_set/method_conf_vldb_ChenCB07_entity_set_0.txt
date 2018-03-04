@@ -1,7 +1,7 @@
 VLDB
 MPLS
 Hessian
-Large Nunmbers ,
+Large Nunmbers
 Maximum Likelihood Estimate
 Hessian matrix is
 Central Limit Theorem
@@ -16,10 +16,10 @@ VLDB
 Central Limit Theorem
 MPLS
 Hessian
-Large Nunmbers ,
+Large Nunmbers
 Maximum Likelihood Estimate
 Gaussian
-Large Nunmbers ,
+Large Nunmbers
 Central Limit Theorem
 Fisher
 Maximum Likelihood Estimator

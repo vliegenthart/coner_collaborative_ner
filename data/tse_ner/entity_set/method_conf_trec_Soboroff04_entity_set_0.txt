@@ -8,7 +8,7 @@ Southern California –
 TFIDF
 Massachusetts CIIR 2
 POS-tagging
-Named Entities ,
+Named Entities
 NIST
 Bayesian
 Southern
@@ -18,7 +18,7 @@ Southern California –
 TFIDF
 Bayesian
 IRIT
-Named Entities ,
+Named Entities
 Southern
 TREC
 NIST
@@ -29,7 +29,7 @@ AQUAINT
 TFIDF
 THUIR
 TREC
-Named Entities ,
+Named Entities
 CDVP
 POS-tagging
 IRIT

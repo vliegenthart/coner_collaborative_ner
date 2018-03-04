@@ -1,7 +1,7 @@
 Count
 Kaleidoscope
 Presentation Kaleidoscope presents
-Concepts Entities ,
+Concepts Entities
 DBMS
 Kaleidoscope Kaleidoscope runs
 LISP
@@ -24,7 +24,7 @@ Kaleidoscope
 LISP
 DBMS-based
 Count
-Concepts Entities ,
+Concepts Entities
 Author
 NLMenu Summary Kaleidoscope
 Kaleidoscope
@@ -36,7 +36,7 @@ Author
 Thesis
 Entities Entities model
 DBMS-based
-Concepts Entities ,
+Concepts Entities
 Count
 Other Work Cooperative
 Kaleidoscope Kaleidoscope runs

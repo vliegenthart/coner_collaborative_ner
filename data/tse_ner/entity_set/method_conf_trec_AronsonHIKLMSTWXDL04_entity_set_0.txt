@@ -3,7 +3,7 @@ TGFB
 NCBI
 HNSCC
 TREC
-Naïve Bayes ,
+Naïve Bayes
 Journal Descriptor Indexing
 SGML
 TexTool
@@ -15,14 +15,14 @@ TexTool
 SGML
 MEDLINE
 MetaMap
-Naïve Bayes ,
+Naïve Bayes
 TREC
 TexTool Theme Query
 ABGene
 NCBI
 HNSCC
 TGFB
-Naïve Bayes ,
+Naïve Bayes
 TREC
 SGML
 TexTool Theme Query

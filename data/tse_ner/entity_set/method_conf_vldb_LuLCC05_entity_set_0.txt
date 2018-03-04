@@ -1,5 +1,5 @@
 TJFast Algorithm TJFast
-Label Properties ,
+Label Properties
 locateMatchedLabel
 dynamic XML trees
 Dewey
@@ -12,7 +12,7 @@ TwigStackList
 Dewey
 dynamic XML trees
 Preliminaries Data model
-Label Properties ,
+Label Properties
 Extended Dewey and
 TJFast Algorithm TJFast
 TJFast
@@ -26,5 +26,5 @@ dynamic XML trees
 locateMatchedLabel
 Dewey
 TwigStack
-Label Properties ,
+Label Properties
 TJFast Algorithm TJFast

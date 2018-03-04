@@ -4,7 +4,9 @@
 
 # TODO
 # - IMPORTANT: MORE filtering needed for extracted entities: method_conf_vldb_X00_entity_set_0
-# - IMPORTANT: Combine all term sets for extraction, go give it bigger influence!!!
+# - [TEMP DONE] IMPORTANT: Combine all term sets for extraction, go give it bigger influence!!!
+# - Improve occurrence calculation
+
 # - Calculate top papers using ALL FACETS, both method and dataset (and maybe combined term_set?)
 # - Determine weight of terms vs weights to normalize the bias: Calculate according to 
 #   total number unique entities extracted in X sample papers and total unique terms in X terms sets for facet
@@ -114,6 +116,9 @@ if [[ ! -z "$4" ]]; then
   cp -R "../named_entity_recognizer/data/${database}/" "data/${database}/"
   cp -R "../named_entity_recognizer/data/${database}/pdf/" "../PDFNLT/pdfanalyzer/${database}_pdf/"
 fi
+
+# 
+python "postprocess_paper_entity_sets.py" $database $facet 
 
 
 

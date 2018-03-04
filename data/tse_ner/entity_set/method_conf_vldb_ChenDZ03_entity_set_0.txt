@@ -7,10 +7,10 @@ DTDs
 Equivalence
 resulting relational design
 Functional Dependencies for
-relational design ,
+relational design
 DTDs
 resulting relational design
-relational design ,
+relational design
 Functional Dependencies for
 RRXS
 P-attributes
@@ -18,7 +18,7 @@ Equivalence
 database design based
 XFDs Semantic XFDs
 XFDs
-relational design ,
+relational design
 RRXS
 database design based
 resulting relational design

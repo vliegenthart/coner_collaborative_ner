@@ -15,7 +15,7 @@ SVM-based
 ASR-data
 RMIT
 Internet Archive data
-Ramazan Taban ,
+Ramazan Taban
 Maximum Entropy A
 Feature Extraction results
 MPEG
@@ -36,7 +36,7 @@ TREC
 France
 QBICstyle
 John Garofolo and
-Ramazan Taban ,
+Ramazan Taban
 ASR-data
 SVM-based
 NIST
@@ -65,5 +65,5 @@ Support Vector Machine
 MPEG-7
 France
 support vector machine
-Ramazan Taban ,
+Ramazan Taban
 Internet Archive data

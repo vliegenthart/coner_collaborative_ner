@@ -1,4 +1,4 @@
-Object Design ,
+Object Design
 IWSI
 CLOS
 NULL
@@ -16,7 +16,7 @@ OODB
 OODBs
 dynamic
 ANSI
-OODlls Today ,
+OODlls Today
 VLDB
 Object Navigation Like
 ONTOS
@@ -33,12 +33,12 @@ Object Navigation Like
 OODBs
 CLOS
 IWSI
-OODlls Today ,
+OODlls Today
 OODB
 OOPL
 BLOB
 OSQL
-Object Design ,
+Object Design
 ANSI
 MDBS
 RDBs

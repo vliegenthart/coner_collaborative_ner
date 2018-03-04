@@ -10,7 +10,7 @@ QITEKAT
 Knowledgeable Agents proposed
 KnowledgeableAbout
 Question Types B.4
-Wales Bangor ,
+Wales Bangor
 Knows
 Regular Expressions to
 Knows
@@ -20,7 +20,7 @@ Question Types B.4
 Search Engine Corroboration
 TREC
 Charles Bronson and
-Wales Bangor ,
+Wales Bangor
 AQUAINT
 Named Entity Tagging
 KnowledgeableAbout
@@ -35,7 +35,7 @@ Search Engine Corroboration
 Knows
 AQUAINT
 KnowledgeableAbout
-Wales Bangor ,
+Wales Bangor
 Named Entity Tagging
 Question Types B.4
 Knowledgeable Agents proposed

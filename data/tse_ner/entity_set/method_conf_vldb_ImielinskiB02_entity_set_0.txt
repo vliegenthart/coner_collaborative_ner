@@ -2,7 +2,7 @@ River Road and
 VLDB
 Rutgers
 Dataspace
-River Road ,
+River Road
 River Road -especially
 DataMan
 River Road has
@@ -20,7 +20,7 @@ VLDB
 George Street in
 Rutgers
 Dataspace
-River Road ,
+River Road
 PDAs
 River Road and
 Friday
@@ -34,6 +34,6 @@ River Road -especially
 PDAs
 Dataspace
 George Street to
-River Road ,
+River Road
 River Road and
 VLDB

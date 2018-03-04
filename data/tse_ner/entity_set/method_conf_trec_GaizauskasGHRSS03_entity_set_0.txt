@@ -6,7 +6,7 @@ AQUAINT
 Okapi
 TREC-8
 Automatically Acquiring Named
-Egyptian Gods ,
+Egyptian Gods
 Questions Through Query
 MURAX
 Ranking Experiments were
@@ -22,7 +22,7 @@ Baseline System For
 MURAX
 Automatically Acquiring Named
 AQUAINT
-Egyptian Gods ,
+Egyptian Gods
 Questions Through Query
 Ranking Experiments were
 Questions Through Query
@@ -31,7 +31,7 @@ Baseline System For
 AQUAINT
 MadCow
 MURAX
-Egyptian Gods ,
+Egyptian Gods
 Named Entity catalog
 Okapi
 TREC-8

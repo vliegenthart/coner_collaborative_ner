@@ -1,7 +1,7 @@
 Knowledge Bases developed
 NAME
 Coupling SIAC and
-Question Analysis ,
+Question Analysis
 Named Entity Recognition
 Knowledge Bases is
 Vector Space model
@@ -29,7 +29,7 @@ SIAC
 TREC-9
 ZTRM
 Question Ordering problem
-Question Analysis ,
+Question Analysis
 TREC
 Alcohol
 NAME
@@ -41,7 +41,7 @@ Question Answering task
 CITY
 ORGAN
 Question Ordering problem
-Question Analysis ,
+Question Analysis
 TREC
 Knowledge Bases developed
 TREC-9

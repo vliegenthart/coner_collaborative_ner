@@ -36,14 +36,18 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, database, facet, pdf_name):
         pdf_word.pdf_term_id = pdf_term.id
         pdf_word.bdr = span_word['data-bdr']
         pdf_word.facet = facet
+        pdf_term.facet = facet
+
         
         page_number = span_word.parent['data-page']
         pdf_word.page_number = page_number
         pdf_term.page_number = page_number
 
+
       if pdf_term.page_number:
         pdf_terms_pages[int(pdf_term.page_number)].append(pdf_term)
 
+    entity.facet = facet
     output_entity_json += jsonpickle.encode(entity) + ","
     pbar.update(1)
 

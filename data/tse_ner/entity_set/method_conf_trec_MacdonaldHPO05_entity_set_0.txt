@@ -1,6 +1,6 @@
 Enterprise
 Gaussian
-After indexing ,
+After indexing
 Poisson
 Average Inverse Collection
 Terrier
@@ -14,11 +14,11 @@ Poisson
 Identifying Documents for
 Terrier
 TREC
-After indexing ,
+After indexing
 Average Inverse Collection
 Zaragoza
 Enterprise
-After indexing ,
+After indexing
 TREC
 Identifying Documents for
 Gaussian

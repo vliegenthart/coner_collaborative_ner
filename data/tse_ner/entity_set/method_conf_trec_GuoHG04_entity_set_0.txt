@@ -7,7 +7,7 @@ TREC
 Generating Query Terms
 UMLS
 Retrieval Corpus Indexing
-UMLS Metathesaurus ,
+UMLS Metathesaurus
 MEDLINE
 APIs
 UMLS Metathesaurus provides
@@ -21,12 +21,12 @@ Aronson
 UMLS Metathesaurus is
 UMLS
 Lucene
-UMLS Metathesaurus ,
+UMLS Metathesaurus
 Aronson
 TREC
 APIs
 UMLS
-UMLS Metathesaurus ,
+UMLS Metathesaurus
 Generating Query Terms
 Lucene
 MEDLINE

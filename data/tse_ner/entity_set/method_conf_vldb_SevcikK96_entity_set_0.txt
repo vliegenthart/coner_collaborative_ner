@@ -12,13 +12,13 @@ Query Precision and
 Filter Trees involve
 Multidimensional Access Methods
 R-trees
-Filter Trees ,
+Filter Trees
 Filter Trees For
 Hilbert
 MBRs
 Query Precision and
 Filter Trees For
-Filter Trees ,
+Filter Trees
 Filter Trees involve
 TIGER
 MBRs

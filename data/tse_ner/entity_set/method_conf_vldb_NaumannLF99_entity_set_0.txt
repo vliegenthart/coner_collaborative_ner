@@ -6,7 +6,7 @@ Information Sources There
 DBMSS
 QCAs
 Plans Creating good
-QCAs Furthermore ,
+QCAs Furthermore
 MBIS
 Completeness
 MBIS
@@ -16,12 +16,12 @@ DBMSS
 QCAs
 Simple Additive Weighting
 Information Sources There
-QCAs Furthermore ,
+QCAs Furthermore
 DBMS
 Plans Creating good
 VLDB
 DBMSS
-QCAs Furthermore ,
+QCAs Furthermore
 Information Sources There
 QCAs
 QCA-speciic

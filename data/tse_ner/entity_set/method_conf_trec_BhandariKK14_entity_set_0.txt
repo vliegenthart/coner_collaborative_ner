@@ -7,7 +7,7 @@ UMLS
 February
 MetaMap
 Final Score Generation
-Introduction Microblogs ,
+Introduction Microblogs
 URLs
 Semantic Group Weighting
 Language Detection Library
@@ -18,7 +18,7 @@ TREC
 Twitter
 Abstract
 URLs
-Introduction Microblogs ,
+Introduction Microblogs
 UMLS
 February
 Final Score Generation
@@ -32,5 +32,5 @@ February
 Twitter
 Clinical Decision Support
 Abstract
-Introduction Microblogs ,
+Introduction Microblogs
 MetaMap

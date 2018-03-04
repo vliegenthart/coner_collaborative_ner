@@ -1,4 +1,4 @@
-Rhode Island ,
+Rhode Island
 QPBSM
 Motivation Geographic Information
 TIGER
@@ -9,7 +9,7 @@ MPBSM
 TreeSweep
 StripedSweep
 PBSM
-Rhode Island ,
+Rhode Island
 Synthetic
 TPIE
 MPBSM
@@ -20,7 +20,7 @@ QPBSM
 TIGER
 Motivation Geographic Information
 TreeSweep
-Rhode Island ,
+Rhode Island
 SSSJ
 TPIE
 TIGER

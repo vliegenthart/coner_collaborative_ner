@@ -12,9 +12,9 @@ Portal Shell with
 Exploiting Community Characteristics
 Semantic Web technologies
 Permission
-Semantic Web ,
+Semantic Web
 Portal Shell with
-Semantic Web ,
+Semantic Web
 DBLP
 Exploiting Community Characteristics
 MatchMbyName
@@ -42,4 +42,4 @@ Portal Shell with
 MatchMStrict
 Exploiting Community Characteristics
 VLDB
-Semantic Web ,
+Semantic Web

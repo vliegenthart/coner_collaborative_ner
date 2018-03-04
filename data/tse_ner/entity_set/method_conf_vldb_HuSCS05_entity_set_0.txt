@@ -6,7 +6,7 @@ Variant Datasets Earlier
 RFID
 OLAP
 EPCs
-Oracle DBMS ,
+Oracle DBMS
 Associated Operations Oracle
 Associated Operations Oracle
 RFID
@@ -15,7 +15,7 @@ Bitmap Datatype A
 Performance Evaluation These
 EPCs
 DBMS
-Oracle DBMS ,
+Oracle DBMS
 OLAP
 Asset Management RFID
 OLAP
@@ -26,5 +26,5 @@ EPCs
 RFID
 Variant Datasets Earlier
 DBMS
-Oracle DBMS ,
+Oracle DBMS
 Asset Management RFID

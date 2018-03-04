@@ -1,5 +1,5 @@
 VLDB
-Constraint Equations ,
+Constraint Equations
 Anchor
 Constraint Equation Formal
 Constraint Equations Update
@@ -22,7 +22,7 @@ DARPA
 Department
 MANAGER
 VLDB
-Constraint Equations ,
+Constraint Equations
 Conclusion Constraint Equations
 Anchor
 Constraint Equation is
@@ -30,7 +30,7 @@ Constraint Equations Update
 Constraint Equation Formal
 Employee
 Constraint Equations enables
-Constraint Equations ,
+Constraint Equations
 Conclusion Constraint Equations
 Anchor
 Constraint Equation Formal

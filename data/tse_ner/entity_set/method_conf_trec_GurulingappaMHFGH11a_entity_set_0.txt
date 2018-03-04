@@ -9,8 +9,8 @@ Medical Problems For
 SCAIVIEW
 ProMiner
 MetaMap
-Endometrioid Carcinoma ,
-Endometrioid Carcinoma ,
+Endometrioid Carcinoma
+Endometrioid Carcinoma
 ProMiner
 TRECMED
 Combinations Visits retrieved
@@ -28,7 +28,7 @@ SemRep
 UMLS
 Medical Problems For
 Lucene
-Endometrioid Carcinoma ,
+Endometrioid Carcinoma
 Retrieval Various search
 ProMiner
 Combinations Visits retrieved

@@ -4,7 +4,7 @@ CLEF
 BELGA
 Judgment Quality Conclusions
 TREC
-Charles Clarke ,
+Charles Clarke
 Waterloo
 NIST
 Image Relevance Assessment
@@ -15,7 +15,7 @@ Image Relevance Assessing
 IRAT
 TRAT
 TREC
-Charles Clarke ,
+Charles Clarke
 NIST
 Judgment Quality Conclusions
 BELGA
@@ -26,7 +26,7 @@ CLEF
 TRAT
 Amazon Mechanical Turk
 TREC
-Charles Clarke ,
+Charles Clarke
 Waterloo
 NIST
 Image Relevance Assessment

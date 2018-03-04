@@ -9,10 +9,10 @@ Admit Clerk is
 CORBA
 HTML
 Internet Eligibility information
-Admit Clerk ,
+Admit Clerk
 WFMS
 ANSI
-Bridgeport Furthermore ,
+Bridgeport Furthermore
 Immunization
 HMOs
 Graphical Workflow Designer
@@ -31,8 +31,8 @@ METEOR
 Doctor
 Standards
 CORBA
-Bridgeport Furthermore ,
-Admit Clerk ,
+Bridgeport Furthermore
+Admit Clerk
 Immunization
 WFMS
 ANSI
@@ -41,10 +41,10 @@ HIIT
 Standards
 HTML
 HMOs
-Bridgeport Furthermore ,
+Bridgeport Furthermore
 CHREF
 Medical Alerts (
-Admit Clerk ,
+Admit Clerk
 Admit Clerk is
 Graphical Workflow Designer
 METEOR

@@ -7,7 +7,7 @@ European
 CLARITECH
 TREC-8 CLIR track
 TREC-8
-SYSTRAN Enterprise ,
+SYSTRAN Enterprise
 TREC-7
 TREC-6
 Chinese CLIR With
@@ -23,7 +23,7 @@ Exact Precision Initial
 Chinese CLIR With
 European
 TREC-7 CLIR topics
-SYSTRAN Enterprise ,
+SYSTRAN Enterprise
 CLARIT
 TREC-8 CLIR track
 European
@@ -38,5 +38,5 @@ Chinese CLIR With
 TREC-6
 CLARITECH
 TREC-8
-SYSTRAN Enterprise ,
+SYSTRAN Enterprise
 Italian

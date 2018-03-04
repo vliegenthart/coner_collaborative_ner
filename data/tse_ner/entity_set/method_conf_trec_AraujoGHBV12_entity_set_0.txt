@@ -16,7 +16,7 @@ GCLD Under GCLD
 URLs
 DBPedia
 Jaccard
-Nassim Taleb ,
+Nassim Taleb
 DbPedia
 GCLD Under GCLD
 GCLD
@@ -27,7 +27,7 @@ SARA
 Wikipedia
 Model Approach This
 TREC
-Nassim Taleb ,
+Nassim Taleb
 Wikipedia Wikipedia entities
 Delaware
 JAVA
@@ -38,7 +38,7 @@ URLs
 SPARQL
 Delaware
 Jaccard
-Nassim Taleb ,
+Nassim Taleb
 DBPedia
 Wikipedia Wikipedia entities
 DBpedia

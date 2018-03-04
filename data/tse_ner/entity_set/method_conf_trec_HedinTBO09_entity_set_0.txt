@@ -4,7 +4,7 @@ Evaluation Measures The
 TREC-related
 Legacy Tobacco Document
 TREC
-Topic Authority ,
+Topic Authority
 Topic Authorities were
 Complex Document Information
 Topic Authority with
@@ -17,12 +17,12 @@ NIST
 Ursinus College (
 Topic Selection The
 Highly Relevant documents
-Legal Track ,
+Legal Track
 Topic Authority as
 Topic Authority in
 CDIP
 Legal Track community
-Topic Authority ,
+Topic Authority
 Topic Authority with
 TREC
 Legacy Tobacco Document
@@ -35,7 +35,7 @@ Maryland
 Evaluation Measures The
 Topic Authorities were
 TREC-related
-Legal Track ,
+Legal Track
 Waterloo
 Ursinus College (
 Teams
@@ -48,7 +48,7 @@ Waterloo
 Legacy Tobacco Document
 NIST
 Maryland
-Legal Track ,
+Legal Track
 Complex Document Information
 Evaluation Measures The
 CDIP
@@ -57,4 +57,4 @@ Topic Selection The
 Topic Authority with
 Topic Authority in
 Highly Relevant documents
-Topic Authority ,
+Topic Authority

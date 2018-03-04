@@ -8,12 +8,12 @@ TREC
 Robust Track results
 Narrative
 Robust Track We
-Robust Track ,
+Robust Track
 NDFA
 TREC Robust Track
 Robust Track Overview)
 Robust Track We
-Robust Track ,
+Robust Track
 TREC
 Robust Runs Performance
 Robust Track results
@@ -22,7 +22,7 @@ Minimal Matching Weighting
 Robust Topic Difficulty
 TREC
 Robust Track We
-Robust Track ,
+Robust Track
 Robust Topic Difficulty
 Robust Track Overview)
 Minimal Matching Weighting

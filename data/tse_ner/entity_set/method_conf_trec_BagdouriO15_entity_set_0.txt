@@ -7,10 +7,10 @@ Microblog
 Novelty Detection According
 JSON
 Okapi
-Tweets Twitter ,
+Tweets Twitter
 URLs
 CrowdFlower
-Tweets Twitter ,
+Tweets Twitter
 JSON
 Microblog
 Okapi
@@ -30,4 +30,4 @@ Twitter
 Microblog
 Okapi
 CrowdFlower
-Tweets Twitter ,
+Tweets Twitter

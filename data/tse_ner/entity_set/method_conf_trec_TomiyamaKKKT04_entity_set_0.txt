@@ -11,7 +11,7 @@ Semantic Vector 1
 Conceptual Fuzzy Sets
 Novelty Track is
 Sentences Retrieval Relevant
-Semantic Vector ,
+Semantic Vector
 Weighting Representative vector
 Semantic Vector 1
 HTML
@@ -23,7 +23,7 @@ TREC
 Sentence Weight Score
 Conceptual Fuzzy Sets
 Sentences Retrieval Relevant
-Semantic Vector ,
+Semantic Vector
 Novelty Track is
 SvmLight
 Weighting Representative vector
@@ -32,7 +32,7 @@ Support Vector Machine
 SvmLight
 TREC
 Engine System Overview
-Semantic Vector ,
+Semantic Vector
 Sentences Retrieval Relevant
 Sentence Weight Score
 Conceptual Fuzzy Sets

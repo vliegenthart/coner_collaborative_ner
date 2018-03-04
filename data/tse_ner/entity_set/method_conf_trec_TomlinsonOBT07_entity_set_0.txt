@@ -1,7 +1,7 @@
 CDIP
 Relevance Feedback task
 Relevance Feedback tasks
-Legal Track ,
+Legal Track
 Relevance Feedback runs
 TREC
 TREC Legal Track
@@ -33,7 +33,7 @@ Relevance Feedback task
 Maryland
 Precision Rates to
 Estimated Relevant Documents
-Legal Track ,
+Legal Track
 TREC Legal Track
 Legal Track should
 Table Glossary Interactive
@@ -45,7 +45,7 @@ Relevance Feedback tasks
 NIST
 Estimating Precision and
 Maryland
-Legal Track ,
+Legal Track
 Boolean Result Size
 CDIP
 Wikipedia

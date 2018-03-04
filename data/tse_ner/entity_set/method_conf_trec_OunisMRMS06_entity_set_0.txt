@@ -1,5 +1,5 @@
 Robert Gordon Univ
-Amsterdam Moreover ,
+Amsterdam Moreover
 Carnegie Mellon Univ
 TREC
 HTML
@@ -13,7 +13,7 @@ Conclusions TREC 2006
 HTML
 Maryland Baltimore County
 Robert Gordon Univ
-Amsterdam Moreover ,
+Amsterdam Moreover
 Conclusions TREC 2006
 TREC
 Assessment Procedure Participants
@@ -22,7 +22,7 @@ NIST
 Maryland
 Informatics
 Carnegie Mellon Univ
-Amsterdam Moreover ,
+Amsterdam Moreover
 Conclusions TREC 2006
 TREC
 Skype Journal puts

@@ -3,7 +3,7 @@ Linear Regularization method
 Maximum Entropy can
 Lagrange
 Linear Regularization perform
-Maximum Entropy ,
+Maximum Entropy
 Maximum Entropy solution
 Maximum Entropy suggests
 Survey There is
@@ -16,7 +16,7 @@ Maximum Entropy corresponds
 Survey There is
 Linear Regularization and
 Linear Regularization method
-Maximum Entropy ,
+Maximum Entropy
 Maximum Entropy can
 Discrete-Time Fourier Transform
 Linear Regularization perform
@@ -30,7 +30,7 @@ OLAP
 Discrete-Time Fourier Transform
 Maximum Entropy can
 Maximum Entropy method
-Maximum Entropy ,
+Maximum Entropy
 Maximum Entropy corresponds
 Maximum Entropy solution
 Linear Regularization method

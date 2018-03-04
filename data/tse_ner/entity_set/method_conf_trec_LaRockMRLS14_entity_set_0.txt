@@ -1,6 +1,6 @@
 Lucene
 Query Expansion Future
-Hillary Clinton ,
+Hillary Clinton
 TREC
 Waikato
 STIRS
@@ -19,7 +19,7 @@ NIST
 STIRS
 Individual Factors When
 Lucene
-Hillary Clinton ,
+Hillary Clinton
 Query Expansion Future
 Waikato
 TREC
@@ -29,5 +29,5 @@ WEKA
 Individual Factors When
 Query Sample Tweet
 STIRS
-Hillary Clinton ,
+Hillary Clinton
 Eclipse Java IDE

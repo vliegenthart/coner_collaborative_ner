@@ -1,5 +1,5 @@
 Aggregate Retaining evaluation
-Technique BSI ,
+Technique BSI
 Program Smart runs
 IncSel
 Very Large Data
@@ -10,7 +10,7 @@ Preferably
 Ordered Search Consider
 Aggregate
 Very Large Data
-Technique BSI ,
+Technique BSI
 Program Smart runs
 Ordered Search Consider
 Beeri
@@ -24,7 +24,7 @@ Aggregate Retaining evaluation
 Ganguly
 Ordered Search Consider
 Datalog
-Technique BSI ,
+Technique BSI
 Aggregate
 Very Large Data
 Preferably

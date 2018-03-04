@@ -1,7 +1,7 @@
 INQUERY
 Query Track test
 Query Track Test
-Johns Hopkins ,
+Johns Hopkins
 TREC
 INQe
 TREC-8
@@ -10,7 +10,7 @@ Query Track experiments
 Query Track data
 Query Track test
 TREC-8
-Johns Hopkins ,
+Johns Hopkins
 Query Track data
 Query Track experiments
 TREC
@@ -19,7 +19,7 @@ NIST
 INQe
 Query Track Test
 INQUERY
-Johns Hopkins ,
+Johns Hopkins
 Query Track test
 TREC
 INQe

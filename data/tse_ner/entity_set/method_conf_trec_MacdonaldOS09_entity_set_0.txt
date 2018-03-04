@@ -1,6 +1,6 @@
 Support Vector Machine
 Maximal Marginal Relevance
-semantic indexing ,
+semantic indexing
 Pools Participating groups
 TREC
 Wikipedia
@@ -10,7 +10,7 @@ ICTNET
 NIST
 Glasgow
 POSTECH
-semantic indexing ,
+semantic indexing
 FEUP
 Pools Participating groups
 Support Vector Machine
@@ -24,7 +24,7 @@ ICTNET
 TREC
 Maximal Marginal Relevance
 Support Vector Machine
-semantic indexing ,
+semantic indexing
 POSTECH
 NIST
 Wikipedia

@@ -6,7 +6,7 @@ Semantic Associations Sometimes
 Semantic Web integrating
 Semantic Web as
 Semantic Web based
-Semantic Web ,
+Semantic Web
 Semantic Web For
 Semantic Web can
 Class Importance because
@@ -89,4 +89,4 @@ Semantic Web languages
 Semantic Web integrating
 VLDB
 BioPatentMiner
-Semantic Web ,
+Semantic Web

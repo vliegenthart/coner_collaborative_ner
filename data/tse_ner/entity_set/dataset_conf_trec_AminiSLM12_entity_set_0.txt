@@ -2,7 +2,7 @@ Assigning
 UMLS Metathesaurus (
 Metamap
 TREC
-UMLS Metathesaurus ,
+UMLS Metathesaurus
 MetaMap-2010
 UMLS
 RMIT

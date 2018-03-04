@@ -1,5 +1,5 @@
 HTLM
-Twitter Data ,
+Twitter Data
 Model Information retrieval
 Experimental Design and
 Models Sensitivity There
@@ -8,7 +8,7 @@ Parameter Value After
 Model Experiment Tab.2
 Model Query Analysis
 Results Experimental Data
-Twitter Data ,
+Twitter Data
 Model Query Analysis
 EGML
 Parameter Value After
@@ -26,5 +26,5 @@ Results Experimental Data
 Experimental Design and
 Model Query Analysis
 Models Sensitivity There
-Twitter Data ,
+Twitter Data
 Model Information retrieval

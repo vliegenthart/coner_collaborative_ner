@@ -8,11 +8,11 @@ Tiers
 TREC-4
 Robertson
 Robust Track We
-Robust Track ,
+Robust Track
 MultiText
 TREC-4
 Robust Track We
-Robust Track ,
+Robust Track
 Tiers
 NameOfSubstance
 Okapi
@@ -26,7 +26,7 @@ TREC
 NameOfSubstance
 ATIF
 AQUAINT
-Robust Track ,
+Robust Track
 Robust Track We
 Okapi
 MultiText

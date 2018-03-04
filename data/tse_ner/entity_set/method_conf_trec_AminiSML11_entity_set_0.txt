@@ -10,7 +10,7 @@ Results Arguably existence
 RMIT
 DBpedia
 Lemur
-Medical TREC ,
+Medical TREC
 Medical
 RMIT
 DBpedia Accessing UMLS
@@ -22,7 +22,7 @@ Medical TREC has
 Lemur
 DBpedia
 Elderly
-Medical TREC ,
+Medical TREC
 Results Arguably existence
 Medical TREC has
 DBpedia
@@ -31,7 +31,7 @@ Medical
 DBpedia Accessing UMLS
 Results Arguably existence
 Clueweb
-Medical TREC ,
+Medical TREC
 Wikipedia
 Lemur
 Okapi

@@ -1,6 +1,6 @@
 Reference Nucleotide Sequence
 LocusLink
-Proteomics LIMS ,
+Proteomics LIMS
 Function Express Server
 HomoloGene
 Function Express Client
@@ -38,7 +38,7 @@ XMLTYPE
 LIMS
 Mutation Viewer caBIG
 HomoloGene
-Proteomics LIMS ,
+Proteomics LIMS
 LocusLink
 Function Express data
 Express Server Function
@@ -48,7 +48,7 @@ Mutation Viewer caBIG
 LocusLink
 Express Server Function
 SCIP
-Proteomics LIMS ,
+Proteomics LIMS
 MGED
 Express Server currently
 FGCs

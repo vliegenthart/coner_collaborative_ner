@@ -10,7 +10,7 @@ SGML
 LocusLink
 South Carolina (
 UIUCgAuto
-LocusLink Naturally ,
+LocusLink Naturally
 ThemeOrig
 SGML
 UIUC
@@ -20,11 +20,11 @@ ThemeExp
 TREC
 South Carolina (
 UIUCgInt
-LocusLink Naturally ,
+LocusLink Naturally
 KLdivergence
 UIUCgAuto
 LocusLink
-LocusLink Naturally ,
+LocusLink Naturally
 ThemeOrig
 UIUCgAuto
 Support Vector Machine

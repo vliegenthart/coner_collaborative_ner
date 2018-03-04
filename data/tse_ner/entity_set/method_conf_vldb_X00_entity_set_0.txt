@@ -9,12 +9,12 @@ Chicago
 California
 Irvine
 Maryland
-Santa Barbara ,
+Santa Barbara
 Athens
-Peter Lockemann ,
+Peter Lockemann
 Queensland
 Toronto
-Southern California ,
+Southern California
 VLDB
 Manchester
 Turku
@@ -38,7 +38,7 @@ Technology
 Manchester
 Cairo
 Crete
-Southern California ,
+Southern California
 Athens
 Limburg
 Chicago
@@ -46,14 +46,14 @@ Florida
 Denver
 Vienna
 Riverside
-Peter Lockemann ,
+Peter Lockemann
 Singapore
 Fribourg
 TimesTen Performance Software
 Berlin
 Pittsburgh
 SUNY
-Santa Barbara ,
+Santa Barbara
 Maryland
 Buffalo
 Toronto
@@ -75,7 +75,7 @@ Singapore
 Turku
 California
 Florida
-Southern California ,
+Southern California
 Riverside
 Athens
 Madison
@@ -97,8 +97,8 @@ Sciences
 Crete
 Konstanz
 Cairo
-Santa Barbara ,
-Peter Lockemann ,
+Santa Barbara
+Peter Lockemann
 Queensland
 Vienna
 Technology

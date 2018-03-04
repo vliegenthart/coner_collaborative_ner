@@ -1,7 +1,7 @@
-UMLS However ,
+UMLS However
 ConText
 Lucene
-UMLS Instead ,
+UMLS Instead
 OpenNLP
 NSAIDs
 UMLS

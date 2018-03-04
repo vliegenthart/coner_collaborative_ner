@@ -6,7 +6,7 @@ Teradata DBMS provides
 NUSI
 HNUSI
 PMAs
-Unlike YNET ,
+Unlike YNET
 YNET
 Unique Secondary Index
 Greedy Algorithm is
@@ -32,7 +32,7 @@ RAID
 AMPs
 NUSI
 PMAs
-Unlike YNET ,
+Unlike YNET
 Greedy Algorithm with
 Global Distributed Objects
 AMPS
@@ -74,7 +74,7 @@ AMPc
 Global Distributed Objects
 TPAs
 AMPI
-Unlike YNET ,
+Unlike YNET
 Greedy Algorithm looks
 AMPs
 Suppose

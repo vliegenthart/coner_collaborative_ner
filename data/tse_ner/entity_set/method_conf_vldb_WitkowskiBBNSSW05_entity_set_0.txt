@@ -1,7 +1,7 @@
 HLOOKUP
 Existential
-Assignment Linearization ,
-Reference Linearization ,
+Assignment Linearization
+Reference Linearization
 Excel Sorting is
 Excel
 RTables
@@ -19,16 +19,16 @@ UNION
 RTables
 Excel Sorting is
 HLOOKUP
-Reference Linearization ,
+Reference Linearization
 RDBMS
 RTable
 Relational Databases Excel
 ANSI
 PivotTable
 Excel
-Assignment Linearization ,
+Assignment Linearization
 SUMPRODUCT
-Reference Linearization ,
+Reference Linearization
 Relational Databases Excel
 ANSI
 RDBMS
@@ -42,4 +42,4 @@ RTables
 HLOOKUP
 Equivalent Rules optimization
 RTable
-Assignment Linearization ,
+Assignment Linearization

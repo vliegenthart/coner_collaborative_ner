@@ -4,14 +4,14 @@ Block Moves Traditional
 DBMS
 UDFs
 CityState
-dynamic programming ,
+dynamic programming
 TERING
 CustAddress
 COUNT
 dynamic programming algorithm
 SubMatchArray
 Block Moves Traditional
-dynamic programming ,
+dynamic programming
 dynamic programming algorithm
 SubMatchArray
 TERING
@@ -33,4 +33,4 @@ dynamic programming part
 Block Moves Traditional
 SubMatchArray
 dynamic programming algorithm
-dynamic programming ,
+dynamic programming

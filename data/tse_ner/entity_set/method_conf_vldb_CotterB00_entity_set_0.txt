@@ -1,5 +1,5 @@
 Environmental Cooperation The
-Species Analyst ,
+Species Analyst
 Kansas
 Biological Diversity has
 Knowledge Organization Knowledge
@@ -32,7 +32,7 @@ Kansas
 GBIF
 IABIN
 Biological Diversity has
-Species Analyst ,
+Species Analyst
 ITIS
 ITIS
 NBII
@@ -43,7 +43,7 @@ Environmental Cooperation The
 GBIF
 Western Hemisphere countries
 Mexico
-Species Analyst ,
+Species Analyst
 Microsoft Excel and
 Sustainable Development IABIN's
 NABIN

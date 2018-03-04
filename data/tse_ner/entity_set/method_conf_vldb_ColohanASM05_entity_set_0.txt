@@ -7,7 +7,7 @@ MIPS-based
 Software Support for
 MIPS
 Thread Level Speculation
-CPUs Fortunately ,
+CPUs Fortunately
 Software Support for
 Thread Level Speculation
 MIPS
@@ -17,8 +17,8 @@ MIPS-based
 DBMS
 ARIES
 VLDB
-CPUs Fortunately ,
-CPUs Fortunately ,
+CPUs Fortunately
+CPUs Fortunately
 MIPS-based
 Software Support for
 ARIES

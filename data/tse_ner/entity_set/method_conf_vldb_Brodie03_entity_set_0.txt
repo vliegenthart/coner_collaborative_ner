@@ -8,14 +8,14 @@ Digital Companion that
 SOAenabling
 Component Object Model
 Services Predictions Web
-Services design ,
+Services design
 SOAP
 Computing Environment (
 SOAs
 RDBMSs
 Component Object Model
 CORBA
-Services design ,
+Services design
 SOAenabling
 DBMS
 Services Predictions Web
@@ -33,4 +33,4 @@ SOAenabling
 SOAP
 CORBA
 DBMS
-Services design ,
+Services design

@@ -5,13 +5,13 @@ WISE-Integrator
 EMSE
 Experiments Evaluation criteria
 Attribute Matching Accuracy
-ESEs Fifth ,
+ESEs Fifth
 E-commerce
 ESEs
 ESEs
 HTML
 Experiments Evaluation criteria
-ESEs Fifth ,
+ESEs Fifth
 E-commerce
 WISE-Integrator
 EMSE
@@ -21,7 +21,7 @@ APIs
 Experiments Evaluation criteria
 HTML
 EMSE
-ESEs Fifth ,
+ESEs Fifth
 ESEs
 APIs
 WISE-Integrator

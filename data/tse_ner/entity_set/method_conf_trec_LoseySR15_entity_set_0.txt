@@ -1,6 +1,6 @@
 TREC Total Recall
 Prime Minister shared
-Random Baseline ,
+Random Baseline
 Random Baseline and
 Florida
 PayPal
@@ -9,7 +9,7 @@ Occupy
 Sandbox
 TREC
 Athome
-Preschool Funding ,
+Preschool Funding
 Gambia
 Florida Governor Jeb
 Random Sample of
@@ -45,7 +45,7 @@ Random Sample of
 Random Baseline sample
 Sullivan
 Recall Track as
-Random Baseline ,
+Random Baseline
 Athome Topics searched
 Kroll Ontrack who
 Manatee County and
@@ -55,7 +55,7 @@ Occupy
 Total Recall was
 Random Baseline and
 While Sullivan was
-Preschool Funding ,
+Preschool Funding
 TREC
 McKenna
 Hybrid Multimodal method
@@ -66,13 +66,13 @@ Facebook
 Manatee There may
 TREC Total Recall
 Florida
-Preschool Funding ,
+Preschool Funding
 TREC Total Recall
 Recall Track topics
 Sullivan
 Total Recall was
 Sandbox
-Random Baseline ,
+Random Baseline
 Manatee There may
 Florida Governor Jeb
 TREC

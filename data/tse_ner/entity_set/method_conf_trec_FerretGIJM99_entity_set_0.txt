@@ -2,7 +2,7 @@ NLP-based
 Cognition
 FASTR Named entity
 Automatic Indexing and
-FASTR Jacquemin ,
+FASTR Jacquemin
 TREC
 CELEX
 TIMEX
@@ -19,7 +19,7 @@ Question Analysis module
 Basic Similarity Measure
 DATE
 PHYSICS
-FASTR Jacquemin ,
+FASTR Jacquemin
 Automatic Indexing and
 Mexico State University
 Cognition
@@ -40,7 +40,7 @@ TREC
 QuestionnAnswering
 QALC
 CITY
-FASTR Jacquemin ,
+FASTR Jacquemin
 PHYSICS
 DATE
 FASTR Named entity

@@ -6,7 +6,7 @@ Equality
 dynamic programming schemes
 dynamic programming and
 dynamic
-dynamic programming ,
+dynamic programming
 CHUNK
 MHIST
 EquiWidth
@@ -15,7 +15,7 @@ dynamic programming scheme
 EquiDepth
 dynamic programming algorithm
 EquiWidth
-dynamic programming ,
+dynamic programming
 dynamic programming algorithm
 CHUNK
 dynamic
@@ -44,5 +44,5 @@ VLDB
 dynamic programming and
 MHIST
 EquiWidth
-dynamic programming ,
+dynamic programming
 Equality

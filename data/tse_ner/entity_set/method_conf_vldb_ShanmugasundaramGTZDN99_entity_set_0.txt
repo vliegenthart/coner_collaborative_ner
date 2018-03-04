@@ -4,7 +4,7 @@ Converting Relational Results
 HTML
 Converting Arbitrary Path
 Shared Hybrid Figure
-Internet However ,
+Internet However
 Converting Queries with
 DTDs
 RDBMS
@@ -12,7 +12,7 @@ Simple Recursive Path
 SGML
 Nested Queries XML-QL
 DARPA
-Internet However ,
+Internet However
 HTML
 Converting Queries with
 While Basic is
@@ -29,7 +29,7 @@ Shared Hybrid Figure
 Nested Queries XML-QL
 Simple Recursive Path
 Converting Arbitrary Path
-Internet However ,
+Internet However
 RDBMS
 SGML
 HTML

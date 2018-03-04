@@ -2,9 +2,9 @@ ATLAS Online Software
 Object Oriented DBMS
 DBMS
 BABAR
-Online Software ,
+Online Software
 Online Software scalability
-Jerome Fulachier ,
+Jerome Fulachier
 ATLAS TDAQ in
 TDAQ
 Online Software Although
@@ -21,10 +21,10 @@ ATLAS TDAQ in
 BABAR
 ATLAS Online Software
 DBMS
-Online Software ,
+Online Software
 Federation
 TDAQ
-Jerome Fulachier ,
+Jerome Fulachier
 Objectivity
 Online Software is
 BABAR
@@ -34,9 +34,9 @@ Objectivity
 Object Oriented DBMS
 Online Software scalability
 ATLAS Online Software
-Jerome Fulachier ,
+Jerome Fulachier
 Online Software Although
-Online Software ,
+Online Software
 CERN
 DBMS
 ATLAS TDAQ in

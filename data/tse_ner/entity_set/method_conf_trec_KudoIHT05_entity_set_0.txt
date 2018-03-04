@@ -6,13 +6,13 @@ Document Representation Document
 Global Information There
 Global Information are
 Robust Track HARD
-Robust Track ,
+Robust Track
 Global Information is
-Local Information ,
+Local Information
 Robust Track This
 Robust Track at
 Query Selection Our
-Global Information ,
+Global Information
 TREC
 Robust Track of
 N-gram
@@ -44,11 +44,11 @@ N-gram
 Using Local Information
 Mutual Information The
 Local Information can't
-Local Information ,
-Robust Track ,
+Local Information
+Robust Track
 R-precision
 TREC
-Global Information ,
+Global Information
 Local Information and
 Synonymy
 America
@@ -62,8 +62,8 @@ Global Information based
 Global Information is
 Global Information based
 Global Information is
-Robust Track ,
-Global Information ,
+Robust Track
+Global Information
 Local Information Therefore
 WordNet
 Local Information is
@@ -83,7 +83,7 @@ Clarification Form Retrieval
 Global Information CF
 America
 Robust Track HARD
-Local Information ,
+Local Information
 Global Information are
 Using Local Information
 Local Information that

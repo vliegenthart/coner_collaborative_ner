@@ -8,7 +8,7 @@ EMRs
 TREC
 Discovering Hospital Status
 Wikipedia
-Emergency Department ,
+Emergency Department
 UMLS
 Apache Lucene 4.0
 DEPARTMENT
@@ -18,7 +18,7 @@ Keyword Extraction module
 NIST
 ABSENT
 EMRs
-Emergency Department ,
+Emergency Department
 DEPARTMENT
 Support Vector Machine
 NASK
@@ -52,6 +52,6 @@ Discovering Hospital Status
 Keyword Extraction module
 ABSENT
 Wikipedia
-Emergency Department ,
+Emergency Department
 Roberts
 Apache Lucene 4.0

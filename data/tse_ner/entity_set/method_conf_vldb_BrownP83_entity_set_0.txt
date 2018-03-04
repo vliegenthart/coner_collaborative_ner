@@ -1,4 +1,4 @@
-Semantic Networks ,
+Semantic Networks
 Enhancement Transformations that
 DBDG
 Universal Relation databases
@@ -20,7 +20,7 @@ RUA-equivalent
 Universal Relation databases
 Database Design Group
 MANAGERS
-Semantic Networks ,
+Semantic Networks
 Generalized Transitive Reduction
 Multivalued
 DBDG
@@ -32,7 +32,7 @@ MANAGERS
 CQTEGORYDISCRIMINATOR Somehow one
 LAURA
 DBDG
-Semantic Networks ,
+Semantic Networks
 Enhancement Transformations that
 RUA-equivalent
 Kuck

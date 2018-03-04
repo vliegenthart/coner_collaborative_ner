@@ -1,5 +1,5 @@
 Cleaning
-Deferred Rollout ,
+Deferred Rollout
 Deferred Rollout results
 Range Partitioned tables
 NULL
@@ -14,7 +14,7 @@ Temporary ROBB (
 Deferred Rollout on
 Cleaning
 NULL
-Deferred Rollout ,
+Deferred Rollout
 Deferred Rollout results
 Deferred Rollout on
 Deferred Rollout in

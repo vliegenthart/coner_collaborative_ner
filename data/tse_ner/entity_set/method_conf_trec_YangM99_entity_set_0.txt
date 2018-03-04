@@ -6,7 +6,7 @@ Ranking Function and
 IRIS
 TREC-8
 TREC-7
-Federal Register ,
+Federal Register
 TREC-5
 FBIS
 TREC-8
@@ -16,7 +16,7 @@ IRIS
 WAIS
 TREC-7
 TREC
-Federal Register ,
+Federal Register
 Construction Phrase construction
 experimental design of
 TREC-5
@@ -30,4 +30,4 @@ WAIS
 TREC-5
 TREC-8
 Ranking Function and
-Federal Register ,
+Federal Register
