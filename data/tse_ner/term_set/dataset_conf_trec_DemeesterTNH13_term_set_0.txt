@@ -1,0 +1,13 @@
+reddit
+bm25
+craigslist
+novasearch
+tripadvisor
+technorati
+searchresultfinder
+google
+trec
+fedweb
+github
+citeseerx
+fedweb

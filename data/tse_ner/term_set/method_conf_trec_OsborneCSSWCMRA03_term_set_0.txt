@@ -1,0 +1,43 @@
+lucene
+trec-like
+trec-genomics
+irap
+locuslink
+trec
+trec-supplied
+dice
+maximum entropy classification
+maximum entropy classifier
+edinburgh
+swissprot
+since lucene returns
+query expansion
+swissprot
+disease
+disease
+edinburgh
+dice
+trec
+maximum entropy classifier
+irap
+trec-genomics
+maximum entropy classification
+trec-like
+since lucene returns
+locuslink
+lucene
+trec-supplied
+irap
+trec
+trec-supplied
+dice
+swissprot
+lucene
+trec-like
+maximum entropy classifier
+trec-genomics
+since lucene returns
+maximum entropy classification
+locuslink
+edinburgh
+disease

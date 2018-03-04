@@ -1,0 +1,7 @@
+umd-cr-c40
+proposalbydefendant
+finalquery
+requesttext
+bates
+umd-aurc-c40
+boolean

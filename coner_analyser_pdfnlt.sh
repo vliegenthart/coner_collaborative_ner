@@ -7,6 +7,9 @@
 # Do XHTML enrichtment after calculating top papers, not before!
 # Change all 'ocurrances' to 'occurrences'
 # Balance papers that are used equally from all 10 journals before taking top!!!
+# NOTE: Have to manually change pdf loading directory to match database
+# Make PDFNLT pdfanalyzer/pdf directory database dependent and ALL scripts calling that directory
+
 
 # ############## #
 #      SETUP     #
@@ -17,7 +20,7 @@ script=$(cd $(dirname $0) && pwd)
 # <pdf_directory>: ../PDFNLT/pdfanalyzer/pdf/
 
 usage() {
-  echo -e "Usage: $0 [-e] <database> <facet_name> <pdf_directory> <number_top_papers>"
+  echo -e "Usage: $0 [-e] <database> <facet_name> <pdf_directory> <number_top_papers> <dev_mode>"
 }
 
 unset force
@@ -61,7 +64,7 @@ else
   else
     # Whole directory, non-forced
     dir="$(cd $(dirname "$3") && pwd)"
-    files=("$dir/$1"_pdf/*.pdf)
+    files=("$dir"/pdf/*.pdf)
   fi
   outdir="${outdir:-$dir/text}"
 
@@ -74,9 +77,9 @@ else
     # If not forced, then only pick the files that are not up-to-date
     file="$(basename "$i" .xhtml)"
     file="${file%.pdf}"
-    if [ -f "$dir/$1_pdf/$file.pdf" -o -n "$force" ]
+    if [ -f "$dir/pdf/$file.pdf" -o -n "$force" ]
     then
-      pdfs+=("$dir/$1_pdf/$file.pdf")
+      pdfs+=("$dir/pdf/$file.pdf")
       tsvs+=("$file.csv")
       xhtmls+=("$dir/xhtml/$file.xhtml")
     fi
@@ -144,6 +147,7 @@ database=$1
 facet=$2
 pdf_dir=$3
 number_top_papers=$4
+dev_mode=$5
 
 echo "Variables:"
 echo "DATABASE: $database"
@@ -179,22 +183,26 @@ cp -R $pdf_dir "$(pwd)/data/pdf/"
 #      PROCESS TERMS     #
 # ###################### #
 
-echo "Creating training files for PDFs..."
+echo "Creating/updating training files for PDFs..."
 
-for i in "${pdfs[@]}"
-do
-  pdf_name="$(basename "$i" .pdf)"
-  touch -a "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
-done
+if [ ! -n "$dev_mode" ]
+then
+  for i in "${pdfs[@]}"
+  do
+    pdf_name="$(basename "$i" .pdf)"
+    touch -a "../PDFNLT/pdfanalyzer/train/$pdf_name.csv"
+  done
 
-echo "Running PDFNLT postprocessing for $pdf_dir..."
+  echo "Running PDFNLT postprocessing for $pdf_dir..."
 
-# To DEBUG: bash -x prints all statements executed
-# bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+  # To DEBUG: bash -x prints all statements executed
+  # bash -x "$script/../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
 
-rvm use jruby-9.1.13.0@pdfnlt
+  rvm use jruby-9.1.13.0@pdfnlt
 
-sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+  # NOTE: Have to manually change pdf loading directory to match database
+  sh "../PDFNLT/postprocess/postprocess.sh" "$pdf_dir"
+fi
 
 # TO DEBUG RUN SINGLE PAPER FOR NEXT EXECUTION
 # rm "../PDFNLT/pdfanalyzer/train/TUD-LTE.csv"
@@ -209,6 +217,14 @@ cp -R "data/${database}/${facet}_top_papers_overview.csv" "data/${database}/OLD_
 
 if [ -n "$enrich" ]
 then
+  
+  # if [ ! -n "$dev_mode" ]
+  # then
+    # Copying PDFNLT XHTLMS to Coner XHTML directory...
+    # echo "Copying XHTML files from PDFNLT to Coner XHTML directory..."
+    # cp -R  ../PDFNLT/pdfanalyzer/xhtml/ "$(pwd)/data/${database}/xhtml/"
+  # fi
+
   echo "Analysing term occurances in papers and enriching XHTMLs..."
 
   cp -R "data/${database}/${facet}_papers_terms_overview.csv" "data/${database}/OLD_${facet}_papers_terms_overview.csv"
@@ -220,15 +236,22 @@ then
   mkdir -p ../PDFNLT/pdfanalyzer/json_entities
   mkdir -p ../PDFNLT/pdfanalyzer/json_pdf_terms_pages
 
-  for i in "${pdfs[0]}"
+  for i in "${pdfs[@]}"
   do
     pdf_name="$(basename "$i" .pdf)"
 
-    python "enrich_xhtml/enrich_xhtml_main.py" $database $facet $pdf_name 
-    
-    cp -R "$(pwd)/data/${database}/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
-    cp -R "$(pwd)/data/${database}/json/${facet}_${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
-    cp -R "$(pwd)/data/${database}/json/${facet}_${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
+    if [ -f "data/${database}/entity_set/${facet}_${pdf_name}_entity_set_0.txt" ]
+    then
+      # cp -R "$(pwd)/data/${database}/xhtml/${pdf_name}.xhtml" "$(pwd)/data/${database}/xhtml/Z_OLD_${pdf_name}.xhtml" 
+      
+      # COMMENT LINE IF FURTHER ENRICH/UNCOMMENT IF CLEAN XHTML
+      # cp -R  "../PDFNLT/pdfanalyzer/xhtml/${pdf_name}.xhtml" "$(pwd)/data/${database}/xhtml/${pdf_name}.xhtml"
+      python "enrich_xhtml/enrich_xhtml_main.py" $database $facet $pdf_name
+      
+      # cp -R "$(pwd)/data/${database}/xhtml/${pdf_name}.xhtml" ../PDFNLT/pdfanalyzer/xhtml/
+      cp -R "$(pwd)/data/${database}/json/${facet}_${pdf_name}_entities.json" ../PDFNLT/pdfanalyzer/json_entities/
+      cp -R "$(pwd)/data/${database}/json/${facet}_${pdf_name}_pdf_terms_pages.json" ../PDFNLT/pdfanalyzer/json_pdf_terms_pages/
+    fi
   done
 
   python -c 'import statistics; statistics.print_stats()'
@@ -238,7 +261,7 @@ fi
 
 echo "Calculating top papers..."
 
-python calculate_top_papers.py $database $facet $number_top_papers
+# python calculate_top_papers.py $database $facet $number_top_papers
 
 # TODO
 # [DONE] TEST FORCE AND ENRICH FLAGS
@@ -255,3 +278,5 @@ python calculate_top_papers.py $database $facet $number_top_papers
 
 # echo "Updating www/pdfnlt data..."
 # ln -f -s /Users/daniel/Documents/TUDelftMasterThesis/PDFNLT/pdfanalyzer/{pdf,xhtml,json_entities,json_pdf_terms_pages} '/usr/local/var/www/pdfnlt/pdfanalyzer/'
+
+

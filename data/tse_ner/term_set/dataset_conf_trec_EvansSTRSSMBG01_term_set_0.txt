@@ -1,0 +1,6 @@
+reuters
+clarit
+bm25
+trec
+trec-2001
+madmax

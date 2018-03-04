@@ -1,0 +1,25 @@
+scai
+trec
+tdac
+lmir
+uspto
+pubchem
+engineering
+trec
+tdac
+wipo
+lmir
+scai
+pubchem
+uspto
+uspto
+trec
+wipo
+lmir
+engineering
+tdac
+query expansion
+pubchem
+scai
+wipo
+engineering

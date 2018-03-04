@@ -1,0 +1,34 @@
+diagnosis
+trec
+cuis
+expansion
+icd-9
+evaluation official trec
+umls
+knowledge extraction system
+sectagger
+pittsburgh
+expansion
+ohsu
+query expansion
+icd-9
+diagnosis
+trec
+sectagger
+knowledge extraction system
+umls
+pittsburgh
+cuis
+evaluation official trec
+ohsu
+knowledge extraction system
+expansion
+trec
+pittsburgh
+umls
+sectagger
+evaluation official trec
+diagnosis
+ohsu
+cuis
+icd-9

@@ -1,0 +1,16 @@
+process
+trec
+process
+latency comprehensiveness (
+latency comprehensiveness remain
+expected latency gain
+latency comprehensiveness (
+expected latency gain
+trec
+latency comprehensiveness remain
+process
+expected latency gain
+latency comprehensiveness remain
+query expansion
+trec
+latency comprehensiveness (

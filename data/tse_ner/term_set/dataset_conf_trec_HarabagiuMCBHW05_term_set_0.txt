@@ -1,0 +1,4 @@
+trec
+wordnet
+poweranswer
+cogex

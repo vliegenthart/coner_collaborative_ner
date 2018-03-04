@@ -1,0 +1,50 @@
+merit
+optical character recognition
+support vector machine
+expert search interface
+trec
+support vector machine
+pagerank
+dochdr
+english blogs mixed
+atom
+appealing
+support vector machine
+official evaluation results
+krovetz
+wikipedia
+ucsf
+support vector machine
+query likelihood and
+official evaluation results
+pagerank
+merit
+trec
+wikipedia
+atom
+query expansion
+krovetz
+appealing
+support vector machine
+expert search interface
+ucsf
+dochdr
+english blogs mixed
+optical character recognition
+expert search interface
+english blogs mixed
+query likelihood and
+dochdr
+optical character recognition
+support vector machine
+wikipedia
+trec
+official evaluation results
+atom
+appealing
+ucsf
+support vector machine
+krovetz
+pagerank
+merit
+query likelihood and

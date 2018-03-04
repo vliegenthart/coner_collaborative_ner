@@ -1,0 +1,6 @@
+seif
+wordnet
+seifscore
+trec
+febweb
+fedweb

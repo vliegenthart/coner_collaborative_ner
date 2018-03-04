@@ -1,0 +1,6 @@
+trec2006
+trec2005
+aquaint
+projectanswer
+trec2004
+trec

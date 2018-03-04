@@ -1,0 +1,28 @@
+query expansion
+sgml
+trec-8
+wordnet
+dimap-qa
+trec-9
+question database development
+trec
+nist
+dimap
+wordnet
+dimap-qa
+trec
+question database development
+trec-9
+sgml
+nist
+wordnet
+trec-8
+dimap
+trec
+dimap-qa
+sgml
+trec-8
+trec-9
+dimap
+question database development
+nist

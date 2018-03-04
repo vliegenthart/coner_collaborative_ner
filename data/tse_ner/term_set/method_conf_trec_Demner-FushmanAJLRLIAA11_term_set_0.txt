@@ -1,0 +1,25 @@
+lucene
+intervention
+pico
+essie
+umls
+feeding
+rxnorm
+query expansion
+echo
+essie
+echo
+rxnorm
+intervention
+pico
+feeding
+umls
+lucene
+essie
+rxnorm
+umls
+lucene
+feeding
+pico
+intervention
+echo

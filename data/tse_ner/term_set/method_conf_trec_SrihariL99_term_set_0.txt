@@ -1,0 +1,29 @@
+textract
+question processor consists
+ne-supported
+trec
+question template expansion
+question processor is
+architecture question processing
+trec-8
+named entity tagging
+ne-supported
+question processor is
+textract
+trec
+question processor consists
+architecture question processing
+trec-8
+pattern matching
+question template expansion
+trec-8
+question processor is
+trec
+textract
+architecture question processing
+ne-supported
+query expansion
+named entity tagging
+question template expansion
+question processor consists
+named entity tagging

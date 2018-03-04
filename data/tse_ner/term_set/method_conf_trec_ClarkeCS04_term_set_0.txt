@@ -1,0 +1,39 @@
+trec-sized
+massachusetts
+alaska
+amsterdam
+gov2
+trec
+html
+melbourne
+robust retrieval task
+maryland
+cpus
+nist
+massachusetts
+glasgow
+html
+amsterdam
+gov2
+alaska
+trec
+melbourne
+cpus
+robust retrieval task
+nist
+maryland
+trec-sized
+glasgow
+robust retrieval task
+amsterdam
+cpus
+trec-sized
+trec
+nist
+gov2
+maryland
+alaska
+massachusetts
+melbourne
+glasgow
+html

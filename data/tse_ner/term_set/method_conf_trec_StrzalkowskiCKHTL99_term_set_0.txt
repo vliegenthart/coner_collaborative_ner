@@ -1,0 +1,37 @@
+conclusions preliminary results
+trec-6
+inquery
+conclusions preliminary results
+trec-8
+natural language information
+sics
+trec-6
+trec-7
+trec
+nist
+sequel
+rutgers
+natural language information
+trecs
+trec
+trecs
+trec-7
+nist
+inquery
+conclusions preliminary results
+sequel
+trec-8
+sics
+rutgers
+trec-6
+nist
+rutgers
+trec
+trecs
+sequel
+query expansion
+sics
+trec-8
+trec-7
+inquery
+natural language information

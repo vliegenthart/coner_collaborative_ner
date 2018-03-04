@@ -1,0 +1,31 @@
+lucene
+scda
+trec
+review while designing
+umls
+california
+pubmed
+query expansion
+metamap
+ranked fusion component
+nist
+metamap
+california
+trec
+review while designing
+scda
+nist
+ranked fusion component
+pubmed
+umls
+review while designing
+lucene
+california
+scda
+trec
+umls
+lucene
+nist
+ranked fusion component
+pubmed
+metamap

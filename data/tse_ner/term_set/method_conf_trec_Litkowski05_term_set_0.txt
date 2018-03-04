@@ -1,0 +1,46 @@
+trec-like
+xml-tagged
+pattern matching
+xslt
+xpath
+xml-based
+lucene
+xmltagged
+howmany
+sgml
+trec
+xmltagged
+howmany
+aquaint
+knowledge management system
+knowledge management system
+umls
+xml-based
+dimap
+dimap
+nist
+knowledge management system
+sgml
+xml-tagged
+xpath
+xmltagged
+xml-based
+howmany
+trec
+nist
+dimap
+trec-like
+aquaint
+xslt
+umls
+lucene
+xml-tagged
+trec
+xslt
+sgml
+umls
+lucene
+nist
+trec-like
+aquaint
+xpath

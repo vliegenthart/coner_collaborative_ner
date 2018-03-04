@@ -1,0 +1,6 @@
+lucene
+stirs
+wordnet
+trec
+trec-format
+google

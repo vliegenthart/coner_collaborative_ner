@@ -1,0 +1,8 @@
+moving
+ownername
+except
+groupby
+where
+select
+exists
+maxlen

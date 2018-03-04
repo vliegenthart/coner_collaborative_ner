@@ -1,0 +1,8 @@
+trec
+ascii
+smart
+abgene
+umls
+umls
+essie
+metamap

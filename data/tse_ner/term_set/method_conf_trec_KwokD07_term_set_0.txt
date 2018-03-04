@@ -1,0 +1,33 @@
+uniqueness
+entity extraction the
+question classification each
+clqa
+question classification each
+aquaint
+entity extraction the
+trec
+clqa
+aquaint-2
+pircs
+answer extraction typically
+aquaint
+document processing &
+uniqueness
+trec-8
+trec
+trec
+uniqueness
+aquaint
+entity extraction the
+trec-8
+question classification each
+document processing &
+aquaint-2
+answer extraction typically
+clqa
+pircs
+aquaint-2
+trec-8
+answer extraction typically
+pircs
+document processing &

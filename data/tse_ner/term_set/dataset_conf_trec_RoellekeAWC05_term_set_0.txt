@@ -1,0 +1,7 @@
+trec
+sql-based
+assumption
+assumptions
+bm25
+hyspirit
+sql-like

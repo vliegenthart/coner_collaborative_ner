@@ -1,0 +1,5 @@
+boolean
+intersection
+trec-10
+microsoft
+mpeg

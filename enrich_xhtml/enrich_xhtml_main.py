@@ -57,7 +57,7 @@ def main():
     for t in terms_occurance:
       outputFile.write(f'{t}\n')
 
-  xhtml_soup = read_xhtml(f'../PDFNLT/pdfanalyzer/xhtml/{pdf_name}.xhtml')
+  xhtml_soup = read_xhtml(f'data/{database}/xhtml/{pdf_name}.xhtml')
   enrich_xhtml(pdf_term_info_list, xhtml_soup, database, facet, pdf_name)
 
 if __name__=='__main__':

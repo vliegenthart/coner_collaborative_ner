@@ -1,0 +1,21 @@
+qa-token
+reciprocal document rank
+mrdr
+trec
+smart
+qa-tokens
+nist
+qa-token
+reciprocal document rank
+qa-tokens
+trec
+nist
+mrdr
+smart
+smart
+trec
+qa-tokens
+qa-token
+reciprocal document rank
+mrdr
+nist

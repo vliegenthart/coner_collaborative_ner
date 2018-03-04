@@ -1,0 +1,13 @@
+arabic
+ascii
+utf-16
+wordperfect
+narrative
+querytorankings
+rec30
+searchserver
+german
+sqlexecdirect
+searchsql
+sqlfetch
+otwebtrec

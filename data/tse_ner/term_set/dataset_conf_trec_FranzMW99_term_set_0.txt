@@ -1,0 +1,3 @@
+clir
+trec
+french

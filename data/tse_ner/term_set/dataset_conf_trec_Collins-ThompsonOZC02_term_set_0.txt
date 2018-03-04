@@ -1,0 +1,11 @@
+proximity
+lowsamedoc
+lmrdocstruct
+udesc
+wordnet
+highdiffdoc
+dirichlet
+nist
+lmrnostruct
+lmrsmall
+trec

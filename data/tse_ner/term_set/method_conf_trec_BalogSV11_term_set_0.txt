@@ -1,0 +1,46 @@
+entity activation force
+pris
+clueweb
+ndcg
+query expansion
+trec
+universitas indonesia group
+html
+entity finding
+linked open data
+uris
+ndcg
+entity finding
+urls
+entity activation force
+ualr
+dbpedia
+card
+pris
+entity finding the
+urls
+clueweb
+card
+entity finding the
+html
+linked open data
+html
+clueweb
+ualr
+ndcg
+uris
+trec
+card
+entity activation force
+urls
+dbpedia
+entity finding
+pris
+universitas indonesia group
+ualr
+dbpedia
+universitas indonesia group
+uris
+linked open data
+trec
+entity finding the

@@ -1,0 +1,49 @@
+cogex
+apache lucene in
+factoid
+future directions trec
+aquaint
+poweranswer
+wordnet
+wikipedia
+human seeking list
+question class models
+regular expression
+maureen chiquet are
+human seeking list
+hierarchical clustering
+factoid answer selection
+selection algorithm
+cogex
+wikipedia
+pattern matching
+trec
+aquaint
+question class models
+concept tagger module
+wordnet
+apache lucene in
+future directions trec
+poweranswer
+question class hierarchy
+factoid
+question class models
+maureen chiquet are
+human seeking list
+wikipedia
+factoid answer selection
+poweranswer
+trec
+concept tagger module
+factoid
+question class hierarchy
+wordnet
+apache lucene in
+aquaint
+future directions trec
+cogex
+maureen chiquet are
+concept tagger module
+factoid answer selection
+trec
+question class hierarchy

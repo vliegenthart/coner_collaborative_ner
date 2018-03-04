@@ -1,0 +1,8 @@
+intact
+aquaint
+trecs
+wordnet
+treetagger
+novelty
+tequesta
+flexir

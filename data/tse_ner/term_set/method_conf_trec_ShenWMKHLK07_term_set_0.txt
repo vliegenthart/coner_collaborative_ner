@@ -1,0 +1,34 @@
+semantic structure matching
+level indexing strategy
+alyssa
+pattern matching
+trec
+html
+wikipedia
+aquaint
+semantic structure generation
+framenet
+nist
+question patterns each
+question patterns each
+html
+framenet
+wikipedia
+trec
+semantic structure matching
+alyssa
+level indexing strategy
+nist
+semantic structure generation
+level indexing strategy
+aquaint
+trec
+semantic structure matching
+alyssa
+semantic structure generation
+aquaint
+nist
+question patterns each
+wikipedia
+framenet
+html

@@ -1,0 +1,46 @@
+trec
+searchserver
+ftdf
+html
+ftdf
+narrative
+query track runs
+nist
+trec-8
+approximate text searching
+trec-9
+docno
+wordperfect
+trec-5
+wordperfect
+trec-8
+narrative
+trec-5
+fulcrum technologies document
+nist
+html
+wordperfect
+ftdf
+html
+trec-8
+descript
+trec-5
+query track runs
+trec-9
+searchserver
+trec
+docno
+narrative
+nist
+fulcrum technologies document
+approximate text searching
+query track runs
+approximate text searching
+searchserver
+trec
+descript
+trec-9
+descript
+fulcrum technologies document
+query expansion
+docno

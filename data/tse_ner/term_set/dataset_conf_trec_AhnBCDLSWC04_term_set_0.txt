@@ -1,0 +1,7 @@
+wordnet
+qaam
+drss
+trec
+pos-tagging
+acquaint
+lucene

@@ -1,0 +1,30 @@
+gov2
+melbourne
+parallel processing the
+trec
+raid-5
+sata
+nist
+scalable
+scsi
+trec
+scalable
+scsi
+raid-5
+nist
+parallel processing the
+gov2
+scalable
+dynamic
+melbourne
+sata
+gov2
+melbourne
+trec
+sata
+dynamic
+scsi
+raid-5
+parallel processing the
+nist
+dynamic

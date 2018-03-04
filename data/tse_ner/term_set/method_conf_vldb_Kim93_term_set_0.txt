@@ -1,0 +1,14 @@
+microsoft
+oids
+oodb
+oodbs
+vldb
+interleaf
+rdbs
+oids
+interleaf
+microsoft
+oodbs
+oodb
+rdbs
+vldb

@@ -1,0 +1,32 @@
+cwirun1
+interactive information access
+spectral clustering
+related health problems
+trec
+medical
+icd-9
+medical
+diseases
+icd-code
+cwi4
+query expansion
+medical
+related health problems
+icd-9
+cwirun1
+trec
+diseases
+medical
+interactive information access
+cwi4
+icd-code
+icd-code
+interactive information access
+medical
+trec
+medical
+cwirun1
+related health problems
+cwi4
+diseases
+icd-9

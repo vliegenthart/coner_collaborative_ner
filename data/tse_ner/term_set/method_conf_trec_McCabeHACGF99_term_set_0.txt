@@ -1,0 +1,25 @@
+judgments clearly such
+trec-8
+dbms
+judgments clearly such
+relevance feedback with
+trec-7
+trec-3
+umass
+rocchio
+judgments clearly such
+trec-3
+relevance feedback with
+trec-7
+dbms
+umass
+trec-8
+rocchio
+relevance feedback with
+dbms
+trec-3
+umass
+rocchio
+query expansion
+trec-8
+trec-7

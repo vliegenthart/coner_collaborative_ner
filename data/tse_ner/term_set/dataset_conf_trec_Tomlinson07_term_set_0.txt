@@ -1,0 +1,5 @@
+where
+windows-1252
+docdate
+searchserver
+searchsql

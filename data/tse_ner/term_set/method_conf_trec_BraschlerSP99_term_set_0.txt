@@ -1,0 +1,53 @@
+berkeley
+european
+clef
+trec
+europe
+clir
+mandarin
+zurich
+trec-8 clir track
+trec-8 clir track
+trec
+clir
+trec-8
+europe
+trec-7
+trec-7
+italian
+nist
+berkeley
+nist
+malay
+associated press news
+girt
+mandarin
+trec-6
+european
+trec-8
+clir
+girt
+malay
+mandarin
+trec-8
+trec-6
+trec-6
+zurich
+italian
+trec
+girt
+trec-7
+european
+nist
+berkeley
+europe
+zurich
+associated press news
+linear regression
+clef
+trec-8 clir track
+malay
+clef
+clir
+associated press news
+italian

@@ -1,0 +1,34 @@
+lucene
+hdfs-based
+merge sort
+bigtable
+academic cloud computing
+results across partitions
+esther
+hdfs
+mapreduce
+hadoop
+acknowledgments
+posix
+results across partitions
+acknowledgments
+esther
+hdfs
+posix
+mapreduce
+academic cloud computing
+bigtable
+hadoop
+lucene
+hdfs-based
+mapreduce
+hdfs-based
+acknowledgments
+academic cloud computing
+posix
+esther
+lucene
+bigtable
+hdfs
+results across partitions
+hadoop

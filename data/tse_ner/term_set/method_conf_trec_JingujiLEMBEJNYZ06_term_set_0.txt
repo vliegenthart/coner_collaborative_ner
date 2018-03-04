@@ -1,0 +1,26 @@
+trec
+potential enhancements some
+document selection there
+aquaint
+potential enhancements there
+lucene
+trec
+sgml
+uiuc
+aquaint
+potential enhancements some
+lucene
+document selection there
+lucene
+potential enhancements there
+uiuc
+uiuc
+sgml
+trec
+document selection there
+aquaint
+lib
+potential enhancements some
+query expansion
+potential enhancements there
+sgml

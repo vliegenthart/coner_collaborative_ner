@@ -1,0 +1,31 @@
+robust track
+nameofsubstance
+tiers
+robertson
+okapi
+trec
+aquaint
+atif
+robertson
+tiers
+nameofsubstance
+trec
+atif
+robust track
+aquaint
+multitext
+okapi
+trec-4
+trec
+multitext
+atif
+nameofsubstance
+aquaint
+okapi
+tiers
+robertson
+trec-4
+query expansion
+robust track
+multitext
+trec-4

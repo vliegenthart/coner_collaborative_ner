@@ -1,0 +1,5 @@
+wordnet
+minipar
+trec
+assert
+propbank

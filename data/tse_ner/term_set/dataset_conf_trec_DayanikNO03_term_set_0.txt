@@ -1,0 +1,8 @@
+genbank
+locuslink
+eif4e
+swissprot
+refseq
+locuslink
+medline
+prosite

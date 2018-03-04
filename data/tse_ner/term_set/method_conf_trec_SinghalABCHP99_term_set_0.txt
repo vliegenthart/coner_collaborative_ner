@@ -1,0 +1,23 @@
+smart
+january
+viterbi
+trec
+date
+january
+viterbi
+smart
+trec-8
+seymore
+january
+viterbi
+smart
+viterbi
+trec
+seymore
+trec-8
+date
+query expansion
+date
+trec-8
+seymore
+trec

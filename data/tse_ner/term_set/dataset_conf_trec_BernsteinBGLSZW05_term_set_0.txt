@@ -1,0 +1,9 @@
+reuters
+trec
+aquaint
+zetnpancfuzz
+okapi
+zetnpanc
+zettair
+rmit
+gov1

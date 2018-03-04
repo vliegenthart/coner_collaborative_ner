@@ -1,0 +1,4 @@
+aquaint
+wordnet
+tequesta
+trec

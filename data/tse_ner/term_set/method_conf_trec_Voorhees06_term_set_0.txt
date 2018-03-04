@@ -1,0 +1,42 @@
+massachusetts
+gov2
+standards
+sgml
+trec
+trec-3
+html
+complex document information
+aquaint
+waterloo
+nist
+information retrieval information
+glasgow
+trec-5
+sgml
+html
+gov2
+massachusetts
+information retrieval information
+standards
+trec
+complex document information
+trec-3
+nist
+waterloo
+glasgow
+aquaint
+trec-5
+trec-3
+trec
+waterloo
+sgml
+nist
+aquaint
+complex document information
+gov2
+massachusetts
+trec-5
+information retrieval information
+glasgow
+standards
+html

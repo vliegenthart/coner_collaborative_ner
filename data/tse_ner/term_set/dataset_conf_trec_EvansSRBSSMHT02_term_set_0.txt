@@ -1,0 +1,6 @@
+trec
+minimumtermcount
+clarit-ir-based
+reuters
+nlp-based
+clarit

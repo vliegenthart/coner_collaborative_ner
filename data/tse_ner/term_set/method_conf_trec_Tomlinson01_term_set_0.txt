@@ -1,0 +1,64 @@
+trec
+wordperfect
+unix
+odbc
+trec-9
+arabic
+fulcrum technologies document
+nist
+sqlfetch
+clef
+statistical relevance ranking
+german
+trec
+trec-9
+arabic
+sgml
+searchserver
+ftdf
+north american windows
+finnish
+parser
+fulcrum technologies document
+unix
+html
+nist
+arabic
+wordperfect
+odbc
+searchserver
+utf-8
+unicode
+query expansion
+clef
+trec
+trec-9
+wordperfect
+nist
+sqlfetch
+sgml
+html
+fulcrum technologies document
+unicode
+statistical relevance ranking
+german
+unix
+ftdf
+north american windows
+odbc
+finnish
+parser
+utf-8
+ftdf
+html
+parser
+searchserver
+north american windows
+utf-8
+finnish
+unicode
+german
+statistical relevance ranking
+clef
+sqlfetch
+sgml

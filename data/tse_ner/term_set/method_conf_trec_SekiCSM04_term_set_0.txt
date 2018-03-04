@@ -1,0 +1,29 @@
+sgml
+tfidf
+medline
+yagi
+entrez utilities
+trec
+tfchi
+unix
+tfidf
+trec
+sgml
+tfchi
+feature selection several
+medline
+entrez utilities
+yagi
+unix
+unix
+sgml
+entrez utilities
+trec
+yagi
+feature selection several
+lib
+tfidf
+query expansion
+tfchi
+feature selection several
+medline

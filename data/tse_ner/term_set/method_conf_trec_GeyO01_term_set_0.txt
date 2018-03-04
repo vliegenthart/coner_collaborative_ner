@@ -1,0 +1,51 @@
+utf-8
+clir
+trec
+trec
+trec-3
+europe
+trec-7
+european spanish corpus
+trec-3
+nist
+arabic
+monolingual arabic experiment
+french
+trec-8
+china
+european spanish corpus
+trec-7
+french
+nist
+trec-5
+chinese
+trec-8
+trec-6
+europe
+trec-5
+trec-6
+utf-8
+european spanish corpus
+clir
+french
+monolingual arabic experiment
+trec-8
+china
+trec-6
+trec-7
+trec
+trec-3
+utf-8
+arabic
+chinese
+europe
+nist
+trec-5
+chinese
+china
+clir
+clir
+arabic
+monolingual arabic experiment
+hidden markov models
+query expansion

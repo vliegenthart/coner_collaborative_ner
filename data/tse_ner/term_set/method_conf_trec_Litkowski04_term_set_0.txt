@@ -1,0 +1,34 @@
+dimap
+nist
+knowledge management system
+sgml
+xml-tagged
+xpath
+miscellaneous functions miscellaneous
+trec
+nist
+dimap
+aquaint
+umls
+regular expression
+lucene
+knowledge management system
+xml-tagged
+trec
+sgml
+umls
+lucene
+nist
+aquaint
+miscellaneous functions miscellaneous
+xpath
+dimap
+xml-tagged
+lucene
+xpath
+sgml
+trec
+aquaint
+knowledge management system
+miscellaneous functions miscellaneous
+umls

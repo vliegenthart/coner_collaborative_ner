@@ -1,0 +1,7 @@
+svdpackc
+routing
+minipar
+syncmatcher
+netlib
+rocchio
+trec

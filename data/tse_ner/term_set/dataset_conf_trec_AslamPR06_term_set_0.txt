@@ -1,0 +1,8 @@
+dirichlet
+combmnz
+lemur
+terabyte06
+trec
+gov2
+okapi
+inquery

@@ -1,0 +1,32 @@
+psvd
+semantic indexing (
+trec
+trec legal track
+matlab
+trec legal learning
+clapack
+enron
+query expansion
+semantic indexing lsi
+edlsi
+latent semantic analysis
+semantic indexing lsi
+trec legal learning
+psvd
+clapack
+semantic indexing (
+trec
+enron
+trec legal track
+edlsi
+matlab
+edlsi
+psvd
+matlab
+semantic indexing lsi
+trec
+trec legal learning
+enron
+trec legal track
+clapack
+semantic indexing (

@@ -1,0 +1,7 @@
+kldiscrimination
+bm25
+lemur
+trec
+kldiscriminative
+okapi
+run10

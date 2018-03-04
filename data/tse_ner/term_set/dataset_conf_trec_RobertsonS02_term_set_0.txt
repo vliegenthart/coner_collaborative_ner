@@ -1,0 +1,8 @@
+textcat
+trecs
+reuters
+clarit
+clips
+reliefs
+svms
+trec

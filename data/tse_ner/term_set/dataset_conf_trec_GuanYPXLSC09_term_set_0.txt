@@ -1,0 +1,4 @@
+maxwindow
+trec
+docconetent
+bm25

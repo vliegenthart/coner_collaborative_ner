@@ -1,0 +1,7 @@
+aquaint
+mysql
+starfish
+wordnet
+trec
+prise
+regexp

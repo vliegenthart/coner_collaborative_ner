@@ -1,0 +1,26 @@
+ilqua
+surface text pattern
+retraining
+aquaint
+trec
+surface text pattern
+question analysis ilqua
+aquaint
+matching proximity search
+netagged
+ilqua
+retraining
+matching proximity search
+trec
+surface text pattern
+aquaint
+pattern matching
+question analysis ilqua
+retraining
+netagged
+ilqua
+matching proximity search
+query expansion
+netagged
+question analysis ilqua
+trec

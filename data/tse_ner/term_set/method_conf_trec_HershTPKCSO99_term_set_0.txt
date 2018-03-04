@@ -1,0 +1,33 @@
+librarians
+interactive track over
+trec
+okapi
+trec-8
+trec-7
+trec-7 interactive track
+q-expressions
+trec-6
+ohsu
+nist
+interactive track over
+trec-8
+trec-6
+trec-7
+okapi
+trec-7 interactive track
+trec
+q-expressions
+librarians
+nist
+ohsu
+trec
+trec-7
+librarians
+nist
+interactive track over
+trec-7 interactive track
+q-expressions
+okapi
+trec-8
+ohsu
+trec-6

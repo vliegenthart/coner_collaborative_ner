@@ -1,0 +1,8 @@
+tdhiearchic
+tdhierarchic
+tdlinear
+likert
+searcher
+nponly
+csiro
+tdauto

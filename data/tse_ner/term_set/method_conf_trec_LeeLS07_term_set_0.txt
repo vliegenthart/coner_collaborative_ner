@@ -1,0 +1,68 @@
+support vector machine
+categorybodyfilter
+support vector machine
+java
+manageclassification
+lucene
+adaboost
+query expansion
+trec
+relevancewortschatzfilter
+jaxb
+tf-idf
+tf-idf
+xslt
+intersectionbodyfilter
+relevancewordnetfilter
+xslt
+prepossessing
+jaxb
+xml-aware
+lucene
+kunchewa
+querying blogs with
+manageclassification
+kunchewa
+classifers
+topicmapbuilder
+trec
+relevancewordnetfilter
+prepossessing
+wikipedia
+classifers
+generating topic maps
+topicmapbuilder
+java
+svms
+intersectionbodyfilter
+xml-aware
+svms
+generating topic maps
+adaboost
+generating topic maps
+manageclassification
+topicmapbuilder
+wikipedia
+support vector machine
+xml-aware
+xslt
+querying blogs with
+wikipedia
+tf-idf
+svms
+relevancewortschatzfilter
+classifers
+support vector machine
+lucene
+adaboost
+jaxb
+categorybodyfilter
+categorybodyfilter
+relevancewortschatzfilter
+querying blogs with
+prepossessing
+kunchewa
+trec
+relevancewordnetfilter
+intersectionbodyfilter
+java

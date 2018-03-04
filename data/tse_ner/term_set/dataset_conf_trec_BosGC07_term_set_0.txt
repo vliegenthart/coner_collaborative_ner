@@ -1,0 +1,7 @@
+nomlex
+blog06
+pronto
+wordnet
+blog06
+trec
+indri

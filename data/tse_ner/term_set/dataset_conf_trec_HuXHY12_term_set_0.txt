@@ -1,0 +1,5 @@
+trat
+crowdflower
+bm25
+trec
+tart

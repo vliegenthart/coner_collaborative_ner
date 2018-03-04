@@ -1,0 +1,48 @@
+csiro
+intelligence advanced research
+gov2
+standards
+trec
+trec-3
+complex document information
+california
+nist-produced
+industrial research organisation
+waterloo
+aquaint-2
+nist
+information retrieval information
+urls
+intelligence advanced research
+trec-5
+nist-produced
+gov2
+aquaint-2
+information retrieval information
+standards
+california
+trec
+industrial research organisation
+trec-3
+complex document information
+nist
+waterloo
+csiro
+urls
+trec-5
+california
+trec-3
+waterloo
+trec
+urls
+industrial research organisation
+nist
+aquaint-2
+gov2
+complex document information
+nist-produced
+intelligence advanced research
+information retrieval information
+trec-5
+standards
+csiro

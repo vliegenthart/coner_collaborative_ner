@@ -1,0 +1,43 @@
+question answering system
+exact answer selection
+uiuc
+document retrieval module
+factoid
+semantic class recognition
+trec
+question answering task
+semantic type recognition
+factoid
+answer retrieval module
+aquaint
+lucene
+semantic class recognition
+factoid
+factoid
+trec
+answer retrieval module
+uiuc
+question classification question
+question answering system
+lucene
+exact answer selection
+aquaint
+document retrieval module
+question classification question
+semantic type recognition
+question answering task
+uiuc
+lucene
+semantic type recognition
+question classification question
+trec
+document retrieval module
+pattern matching
+question answering task
+aquaint
+exact answer selection
+semantic class recognition
+question answering system
+answer retrieval module
+factoid
+factoid

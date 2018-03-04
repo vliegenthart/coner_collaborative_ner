@@ -1,0 +1,41 @@
+support vector machine
+lucene
+mdrub
+hmktb
+query expansion
+trec
+semrep
+chem
+dfml
+hakt
+medlineplus
+umls
+semantic hierarchical iterative
+medtagger
+lucene apache lucene
+semantic hierarchical iterative
+medlineplus
+medtagger
+chem
+trec
+hakt
+hmktb
+dfml
+semrep
+mdrub
+umls
+lucene apache lucene
+lucene
+semantic hierarchical iterative
+medtagger
+trec
+semrep
+umls
+lucene
+medlineplus
+chem
+dfml
+mdrub
+hmktb
+lucene apache lucene
+hakt

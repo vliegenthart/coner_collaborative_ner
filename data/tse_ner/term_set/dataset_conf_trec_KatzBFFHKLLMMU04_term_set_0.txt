@@ -1,0 +1,6 @@
+trec-specific
+aquaint
+wordnet
+trec
+worldbook
+start

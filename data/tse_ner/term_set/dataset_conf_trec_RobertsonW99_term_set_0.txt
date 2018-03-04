@@ -1,0 +1,6 @@
+cambridge
+vlc98
+bm25
+trec
+microsoft
+okapi

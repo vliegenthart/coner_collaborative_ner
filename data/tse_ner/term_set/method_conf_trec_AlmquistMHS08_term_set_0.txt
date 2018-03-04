@@ -1,0 +1,31 @@
+lucene
+query track queries
+requesttext
+smart
+html
+query expansion
+trec
+trec-3
+combsum
+tfidf
+weka
+html
+combsum
+tfidf
+weka
+trec
+trec-3
+requesttext
+smart
+query track queries
+lucene
+tfidf
+trec-3
+trec
+combsum
+query track queries
+lucene
+weka
+smart
+requesttext
+html

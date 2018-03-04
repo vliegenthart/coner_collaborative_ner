@@ -1,0 +1,4 @@
+bm11
+trec
+polysemy
+wordnet

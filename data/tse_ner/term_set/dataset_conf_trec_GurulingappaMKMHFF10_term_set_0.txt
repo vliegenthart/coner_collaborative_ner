@@ -1,0 +1,10 @@
+prominer
+smiles
+iupac
+entrezgene
+uniprot
+scaiview
+trec
+drugbank
+ucid
+umls

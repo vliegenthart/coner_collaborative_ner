@@ -1,0 +1,8 @@
+reuters
+bm25
+sharepoint
+trec
+mssearch
+keenbow
+microsoft
+okapi

@@ -1,0 +1,32 @@
+support vector machine
+robust retrieval track
+trec
+query track
+topten
+narrative
+trec-8
+trec-9
+query expansion
+ridf
+map-hardest
+trec-6
+trec-8
+map-hardest
+trec-9
+trec-6
+ridf
+query track
+topten
+narrative
+trec
+robust retrieval track
+ridf
+map-hardest
+trec
+trec-9
+robust retrieval track
+topten
+query track
+narrative
+trec-8
+trec-6

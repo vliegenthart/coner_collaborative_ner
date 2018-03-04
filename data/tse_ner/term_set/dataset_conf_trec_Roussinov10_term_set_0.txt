@@ -1,0 +1,5 @@
+votingmodel
+new york times
+bm25
+trec
+postech

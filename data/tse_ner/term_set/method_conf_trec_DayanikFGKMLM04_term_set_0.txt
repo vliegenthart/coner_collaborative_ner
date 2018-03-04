@@ -1,0 +1,33 @@
+sgml
+threshold selection logistic
+bayesian
+else
+trec
+trot
+smart
+locuslink
+pubmed
+locuslink
+locuslink
+trot
+gaussian
+trec
+sgml
+bayesian
+pubmed
+threshold selection logistic
+smart
+locuslink
+else
+locuslink
+gaussian
+threshold selection logistic
+gaussian
+smart
+trec
+locuslink
+sgml
+bayesian
+pubmed
+else
+trot

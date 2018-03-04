@@ -1,0 +1,4 @@
+cnlp
+wordnet
+trec
+prise

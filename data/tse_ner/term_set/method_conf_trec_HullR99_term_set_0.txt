@@ -1,0 +1,22 @@
+financial times document
+trec
+query expansion
+irit
+trec-8
+trec-7
+nist
+trec-5
+trec-8
+irit
+trec-7
+financial times document
+trec
+nist
+trec-5
+trec
+irit
+trec-7
+nist
+financial times document
+trec-5
+trec-8

@@ -1,0 +1,7 @@
+wordnet
+litref
+roverstyle
+trec-11
+qanda
+idf-weighted
+trec

@@ -1,0 +1,38 @@
+regular expression
+wikipedia redirect expansion
+pubmed central open
+lucene
+hybrid approach with
+snomed
+wikipedia
+apache lucene (
+emrs
+query expansion
+multiple keyword focused
+indri
+lingscope
+umls
+apache lucene (
+multiple keyword focused
+emrs
+lingscope
+indri
+wikipedia
+wikipedia redirect expansion
+hybrid approach with
+pubmed central open
+snomed
+umls
+hybrid approach with
+lucene
+apache lucene (
+snomed
+indri
+umls
+lucene
+pubmed central open
+emrs
+lingscope
+wikipedia
+multiple keyword focused
+wikipedia redirect expansion

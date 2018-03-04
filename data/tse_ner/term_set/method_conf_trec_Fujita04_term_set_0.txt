@@ -1,0 +1,29 @@
+clir
+loocv
+summary reference database
+trec
+lafferty
+plls
+locuslink
+trec-9
+patolis corporation group
+croft
+query expansion
+patolis corporation group
+trec-9
+plls
+loocv
+trec
+croft
+summary reference database
+lafferty
+locuslink
+trec
+trec-9
+patolis corporation group
+summary reference database
+croft
+plls
+loocv
+locuslink
+lafferty

@@ -1,0 +1,39 @@
+restart processing when
+clrs
+nbk-subsystem
+ddbs
+dirtypages
+aries
+transtab
+iiic
+undonext
+nbk-subsystem
+ddbs
+bwc-tree
+clrs
+aries
+iiic
+dirtypages
+nbksubsystems
+bwc-trees
+restart processing when
+knownchains
+transtab
+undonext
+bwc-trees
+aries
+nbksubsystems
+clrs
+ddbs
+bwc-tree
+knownchains
+nbk-subsystem
+undonext
+dirtypages
+restart processing when
+transtab
+bwc-trees
+nbksubsystems
+iiic
+bwc-tree
+knownchains

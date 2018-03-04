@@ -1,0 +1,25 @@
+lucene
+ocr-error
+trec
+lucene
+standardanalyzer
+expert search task
+smart
+requesttext
+lucene
+html
+standardanalyzer
+requesttext
+smart
+html
+expert search task
+trec
+ocr-error
+expert search task
+query expansion
+ocr-error
+html
+standardanalyzer
+trec
+requesttext
+smart

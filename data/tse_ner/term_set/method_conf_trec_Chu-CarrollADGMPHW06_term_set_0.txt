@@ -1,0 +1,28 @@
+mead
+lucene
+corpus processing and
+trec
+jilq
+enterprise track experiments
+query expansion
+metadata
+ekdb
+foldoc
+jilq
+ekdb
+foldoc
+trec
+mead
+metadata
+corpus processing and
+enterprise track experiments
+lucene
+jilq
+trec
+corpus processing and
+enterprise track experiments
+lucene
+mead
+ekdb
+metadata
+foldoc

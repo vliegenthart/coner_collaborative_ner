@@ -1,0 +1,33 @@
+entrez gene (
+trec
+ccvneg
+whereas
+umls
+whereas
+trec
+medline
+ccvpos
+methods indexing text
+umls
+entrez gene (
+m-dimensional
+gtts
+collexis
+ccvneg
+collexis
+collexis
+methods indexing text
+ccvpos
+gtts
+trec
+m-dimensional
+whereas
+ccvneg
+umls
+entrez gene (
+medline
+ccvpos
+medline
+m-dimensional
+gtts
+methods indexing text

@@ -1,0 +1,28 @@
+lucene
+document search task
+closeness based classification
+closeness
+trec
+methodology similar to
+indri
+legal track is
+future works here
+query expansion
+legal track is
+document search task
+future works here
+indri
+closeness based classification
+trec
+closeness
+methodology similar to
+closeness
+lucene
+legal track is
+indri
+future works here
+trec
+methodology similar to
+lucene
+closeness based classification
+document search task

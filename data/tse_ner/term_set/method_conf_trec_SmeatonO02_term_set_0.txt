@@ -1,0 +1,62 @@
+trec
+mpeg-1
+maximum entropy classifier
+nist
+john garofolo and
+france
+color moment (
+ramazan taban
+asr-data
+internet archive data
+rmit
+ramazan taban
+feature extraction results
+mpeg
+maryland
+mpeg-7
+trec video track
+rmit
+support vector machine
+maximum entropy classifier
+support vector machine
+mpeg
+color moment (
+mpeg-7
+internet archive data
+clips
+trec
+internet archive data
+france
+john garofolo and
+ramazan taban
+asr-data
+nist
+feature extraction results
+mpeg-1
+support vector machine
+maryland
+john garofolo and
+insa
+mpeg-1
+trec video track
+insa
+trec
+feature extraction results
+maximum entropy classifier
+insa
+rmit
+asr-data
+mpeg
+color moment (
+nist
+maryland
+trec video track
+support vector machine
+clips
+support vector machine
+clips
+query expansion
+mpeg-7
+support vector machine
+france
+support vector machine

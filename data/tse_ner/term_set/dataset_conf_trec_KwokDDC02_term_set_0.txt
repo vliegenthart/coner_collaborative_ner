@@ -1,0 +1,5 @@
+web10g
+guideline
+tdt
+wordnet
+pircs

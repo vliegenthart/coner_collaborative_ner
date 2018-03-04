@@ -1,0 +1,28 @@
+bayesian
+tfidf
+named entities
+southern
+trec
+cdvp
+nist
+pos-tagging
+aquaint
+tfidf
+named entities
+trec
+pos-tagging
+cdvp
+southern
+nist
+aquaint
+bayesian
+hill climbing
+cdvp
+trec
+aquaint
+tfidf
+pos-tagging
+named entities
+bayesian
+nist
+southern

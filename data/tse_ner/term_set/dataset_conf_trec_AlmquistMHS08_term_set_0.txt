@@ -1,0 +1,9 @@
+boolean
+smart
+wordnet
+requesttext
+trec
+combsum
+gov2
+okapi
+tfidf

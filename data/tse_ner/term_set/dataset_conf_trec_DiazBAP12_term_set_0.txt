@@ -1,0 +1,5 @@
+porterstemfilter
+stopanalyzer
+names
+standardanalyzer
+lucene

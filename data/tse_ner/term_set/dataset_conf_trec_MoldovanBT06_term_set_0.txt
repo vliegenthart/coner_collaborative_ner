@@ -1,0 +1,5 @@
+trec
+poweranswer
+conditional
+wordnet
+cogex

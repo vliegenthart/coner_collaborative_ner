@@ -1,0 +1,8 @@
+imageclef
+irat
+nist
+setuserv
+trec
+trat
+imageclef
+fbis

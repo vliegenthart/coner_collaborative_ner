@@ -1,0 +1,6 @@
+aquaint
+propbank
+verbnet
+trec
+framenet
+youtube

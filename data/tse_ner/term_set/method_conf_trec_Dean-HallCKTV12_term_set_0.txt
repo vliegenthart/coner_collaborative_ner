@@ -1,0 +1,39 @@
+vector space model
+boss
+infolab
+sample suggestions suggestions
+boss
+udinfocstdc
+apis
+sample suggestions suggestions
+infolab
+delaware
+irit
+trec
+apis
+hplc
+nist
+csiro
+vector space model
+boss
+udinfocstdc
+kullback leibler scores
+delaware
+vector space model
+sample suggestions suggestions
+trec
+apis
+irit
+nist
+csiro
+kullback leibler scores
+hplc
+udinfocstdc
+nist
+csiro
+kullback leibler scores
+infolab
+hplc
+trec
+delaware
+irit

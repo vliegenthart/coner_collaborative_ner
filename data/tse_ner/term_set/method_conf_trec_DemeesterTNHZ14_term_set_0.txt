@@ -1,0 +1,56 @@
+wikipedia
+ictnet
+crcs
+fedweb
+technology
+flickr
+fedweb
+search engine impact
+flickr
+html
+resource selection run
+inverse resource frequency
+padova
+vertical selection
+inverse resource frequency
+ecnucs
+resource selection baseline
+crcs
+search engine impact
+html
+google
+crcs
+crcslinear
+fedweb
+wikipedia
+sushi
+padova
+trec
+ictnet
+inverse resource frequency
+ecnucs
+vertical selection
+resource selection run
+technology
+flickr
+sushi
+vertical selection
+ictnet
+search engine impact
+google
+crcslinear
+trec
+resource selection baseline
+technology
+sushi
+resource selection run
+ecnucs
+random forest
+google
+crcslinear
+query expansion
+trec
+wikipedia
+html
+resource selection baseline
+padova

@@ -1,0 +1,6 @@
+trec
+infap
+umls
+umls metathesaurus to
+pubmed
+umls

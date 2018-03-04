@@ -1,0 +1,25 @@
+mpeg-7
+nist
+cuevideo
+mpeg-1
+mllr
+video
+mpeg-7
+cuevideo
+trec
+mllr
+nist
+mpeg-1
+trec
+mpeg-7
+nist
+mpeg-1
+mllr
+video
+cuevideo
+signal processing
+similarity search
+trec
+query expansion
+linear regression
+video

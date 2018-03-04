@@ -1,0 +1,39 @@
+dpbrf
+trec-8
+comm-2
+pbrf
+parallel collection frequency
+hidden markov models
+query expansion
+linear regression
+posw
+pcfw
+dpbrf
+trec-8
+tdt-2
+trec-7
+comm-2
+wordnet
+nist
+parallel collection frequency
+mllr
+trec-8
+pbrf
+pcfw
+trec-7
+posw
+mllr
+dpbrf
+nist
+comm-2
+wordnet
+tdt-2
+parallel collection frequency
+pbrf
+tdt-2
+trec-7
+nist
+pcfw
+posw
+mllr
+wordnet

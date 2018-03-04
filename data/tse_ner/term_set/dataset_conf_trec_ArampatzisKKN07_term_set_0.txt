@@ -1,0 +1,9 @@
+lucene
+combsum
+requestedtext
+boollucenetrans
+textonly
+boolean
+legal
+booltermswildcardexp
+finalquery

@@ -1,0 +1,36 @@
+thing
+piquant
+statistical query agent
+factoid
+arda
+qa-by-dossier
+trec
+predictive annotation techniques
+florida
+question pilot run
+nist
+predictive annotation techniques
+everglades
+florida
+thing
+statistical query agent
+factoid
+trec
+arda
+nist
+question pilot run
+piquant
+qa-by-dossier
+everglades
+question pilot run
+qa-by-dossier
+arda
+everglades
+piquant
+trec
+statistical query agent
+thing
+florida
+factoid
+nist
+predictive annotation techniques

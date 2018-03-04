@@ -1,0 +1,8 @@
+mergequery
+inquery
+issuequery
+bm25
+tfidf
+origincorpus
+trec
+originquery

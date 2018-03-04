@@ -1,0 +1,45 @@
+information retrieval information
+familiarity
+trec-5
+familiarity
+congressional record and
+sgml
+trec-8
+information retrieval information
+trec-5
+standards
+federal register articles
+trec
+trec-3
+arda
+defense advanced research
+nist
+locuslink
+aquaint
+familiarity
+federal register articles
+trec-3
+congressional record and
+trec
+sgml
+arda
+defense advanced research
+nist
+aquaint
+trec-5
+locuslink
+trec-8
+information retrieval information
+standards
+arda
+nist
+trec
+sgml
+standards
+trec-3
+locuslink
+aquaint
+federal register articles
+trec-8
+defense advanced research
+congressional record and

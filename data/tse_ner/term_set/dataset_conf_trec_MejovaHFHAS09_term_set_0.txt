@@ -1,0 +1,5 @@
+trec
+lucene
+tfidf
+dirichlet
+uspto

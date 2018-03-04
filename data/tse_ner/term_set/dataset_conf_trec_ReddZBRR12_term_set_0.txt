@@ -1,0 +1,16 @@
+nomedct
+umls cuis which
+semrep
+specialist
+cuis
+bmiuousyn
+trec
+mrconso
+bmiuouensneg
+umls
+metamap
+mrrel
+bmiuoubase
+lucene
+bmiuouens
+umls

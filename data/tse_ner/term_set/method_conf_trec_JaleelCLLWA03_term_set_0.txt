@@ -1,0 +1,31 @@
+expert granularity document
+expert granularity document
+aquaint
+passage retrieval baseline
+values relevance relevant
+trec
+phrase genre overview
+aquaint
+ciir
+question answering track
+inquery-stopped
+classification metadata annotation
+trec
+classification metadata annotation
+values relevance relevant
+expert granularity document
+phrase genre overview
+inquery-stopped
+question answering track
+aquaint
+passage retrieval baseline
+ciir
+inquery-stopped
+ciir
+values relevance relevant
+query expansion
+passage retrieval baseline
+question answering track
+classification metadata annotation
+phrase genre overview
+trec

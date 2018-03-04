@@ -1,0 +1,5 @@
+xpath
+proximity
+trec
+novelty
+xml-tagged

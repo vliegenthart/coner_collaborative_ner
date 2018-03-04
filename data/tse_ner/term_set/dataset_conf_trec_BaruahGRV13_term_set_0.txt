@@ -1,0 +1,9 @@
+thrift
+idf-like
+bm25
+github
+cosineegrep
+wumpus
+trec
+unix
+normegrep

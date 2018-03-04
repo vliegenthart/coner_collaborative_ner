@@ -1,0 +1,6 @@
+smart
+trec
+percent
+money
+pagerank
+trec-10

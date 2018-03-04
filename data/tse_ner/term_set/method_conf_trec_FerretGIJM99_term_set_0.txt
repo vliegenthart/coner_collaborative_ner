@@ -1,0 +1,36 @@
+cognition
+timex
+semantic categories each
+celex
+basic similarity measure
+nlp-based
+nlp-based
+cognition
+automatic indexing and
+trec
+celex
+timex
+fastr
+city
+date
+basic similarity measure
+qalc
+semantic categories each
+basic similarity measure
+date
+automatic indexing and
+cognition
+nlp-based
+timex
+celex
+fastr
+semantic categories each
+trec
+qalc
+automatic indexing and
+city
+fastr
+trec
+qalc
+city
+date

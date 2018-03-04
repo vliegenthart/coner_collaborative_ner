@@ -1,0 +1,45 @@
+claritech
+pagerank
+miti
+trec
+html
+neuchatel
+irit
+rmit
+trec-8
+vlc2
+uwaterloo
+trec-7
+miti
+fujitsu laboratories report
+ascii
+pageranks
+vlc2
+pageranks
+rmit
+html
+trec-8
+irit
+claritech
+trec-7
+trec
+vlc2
+pagerank
+ascii
+fujitsu laboratories report
+miti
+uwaterloo
+neuchatel
+uwaterloo
+neuchatel
+trec
+pagerank
+irit
+claritech
+trec-7
+pageranks
+ascii
+fujitsu laboratories report
+trec-8
+rmit
+html

@@ -1,0 +1,31 @@
+support vector machine
+textcat
+support vector machine
+trec
+trec-8
+nist
+rcv1
+north texas participated
+reliefs
+svms
+clarit
+trec-8
+svms
+trec
+textcat
+support vector machine
+nist
+reliefs
+north texas participated
+clarit
+rcv1
+svms
+clarit
+north texas participated
+trec
+nist
+support vector machine
+rcv1
+textcat
+trec-8
+reliefs

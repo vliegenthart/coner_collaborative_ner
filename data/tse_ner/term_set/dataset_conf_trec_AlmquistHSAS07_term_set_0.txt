@@ -1,0 +1,8 @@
+lucene
+smart
+trec-legal
+wordnet
+ocr-error
+requesttext
+keywordanalyzer
+standardanalyzer

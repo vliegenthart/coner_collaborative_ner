@@ -1,0 +1,6 @@
+bm25
+trec
+wordnet
+japanese
+wt2g
+wt2g

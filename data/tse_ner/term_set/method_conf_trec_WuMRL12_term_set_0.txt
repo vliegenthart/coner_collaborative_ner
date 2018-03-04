@@ -1,0 +1,38 @@
+random indexing
+trec-med
+semantic vectors (
+lucene
+since lucene ranks
+trec
+emrs
+query expansion
+icd-9
+baseline apache lucene
+umls
+medtagger
+nlp-driven
+nlp-driven
+ohsu
+semantic vectors (
+since lucene ranks
+emrs
+icd-9
+medtagger
+lucene
+trec-med
+trec
+ohsu
+baseline apache lucene
+umls
+semantic vectors (
+baseline apache lucene
+nlp-driven
+trec
+medtagger
+umls
+lucene
+since lucene ranks
+emrs
+trec-med
+ohsu
+icd-9

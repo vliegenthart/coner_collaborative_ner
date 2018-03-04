@@ -1,0 +1,25 @@
+reuters
+model selection two
+plaum
+paum
+trec
+ohsumed
+microsoft
+query expansion
+microsoft
+fbeta
+paum
+ohsumed
+model selection two
+trec
+plaum
+fbeta
+reuters
+ohsumed
+model selection two
+reuters
+trec
+plaum
+paum
+fbeta
+microsoft

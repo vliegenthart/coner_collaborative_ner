@@ -1,0 +1,27 @@
+nist
+trec-9 interactive track
+ohsu
+trec-8
+tfidf
+trec
+okapi
+trec-8 interactive track
+nist
+interactive track experiments
+ohsu
+tfidf
+trec-8 interactive track
+trec
+interactive track experiments
+trec-9 interactive track
+nist
+okapi
+trec-8
+ohsu
+trec-9 interactive track
+trec
+trec-8 interactive track
+okapi
+trec-8
+tfidf
+interactive track experiments

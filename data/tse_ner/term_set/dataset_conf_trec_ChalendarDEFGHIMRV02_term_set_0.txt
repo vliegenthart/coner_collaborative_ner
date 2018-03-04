@@ -1,0 +1,6 @@
+wordnet
+treetagger
+fastr
+trec11
+trec
+qalc

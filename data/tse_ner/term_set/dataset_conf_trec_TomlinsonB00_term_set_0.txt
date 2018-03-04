@@ -1,0 +1,9 @@
+wordperfect
+otwebtrec
+querytorankings
+docno
+select
+searchserver
+trec
+searchsql
+readme

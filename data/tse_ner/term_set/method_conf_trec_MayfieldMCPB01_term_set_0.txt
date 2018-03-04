@@ -1,0 +1,23 @@
+hiemstra
+svms
+clir
+html
+haircut
+trec-9
+hiemstra
+svms
+trec
+clir
+svms
+trec
+trec-9
+haircut
+hiemstra
+html
+signal processing
+clir
+clir
+trec
+html
+haircut
+trec-9

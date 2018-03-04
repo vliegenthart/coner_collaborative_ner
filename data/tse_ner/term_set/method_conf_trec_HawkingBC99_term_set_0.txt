@@ -1,0 +1,15 @@
+small web tasks
+trec
+trec-8
+pageranks
+trec-6
+pageranks
+trec-8
+small web tasks
+trec-6
+trec
+trec
+small web tasks
+pageranks
+trec-8
+trec-6

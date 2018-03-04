@@ -1,0 +1,40 @@
+although lucene is
+bmiuouensneg
+specialist
+medline
+metamap
+mrrel
+mrconso
+trec
+bmiuoubase
+semrep
+cuis
+umls
+specialist
+lucene
+trec
+semrep
+mrconso
+umls
+lucene
+medline
+bmiuouensneg
+cuis
+bmiuoubase
+metamap
+although lucene is
+mrrel
+medline
+lucene
+bmiuoubase
+mrconso
+trec
+cuis
+although lucene is
+semrep
+specialist
+query expansion
+umls
+metamap
+mrrel
+bmiuouensneg

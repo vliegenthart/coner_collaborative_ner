@@ -1,0 +1,8 @@
+litowski
+new york times
+lucene
+uiuc
+googleapi
+wordnet
+trec
+aquaint

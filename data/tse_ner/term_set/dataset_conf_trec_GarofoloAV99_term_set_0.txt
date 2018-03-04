@@ -1,0 +1,7 @@
+new york times
+pc-linux-based
+trecs
+tdt
+prise
+trec
+beowulf

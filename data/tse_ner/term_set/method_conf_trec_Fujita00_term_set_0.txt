@@ -1,0 +1,22 @@
+query expansion
+passage retrieval since
+trec
+ntcir-1
+nist
+justsystem
+okapi
+passage retrieval since
+trec
+trec-9
+okapi
+nist
+ntcir-1
+justsystem
+passage retrieval since
+justsystem
+trec
+ntcir-1
+trec-9
+nist
+okapi
+trec-9

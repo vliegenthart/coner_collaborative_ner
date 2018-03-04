@@ -1,0 +1,8 @@
+proximity
+nist-provided
+xmltagged
+new york times
+xpath
+wordnet
+trec
+xml-tagged

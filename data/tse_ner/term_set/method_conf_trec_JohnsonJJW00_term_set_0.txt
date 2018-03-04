@@ -1,0 +1,28 @@
+trec-7
+trec-9
+nist
+ubrf
+average precision by
+ubrf
+american
+trec-8
+trec-9
+trec-7
+transcriptions
+trec
+nist
+transcriptions
+trec
+trec-8
+trec-9
+trec-7
+nist
+average precision by
+ubrf
+american
+trec-8
+american
+average precision by
+query expansion
+trec
+transcriptions

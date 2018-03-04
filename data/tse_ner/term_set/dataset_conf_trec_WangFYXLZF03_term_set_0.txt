@@ -1,0 +1,5 @@
+arranger
+bm25
+tfidf
+robust
+trec

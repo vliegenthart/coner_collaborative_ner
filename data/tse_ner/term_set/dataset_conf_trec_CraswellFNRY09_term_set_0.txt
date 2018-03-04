@@ -1,0 +1,6 @@
+trec
+lambdarank
+pagerank
+bm25
+bing
+microsoft

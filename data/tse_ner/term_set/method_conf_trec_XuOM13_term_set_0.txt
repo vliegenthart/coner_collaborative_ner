@@ -1,0 +1,34 @@
+sentence selection sentences
+wikipedia
+apache lucene standard
+trec
+basepred
+temporal summarization track
+nist
+evaluation metrics traditional
+temporal summarization track
+trec
+sentence selection sentences
+basepred
+nist
+temporal summarization is
+update summarization track
+wikipedia
+apache lucene standard
+evaluation metrics traditional
+rouge
+temporal summarization is
+temporal summarization track
+apache lucene standard
+trec
+wikipedia
+basepred
+rouge
+update summarization track
+sentence selection sentences
+evaluation metrics traditional
+nist
+temporal summarization is
+query expansion
+rouge
+update summarization track

@@ -1,0 +1,6 @@
+umls metathesaurus to
+umls
+lucene
+biosemantics
+adam
+umls

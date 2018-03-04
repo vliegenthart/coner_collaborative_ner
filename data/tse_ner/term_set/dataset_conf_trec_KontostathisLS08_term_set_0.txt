@@ -1,0 +1,6 @@
+kontostathis
+trec2006
+bm25
+trec
+ucedlsia
+edlsi

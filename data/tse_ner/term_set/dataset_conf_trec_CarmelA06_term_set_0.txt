@@ -1,0 +1,7 @@
+usaid
+boolean
+daat
+qrels
+taat
+google
+wand

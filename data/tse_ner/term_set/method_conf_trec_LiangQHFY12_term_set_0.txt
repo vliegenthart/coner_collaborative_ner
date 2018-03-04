@@ -1,0 +1,22 @@
+topicinfo
+trec
+vector space model
+boolean retrieval model
+cosine similarity metric
+china grant 60875033
+boolean retrieval system
+query expansion
+boolean retrieval system
+trec
+boolean retrieval model
+vector space model
+cosine similarity metric
+china grant 60875033
+topicinfo
+boolean retrieval system
+trec
+vector space model
+china grant 60875033
+boolean retrieval model
+cosine similarity metric
+topicinfo

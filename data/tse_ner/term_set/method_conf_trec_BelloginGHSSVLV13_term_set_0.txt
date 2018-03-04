@@ -1,0 +1,34 @@
+indri
+model existing work
+jaccard
+wikipedia
+resource selection task
+trec
+random forest
+feature analysis and
+wikilink
+croft
+wikilink
+jaccard
+resource selection for
+model existing work
+indri
+model existing work
+resource selection task
+trec
+croft
+wikipedia
+feature analysis and
+resource selection for
+html
+resource selection task
+wikilink
+indri
+html
+wikipedia
+trec
+croft
+feature analysis and
+jaccard
+resource selection for
+html

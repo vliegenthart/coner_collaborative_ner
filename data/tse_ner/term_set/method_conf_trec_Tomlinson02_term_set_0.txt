@@ -1,0 +1,34 @@
+european
+meta
+meta
+html
+searchserver
+ntfs
+north american windows
+trec
+european
+docno
+root
+dlen
+european
+unix
+searchserver
+dlen
+trec
+root
+north american windows
+ntfs
+meta
+docno
+unix
+html
+docno
+unix
+dlen
+query expansion
+trec
+searchserver
+html
+root
+north american windows
+ntfs

@@ -1,0 +1,32 @@
+retrieval final retrieval
+north
+trec
+pivot detection pivots
+sgml
+trec-8
+lasso
+query expansion
+answer ranking score
+wordnet
+nist
+sgml
+retrieval final retrieval
+trec-8
+pivot detection pivots
+answer ranking score
+trec
+nist
+north
+wordnet
+retrieval final retrieval
+lasso
+trec
+sgml
+pivot detection pivots
+nist
+answer ranking score
+wordnet
+trec-8
+lasso
+north
+pattern matching

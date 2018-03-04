@@ -1,0 +1,44 @@
+inquery
+semantic score features
+tfidf
+cosine similarity metric
+trec
+vector space model
+model score (
+mergequery
+issuequery
+china grant 61370116
+originquery
+issuequery
+urls
+semantic score features
+china grant 61370116
+tfidf
+vector space model
+model score (
+trec
+originquery
+mergequery
+urls
+inquery
+trec-api
+feature generation several
+cosine similarity metric
+trec-api
+feature generation several
+feature generation several
+issuequery
+hierarchical clustering
+vector space model
+trec
+originquery
+tfidf
+model score (
+mergequery
+inquery
+cosine similarity metric
+semantic score features
+query expansion
+china grant 61370116
+urls
+trec-api

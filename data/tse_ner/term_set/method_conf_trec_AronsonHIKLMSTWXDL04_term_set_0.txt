@@ -1,0 +1,28 @@
+ncbi
+naïve bayes
+trec
+journal descriptor indexing
+query expansion
+sgml
+textool
+metamap
+medline
+journal descriptor indexing
+abgene
+textool
+sgml
+medline
+naïve bayes
+metamap
+trec
+abgene
+ncbi
+naïve bayes
+trec
+sgml
+medline
+ncbi
+metamap
+journal descriptor indexing
+textool
+abgene

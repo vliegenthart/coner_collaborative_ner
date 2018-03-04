@@ -1,0 +1,29 @@
+trec
+breadth-first search
+ephyra
+wikipedia
+candidate answers semantic
+assert
+since wikipedia is
+score normalization and
+answer generator (
+kaisser
+ephyra
+query expansion
+kaisser
+candidate answers semantic
+assert
+wikipedia
+trec
+answer generator (
+since wikipedia is
+score normalization and
+assert
+trec
+answer generator (
+kaisser
+score normalization and
+wikipedia
+since wikipedia is
+ephyra
+candidate answers semantic

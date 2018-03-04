@@ -1,0 +1,6 @@
+trec
+okapi
+multitext
+genomics
+bm25
+nameofsubstance

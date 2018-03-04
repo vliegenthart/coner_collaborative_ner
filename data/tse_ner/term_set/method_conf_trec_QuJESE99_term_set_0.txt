@@ -1,0 +1,38 @@
+trec-6
+clarit
+clir
+claritech
+trec-8
+trec-6
+trec-7
+trec
+italian
+european
+trec-7 clir topics
+systran enterprise
+trec-8 clir track
+clarit
+european
+trec-7 clir topics
+clir
+clarit
+trec-8 clir track
+trec
+trec-7
+claritech
+trec-6
+systran enterprise
+trec-8
+italian
+clir
+trec-7 clir topics
+trec-7
+clir
+italian
+european
+trec
+claritech
+trec-8 clir track
+query expansion
+systran enterprise
+trec-8

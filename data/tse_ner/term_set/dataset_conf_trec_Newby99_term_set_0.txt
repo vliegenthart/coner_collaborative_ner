@@ -1,0 +1,7 @@
+ispace
+adhoc
+terascale
+smart
+pitac
+trec-like
+trec

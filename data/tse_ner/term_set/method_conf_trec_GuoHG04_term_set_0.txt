@@ -1,0 +1,37 @@
+lucene
+query expansion
+retrieval corpus indexing
+generating query terms
+trec
+apis
+umls metathesaurus is
+aronson
+umls
+umls metathesaurus
+lucene
+aronson
+trec
+medline
+apis
+umls metathesaurus
+umls
+generating query terms
+lucene
+umls metathesaurus is
+medline
+umls semantic network
+umls metathesaurus provides
+aronson
+retrieval corpus indexing
+umls metathesaurus is
+umls metathesaurus provides
+umls semantic network
+generating query terms
+trec
+retrieval corpus indexing
+umls
+umls metathesaurus
+medline
+umls metathesaurus provides
+apis
+umls semantic network

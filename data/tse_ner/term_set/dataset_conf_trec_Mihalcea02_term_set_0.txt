@@ -1,0 +1,5 @@
+batch
+routing
+qrels
+reuters
+textcat

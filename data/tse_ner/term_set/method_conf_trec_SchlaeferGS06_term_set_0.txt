@@ -1,0 +1,28 @@
+answer extraction by
+trec
+answer extraction approaches
+question interpretation generator
+factoid
+aquaint
+result length filter
+duplicate filter then
+answer extraction approaches
+factoid
+question interpretation generator
+trec
+answer extraction by
+answer extraction by
+aquaint
+ephyra
+duplicate filter then
+factoid
+trec
+pattern matching
+ephyra
+aquaint
+question interpretation generator
+result length filter
+answer extraction approaches
+duplicate filter then
+ephyra
+result length filter

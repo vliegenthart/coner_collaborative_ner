@@ -1,0 +1,7 @@
+zetamerg
+bm25
+trec
+zettair
+rmit
+zetabm
+dirichlet

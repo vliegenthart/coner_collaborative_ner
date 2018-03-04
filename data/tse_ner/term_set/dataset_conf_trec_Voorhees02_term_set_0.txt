@@ -1,0 +1,12 @@
+msnsearch
+new york times
+reuters
+sigir
+trecvid
+askjeeves
+trecs
+nist
+trec
+sgml
+csiro
+ntcir

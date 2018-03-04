@@ -1,0 +1,30 @@
+lucene
+retweets
+trec
+html
+detection score content
+json
+final burst score
+burst detection score
+nist
+ascii
+retweets
+html
+detection score content
+final burst score
+json
+burst detection score
+trec
+nist
+ascii
+lucene
+detection score content
+trec
+burst detection score
+lucene
+json
+retweets
+nist
+final burst score
+ascii
+html

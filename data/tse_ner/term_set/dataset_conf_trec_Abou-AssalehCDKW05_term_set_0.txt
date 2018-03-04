@@ -1,0 +1,16 @@
+regexprewriting
+aquaint
+mysql
+season
+starfish
+wordnet
+trec-related
+country
+trec
+regexprules
+prise
+daltrec
+regexp
+regexps
+money
+regexprewrite

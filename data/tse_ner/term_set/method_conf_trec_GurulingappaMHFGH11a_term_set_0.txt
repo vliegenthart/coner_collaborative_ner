@@ -1,0 +1,36 @@
+lucene
+binary preference score
+retrieval various search
+semrep
+combinations visits retrieved
+umls
+medical problems for
+trecmed
+scaiview
+prominer
+endometrioid carcinoma
+metamap
+endometrioid carcinoma
+prominer
+combinations visits retrieved
+trecmed
+retrieval various search
+medical problems for
+binary preference score
+scaiview
+metamap
+semrep
+umls
+scaiview
+lucene
+binary preference score
+semrep
+medical problems for
+umls
+endometrioid carcinoma
+lucene
+retrieval various search
+prominer
+combinations visits retrieved
+metamap
+trecmed

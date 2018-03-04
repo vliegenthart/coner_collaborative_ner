@@ -1,0 +1,6 @@
+trec2003
+linkparser
+wordnet
+okapi
+google
+fduqa

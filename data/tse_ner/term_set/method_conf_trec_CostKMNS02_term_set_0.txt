@@ -1,0 +1,34 @@
+platform agent creates
+distributed information retrieval
+cluster agent is
+wondir
+jackal
+query expansion
+collection manager becomes
+trec
+run3
+cori
+cluster agent is
+cori
+operation metadata distribution
+distributed information retrieval
+platform agent creates
+carrot
+cori
+carrot
+operation metadata distribution
+platform agent creates
+trec
+wondir
+cluster agent is
+run3
+collection manager becomes
+jackal
+distributed information retrieval
+operation metadata distribution
+carrot
+trec
+wondir
+collection manager becomes
+run3
+jackal

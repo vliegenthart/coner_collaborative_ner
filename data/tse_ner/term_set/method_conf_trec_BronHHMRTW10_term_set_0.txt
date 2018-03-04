@@ -1,0 +1,41 @@
+latent dirichlet allocation
+named entity recognition
+maximal marginal relevance
+trec
+html
+wikipedia
+trec session track
+entity track ref
+query expansion
+urls
+freebase
+ilps
+dbpedia
+dirichlet
+urls
+ilps
+related entity finding
+freebase
+wikipedia
+entity track ref
+named entity recognition
+trec session track
+dirichlet
+html
+html
+related entity finding
+maximal marginal relevance
+freebase
+wikipedia
+entity track ref
+trec
+named entity recognition
+urls
+dbpedia
+ilps
+related entity finding
+dirichlet
+dbpedia
+maximal marginal relevance
+trec session track
+trec

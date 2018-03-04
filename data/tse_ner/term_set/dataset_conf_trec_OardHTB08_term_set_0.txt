@@ -1,0 +1,14 @@
+multitext
+wordnet
+bm25
+zettair
+wumpus
+dfree
+standardanalyzer
+trec
+combsum
+boolean
+ocring
+interactive
+ursinusva
+ocred

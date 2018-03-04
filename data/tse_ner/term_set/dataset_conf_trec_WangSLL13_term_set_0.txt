@@ -1,0 +1,11 @@
+rfmultimodel
+rfclassloose
+twitter
+rfclassstrict
+elasticsearch
+ecqupdate
+rfdiffmodel
+entitycentricquery
+rfburst
+wikipedia
+ranklib

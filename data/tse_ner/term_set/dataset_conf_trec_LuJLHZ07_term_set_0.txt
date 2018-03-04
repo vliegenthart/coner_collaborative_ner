@@ -1,0 +1,5 @@
+uiucconj
+dirichlet
+kl-divergence
+uiucsyn
+uiucrelfb

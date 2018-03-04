@@ -1,0 +1,29 @@
+hidden markov model
+hidden markov models
+query expansion
+hknews
+ceta
+trec-9
+hmmbased
+trec-9 chinese corpus
+weaver
+trec
+hidden markov model
+chinese
+chinese
+trec
+trec-9
+trec-9 chinese corpus
+hidden markov model
+weaver
+trec-9 chinese corpus
+trec
+hknews
+hmmbased
+ceta
+trec-9
+ceta
+hknews
+chinese
+hmmbased
+weaver

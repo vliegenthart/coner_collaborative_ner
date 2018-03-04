@@ -1,0 +1,29 @@
+trec
+filtering track results
+modifier graphs after
+html
+wordnet
+fdesc
+wordnet
+estimating word semantic
+nist
+estimating word semantic
+greedy algorithm
+query expansion
+html
+trec
+nist
+wordnet
+modifier graphs after
+fdesc
+filtering track results
+wordnet
+filtering track results
+trec
+estimating word semantic
+wordnet
+modifier graphs after
+nist
+wordnet
+fdesc
+html

@@ -26,19 +26,30 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, database, facet, pdf_name):
     for pdf_term in entity.pdf_terms:
       for pdf_word in pdf_term.pdf_words:
         span_word = xhtml_soup.find("span", class_="word", id=pdf_word.word_id)
-        if not span_word: continue
+        if not span_word or f'facet-{facet}' in span_word['class']: continue
 
-        span_word['data-entity_id'] = entity.id
-        span_word['data-pdf_term_id'] = pdf_term.id
-        span_word['data-pdf_word_id'] = pdf_word.id
-        span_word['data-facet'] = facet
+        # Temporary, because first XHTML processing, this feature wasn't there yet
+        if 'facet-dataset' in span_word['class']: span_word['class'].append('is-entity')
+
+        if 'is-entity' in span_word['class']:
+          span_word['data-entity_id'] += "_" + str(entity.id)
+          span_word['data-pdf_term_id'] += "_" + str(pdf_term.id)
+          span_word['data-pdf_word_id'] = pdf_word.id
+          span_word['data-facet'] += "_" + facet
+        else:
+          span_word['class'].append('is-entity')
+          span_word['data-entity_id'] = entity.id
+          span_word['data-pdf_term_id'] = pdf_term.id
+          span_word['data-pdf_word_id'] = pdf_word.id
+          span_word['data-facet'] = facet
+          
+        span_word['class'].append(f'facet-{facet}')
 
         pdf_word.pdf_term_id = pdf_term.id
         pdf_word.bdr = span_word['data-bdr']
         pdf_word.facet = facet
         pdf_term.facet = facet
 
-        
         page_number = span_word.parent['data-page']
         pdf_word.page_number = page_number
         pdf_term.page_number = page_number
@@ -70,6 +81,4 @@ def enrich_xhtml(pdf_term_list, xhtml_soup, database, facet, pdf_name):
   with open(f'data/{database}/xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
     outputFile.write(str(xhtml_soup.prettify()))
 
-  with open(f'data/{database}/test_xhtml/{pdf_name}.xhtml', 'w+') as outputFile:
-    outputFile.write(str(xhtml_soup.prettify()))
 

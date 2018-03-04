@@ -1,0 +1,43 @@
+run-4
+trec
+entity extraction &
+run-3
+olink
+entity extraction &
+search supporting snippets
+csvm
+csvm
+run-3
+run-2
+libsvm
+entity ranking module
+rsvm
+indri
+olink
+indri
+run-1
+run-2
+support vector machine
+run-4
+csvm
+olink
+indri
+entity ranking module
+trec
+search supporting snippets
+libsvm
+entity extraction &
+run-3
+rsvm
+rsvm
+run-2
+entity ranking module
+run-4
+search supporting snippets
+run-1
+libsvm
+support vector machine
+run-1
+trec
+support vector machine
+support vector machine

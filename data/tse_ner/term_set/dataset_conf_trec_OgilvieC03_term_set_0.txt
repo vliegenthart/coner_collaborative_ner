@@ -1,0 +1,7 @@
+lmreq
+lmrest
+lmrflat
+lmrflaturl
+lmresturl
+lmrequrl
+subroot

@@ -1,0 +1,37 @@
+latent dirichlet allocation
+trec dynamic domain
+dynamic refinement algorithm
+named entity recognition
+search phase &
+trec
+dynamic domain is
+dynamic refinement phase
+cubetest
+expected reciprocal rank
+k-means
+dynamic domain track
+nltk
+expected reciprocal rank
+dynamic refinement phase
+dynamic domain is
+nltk
+k-means
+dynamic refinement algorithm
+trec
+dynamic domain track
+cubetest
+search phase &
+named entity recognition
+trec dynamic domain
+search phase &
+named entity recognition
+trec
+dynamic domain track
+dynamic refinement algorithm
+cubetest
+k-means
+trec dynamic domain
+dynamic refinement phase
+expected reciprocal rank
+dynamic domain is
+nltk

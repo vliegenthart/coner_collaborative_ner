@@ -1,0 +1,7 @@
+trec-10
+bm25
+csiro
+teoma
+padre99
+group1
+northernlight

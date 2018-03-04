@@ -1,0 +1,6 @@
+irtools
+web02
+mysql
+gridir
+libwww
+trec

@@ -1,0 +1,24 @@
+lucene
+permission
+twitter
+selecting tweets to
+trec
+filtering
+apache lucene search
+jaccard
+jaccard
+selecting tweets to
+trec
+twitter
+apache lucene search
+filtering
+permission
+lucene
+permission
+jaccard
+filtering
+selecting tweets to
+trec
+lucene
+apache lucene search
+twitter

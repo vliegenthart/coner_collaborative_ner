@@ -1,0 +1,54 @@
+retrieval strategist module
+javelin
+semantic indexing and
+question analyzer stage
+semantic information extractor
+semantic information extractor
+retrieval strategist module
+trec-style
+retrieval strategist is
+trec
+question analysis module
+question analyzer output
+retrieval executor is
+assert
+answer generation module
+semantic structures which
+semantic indexing and
+retrieval strategist and
+answer merger when
+question analyzer stage
+factoid
+cosine similairity measure
+javelin
+retrieval strategist module
+javelin
+retrieval strategist and
+trec-style
+assert
+question analyzer output
+semantic information extractor
+trec
+question analyzer stage
+cosine similairity measure
+answer merger when
+retrieval strategist is
+factoid
+semantic indexing and
+retrieval executor is
+question analysis module
+answer generation module
+semantic structures which
+retrieval executor is
+assert
+factoid
+cosine similairity measure
+trec
+question analyzer output
+trec-style
+retrieval strategist and
+semantic structures which
+retrieval strategist is
+answer generation module
+answer merger when
+question analysis module

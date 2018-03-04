@@ -1,0 +1,29 @@
+matching proximity search
+trec
+surface text pattern
+question analysis ilqua
+aquaint
+question answering system
+wordnet
+netagged
+ilqua
+matching proximity search
+question answering system
+netagged
+query expansion
+question analysis ilqua
+trec
+surface text pattern
+ilqua
+wordnet
+aquaint
+surface text pattern
+trec
+question analysis ilqua
+aquaint
+matching proximity search
+wordnet
+netagged
+ilqua
+question answering system
+pattern matching

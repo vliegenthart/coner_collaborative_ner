@@ -1,0 +1,31 @@
+named entity recognition
+standards
+trec-9
+altavista
+trec
+smart
+nist
+cnlp
+named entity hierarchy
+named entity hierarchy
+trec
+smart
+trec-9
+altavista
+nist
+altavista
+cnlp
+named entity recognition
+cnlp named entity
+smart
+standards
+standards
+named entity recognition
+trec
+cnlp
+named entity hierarchy
+trec-9
+cnlp named entity
+query expansion
+nist
+cnlp named entity

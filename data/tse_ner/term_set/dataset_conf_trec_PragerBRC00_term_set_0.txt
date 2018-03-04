@@ -1,0 +1,7 @@
+qa-tokens
+smart
+wordnet
+set-a
+gaithersburg
+mrdr
+qa-token

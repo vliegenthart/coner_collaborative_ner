@@ -1,0 +1,9 @@
+pittsburgh
+sectagger
+cuis
+uima-based
+umls metathesaurus contains
+trec
+umls
+diagnosis
+umls

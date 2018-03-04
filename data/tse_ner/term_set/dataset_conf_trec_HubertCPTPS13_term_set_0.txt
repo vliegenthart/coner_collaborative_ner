@@ -1,0 +1,6 @@
+trec
+euclidian
+places
+terrier
+geonames
+lucene

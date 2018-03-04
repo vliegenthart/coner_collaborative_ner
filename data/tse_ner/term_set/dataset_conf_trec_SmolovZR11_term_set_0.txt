@@ -1,0 +1,7 @@
+supersegmentation
+fixstereocenters
+addsingledownbond
+iupac
+pubchem
+imago
+pubmed

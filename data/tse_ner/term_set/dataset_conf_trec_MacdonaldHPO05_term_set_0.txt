@@ -1,0 +1,6 @@
+terabyte
+generation
+trec
+gaussian
+avictf
+pl2f

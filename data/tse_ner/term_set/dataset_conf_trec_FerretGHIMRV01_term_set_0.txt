@@ -1,0 +1,5 @@
+trec10
+wordnet
+qalc
+focusbeforeanswervb
+npfocus

@@ -1,0 +1,28 @@
+reinforcement learning
+foursquare
+contextual suggestion track
+dynamic domain task
+terrier
+trec
+temporal summarisation track
+cori
+dynamic domain track
+lbsn
+contextual suggestion track
+cori
+terrier
+dynamic domain task
+trec
+dynamic domain track
+foursquare
+temporal summarisation track
+temporal summarisation track
+lbsn
+lbsn
+foursquare
+trec
+contextual suggestion track
+dynamic domain track
+dynamic domain task
+cori
+terrier

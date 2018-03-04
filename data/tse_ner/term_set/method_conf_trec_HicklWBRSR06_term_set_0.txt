@@ -1,0 +1,54 @@
+framenet
+question coreference module
+factoid
+question coreference module
+answer selection module
+keyword expansion module
+target processing module
+taser
+tion
+answer selection recent
+question coreference module
+event
+trec
+aquaint
+maximum entropy classifier
+authored
+framenet
+ranking following answer
+answer selection modules
+aquaint
+answer selection module
+cicerolite
+factoid
+cicerolite
+framenetbased
+trec
+maximum entropy classifier
+event
+target processing module
+answer selection modules
+authored
+ranking following answer
+framenet
+keyword expansion module
+tion
+framenetbased
+answer selection recent
+taser
+ranking following answer
+tion
+authored
+taser
+maximum entropy classifier
+target processing module
+cicerolite
+answer selection recent
+factoid
+event
+framenetbased
+trec
+keyword expansion module
+aquaint
+answer selection module
+answer selection modules

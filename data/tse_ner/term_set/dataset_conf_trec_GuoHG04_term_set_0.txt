@@ -1,0 +1,9 @@
+umls
+umls metathesaurus
+lucene
+cuis
+umls metathesaurus is
+metamap
+umls metathesaurus (
+umls metathesaurus provides
+umls

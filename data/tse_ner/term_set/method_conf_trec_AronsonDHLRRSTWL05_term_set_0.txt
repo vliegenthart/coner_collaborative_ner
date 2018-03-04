@@ -1,0 +1,38 @@
+theme generation results
+stacking
+trec
+umls
+pubmed
+machine learning for
+inquery
+alltext
+meshheading
+query expansion
+theme generation methods
+medline
+abgene
+inquery
+meshheading
+medline
+alltext
+trec
+theme generation results
+abgene
+pubmed
+stacking
+theme generation methods
+machine learning for
+umls
+meshheading
+machine learning for
+trec
+umls
+inquery
+pubmed
+theme generation methods
+medline
+theme generation results
+stacking
+pattern matching
+alltext
+abgene

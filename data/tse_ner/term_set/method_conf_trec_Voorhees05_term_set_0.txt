@@ -1,0 +1,36 @@
+nist
+glasgow
+gtts
+gov2
+html
+arda
+trec
+trec-3
+retrieval information retrieval
+nist
+glasgow
+waterloo
+aquaint
+trec-5
+trec
+retrieval information retrieval
+trec-3
+waterloo
+arda
+aquaint
+aquaint
+nist
+gov2
+gtts
+waterloo
+trec-5
+glasgow
+html
+arda
+gov2
+gtts
+trec
+html
+trec-3
+trec-5
+retrieval information retrieval

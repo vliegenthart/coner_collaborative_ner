@@ -1,0 +1,40 @@
+standards
+federal register articles
+trec
+feature extraction before
+ibcc
+trust mechanism before
+nist
+trust mechanism trust
+dirichlet
+amazon mechanical turk
+federal register articles
+amazon mechanical turk
+dirichlet
+feature extraction before
+trec
+selecting documents to
+trust mechanism trust
+trust mechanism before
+nist
+variational bayes the
+variational bayes learning
+ibcc
+standards
+variational bayes learning
+latent dirichlet allocation
+trust mechanism trust
+trust mechanism before
+feature extraction before
+standards
+trec
+variational bayes the
+variational bayes learning
+federal register articles
+selecting documents to
+ibcc
+dirichlet
+amazon mechanical turk
+variational bayes the
+nist
+selecting documents to

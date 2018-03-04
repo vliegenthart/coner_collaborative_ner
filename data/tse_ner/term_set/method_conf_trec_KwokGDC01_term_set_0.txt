@@ -1,0 +1,28 @@
+arabic
+pattern matching
+irbased
+inverse collection term
+trec
+sjmn-3
+prise
+trec-9
+nist
+pircs
+prise
+inverse collection term
+sjmn-3
+trec-9
+trec
+nist
+arabic
+pircs
+irbased
+prise
+trec
+trec-9
+pircs
+inverse collection term
+nist
+arabic
+irbased
+sjmn-3

@@ -1,0 +1,33 @@
+waterloo
+image relevance assessing
+irat
+trat
+charles clarke
+trec
+nist
+belga
+amazon mechanical turk
+clef
+image relevance assessment
+clef
+amazon mechanical turk
+trat
+charles clarke
+trec
+waterloo
+image relevance assessment
+nist
+image relevance assessing
+irat
+belga
+trat
+irat
+clef
+belga
+charles clarke
+trec
+waterloo
+image relevance assessment
+nist
+image relevance assessing
+amazon mechanical turk

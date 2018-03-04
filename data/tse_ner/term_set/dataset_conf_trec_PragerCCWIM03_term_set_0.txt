@@ -1,0 +1,7 @@
+thing
+qa-by-dossier
+trec2003
+trec-style
+piquant
+nist
+everglades

@@ -1,0 +1,33 @@
+trec
+semantic indexing (
+query expansion with
+cuis
+document expansion with
+umls
+negations
+document expansion with
+trec
+umls
+query expansion with
+emrs
+medical records track
+probabilistic retrieval model
+semantic indexing (
+cuis
+dimensionality reduction using
+query expansion with
+medical records track
+document expansion with
+emrs
+semantic indexing (
+trec
+cuis
+negations
+umls
+dimensionality reduction using
+query expansion
+latent semantic analysis
+dimensionality reduction using
+negations
+emrs
+medical records track

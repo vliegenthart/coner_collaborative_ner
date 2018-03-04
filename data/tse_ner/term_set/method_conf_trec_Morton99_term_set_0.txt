@@ -1,0 +1,33 @@
+reynar
+initial system overview
+sentence ranking sentences
+question answering track
+ratnaparkhi
+sgml
+trec
+harman
+trec-8
+question answering task
+nist
+sgml
+trec-8
+question answering track
+reynar
+initial system overview
+sentence ranking sentences
+trec
+harman
+ratnaparkhi
+nist
+question answering task
+reynar
+initial system overview
+harman
+trec
+sentence ranking sentences
+sgml
+question answering track
+nist
+ratnaparkhi
+question answering task
+trec-8

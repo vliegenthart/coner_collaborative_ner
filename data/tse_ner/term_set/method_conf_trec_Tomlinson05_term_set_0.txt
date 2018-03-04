@@ -1,0 +1,43 @@
+robust retrieval track
+query expansion
+question answering section
+relevance experiments the
+aquaint
+robust track this
+robust track this
+gov2
+first relevant score
+question answering section
+first relevant score
+document ranking task
+gmap
+robust retrieval track
+sgml
+gov2
+robust track this
+question answering track
+question answering section
+gmap
+relevance experiments the
+trec
+robust retrieval track
+first relevant score
+root
+dlen
+question answering track
+aquaint
+gov2
+relevance experiments the
+dlen
+document ranking task
+sgml
+trec
+root
+gmap
+dlen
+trec
+document ranking task
+aquaint
+sgml
+question answering track
+root

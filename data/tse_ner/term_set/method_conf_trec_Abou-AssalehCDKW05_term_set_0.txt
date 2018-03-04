@@ -1,0 +1,49 @@
+regular expression
+question answering (
+trec-related
+regexp
+jellyfish
+regexps
+trec
+question processing component
+aquaint
+date
+regexprewrite
+prise
+regexprewriting
+starfish
+question answering
+answer matching phase
+nist
+prise
+date
+jellyfish
+regexps
+question answering
+regexprewrite
+question processing component
+regexp
+answer matching phase
+trec
+nist
+starfish
+trec-related
+regexprewriting
+aquaint
+question answering (
+question answering (
+question processing component
+prise
+regexprewriting
+trec
+jellyfish
+aquaint
+nist
+starfish
+date
+question answering
+regexprewrite
+answer matching phase
+trec-related
+regexps
+regexp

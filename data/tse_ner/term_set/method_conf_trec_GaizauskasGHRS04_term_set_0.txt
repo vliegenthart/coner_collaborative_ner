@@ -1,0 +1,27 @@
+lucene
+nugget identification and
+final evaluation results
+trec
+question anwering like
+jape
+factoid
+wordnet
+madcow
+factoid
+final evaluation results
+jape
+question anwering like
+trec
+nugget identification and
+madcow
+wordnet
+question anwering like
+lucene
+factoid
+trec
+lucene
+madcow
+nugget identification and
+final evaluation results
+wordnet
+jape

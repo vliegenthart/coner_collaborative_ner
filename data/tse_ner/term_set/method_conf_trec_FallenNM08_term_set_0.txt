@@ -1,0 +1,32 @@
+semantic indexing similarity
+alaska fairbanks
+gov2
+trec
+trec million query
+arsc
+tomcat
+south hadley
+nimbus
+latent semantic analysis
+multisearch
+trec million query
+arsc
+gov2
+tomcat
+nimbus
+alaska fairbanks
+trec
+south hadley
+multisearch
+semantic indexing similarity
+alaska fairbanks
+trec
+arsc
+trec million query
+gov2
+semantic indexing similarity
+south hadley
+multisearch
+tomcat
+nimbus
+selection algorithm

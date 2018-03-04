@@ -1,0 +1,61 @@
+question answering task
+city
+question ordering problem
+organ
+question analysis
+knowledge bases developed
+trec
+trec-9
+city
+question answering task
+knowledge bases is
+regular expression
+pronominal anaphora is
+coupling siac and
+bird
+coupling siac and
+knowledge bases developed
+vector space model
+question taggings have
+siac
+expected answer types
+ztrm
+trec-8
+named entity recognition
+organ
+name
+name
+question analysis
+named entity recognition
+knowledge bases is
+vector space model
+expected answer types
+trec
+question ordering problem
+question taggings have
+ztrm
+trec-8
+trec-9
+organ
+pronominal anaphora is
+siac
+city
+question answering task
+knowledge bases is
+bird
+expected answer types
+question taggings have
+vector space model
+trec-8
+bird
+siac
+trec-9
+question ordering problem
+ztrm
+question analysis
+trec
+coupling siac and
+name
+named entity recognition
+pronominal anaphora is
+knowledge bases developed

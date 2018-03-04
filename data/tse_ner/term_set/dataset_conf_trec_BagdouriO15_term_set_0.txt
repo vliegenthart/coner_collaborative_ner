@@ -1,0 +1,11 @@
+jaccard
+vowpalwabbit
+twitter
+liveqa
+crowdflower
+bm25
+trec
+magdy
+shtok
+porter
+github

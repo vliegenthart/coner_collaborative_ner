@@ -1,0 +1,6 @@
+trec2005
+trec2007
+xapian
+trec2006
+blog06
+blog06

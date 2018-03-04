@@ -1,0 +1,33 @@
+trec-7
+minipar
+question answering many
+maryland
+svdpackc
+trec-7
+question answering many
+document overlap among
+svdpackc
+maryland
+syncmatcher
+minipar
+minipar
+smart
+latent semantic indexing
+svdpackc
+document overlap among
+question answering many
+trec-7
+trec
+dqt-et
+smart
+maryland
+syncmatcher
+latent semantic indexing
+dqt-et
+trec
+document overlap among
+dqt-et
+syncmatcher
+latent semantic indexing
+smart
+trec

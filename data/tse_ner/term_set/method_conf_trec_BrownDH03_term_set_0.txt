@@ -1,0 +1,28 @@
+taes
+unstructured information management
+trec
+ascii
+uima
+locuslink
+semantic search engine
+trec
+sgml
+taes
+unstructured information management
+medline
+ascii
+sgml
+locuslink
+uima
+trec
+locuslink
+medline
+semantic search engine
+taes
+unstructured information management
+ascii
+uima
+query expansion
+sgml
+medline
+semantic search engine

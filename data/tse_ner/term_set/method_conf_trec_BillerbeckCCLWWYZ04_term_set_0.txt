@@ -1,0 +1,43 @@
+search engine group
+zettair
+genomic
+sgml-based
+gov2
+trec
+sgml
+query expansion
+genomics
+html
+results training queries
+rmit
+terabyte
+sgmlbased
+results training queries
+ascii
+sgml
+rmit
+html
+sgml-based
+gov2
+sgmlbased
+search engine group
+genomic
+trec
+terabyte
+ascii
+genomics
+zettair
+sgml-based
+trec
+terabyte
+sgml
+sgmlbased
+genomic
+genomics
+gov2
+search engine group
+ascii
+results training queries
+zettair
+rmit
+html

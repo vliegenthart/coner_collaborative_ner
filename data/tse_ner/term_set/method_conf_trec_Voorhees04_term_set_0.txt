@@ -1,0 +1,36 @@
+nist
+medline
+sgml
+html
+gov2
+information retrieval information
+information retrieval information
+medline
+standards
+trec
+trec-3
+defense advanced research
+nist
+aquaint
+trec-5
+gov2
+trec-3
+trec
+sgml
+defense advanced research
+nist
+medline
+aquaint
+gov2
+information retrieval information
+trec-5
+standards
+html
+trec-5
+standards
+trec
+trec-3
+sgml
+html
+defense advanced research
+aquaint

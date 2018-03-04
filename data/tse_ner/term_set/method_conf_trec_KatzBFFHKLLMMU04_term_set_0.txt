@@ -1,0 +1,23 @@
+regular expression
+fixed lists last
+sgml
+trec
+trec question answering
+aquaint
+query expansion
+answer selection like
+muc-7
+sgml
+trec question answering
+answer selection like
+fixed lists last
+trec
+muc-7
+fixed lists last
+aquaint
+muc-7
+trec
+sgml
+aquaint
+trec question answering
+answer selection like

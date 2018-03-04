@@ -1,0 +1,8 @@
+drugbank
+pubmed
+trec
+trecchem
+iupac
+umls
+umls
+metamap

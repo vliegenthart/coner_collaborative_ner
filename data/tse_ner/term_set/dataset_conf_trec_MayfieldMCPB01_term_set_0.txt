@@ -1,0 +1,4 @@
+clir
+reuters
+haircut
+trec

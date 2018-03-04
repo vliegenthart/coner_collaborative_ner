@@ -1,0 +1,52 @@
+feedback task results
+boolean result size
+nist
+estimating precision and
+individual topic results
+boolean result size
+relevance feedback tasks
+feedback task results
+cdip
+relevance feedback runs
+wikipedia
+eight relevance feedback
+trec
+relevance feedback task
+nist
+maryland
+precision rates to
+estimated relevant documents
+precision rates to
+legal track
+trec legal track
+eight relevance feedback
+estimated relevant documents
+trec
+relevance feedback task
+relevance feedback tasks
+estimating precision and
+nist
+maryland
+legal track
+boolean result size
+wikipedia
+cdip
+relevance feedback runs
+feedback task results
+trec legal track
+individual topic results
+precision rates to
+relevance feedback tasks
+cdip
+relevance feedback task
+legal track
+relevance feedback runs
+trec legal track
+trec
+wikipedia
+eight relevance feedback
+estimated relevant documents
+maryland
+individual topic results
+query expansion
+estimating precision and

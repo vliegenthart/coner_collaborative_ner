@@ -1,0 +1,26 @@
+informedia
+interactive retrieval system
+qbic
+automatic image retrieval
+vocr
+processing
+informedia
+mpeg-1
+automatic system evaluation
+vocr
+informedia
+interactive retrieval system
+automatic system evaluation
+vocr
+processing
+mpeg-1
+automatic image retrieval
+automatic system evaluation
+qbic
+processing
+mpeg-1
+signal processing
+qbic
+interactive retrieval system
+automatic image retrieval
+query expansion

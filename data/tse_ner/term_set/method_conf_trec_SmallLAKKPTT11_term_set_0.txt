@@ -1,0 +1,47 @@
+lucene
+siena college community
+twitter
+trec
+query expansion
+waikato
+wikipedia
+linear regression
+chavez
+html
+judgments
+stirs
+html
+weka
+trec-format
+nist
+urls
+wordnet
+html
+chavez
+trec-format
+weka
+judgments
+waikato
+wikipedia
+trec
+lucene
+twitter
+nist
+stirs
+siena college community
+urls
+wordnet
+waikato
+trec
+urls
+lucene
+nist
+trec-format
+weka
+twitter
+siena college community
+wordnet
+judgments
+chavez
+wikipedia
+stirs

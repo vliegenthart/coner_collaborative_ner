@@ -1,0 +1,28 @@
+nist
+aquaint
+answer selection given
+trec
+nist
+question answering track
+aquaint
+question answering
+treetagger
+question answering track
+tequesta
+pattern matching
+treetagger
+answer selection given
+question answering track
+trec
+question answering track
+aquaint
+tequesta
+question answering
+nist
+treetagger
+question answering
+question answering track
+question answering track
+answer selection given
+tequesta
+trec

@@ -1,0 +1,37 @@
+nist
+massachusetts
+trec-type
+tfidf
+factoid
+clir
+trec
+computer science at
+ntcir-5
+nist
+lemur
+sentence retrieval module
+question answering (
+lucene
+sentence retrieval module
+question answering (
+tfidf
+factoid
+trec
+massachusetts
+computer science at
+trec-type
+computer science at
+lucene
+trec
+nist
+trec-type
+massachusetts
+ntcir-5
+ntcir-5
+sentence retrieval module
+lemur
+tfidf
+lemur
+factoid
+lucene
+question answering (

@@ -1,0 +1,46 @@
+trec evaluation results
+pittsburgh
+icd-9
+lemur
+medicine
+negated report text
+negated report text
+trec evaluation results
+chinnakotla
+breakiterator
+chinnakotla
+breakiterator
+lemur
+carol friedman et
+trec evaluation results
+icd-9
+nadkarni
+medicine
+negated report text
+trec
+umls
+pittsburgh
+lemur
+human diseases and
+swapna abhyankar and
+medicine
+lucene
+carol friedman et
+chinnakotla
+trec
+human diseases and
+swapna abhyankar and
+umls
+nadkarni
+lucene
+pittsburgh
+lucene
+carol friedman et
+human diseases and
+breakiterator
+trec
+query expansion
+icd-9
+nadkarni
+umls
+swapna abhyankar and

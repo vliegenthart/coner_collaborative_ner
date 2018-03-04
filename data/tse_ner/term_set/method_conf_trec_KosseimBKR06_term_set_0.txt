@@ -1,0 +1,24 @@
+leacock
+lucene
+wikipedia
+trec
+wikipage
+questionkeywords
+answering list questions
+secondstring
+questionkeywords
+answering list questions
+wikipedia
+trec
+secondstring
+wikipage
+leacock
+lucene
+secondstring
+wikipage
+trec
+lucene
+answering list questions
+leacock
+wikipedia
+questionkeywords

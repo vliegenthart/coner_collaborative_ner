@@ -1,0 +1,59 @@
+question answering (
+named entity recognition
+question answering system
+lucene information retrieval
+candidates extraction module
+talp-qa
+question answering task
+lcsum
+question processing the
+question answering system
+answer selection (
+factoid answer extraction
+question answering task
+candidates extraction module
+question classification module
+question answering (
+lucene
+lcsum
+trec
+talp-qa
+answer selection after
+aquaint
+answer extraction phase
+lucene information retrieval
+question processing the
+named entity recognition
+lexical chains (
+aranea
+lucene
+answer selection (
+question answering task
+question answering (
+lcsum
+factoid answer extraction
+trec
+named entity recognition
+regular expression
+aquaint
+lexical chains (
+question answering system
+answer extraction phase
+answer extraction phase
+factoid answer extraction
+lucene information retrieval
+talp-qa
+pattern matching
+answer selection after
+answer selection after
+aranea
+aquaint
+candidates extraction module
+question classification module
+question processing the
+answer selection (
+lexical chains (
+aranea
+question classification module
+lucene
+trec

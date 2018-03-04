@@ -17,6 +17,7 @@
 # - Add some statistics about percentage papers with direct link to pdf, and how many to crawl for: 
 #     - Dataset, 1000 PDFS: 3754 -> 37.5%
 #     - Method, 500 PDFS: 1571 -> 31.8%
+# - INTERESTING: Only papers from conferences TREC and VLBV have links to PDFS!?!??!?!?!
 # - Build a way for Coner PDFNLT Bash to only analyse subset of PDFS
 
 # ############## #
@@ -114,7 +115,10 @@ if [[ ! -z "$4" ]]; then
   echo "Copying papers information from ${database} server; publication attributes, pdf file, entities and full text..."
   cp -R "data/${database}/${facet}_papers_information_overview.csv" "data/${database}/OLD_${facet}_papers_information_overview.csv" || :
   cp -R "../named_entity_recognizer/data/${database}/" "data/${database}/"
-  cp -R "../named_entity_recognizer/data/${database}/pdf/" "../PDFNLT/pdfanalyzer/${database}_pdf/"
+
+  mkdir -p "../PDFNLT/pdfanalyzer/pdf_old_${database}/"
+  cp -R "../PDFNLT/pdfanalyzer/pdf/" "../PDFNLT/pdfanalyzer/pdf_old_${database}/"
+  cp -R "../named_entity_recognizer/data/${database}/pdf/" "../PDFNLT/pdfanalyzer/pdf/"
 fi
 
 # 

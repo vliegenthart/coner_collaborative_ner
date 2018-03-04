@@ -1,0 +1,7 @@
+clueweb
+terrier
+blog06
+blog06
+bm25
+comsum
+trec

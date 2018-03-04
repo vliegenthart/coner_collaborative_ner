@@ -1,0 +1,5 @@
+scimark
+bigtable
+hdfs-based
+mapreduce
+hadoop

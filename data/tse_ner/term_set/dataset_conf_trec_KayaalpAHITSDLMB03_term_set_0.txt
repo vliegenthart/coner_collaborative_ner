@@ -1,0 +1,14 @@
+generif
+medminer
+bayesian
+interleukin
+medline
+generifs
+trec
+cmls
+locuslink
+umls
+pubmed
+locuslink generif records
+locuslink
+umls

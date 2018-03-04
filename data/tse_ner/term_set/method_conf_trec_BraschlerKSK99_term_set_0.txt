@@ -1,0 +1,30 @@
+trec clir collections
+query expansion
+clir
+rsvs
+trec-7
+trec
+girt
+clir
+nist
+trec clir collections
+german
+clir
+german
+trec
+trec clir collections
+trec-7
+nist
+automatic compiled resources
+rsvs
+girt
+rsvs
+german
+clir
+trec
+automatic compiled resources
+trec-7
+linear regression
+nist
+girt
+automatic compiled resources

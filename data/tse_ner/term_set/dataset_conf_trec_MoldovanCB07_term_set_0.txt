@@ -1,0 +1,10 @@
+trecs
+aquaint
+blog06
+wikipedia
+wordnet
+lymba
+cogex
+other
+poweranswer
+trec

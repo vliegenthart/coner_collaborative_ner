@@ -1,0 +1,27 @@
+qrel
+trec terabyte track
+gov2
+nelchina
+trec
+trec million query
+nist
+million query track
+trec terabyte track
+million query track
+trec
+qrel
+arsc
+gov2
+trec million query
+nist
+nelchina
+trec million query
+trec
+arsc
+nelchina
+qrel
+trec terabyte track
+nist
+arsc
+gov2
+million query track

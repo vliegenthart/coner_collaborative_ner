@@ -1,0 +1,13 @@
+edit
+javelin
+expert
+trec-style
+assert
+combmnz
+trec
+semix
+levenstein
+combsum
+light
+cacm
+planner

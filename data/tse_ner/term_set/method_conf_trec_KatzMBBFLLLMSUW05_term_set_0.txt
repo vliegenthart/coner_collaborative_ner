@@ -1,0 +1,25 @@
+document retrieval results
+lucene
+document retrieval results
+question analysis training
+prise
+lucene
+nist
+wikipedia
+trec question answering
+question answering system
+lucene
+nist
+question analysis training
+wikipedia
+trec question answering
+question answering system
+prise
+document retrieval results
+nist
+trec question answering
+prise
+question answering system
+query expansion
+wikipedia
+question analysis training

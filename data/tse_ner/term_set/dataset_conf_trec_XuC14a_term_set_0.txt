@@ -1,0 +1,6 @@
+indri
+letor
+dspapprox
+listnet
+clueweb12-b13
+letor

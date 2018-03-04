@@ -1,0 +1,7 @@
+rutin
+rutgall
+rutgbl
+rutbe
+inquery
+queryclarity
+bm25

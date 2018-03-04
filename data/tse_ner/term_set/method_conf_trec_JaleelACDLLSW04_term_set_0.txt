@@ -1,0 +1,33 @@
+tfidf
+massachusetts amherst participated
+svms
+trec
+extracted entities previous
+svms
+support vector machine
+identifying novel sentences
+support vector machine
+umass
+tfidf
+massachusetts amherst participated
+svms
+relevant sentence retrieval
+trec
+relevant sentence retrieval
+extracted entities previous
+massachusetts amherst participated
+svms
+support vector machine
+identifying novel sentences
+trec
+support vector machine
+hidden markov models
+tfidf
+extracted entities previous
+umass
+identifying novel sentences
+svms
+query expansion
+svms
+relevant sentence retrieval
+umass
