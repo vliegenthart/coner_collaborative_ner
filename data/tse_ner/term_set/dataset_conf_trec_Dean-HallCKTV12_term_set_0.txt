@@ -1,9 +1,9 @@
+tripadvisor
 udinfocstdc
 toronto
-tripadvisor
-infolab
-trec
 irit
+trec
 boss
 csiro
+infolab
 hplc

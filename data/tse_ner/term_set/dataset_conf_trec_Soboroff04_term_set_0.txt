@@ -1,10 +1,10 @@
-new york times
 tdt
-bm25
 pca-based
-pos-tagging
 aquaint
+pos-tagging
 wordnet
 tfidf
+bm25
 trec
 newsentencevalue
+new york times

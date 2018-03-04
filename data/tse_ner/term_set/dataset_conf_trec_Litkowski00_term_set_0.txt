@@ -1,4 +1,4 @@
+wordnet
 dimap-enhanced
 dimap
-wordnet
 macquarie

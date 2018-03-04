@@ -6,3 +6,5 @@ term_weight = 2
 
 # Default value if no number is passed to calculate_top_papers.py as argument
 number_top_papers = 5
+
+facets = ['dataset', 'method']

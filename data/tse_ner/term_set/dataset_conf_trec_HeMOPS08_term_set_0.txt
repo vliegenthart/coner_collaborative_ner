@@ -3,9 +3,9 @@ blogs06
 dfr-based
 terrier
 binomial
-blog06
 normalisation
 trec
+blog06
 poisson
 enterprise
 pl2f

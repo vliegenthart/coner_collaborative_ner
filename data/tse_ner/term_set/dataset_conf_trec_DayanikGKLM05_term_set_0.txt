@@ -1,4 +1,4 @@
 trec
-pubmed
 parsetofile
+pubmed
 gene ontology

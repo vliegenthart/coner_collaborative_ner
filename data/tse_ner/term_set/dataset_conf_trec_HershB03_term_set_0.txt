@@ -1,7 +1,7 @@
-locuslink
+smart
 generif
 generifs
 medline
-smart
 locuslink
 trec
+locuslink

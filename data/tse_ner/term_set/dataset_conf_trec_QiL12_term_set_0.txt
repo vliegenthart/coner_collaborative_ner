@@ -1,7 +1,7 @@
-necla
 emrs
-trec
+necla
 umls
+trec
 umls
 infap
 metamap

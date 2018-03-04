@@ -1,15 +1,15 @@
-xmltagged
 xml-based
-new york times
-umls
-nist
+xmltagged
 dimap
 xpath
 aquaint
 wordnet
+nist
 xml-tagged
 trec
 umls
 google
 xml-generation
 howmany
+umls
+new york times

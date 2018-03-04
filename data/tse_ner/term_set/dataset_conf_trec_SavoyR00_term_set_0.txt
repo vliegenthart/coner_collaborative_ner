@@ -1,6 +1,6 @@
+wt2g
+okapi
 cori
 pagerank
-okapi
-wt2g
 wt2g
 smart

@@ -1,11 +1,11 @@
-trec
+umls metathesaurus contains
+gate
+umls
 visit
 neo4j
 nadkarni
 terrier
 medicine
+trec
 breakiterator
-umls
-gate
-umls metathesaurus contains
 umls

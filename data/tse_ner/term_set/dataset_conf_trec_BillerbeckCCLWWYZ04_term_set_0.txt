@@ -1,3 +1,5 @@
+sgmlbased
+ascii
 freebsd
 bm25
 rmita
@@ -6,6 +8,4 @@ trec
 zettair
 javascript
 gov2
-sgmlbased
 sgml-based
-ascii

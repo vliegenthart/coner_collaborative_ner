@@ -1,8 +1,8 @@
-proximity
+wordnet
 lowsamedoc
+proximity
 lmrdocstruct
 udesc
-wordnet
 highdiffdoc
 dirichlet
 nist

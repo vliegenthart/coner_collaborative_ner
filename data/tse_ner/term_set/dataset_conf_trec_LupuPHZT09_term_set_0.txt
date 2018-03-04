@@ -1,8 +1,8 @@
+chemid
+uspto
+pubchem
 tdac
 cranfield
 bm25
 trec
-pubchem
-uspto
-chemid
 pubchem

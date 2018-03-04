@@ -1,6 +1,6 @@
-openephyra
+abbreviation
 stanfordnetagger
+openephyra
 conll
 netagger
 trec
-abbreviation

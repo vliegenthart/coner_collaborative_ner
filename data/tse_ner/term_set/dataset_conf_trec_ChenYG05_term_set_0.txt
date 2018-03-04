@@ -2,6 +2,6 @@ inquery
 tfidf
 untqa0503
 bm25
-lingpipe
 trec-type
+lingpipe
 eagleqa

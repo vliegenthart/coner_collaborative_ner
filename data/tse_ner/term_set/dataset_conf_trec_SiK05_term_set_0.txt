@@ -1,6 +1,6 @@
-medline
-pubmed
+trec
 finally
 laplace
-trec
+pubmed
+medline
 gene ontology

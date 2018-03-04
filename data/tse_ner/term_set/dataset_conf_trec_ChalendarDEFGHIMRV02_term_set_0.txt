@@ -1,6 +1,6 @@
+trec11
 wordnet
 treetagger
 fastr
-trec11
 trec
 qalc

@@ -2,5 +2,5 @@ bm25
 snomed
 trec
 umls
-umls
 pubmed
+umls

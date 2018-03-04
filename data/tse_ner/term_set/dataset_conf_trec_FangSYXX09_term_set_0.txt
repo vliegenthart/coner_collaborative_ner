@@ -1,6 +1,6 @@
+freebase
 wordnet
 factual
-freebase
 clueweb09
 indri
 trec

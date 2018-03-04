@@ -1,6 +1,6 @@
+umls
 metamap
 infap
-umls
 bm25
 umls metathesaurus
 trec

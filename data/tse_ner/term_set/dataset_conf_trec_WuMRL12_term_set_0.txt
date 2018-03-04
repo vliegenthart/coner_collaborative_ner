@@ -1,6 +1,6 @@
 nlp-driven
-medtagger
 mayopayload
+medtagger
 lucene
 mayometadata
 umls

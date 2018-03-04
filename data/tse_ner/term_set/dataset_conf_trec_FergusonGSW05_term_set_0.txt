@@ -1,4 +1,4 @@
+weightedtf
 gov2
 bm25
 trec
-weightedtf

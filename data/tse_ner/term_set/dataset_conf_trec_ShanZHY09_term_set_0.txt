@@ -1,5 +1,5 @@
+inlink
 pagerank
 duplicate
 bm25
-inlink
 gov2

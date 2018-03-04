@@ -1,7 +1,7 @@
+boolean
 umd-cr-c40
-proposalbydefendant
 finalquery
+proposalbydefendant
 requesttext
 bates
 umd-aurc-c40
-boolean

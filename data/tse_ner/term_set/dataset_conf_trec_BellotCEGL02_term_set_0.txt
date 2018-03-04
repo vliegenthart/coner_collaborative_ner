@@ -1,3 +1,11 @@
+trec-11
+writer
+sportsman
+planet
+biography
+mineral
+season
+currency
 musician
 company
 mountain
@@ -17,11 +25,3 @@ depth
 river
 siac
 country
-season
-currency
-trec-11
-writer
-sportsman
-planet
-biography
-mineral

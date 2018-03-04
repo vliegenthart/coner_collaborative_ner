@@ -1,6 +1,6 @@
+wordnet
 lucene
 stirs
-wordnet
-trec
 trec-format
+trec
 google

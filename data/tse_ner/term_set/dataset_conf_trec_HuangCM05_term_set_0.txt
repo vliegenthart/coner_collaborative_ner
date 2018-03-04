@@ -1,4 +1,4 @@
+trec
+bm25
 pubmed
 acromed
-bm25
-trec

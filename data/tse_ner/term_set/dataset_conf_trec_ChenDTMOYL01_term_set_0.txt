@@ -1,4 +1,4 @@
 cnlp
+prise
 wordnet
 trec
-prise

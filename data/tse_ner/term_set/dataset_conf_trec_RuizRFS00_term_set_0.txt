@@ -1,5 +1,5 @@
-cindor
 smart
 hownet
 wordnet
 xinhua
+cindor

@@ -1,8 +1,8 @@
+semrep
 trecmed
-intact
 context
 prominer
-semrep
 umls
 metamap
+intact
 umls

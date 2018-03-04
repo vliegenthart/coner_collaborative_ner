@@ -1,6 +1,6 @@
+blogs08
 mapreduce
-binomial
 gaussboost
+binomial
 gaussian
 floe
-blogs08

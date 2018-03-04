@@ -1,7 +1,7 @@
+github
 thrift
 idf-like
 bm25
-github
 cosineegrep
 wumpus
 trec

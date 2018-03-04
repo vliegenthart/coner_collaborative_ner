@@ -1,7 +1,7 @@
-wordnet
-litref
-roverstyle
 trec-11
+wordnet
 qanda
+roverstyle
 idf-weighted
 trec
+litref

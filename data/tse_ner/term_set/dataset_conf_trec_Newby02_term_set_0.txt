@@ -1,5 +1,5 @@
-irtools
-gridir
 cpan
 vsm-style
 arabic
+gridir
+irtools

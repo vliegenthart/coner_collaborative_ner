@@ -1,10 +1,10 @@
 bayesian
+reptree
+pagerank
+urltitle
+lucene
 bm25
 ritfdvsmurl
 httpstatuscode
 urltitles
 trec
-reptree
-pagerank
-urltitle
-lucene

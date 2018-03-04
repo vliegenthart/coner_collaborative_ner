@@ -1,5 +1,5 @@
-smart
-tfidf
+trec-10
 trec-11
 reuters
-trec-10
+tfidf
+smart

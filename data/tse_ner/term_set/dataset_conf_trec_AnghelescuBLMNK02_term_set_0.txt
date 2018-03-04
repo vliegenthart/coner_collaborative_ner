@@ -1,5 +1,5 @@
-tu11
 hitiqa
+tu11
 rocchio
 trec
 chicago

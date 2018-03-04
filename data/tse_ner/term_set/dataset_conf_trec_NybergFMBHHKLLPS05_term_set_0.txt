@@ -1,13 +1,13 @@
-edit
+planner
 javelin
-expert
 trec-style
+expert
 assert
 combmnz
+edit
 trec
 semix
 levenstein
 combsum
 light
 cacm
-planner

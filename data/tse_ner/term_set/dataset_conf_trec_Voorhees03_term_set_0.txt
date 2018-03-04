@@ -1,12 +1,12 @@
+generif
 trecs
+berkeley
 purpose
 familiarity
-berkeley
 trec
 sgml
 csiro
 likert
 locuslink
-generif
 new york times
 locuslink

@@ -1,7 +1,7 @@
-nomlex
-blog06
 pronto
+nomlex
 wordnet
+blog06
 blog06
 trec
 indri

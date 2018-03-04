@@ -1,6 +1,6 @@
-treetagger
 lbj-based
-dbpedia
+treetagger
 trec
+dbpedia
 wikipedia
 laplace

@@ -1,9 +1,11 @@
-regexprewriting
+money
+regexprewrite
 aquaint
 mysql
 season
 starfish
 wordnet
+regexprewriting
 trec-related
 country
 trec
@@ -12,5 +14,3 @@ prise
 daltrec
 regexp
 regexps
-money
-regexprewrite

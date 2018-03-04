@@ -1,7 +1,7 @@
+inquery
 liveqa
+github
 petri
 cplex
 nectar
 wand
-inquery
-github

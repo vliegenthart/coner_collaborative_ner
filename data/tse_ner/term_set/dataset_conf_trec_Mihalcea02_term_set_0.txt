@@ -1,5 +1,5 @@
-batch
+reuters
 routing
 qrels
-reuters
 textcat
+batch

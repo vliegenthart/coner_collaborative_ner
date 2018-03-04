@@ -1,6 +1,6 @@
 kititlenewtext
-thrnoquot
 thrnoqnarr
+thrnoquot
 titlenewtext
 titledefault
 titletrans

@@ -1,8 +1,8 @@
 diseases
 homologene
+umls
+gene ontology
 clir
 trieschnigg
 biocreative
 umls
-umls
-gene ontology

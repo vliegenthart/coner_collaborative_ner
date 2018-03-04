@@ -1,4 +1,4 @@
-spmining
 nfmining
+spmining
 lcsh
 statap

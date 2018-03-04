@@ -1,7 +1,7 @@
-currenttv
+trec
 stirs
 msnbc
 wikipedia
 rankedjoin
-trec
 urlonly
+currenttv

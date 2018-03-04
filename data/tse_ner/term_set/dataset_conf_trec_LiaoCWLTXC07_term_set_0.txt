@@ -1,7 +1,7 @@
+drapopisub
 drapcomsub
 bm25
 dirichlet
-drapopisub
-blog06
 trec
+blog06
 drapstm

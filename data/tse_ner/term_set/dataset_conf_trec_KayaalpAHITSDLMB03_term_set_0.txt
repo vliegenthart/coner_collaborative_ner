@@ -1,3 +1,6 @@
+pubmed
+locuslink generif records
+umls
 generif
 medminer
 bayesian
@@ -8,7 +11,4 @@ trec
 cmls
 locuslink
 umls
-pubmed
-locuslink generif records
 locuslink
-umls

@@ -1,6 +1,6 @@
-minipar
-diogene
 george
 minipar
 itc-irst
 bush
+minipar
+diogene

@@ -1,7 +1,7 @@
+paum
+plaum
+reuters-21587
 ohsumed
 fbeta
 microsoft
 okapi
-plaum
-reuters-21587
-paum

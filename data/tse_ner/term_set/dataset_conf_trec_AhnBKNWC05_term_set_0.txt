@@ -1,9 +1,9 @@
-ccg-parser
+trec-2005
+liqed
 drss
+ccg-parser
 lemur
 toqa
 trec
 wikipedia
 aquaint
-liqed
-trec-2005

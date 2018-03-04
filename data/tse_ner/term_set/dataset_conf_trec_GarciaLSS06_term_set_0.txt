@@ -1,7 +1,7 @@
 zetamerg
+zetabm
+dirichlet
 bm25
 trec
 zettair
 rmit
-zetabm
-dirichlet

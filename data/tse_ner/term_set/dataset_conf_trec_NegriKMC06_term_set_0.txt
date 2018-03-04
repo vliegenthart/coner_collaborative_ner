@@ -1,6 +1,6 @@
-trec
-ntcir
-diogene
 wordnet
 itc-irst
 clef
+trec
+ntcir
+diogene

@@ -1,5 +1,5 @@
-tfidf
 bm25
+tfidf
+github
 topicinfo
 trec
-github

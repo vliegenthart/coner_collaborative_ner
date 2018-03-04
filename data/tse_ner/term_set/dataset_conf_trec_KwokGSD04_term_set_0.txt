@@ -1,7 +1,7 @@
 hard50
 trec2003
-trec2004
 pircs
 trec
 google
+trec2004
 new49

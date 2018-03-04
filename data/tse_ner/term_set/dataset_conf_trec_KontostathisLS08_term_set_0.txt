@@ -1,5 +1,5 @@
-kontostathis
 trec2006
+kontostathis
 bm25
 trec
 ucedlsia

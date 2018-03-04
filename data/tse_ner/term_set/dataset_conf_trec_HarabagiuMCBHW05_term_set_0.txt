@@ -1,4 +1,4 @@
+cogex
 trec
 wordnet
 poweranswer
-cogex

@@ -1,8 +1,8 @@
-matlab
-trec
-enron
-clapack
-edlsi
-cacm
 svdlibc
 psvd
+enron
+trec
+clapack
+edlsi
+matlab
+cacm

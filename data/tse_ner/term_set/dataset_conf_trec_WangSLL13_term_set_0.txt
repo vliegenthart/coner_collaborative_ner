@@ -1,6 +1,6 @@
-rfmultimodel
 rfclassloose
 twitter
+rfmultimodel
 rfclassstrict
 elasticsearch
 ecqupdate

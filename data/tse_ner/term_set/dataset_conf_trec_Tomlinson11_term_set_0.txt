@@ -1,6 +1,6 @@
+boolean
 windows-1252
-opentext
 xml-safe
+opentext
 cdip
 searchserver
-boolean

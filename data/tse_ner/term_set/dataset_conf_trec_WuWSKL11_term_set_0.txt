@@ -1,9 +1,9 @@
-pittsburgh
+trec
 sectagger
+pittsburgh
 cuis
+umls
 uima-based
 umls metathesaurus contains
-trec
 umls
 diagnosis
-umls

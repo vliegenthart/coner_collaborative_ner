@@ -1,6 +1,6 @@
-there
 tdt
-hubble
+there
 wordnet
+hubble
 allan
 trec

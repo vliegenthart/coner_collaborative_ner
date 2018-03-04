@@ -1,8 +1,8 @@
-uris
-sindice-2011
+sindice
 sindice-de
+sindice-2011
 clueweb
 sindice-ed
 sindice
-sindice
 github
+uris

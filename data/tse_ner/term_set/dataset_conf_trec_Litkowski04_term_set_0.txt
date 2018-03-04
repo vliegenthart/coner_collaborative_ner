@@ -1,10 +1,9 @@
-dimap
-umls
-novelty
 xpath
+dimap
 aquaint
 nist-supplied
 wordnet
+novelty
 xmlbased
 nist
 xmlgeneration
@@ -13,3 +12,4 @@ xml-tagged
 perl
 umls
 google
+umls

@@ -1,5 +1,5 @@
-blog06
-bm25
 terrier
 feup
+bm25
+blog06
 blog06

@@ -1,6 +1,6 @@
-dirichlet
+lucene
 daltrec
 wikipedia
 trec
 github
-lucene
+dirichlet

@@ -1,7 +1,7 @@
+terabyte
 adhoc
 binomial
 bm25
-terabyte
 combsum
 poisson
 pl2f

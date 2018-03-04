@@ -1,8 +1,8 @@
 knowledgeableabout
 aquaint
-locuslink
 wordnet
 trec
-qitekat
 knowsabout
+qitekat
 sport
+locuslink

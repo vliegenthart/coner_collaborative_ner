@@ -1,6 +1,6 @@
+okapi
 dirichlet
 trec-2002
-pagerank
 tsinghua
 lemur
-okapi
+pagerank

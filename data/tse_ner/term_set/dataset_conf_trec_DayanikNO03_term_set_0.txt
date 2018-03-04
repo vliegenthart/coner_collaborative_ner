@@ -1,8 +1,8 @@
-genbank
-locuslink
-eif4e
-swissprot
 refseq
 locuslink
+genbank
+eif4e
+swissprot
 medline
 prosite
+locuslink

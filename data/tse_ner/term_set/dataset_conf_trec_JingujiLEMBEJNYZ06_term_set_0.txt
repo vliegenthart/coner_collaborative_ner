@@ -1,8 +1,8 @@
-litowski
-new york times
-lucene
 uiuc
+lucene
 googleapi
 wordnet
 trec
 aquaint
+new york times
+litowski

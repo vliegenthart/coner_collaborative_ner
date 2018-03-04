@@ -1,6 +1,6 @@
+github
+tac kbp
 galago
 tac kbp entity
 tupleflow
 wikipedia
-github
-tac kbp

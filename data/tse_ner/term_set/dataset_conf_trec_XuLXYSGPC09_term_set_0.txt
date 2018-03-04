@@ -1,5 +1,5 @@
 dragpushing
 bm25
-blogs06
 blogs08
+blogs06
 ictnet

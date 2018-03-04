@@ -1,5 +1,5 @@
+foldit
 pandora
 irat
-foldit
 skierarchy
 trec

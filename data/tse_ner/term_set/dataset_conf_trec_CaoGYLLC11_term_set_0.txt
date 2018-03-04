@@ -1,5 +1,5 @@
-google
 ictnet
+google
+bm25
 trec2011
 tfidf
-bm25

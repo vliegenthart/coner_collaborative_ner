@@ -1,5 +1,5 @@
-trec
-poweranswer
 conditional
 wordnet
 cogex
+trec
+poweranswer

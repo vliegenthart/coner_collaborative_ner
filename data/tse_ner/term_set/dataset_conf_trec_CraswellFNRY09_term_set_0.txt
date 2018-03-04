@@ -1,6 +1,6 @@
-trec
-lambdarank
-pagerank
-bm25
 bing
+pagerank
+lambdarank
+bm25
 microsoft
+trec

@@ -1,12 +1,12 @@
 bact
 keyfileincindex
 invfpindex
-entrezgene
+umls
 parsequery
 tfidf
 medline
-umls
 trec
+entrezgene
 umls
 basicdocstream
 indriindex

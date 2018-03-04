@@ -1,10 +1,10 @@
-umls metathesaurus (
 nicta
 umls
-bm25
 metamap-2010
+bm25
 metamap
 boolean
 umls
 negex
 dbpedia
+umls metathesaurus (

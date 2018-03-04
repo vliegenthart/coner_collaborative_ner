@@ -1,5 +1,5 @@
+trec
 tablelookup
 mltablelookup
 quartz
 webclef
-trec

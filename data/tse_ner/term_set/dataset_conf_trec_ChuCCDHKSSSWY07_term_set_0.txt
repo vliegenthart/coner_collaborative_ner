@@ -1,5 +1,5 @@
-ltdl-metadata
 ltdlfulltext
+ltdl-metadata
 bates
 ltdl-fulltext
 trec

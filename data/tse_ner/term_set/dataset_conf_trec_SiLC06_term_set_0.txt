@@ -1,7 +1,7 @@
+locuslink
+umls
 acromed
-locuslink
 medline
-umls
+lemur
 locuslink
 umls
-lemur

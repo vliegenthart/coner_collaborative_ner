@@ -1,7 +1,7 @@
-female firstname and
 trec-2007
-new york times
-blog06
-lastnames
-trec
+female firstname and
 wordnet
+lastnames
+blog06
+trec
+new york times

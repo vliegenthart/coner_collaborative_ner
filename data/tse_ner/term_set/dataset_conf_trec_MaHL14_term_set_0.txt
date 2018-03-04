@@ -1,7 +1,7 @@
+twitter
 docno
 tweets14
-twitter
-json
 trecformatted
+json
 ranksvm
 trec

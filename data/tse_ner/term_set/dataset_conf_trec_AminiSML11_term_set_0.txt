@@ -1,9 +1,9 @@
+umls
+bm25
 lucene
 singlepass
-bm25
+metamap-2010
 terrier
 medication
-metamap-2010
 umls
 wikipedia
-umls

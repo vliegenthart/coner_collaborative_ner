@@ -1,8 +1,8 @@
-metadata
+smart
 biomedical
+metadata
 infoxtract
 umls
 government
 generifs
-smart
 umls

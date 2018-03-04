@@ -2,5 +2,5 @@ clueweb
 microsoft
 clarke
 windows
-trec
 wikipedia
+trec

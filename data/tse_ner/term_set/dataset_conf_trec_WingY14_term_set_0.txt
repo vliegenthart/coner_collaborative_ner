@@ -1,7 +1,7 @@
+nxml
 darpa
 meshindexed
-nxml
+umls
 trec
 metamap
-umls
 pubmed

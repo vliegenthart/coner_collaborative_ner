@@ -1,9 +1,9 @@
 wikitravel
-pagerank
-tripadvisor
-lemur
-tripadvisor
 wikitravel
+tripadvisor
+pagerank
+lemur
 yelp
 trec
 chicago
+tripadvisor

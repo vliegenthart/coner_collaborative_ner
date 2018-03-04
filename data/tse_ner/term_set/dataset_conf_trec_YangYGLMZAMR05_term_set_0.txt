@@ -1,7 +1,7 @@
-pirc
 widit
+pirc
+wordnet
 spamguru
 pircs
-wordnet
 booland
 google

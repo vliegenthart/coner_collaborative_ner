@@ -1,4 +1,4 @@
 trec
-wordnet
 bm25
+wordnet
 noise

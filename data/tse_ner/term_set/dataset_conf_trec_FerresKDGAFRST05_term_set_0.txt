@@ -1,7 +1,7 @@
 lucene
-trec
 aquaint
 sibyl
 aranea
+trec
 eurowordnet
 lcsum

@@ -1,6 +1,6 @@
+trec-10
+money
+pagerank
 smart
 trec
 percent
-money
-pagerank
-trec-10

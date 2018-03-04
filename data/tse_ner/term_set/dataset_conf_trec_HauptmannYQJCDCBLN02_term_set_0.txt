@@ -1,5 +1,5 @@
-okapi
-okapi
 pittsburgh
-mpeg-compressed
 euclidean
+mpeg-compressed
+okapi
+okapi

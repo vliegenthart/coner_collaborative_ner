@@ -1,4 +1,4 @@
-wikipedia
 idf-like
+wikipedia
 trec
 twitter

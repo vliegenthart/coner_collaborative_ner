@@ -1,7 +1,7 @@
 mesh
-bitem
 umls
-bitemmesh
+bitem
 snomed
+bitemmesh
 trec
 umls

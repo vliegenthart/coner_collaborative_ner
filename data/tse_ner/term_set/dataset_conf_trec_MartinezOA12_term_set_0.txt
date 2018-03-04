@@ -1,9 +1,9 @@
+umls
+dbpedia
 mrrel
 combined
-dbpedia
 pagerank
 nicta
-umls
 visit
 umls metathesaurus is
 bm25

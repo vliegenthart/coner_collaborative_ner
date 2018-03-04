@@ -1,10 +1,10 @@
-search
 integratechild
-emptybuffer
 child
+emptybuffer
 update
 emptybuffer
 groupupdate
+search
 tpr-tree
 groupupdate
 lemma

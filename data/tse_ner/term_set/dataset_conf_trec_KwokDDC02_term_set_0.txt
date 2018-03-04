@@ -1,5 +1,5 @@
-web10g
-guideline
 tdt
 wordnet
+web10g
+guideline
 pircs

@@ -1,8 +1,8 @@
 tdhiearchic
-tdhierarchic
 tdlinear
-likert
+tdhierarchic
 searcher
 nponly
 csiro
 tdauto
+likert

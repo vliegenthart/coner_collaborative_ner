@@ -1,5 +1,5 @@
-trec
-foursquare
 tripadvisor
+trec
 atlanta
 beckley
+foursquare

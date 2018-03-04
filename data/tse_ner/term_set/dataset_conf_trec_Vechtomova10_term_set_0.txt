@@ -1,4 +1,4 @@
+lbj-based
 bm25
 lbjbased
 trec
-lbj-based

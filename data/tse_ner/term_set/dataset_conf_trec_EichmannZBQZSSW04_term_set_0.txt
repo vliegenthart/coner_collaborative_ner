@@ -1,7 +1,7 @@
+locuslink
 boolean
 locuslink
-locuslink
 mesh
-gene ontology
-smart
 pubmed
+smart
+gene ontology

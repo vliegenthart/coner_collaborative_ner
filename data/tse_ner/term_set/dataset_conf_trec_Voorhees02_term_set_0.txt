@@ -1,12 +1,12 @@
 msnsearch
-new york times
-reuters
 sigir
 trecvid
 askjeeves
 trecs
+reuters
 nist
 trec
 sgml
 csiro
 ntcir
+new york times

@@ -1,7 +1,7 @@
 clueweb
 terrier
-blog06
-blog06
 bm25
+blog06
 comsum
 trec
+blog06

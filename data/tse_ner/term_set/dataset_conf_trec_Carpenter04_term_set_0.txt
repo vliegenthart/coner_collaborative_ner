@@ -1,6 +1,6 @@
 indoeuropeantokenizer
-trec-style
 defaultsimilarity
+trec-style
 lingpipe
 booleanquery
 intact

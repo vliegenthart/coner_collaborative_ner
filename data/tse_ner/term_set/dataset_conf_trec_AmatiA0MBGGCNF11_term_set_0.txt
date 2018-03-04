@@ -1,9 +1,9 @@
-blog06
-html
+zipfian
 klim
+html
+blog06
 hmtl
 json
+blog06
 dfreeklimzipf
 trec
-zipfian
-blog06

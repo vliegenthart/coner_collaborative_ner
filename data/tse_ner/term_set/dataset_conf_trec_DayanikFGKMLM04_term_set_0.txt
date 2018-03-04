@@ -1,9 +1,8 @@
-gaussian
 parsetofile
 locuslink
-genbank
 refseq
-gene ontology
+gaussian
+genbank
 smart
 locuslink
 dimacs
@@ -11,4 +10,5 @@ locuslink
 medline
 trec
 laplace
+gene ontology
 pubmed

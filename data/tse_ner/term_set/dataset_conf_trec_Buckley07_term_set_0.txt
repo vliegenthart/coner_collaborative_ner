@@ -1,8 +1,8 @@
+trec-2007
+legal
+est-rb
 smart
 trec
 sabir
 mapjudged
 boolean
-legal
-trec-2007
-est-rb

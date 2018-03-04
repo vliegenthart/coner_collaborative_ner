@@ -1,5 +1,5 @@
-chatnoir
 wikipedia
+chatnoir
 trec
 rgu-isti-essex
 clueweb

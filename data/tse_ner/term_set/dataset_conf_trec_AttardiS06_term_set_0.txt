@@ -1,12 +1,12 @@
-movabletype
+blog06
 technorati
+movabletype
 opinionated
+technorati
 feedcreator
 wordpress
-technorati
-blog06
-trec
 sentiwordnet
+trec
+blog06
 userland
 livejournal
-blog06

@@ -1,10 +1,10 @@
+trec
+drugbank
+umls
+ucid
 prominer
 smiles
 iupac
 entrezgene
 uniprot
 scaiview
-trec
-drugbank
-ucid
-umls

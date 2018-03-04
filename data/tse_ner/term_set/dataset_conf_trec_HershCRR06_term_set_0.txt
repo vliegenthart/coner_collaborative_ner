@@ -1,13 +1,13 @@
-medline
+umls
+genbank
 greek
 ascii
 nm23
 highwire
+medline
 trec
 pmid
 huntingtin
 excel
 wikipedia
 pubmed
-genbank
-umls

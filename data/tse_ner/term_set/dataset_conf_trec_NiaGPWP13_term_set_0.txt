@@ -1,11 +1,11 @@
+streamitem
 awardswon
-placetime
 lingpipe
 streamitems
+placetime
 opennlp
 founderof
 dateofdeath
 wikipedia
-streamitem
 github
 tac kbp

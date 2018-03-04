@@ -1,5 +1,5 @@
+bm25
 tika
 mscore
-bm25
 textcat
 trec

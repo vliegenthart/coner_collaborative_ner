@@ -1,8 +1,8 @@
 drugbank
-pubmed
+umls
 trec
 trecchem
 iupac
 umls
-umls
+pubmed
 metamap

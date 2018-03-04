@@ -1,6 +1,6 @@
 dirichlet
-combmnz
 lemur
+combmnz
 terabyte06
 trec
 gov2

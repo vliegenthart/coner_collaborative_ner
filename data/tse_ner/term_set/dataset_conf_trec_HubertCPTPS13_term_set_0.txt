@@ -1,6 +1,6 @@
-trec
-euclidian
-places
 terrier
 geonames
 lucene
+trec
+euclidian
+places

@@ -1,10 +1,10 @@
-dbpedia
-purdue
 billion triple challenge
+dbpedia
 lbj-based
 clueweb
 uamsterdam
 pittsis
+purdue
 hpi-group
 bm25
 nict

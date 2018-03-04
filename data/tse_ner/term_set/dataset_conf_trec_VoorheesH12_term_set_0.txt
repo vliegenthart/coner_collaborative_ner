@@ -1,5 +1,5 @@
 umls
-umls
 trec
+umls
 pitt
 metamap

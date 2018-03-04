@@ -1,5 +1,5 @@
-porterstemfilter
+lucene
 stopanalyzer
+porterstemfilter
 names
 standardanalyzer
-lucene

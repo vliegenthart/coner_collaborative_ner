@@ -1,6 +1,6 @@
 drupal
-smart
 postscript
+smart
 anova
 trec
 umass

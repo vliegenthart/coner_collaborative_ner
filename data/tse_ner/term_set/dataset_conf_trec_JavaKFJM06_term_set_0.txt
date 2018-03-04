@@ -1,5 +1,5 @@
+trec
 blogvox
 svmbased
-trec
-nist
 lucene
+nist

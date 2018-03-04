@@ -1,10 +1,10 @@
-trec
-yahoo
-microsoft
-altavista
-dataset
-wt2g
 functional
+wt2g
+wt2g
 rerankadv
 discovery
-wt2g
+trec
+microsoft
+yahoo
+altavista
+dataset

@@ -1,5 +1,5 @@
-uiucconj
 dirichlet
+uiucconj
 kl-divergence
 uiucsyn
 uiucrelfb

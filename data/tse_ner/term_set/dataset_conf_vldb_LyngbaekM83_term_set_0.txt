@@ -1,3 +1,13 @@
+doom
+ethernet
+smith
+detach
+define
+delete
+pfint
+isobject
+dodm
+export
 relate
 objects
 payroll
@@ -10,13 +20,3 @@ create
 relationships
 andler
 print
-delete
-doom
-ethernet
-smith
-detach
-define
-pfint
-isobject
-dodm
-export

@@ -1,6 +1,6 @@
-dblp
 uiqryform
-lbj-based
 indriquery
+lbj-based
 wordnet
 trec
+dblp

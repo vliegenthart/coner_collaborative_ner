@@ -1,6 +1,6 @@
-medline
 lucene
 bioai
+medline
 trec
 medline
 pmid

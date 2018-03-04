@@ -1,8 +1,8 @@
-redde
 fedweb
-dirichlet
-sentiwordnet
-bm25
 trec
+redde
+dirichlet
+bm25
+sentiwordnet
 combsum
 fedweb

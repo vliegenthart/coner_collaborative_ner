@@ -1,6 +1,6 @@
-wikipedia
-indri
 percent
 streamitem
 vital
 streamitems
+indri
+wikipedia

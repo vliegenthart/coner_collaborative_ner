@@ -1,7 +1,7 @@
-trec
 sql-based
-assumption
 assumptions
+assumption
 bm25
 hyspirit
 sql-like
+trec

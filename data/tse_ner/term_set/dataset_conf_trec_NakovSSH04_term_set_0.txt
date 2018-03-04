@@ -1,7 +1,7 @@
-union
-locuslink
-trec
-gene ontology
 biotext
+union
+trec
+locuslink
 pubmed
+gene ontology
 locuslink

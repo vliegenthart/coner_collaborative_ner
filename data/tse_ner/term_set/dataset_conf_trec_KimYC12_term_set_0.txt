@@ -1,6 +1,6 @@
+carter
 twitter
 dirichlet
 bm25
-carter
-trec
 cleantweet
+trec

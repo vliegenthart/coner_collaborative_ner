@@ -1,6 +1,6 @@
+liawc
 liacwb
 dbpedia
 liawb
-liawc
 laplace
 uris

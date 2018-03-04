@@ -1,6 +1,6 @@
+trec
 aquaint
 propbank
 verbnet
-trec
 framenet
 youtube

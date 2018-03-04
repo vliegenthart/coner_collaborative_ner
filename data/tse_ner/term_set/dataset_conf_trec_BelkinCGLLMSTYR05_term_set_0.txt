@@ -1,7 +1,7 @@
-rutin
-rutgall
-rutgbl
-rutbe
+bm25
 inquery
 queryclarity
-bm25
+rutgall
+rutin
+rutgbl
+rutbe

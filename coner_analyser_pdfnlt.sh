@@ -9,6 +9,7 @@
 # Balance papers that are used equally from all 10 journals before taking top!!!
 # NOTE: Have to manually change pdf loading directory to match database
 # Make PDFNLT pdfanalyzer/pdf directory database dependent and ALL scripts calling that directory
+# Also add a normalizaion step to calculation top papers #occurrences for method AND dataset: Normalize on number pages, so get density of occs per page
 
 
 # ############## #
@@ -227,7 +228,7 @@ then
 
   echo "Analysing term occurances in papers and enriching XHTMLs..."
 
-  cp -R "data/${database}/${facet}_papers_terms_overview.csv" "data/${database}/OLD_${facet}_papers_terms_overview.csv"
+  # cp -R "data/${database}/${facet}_papers_terms_overview.csv" "data/${database}/OLD_${facet}_papers_terms_overview.csv"
   rm -f "data/${database}/${facet}_papers_terms_overview.csv"
   touch "data/${database}/${facet}_papers_terms_overview.csv"
   echo "paper_id,number_terms" >> "data/${database}/${facet}_papers_terms_overview.csv"
@@ -261,7 +262,7 @@ fi
 
 echo "Calculating top papers..."
 
-# python calculate_top_papers.py $database $facet $number_top_papers
+python calculate_top_papers.py $database $facet $number_top_papers
 
 # TODO
 # [DONE] TEST FORCE AND ENRICH FLAGS

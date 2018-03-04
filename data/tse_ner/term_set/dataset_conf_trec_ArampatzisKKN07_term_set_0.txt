@@ -1,9 +1,9 @@
-lucene
-combsum
 requestedtext
-boollucenetrans
-textonly
-boolean
 legal
-booltermswildcardexp
 finalquery
+combsum
+textonly
+boollucenetrans
+boolean
+lucene
+booltermswildcardexp

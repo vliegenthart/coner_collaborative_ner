@@ -1,4 +1,4 @@
-bm11
 trec
 polysemy
 wordnet
+bm11

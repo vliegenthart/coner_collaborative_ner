@@ -1,6 +1,6 @@
-trec
-okapi
 multitext
-genomics
 bm25
 nameofsubstance
+trec
+okapi
+genomics

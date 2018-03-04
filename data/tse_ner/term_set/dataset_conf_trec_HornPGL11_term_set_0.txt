@@ -1,6 +1,6 @@
+lucene
 tweets
 ascii
-lucene
+github
 twitter
 levenshtein
-github

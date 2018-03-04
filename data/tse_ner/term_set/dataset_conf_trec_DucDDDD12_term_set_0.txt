@@ -1,6 +1,6 @@
-track
 terrier
-jaiku
-langdetect
 lucene
 twitter
+track
+jaiku
+langdetect

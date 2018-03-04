@@ -1,8 +1,8 @@
+klefeed
 kleclusprior
-klecluster
 klefeedprior
+klecluster
 dirichlet
 diffpost
-klefeed
-blog08
 blogs08
+blog08

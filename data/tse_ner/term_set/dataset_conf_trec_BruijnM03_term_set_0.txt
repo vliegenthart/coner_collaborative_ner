@@ -1,10 +1,10 @@
+litminer
 generif
 mysql
 generifs
-locuslink
 medline
-litminer
-gene ontology
+trec
 trec-genomics
 locuslink
-trec
+gene ontology
+locuslink

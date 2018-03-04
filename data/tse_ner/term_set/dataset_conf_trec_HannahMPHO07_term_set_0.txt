@@ -1,7 +1,7 @@
 trec
-poisson
-pl2f
-dfr-based
 opinionfinder
+dfr-based
 blogs06
 binomial
+poisson
+pl2f

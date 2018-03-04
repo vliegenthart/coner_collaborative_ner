@@ -1,6 +1,6 @@
-limsi
-fudan
-clips
 mediateam
+limsi
+clips
 trec
 asr-data
+fudan

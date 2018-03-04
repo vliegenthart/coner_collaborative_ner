@@ -1,10 +1,10 @@
+umls metathesaurus (
+metamap
+assigning
+umls
+umls metathesaurus
+trec
 metamap-2010
 umls
 rmit
 dbpedia
-umls metathesaurus (
-assigning
-metamap
-umls metathesaurus
-trec
-umls

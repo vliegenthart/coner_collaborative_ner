@@ -1,5 +1,5 @@
 umass
 terrier
 bm25
-trec
 mapreduce
+trec

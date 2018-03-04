@@ -1,9 +1,9 @@
-semrep
+umls
 ncbi
+semrep
 mutations
 trec
 metamap
 medpost
 essie
 pubmed
-umls

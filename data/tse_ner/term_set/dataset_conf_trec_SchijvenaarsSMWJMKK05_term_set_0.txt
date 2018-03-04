@@ -1,9 +1,9 @@
-ccvpos
 locuslink
+ccvpos
 collexis
 umls
-gene ontology
 mesh
 trec
 ccvneg
 umls
+gene ontology

@@ -1,9 +1,9 @@
 medtagger
-semrep
+umls
 lucene
 hmktb
-umls
 medlineplus
+semrep
 mdrub
 trec
 mdrun

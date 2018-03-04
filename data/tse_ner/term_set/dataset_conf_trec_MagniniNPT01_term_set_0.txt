@@ -1,4 +1,4 @@
 multiwordnet
-trec-10
 itc-irst
+trec-10
 wordnet

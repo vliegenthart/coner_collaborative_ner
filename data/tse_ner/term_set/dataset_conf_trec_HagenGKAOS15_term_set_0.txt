@@ -1,5 +1,5 @@
-chatnoir
-netspeak
-google
 bm25
+netspeak
+chatnoir
+google
 wikipedia

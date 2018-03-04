@@ -1,9 +1,9 @@
-docno
 contains
+docno
 props
-unicode
 subroot
 title
 searchserver
 select
+unicode
 arab01

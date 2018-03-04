@@ -1,12 +1,12 @@
+locuslink
+roman
 biologists
 generif
 trec-supplied
-locuslink
 generifs
-locuslink
-roman
-disease
 swissprot
+disease
 trec
 trec-like
 medline
+locuslink

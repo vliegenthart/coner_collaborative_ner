@@ -1,8 +1,8 @@
-trec
+umls
 ascii
 smart
 abgene
-umls
+trec
 umls
 essie
 metamap

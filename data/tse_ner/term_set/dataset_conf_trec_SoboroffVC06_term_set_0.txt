@@ -1,9 +1,9 @@
 pagerank
-dalian
 wordnet
 maptrelcret
 etrec
 uvabase
+dalian
 dirichlet
 bm25
 uvaprofiling

@@ -1,4 +1,4 @@
-wordnet
 bm25
-google
+wordnet
 newbee
+google

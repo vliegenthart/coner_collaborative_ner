@@ -1,5 +1,5 @@
+framenet
 wordnet
 minipar
 wikipedia
 lemur
-framenet

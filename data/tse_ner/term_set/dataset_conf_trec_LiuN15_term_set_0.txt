@@ -1,5 +1,5 @@
-metamap
 jats
 dirichlet
-bm25
 umls
+bm25
+metamap

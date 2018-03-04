@@ -1,6 +1,6 @@
 smart
-fbis
+bm25
 terabyte
 trec
-bm25
 aquaint
+fbis

@@ -1,7 +1,7 @@
+umls
 subtype
 bm25
-umls
 trecmed
+umls
 ntcir
 metamap
-umls

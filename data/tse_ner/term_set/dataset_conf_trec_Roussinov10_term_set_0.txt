@@ -1,5 +1,5 @@
 votingmodel
-new york times
+postech
 bm25
 trec
-postech
+new york times

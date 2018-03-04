@@ -1,12 +1,12 @@
+locuslink
+mesh
 biotext
-trec
 entrezgene
 lucene
 locuslink
 google
+trec
 biotextweb
 uniprot
 pubmed
 anded
-mesh
-locuslink

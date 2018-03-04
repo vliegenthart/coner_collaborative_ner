@@ -1,8 +1,8 @@
 context
-lucene
 umls
-erasmusmc
+lucene
 opennlp
 nsaids
 wikipedia
 umls
+erasmusmc

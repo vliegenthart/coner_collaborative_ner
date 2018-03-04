@@ -1,8 +1,8 @@
-reuters
-trec
-aquaint
 zetnpancfuzz
+reuters
+aquaint
 okapi
+trec
 zetnpanc
 zettair
 rmit

@@ -1,7 +1,7 @@
-muchmore
-bionlp
-umls
 umls-sourced
+muchmore
+umls
 mice
+bionlp
 umls
 gene ontology

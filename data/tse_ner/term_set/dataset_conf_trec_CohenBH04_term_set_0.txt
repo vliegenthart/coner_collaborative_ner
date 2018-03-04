@@ -1,8 +1,8 @@
 ohsuneeds
-medline
 jakarta
 lucene
 jaccard
+medline
 dice
 pubmed
 gene ontology

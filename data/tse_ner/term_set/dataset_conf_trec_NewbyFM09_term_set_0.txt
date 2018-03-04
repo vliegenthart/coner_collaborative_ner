@@ -1,7 +1,7 @@
-tokenstream
 ngramfilter
-gigaword
+tokenstream
 clueweb
 gowordfilter
 trec
 multisearch
+gigaword

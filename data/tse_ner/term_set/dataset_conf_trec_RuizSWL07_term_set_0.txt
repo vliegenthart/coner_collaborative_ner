@@ -1,8 +1,8 @@
-metamap
 biothesaurus
-biotagger
 matchedbigrams
+biotagger
 antibodies
+umls
 matchedunigrams
 umls
-umls
+metamap

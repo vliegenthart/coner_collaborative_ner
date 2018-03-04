@@ -1,7 +1,7 @@
-sports
-new york times
-world
 diffpost
+sports
+world
 trec
 blogs08
 trc2
+new york times

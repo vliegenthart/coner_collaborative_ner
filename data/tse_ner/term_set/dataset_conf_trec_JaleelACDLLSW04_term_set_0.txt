@@ -1,5 +1,5 @@
-new york times
+tfidf
 dirichlet
 trec
 umassmerge
-tfidf
+new york times

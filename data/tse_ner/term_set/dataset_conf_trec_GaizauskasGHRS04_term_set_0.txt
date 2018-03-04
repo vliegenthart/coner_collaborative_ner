@@ -1,5 +1,5 @@
 unknown
 target
-trec
 wordnet
+trec
 madcow

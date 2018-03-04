@@ -2,5 +2,5 @@ mckeown
 uwbaseterms
 bm25
 trec
-doclen
 uwbasephrase
+doclen

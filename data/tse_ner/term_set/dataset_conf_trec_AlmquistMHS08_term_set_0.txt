@@ -1,9 +1,9 @@
-boolean
+requesttext
 smart
 wordnet
-requesttext
 trec
 combsum
+boolean
 gov2
 okapi
 tfidf

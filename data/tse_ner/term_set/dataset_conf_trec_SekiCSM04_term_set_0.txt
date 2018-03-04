@@ -1,11 +1,11 @@
-tfidf
 abstracttext
 locuslink
 refseq
-qualifiername
-descriptorname
 context
+tfidf
+qualifiername
 tfchi
 perl
+descriptorname
 sgml
 pubmed

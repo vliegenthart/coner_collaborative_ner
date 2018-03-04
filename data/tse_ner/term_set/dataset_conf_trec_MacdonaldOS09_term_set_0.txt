@@ -1,10 +1,10 @@
 technorati
-new york times
 blogs06
-technorati
 postech
 bm25
 nist
 feup
 blogs08
 ictnet
+new york times
+technorati

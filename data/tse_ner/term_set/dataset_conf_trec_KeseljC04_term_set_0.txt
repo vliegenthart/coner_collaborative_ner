@@ -1,8 +1,8 @@
 dalhousie
+aquaint
+multitext
+dal04x
 trec
 trec-related
 prise
 daltrec
-aquaint
-multitext
-dal04x

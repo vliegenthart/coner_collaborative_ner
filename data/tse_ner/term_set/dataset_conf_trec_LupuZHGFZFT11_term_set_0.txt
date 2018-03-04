@@ -2,6 +2,6 @@ uspto
 dna-based
 image-to-structure
 umls
-smiles
 umls
+smiles
 wipo

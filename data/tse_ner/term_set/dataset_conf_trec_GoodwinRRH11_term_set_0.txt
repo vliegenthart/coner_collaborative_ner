@@ -1,9 +1,8 @@
 lucene
-lingscope
-emrs
+umls
 wordnet
 metathesaurus
-umls
+emrs
 snomed
 opennlp
 umls
@@ -11,3 +10,4 @@ wikipedia
 negex
 umls metathesaurus to
 pubmed
+lingscope

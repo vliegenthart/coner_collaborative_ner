@@ -1,5 +1,5 @@
-clir
 combmnz
-arabic
+clir
 bm25
+arabic
 aire

@@ -1,10 +1,10 @@
+captionsem
 umls metathesaurus and
-abstract
 caption10
+abstract
+umls
 metathesaurus
 mesh30
-captionsem
 abstract30
-umls
 umls
 gene ontology

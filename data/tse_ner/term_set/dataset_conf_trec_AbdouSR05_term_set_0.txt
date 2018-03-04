@@ -1,6 +1,6 @@
-porter
-gene ontology
 mesh
+porter
 smart
 rocchio
 okapi
+gene ontology

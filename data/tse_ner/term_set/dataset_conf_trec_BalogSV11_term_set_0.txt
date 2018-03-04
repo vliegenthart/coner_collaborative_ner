@@ -1,11 +1,11 @@
-clueweb
-sindice-2011
 sindice
 billion triple challenge
-uris
+clueweb
+sindice-2011
 dbpedia
 sindice
 trec
 ualr
+uris
 ndcg
 pris

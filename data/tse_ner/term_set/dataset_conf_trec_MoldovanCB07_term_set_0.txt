@@ -1,10 +1,10 @@
 trecs
 aquaint
-blog06
-wikipedia
-wordnet
 lymba
+blog06
+wordnet
 cogex
 other
 poweranswer
+wikipedia
 trec

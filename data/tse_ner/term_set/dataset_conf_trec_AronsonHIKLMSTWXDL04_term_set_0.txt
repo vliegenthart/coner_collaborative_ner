@@ -6,7 +6,7 @@ context
 medline
 trec
 metamap
+gene ontology
 poisson
 pubmed
 adaboost
-gene ontology

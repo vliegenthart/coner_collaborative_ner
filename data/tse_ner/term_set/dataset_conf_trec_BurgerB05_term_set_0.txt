@@ -1,4 +1,4 @@
-qanda
 trec
 idf-weighted
 wordnet
+qanda

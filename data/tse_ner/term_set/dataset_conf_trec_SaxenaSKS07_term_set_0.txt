@@ -1,8 +1,8 @@
-lucene
 aquaint
+money
+prius
+lucene
 jobtitle
 wordnet
 wikipedia
 trec
-money
-prius

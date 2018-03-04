@@ -1,7 +1,7 @@
-rxnorm
+lucene
+mesh
+umls
 pico
+rxnorm
 umls
 metamap
-mesh
-lucene
-umls

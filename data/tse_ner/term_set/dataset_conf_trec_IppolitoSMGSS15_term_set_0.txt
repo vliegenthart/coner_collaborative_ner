@@ -1,10 +1,10 @@
-lucene
 frameboostedquery
 metamap
+lucene
+umls
 trec
 scda
 metaboostedquery
-umls
 umls
 pubmed
 framing

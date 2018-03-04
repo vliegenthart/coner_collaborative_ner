@@ -1,5 +1,5 @@
-rutgers
 bm25
+askjeeves
+rutgers
 brainboost
 trec
-askjeeves

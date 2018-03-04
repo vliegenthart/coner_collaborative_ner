@@ -1,6 +1,6 @@
-trec
-wordnet
-oracle
-cindor
 context
 smart
+wordnet
+trec
+oracle
+cindor

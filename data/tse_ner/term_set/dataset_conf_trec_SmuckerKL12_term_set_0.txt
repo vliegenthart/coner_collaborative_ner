@@ -1,8 +1,8 @@
-imageclef
-irat
 nist
+trat
+irat
+imageclef
 setuserv
 trec
-trat
-imageclef
 fbis
+imageclef

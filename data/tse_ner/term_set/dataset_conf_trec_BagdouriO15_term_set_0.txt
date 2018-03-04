@@ -1,11 +1,11 @@
-jaccard
+porter
+liveqa
+github
 vowpalwabbit
 twitter
-liveqa
 crowdflower
 bm25
+jaccard
 trec
 magdy
 shtok
-porter
-github

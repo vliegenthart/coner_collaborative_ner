@@ -1,6 +1,6 @@
+fedweb
+febweb
 seif
 wordnet
 seifscore
 trec
-febweb
-fedweb

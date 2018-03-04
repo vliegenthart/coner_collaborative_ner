@@ -1,5 +1,5 @@
+qactis
 wordnet
 trec
-qactis
-aquaint
 nil-tagger
+aquaint

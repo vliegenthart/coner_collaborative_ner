@@ -1,5 +1,5 @@
+wordnet
 clueweb
 clueweb
 freebase
-wordnet
 wikipedia

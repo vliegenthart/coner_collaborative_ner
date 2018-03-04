@@ -1,6 +1,6 @@
 cicerolite
-propbank
 cicerolite
+propbank
 framenetbased
 collins
 trec

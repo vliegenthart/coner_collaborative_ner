@@ -1,5 +1,5 @@
-trec-like
-berkeley
-zprise
 trec
+berkeley
+trec-like
+zprise
 boolean

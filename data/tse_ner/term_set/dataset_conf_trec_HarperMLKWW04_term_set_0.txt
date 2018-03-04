@@ -1,7 +1,7 @@
-kldiscrimination
-bm25
 lemur
-trec
+bm25
 kldiscriminative
+trec
 okapi
 run10
+kldiscrimination

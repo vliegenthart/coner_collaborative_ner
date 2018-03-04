@@ -1,5 +1,5 @@
 rejoinderbyplaintiff
-proposalbydefendant
 cdip
-dfree
 trec
+dfree
+proposalbydefendant

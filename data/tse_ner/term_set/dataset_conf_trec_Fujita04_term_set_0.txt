@@ -1,7 +1,7 @@
+locuslink
+locuslink
 inquery
-locuslink
-loocv
 dirichlet
+loocv
 lemur
-locuslink
 trec

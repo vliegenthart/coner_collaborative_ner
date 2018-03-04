@@ -1,7 +1,7 @@
 csirodsqonly
-csiro
-csiroesqonly
-ndcg
 padre
 csiroesqpage
 enterprise
+csiro
+csiroesqonly
+ndcg

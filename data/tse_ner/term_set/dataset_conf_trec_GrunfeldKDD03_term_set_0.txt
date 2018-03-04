@@ -1,7 +1,7 @@
 federal
 northwest
-snake
 trec2003
+snake
 oregon
 columbia
 wordnet

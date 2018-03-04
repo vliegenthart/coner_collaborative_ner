@@ -1,9 +1,9 @@
-wordnet
 aquaint
+trecs
+wordnet
 perl
 britannica
 trec
 murax
 madcow
 okapi
-trecs

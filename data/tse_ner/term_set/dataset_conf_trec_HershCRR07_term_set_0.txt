@@ -1,13 +1,13 @@
-nlmfusion
 openoffice
+umls
 imageclef
 perl
 trec
 pmids
+nlmfusion
 pmid
 highwire
 fifty
+gene ontology
 pubmed
 imageclef
-umls
-gene ontology
