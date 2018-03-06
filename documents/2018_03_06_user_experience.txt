@@ -7,6 +7,11 @@
 
 
 Total papers feedback one:
-conf_trec_BalogSV10 - 2
-conf_trec_BellotCEGL02 - 2
-conf_trec_LoseySR15 - 2
+conf_trec_BalogSV10 - 4
+conf_trec_BellotCEGL02 - 3
+conf_trec_LoseySR15 - 3
+
+
+
+Evalution Graphs:
+Inter user agreement % on irrelevant and relevant
