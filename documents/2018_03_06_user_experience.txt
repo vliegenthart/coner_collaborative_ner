@@ -1,0 +1,12 @@
+- Victor Suarez-Paniagua, NLP PHD Researcher
+- Explain better what it is: papers, with extracted entities annotated, what is a method or dataset category?
+- Dont have to rate very one, dont have to go through pages, up to you, only rate if you're sure its relevant or not
+- Color indicates the category: 
+- Improve UI: close feedback when clicking somewhere else, remove annotation or indicate already graded
+- Improve UI: update dropdown
+
+
+Total papers feedback one:
+conf_trec_BalogSV10 - 2
+conf_trec_BellotCEGL02 - 2
+conf_trec_LoseySR15 - 2
