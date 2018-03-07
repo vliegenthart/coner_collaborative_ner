@@ -1,0 +1,34 @@
+RELEVANT BY PMI:
+vector space model
+question ordering problem
+
+CONER TRUE POSITIVES:
+conf_trec_bellotcegl02,named entity recognition,3,3/3,1.0
+conf_trec_bellotcegl02,vector space model,3,3/3,1.0
+conf_trec_bellotcegl02,question taggings have,3,3/3,1.0
+conf_trec_bellotcegl02,regular expression,3,3/3,1.0
+conf_trec_bellotcegl02,ztrm,1,1/1,1.0
+conf_trec_bellotcegl02,coupling siac and,2,2/2,1.0
+conf_trec_bellotcegl02,question analysis,3,2/3,0.67
+conf_trec_bellotcegl02,question ordering problem,3,2/3,0.67
+conf_trec_bellotcegl02,expected answer types,3,2/3,0.67
+
+FALSE POSITIVES IN SET:
+
+PMI FP RATE: 
+0/2
+0.0
+
+FALSE NEGATIVES:
+named entity recognition
+question taggings have
+regular expression
+ztrm
+coupling siac and
+question analysis
+expected answer types
+
+PMI FN RATE:
+7/21
+33.3
+

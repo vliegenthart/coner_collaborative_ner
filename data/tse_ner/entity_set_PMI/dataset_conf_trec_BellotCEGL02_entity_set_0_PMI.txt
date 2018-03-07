@@ -1,0 +1,40 @@
+RELEVANT BY PMI:
+trec-10 X
+inventor
+trec-11 X
+season
+biography
+mountain
+company
+continent
+siac X
+county
+
+
+CONER TRUE POSITIVES:
+conf_trec_bellotcegl02,siac,3,3/3,1.0
+conf_trec_bellotcegl02,trec-11,3,2/3,0.67
+conf_trec_bellotcegl02,currency,3,2/3,0.67
+conf_trec_bellotcegl02,trec-10,3,2/3,0.67
+
+FALSE POSITIVES IN SET:
+inventor
+season
+biography
+mountain
+company
+continent
+county
+
+PMI FP RATE: 
+7/11
+63.6%
+
+FALSE NEGATIVES:
+currency 
+
+PMI FN RATE:
+1/27
+3.7%
+
+

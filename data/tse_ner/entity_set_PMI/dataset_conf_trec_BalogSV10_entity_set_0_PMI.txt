@@ -1,0 +1,50 @@
+RELEVANT BY PMI:
+dbpedia
+uris
+pris
+ictnet
+hpi-system
+uamsterdam
+lbj-based
+bm25
+wikipedia
+clueweb
+
+CONER TRUE POSITIVES:
+conf_trec_balogsv10,clueweb,4,4/4,1.0
+conf_trec_balogsv10,wikipedia,4,4/4,1.0
+conf_trec_balogsv10,dbpedia,4,4/4,1.0
+conf_trec_balogsv10,billion triple challenge,4,4/4,1.0
+
+FALSE POSITIVES IN SET:
+uris
+pris
+ictnet
+hpi-system
+uamsterdam
+lbj-based
+bm25
+
+PMI FP RATE: 
+7/10
+70.0%
+
+FALSE NEGATIVES:
+billion triple challenge
+
+PMI FN RATE:
+1/16
+6.3%
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+RELEVANT BY PMI:
+uapv
+semantic web crawl;
+semantic web crawl
+
+CONER TRUE POSITIVES:
+conf_trec_balogsv10,realnames,4,4/4,1.0
+conf_trec_balogsv10,uiuc,2,2/2,1.0
+conf_trec_balogsv10,entity finding related,2,2/2,1.0
+conf_trec_balogsv10,linked open data,4,3/4,0.75
+conf_trec_balogsv10,semantic web crawl,4,3/4,0.75
+conf_trec_balogsv10,uapv,4,3/4,0.75
+conf_trec_balogsv10,uamsterdam,4,3/4,0.75
+conf_trec_balogsv10,semantic web graph,3,2/3,0.67
+
+FALSE POSITIVES IN SET:
+semantic web crawl;
+
+PMI FP RATE: 
+1/3
+33.3
+
+FALSE NEGATIVES:
+billion triple challenge
+
+PMI FN RATE:
+6/18
+33.3
+

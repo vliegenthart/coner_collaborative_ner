@@ -1,11 +1,2 @@
-# ner_ifl_pipeline
-Describes pipeline as shown in [presentation](https://docs.google.com/presentation/d/1TJ_-QLZ2HC0WtJYJeiLrNJBgA_3UfSGT5ES2Ua1A0BI/edit#slide=id.g35f391192_00).
-
-Assumes following GitHub Repositories are present in parent folder:
-- [named_entity_recognizer](https://github.com/vliegenthart/PDFNLT)
-- [PDFNLT](https://github.com/vliegenthart/named_entity_recognizer)
-
-
-# DANIEL ADD RELEASE INFO YO
-# DANIEL ADD REQUIREMENTS YO
-
+# Coner: A Collaborative Approach for Long-Tail Named Entity Recognition inScientific Publications
+Named Entity Recognition (NER) for rare long-tail entities as e.g., often found in domain-specific scientific publications is a challenging task, as typically the extensive training data and test data for fine-tuning NER algorithms is lacking. Recent approaches presented promising solutions relying on training NER algorithms in a distantly-supervised fashion, thus limiting human interaction to only providing a small set of seed terms. However, such approaches rely on often failing heuristics, thus limiting their performance. In this paper, we therefore introduce an collaborative approach which incrementally incorporates human feedback on the relevance of extracted entities into the training cycle, therefore allowing to still train new long-tail NER extractors cheaply, but with ever increasing performance while the data is actively used. We show that with only user interaction, F-Scores and precision and recall can be increased compared to the automatic baseline approach.

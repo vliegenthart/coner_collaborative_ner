@@ -1,0 +1,24 @@
+
+0 ['user_1', '12:38:25', '12:43:38']
+1 ['user_2', '11:02:52', '11:09:34']
+2 ['user_3', '04:54:41', '05:14:19']
+3 ['user_4', '05:35:37', '05:46:14']
+4 ['user_5', '07:18:18', '07:30:55']
+5 ['user_6', '07:43:04', '07:46:25']
+6 ['user_7', '10:32:24', '10:36:15']
+7 ['user_8', '11:59:51', '12:06:54']
+8 ['user_9', '12:50:44', '12:53:58']
+9 ['user_10', '13:10:45', '13:18:03']
+0:07:57.400000
+dataset
+['conf_trec_balogsv10', 93.8]
+['conf_trec_balogsv10', 100.0]
+['conf_trec_balogsv10', 100.0]
+['conf_trec_balogsv10', 100.0]
+['conf_trec_bellotcegl02', 21.4]
+['conf_trec_bellotcegl02', 25.0]
+['conf_trec_bellotcegl02', 96.4]
+['conf_trec_loseysr15', 100.0]
+['conf_trec_loseysr15', 100.0]
+['conf_trec_loseysr15', 100.0]
+Total percentage of entities with feedback: 83.66

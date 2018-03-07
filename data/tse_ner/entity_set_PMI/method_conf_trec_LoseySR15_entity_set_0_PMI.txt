@@ -1,0 +1,41 @@
+RELEVANT BY PMI:
+recall track topics
+hybrid multimodal method
+total recall track
+random baseline sample
+
+
+CONER TRUE POSITIVES:
+conf_trec_loseysr15,hybrid multimodal method,3,3/3,1.0
+conf_trec_loseysr15,recall track topics,3,3/3,1.0
+conf_trec_loseysr15,similarity search,3,3/3,1.0
+conf_trec_loseysr15,random baseline,3,3/3,1.0
+conf_trec_loseysr15,total recall was,2,2/2,1.0
+conf_trec_loseysr15,trec total recall,2,2/2,1.0
+conf_trec_loseysr15,random sample of,2,2/2,1.0
+conf_trec_loseysr15,random baseline sample,1,1/1,1.0
+conf_trec_loseysr15,total recall track,3,2/3,0.67
+conf_trec_loseysr15,reasonable recall call,3,2/3,0.67
+
+FALSE POSITIVES IN SET:
+
+PMI FP RATE: 
+0/4
+0.0
+
+FALSE NEGATIVES:
+similarity search
+random baseline
+total recall was
+trec total recall
+random sample of
+reasonable recall call
+
+PMI FN RATE:
+6/29
+20.7
+
+
+TOTAL FP AND FN:
+FP: 0 + 0 + 33.3 = 11.1
+FN: 20.7 + 33.3 + 33.3 = 29.1

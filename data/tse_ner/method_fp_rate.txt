@@ -1,0 +1,92 @@
+conf_trec_balogsv10
+1.0 True
+1.0 True
+1.0 True
+0.75 True
+0.75 True
+0.75 True
+0.75 True
+0.67 True
+0.5 True
+0.5 True
+0.5 True
+0.25 False
+0.25 False
+0.25 False
+0.25 False
+0.0 False
+0.0 False
+0.0 False
+conf_trec_bellotcegl02
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+0.67 True
+0.67 True
+0.67 True
+0.5 True
+0.5 True
+0.33 False
+0.33 False
+0.33 False
+0.33 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+conf_trec_loseysr15
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+1.0 True
+0.67 True
+0.67 True
+0.5 True
+0.33 False
+0.33 False
+0.33 False
+0.33 False
+0.33 False
+0.33 False
+0.33 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+0.0 False
+conf_trec_balogsv10 0.6111111111111112
+conf_trec_bellotcegl02 0.5238095238095238
+conf_trec_loseysr15 0.3793103448275862
+method
+{'conf_trec_balogsv10': [11, 18], 'conf_trec_bellotcegl02': [11, 21], 'conf_trec_loseysr15': [11, 29]}
+
+FINAL RESULT
+method
+{'conf_trec_balogsv10': [8, 18], 'conf_trec_bellotcegl02': [9, 21], 'conf_trec_loseysr15': [10, 29]}
+conf_trec_balogsv10  FP rate: 55.56
+conf_trec_bellotcegl02  FP rate: 57.14
+conf_trec_loseysr15  FP rate: 65.52
+method TP rate: 40.59
+method FP rate: 59.41
+
+
+
+
+
+
+
