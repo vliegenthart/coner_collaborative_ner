@@ -1,7 +1,14 @@
-data/pdf/
+# Custom Gitignore 
+
 data/paper.model
 paper.model
-data/tse_ner/.DS_Store
+data/*/.DS_Store
+**/pdf/
+data/pdf/
+data/*/pdf/
+**/*.png
+**/*.xhtml
+data/**/text/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
