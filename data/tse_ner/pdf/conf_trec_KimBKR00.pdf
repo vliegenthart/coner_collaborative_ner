@@ -1,609 +1,0 @@
-%PDF-1.2 
-%גדֿ׃
- 
-10 0 obj
-<<
-/Length 11 0 R
->>
-stream
-BT305.25 672.75  TD0 0 0 rg /F0 13.5  Tf0  Tc -0.003  Tw ( ) Tj0 -18.75  TD ( ) TjT* ( ) Tj-63.75 -18.75  TD -0.2218  Tc 0.2188  Tw (Question Answering ) Tj134.25 0  TD 0  Tc -0.003  Tw ( ) Tj-261 -18.75  TD -0.244  Tc 0.0535  Tw (Considering Semantic Categories and Co) Tj255.75 0  TD 0.0045  Tc 0  Tw (-) Tj4.5 0  TD -0.2671  Tc 0.2641  Tw (occurrence Density) Tj120.75 0  TD 0  Tc -0.003  Tw ( ) Tj-190.5 -18.75  TD /F1 13.5  Tf( ) Tj0 -18  TD ( ) Tj-120.75 -15  TD /F1 9  Tf-0.337  Tc 0  Tw (Soo) Tj15.75 0  TD 0.003  Tc (-) Tj3 0  TD -0.1755  Tc -0.0765  Tw (Min Kim, Dae) Tj51 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.2755  Tc 0.0235  Tw (Ho Baek, Sang) Tj57.75 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.0922  Tc -0.1598  Tw (Beom Kim, Hae) Tj60.75 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.0634  Tc -0.1886  Tw (Chang Rim) Tj44.25 0  TD 0  Tc -0.252  Tw ( ) Tj-239.25 -12  TD -0.1604  Tc -0.1988  Tw (Dept. of Computer Science and Engineering, Korea University) Tj236.25 0  TD 0  Tc -0.252  Tw ( ) Tj-200.25 -13.5  TD -0.0751  Tc 0  Tw ({smkim,daeho,sbkim,rim}@nlp.korea.ac.kr) Tj165 0  TD 0  Tc -0.252  Tw ( ) Tj-82.5 -13.5  TD ( ) Tj3.75 0  TD ( ) Tj-21 -14.25  TD /F0 9  Tf-0.3442  Tc 0  Tw (Abstract) Tj34.5 0  TD 0  Tc -0.252  Tw ( ) Tj-216.75 -13.5  TD /F1 9  Tf0.04  Tc -0.292  Tw (In this) Tj24.75 0  TD 0.1731  Tc 0.0364  Tw ( paper, we present a Question Answering system called KUQA \(Korea University Question ) Tj-24.75 -12.75  TD 0.1399  Tc 4.1081  Tw (Answering system\)) Tj0  Tc -0.252  Tw ( ) Tj90 0  TD 0.2193  Tc 0  Tw (developed) Tj42.75 0  TD 0.2648  Tc 3.6082  Tw ( by using semantic categories and co) Tj177.75 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.179  Tc 4.069  Tw (occurrence density.) Tj0  Tc -0.252  Tw ( ) Tj-313.5 -14.25  TD 0.1538  Tc 0.4067  Tw (Semantic categories are used for computing the semantic similarity between a question ) Tj369.75 0  TD 0.246  Tc 0.252  Tw (and an ) Tj-369.75 -13.5  TD 0.2688  Tc 1.3542  Tw (answer, and co) Tj66.75 0  TD 0.003  Tc 0  Tw (-) Tj2.25 0  TD 0.2167  Tc 1.2044  Tw (occurrence density is used for measuring the proximity of the answer to the ) Tj-69 -13.5  TD 0.2431  Tc 1.0049  Tw (words of the question. KUQA is developed based on the hypothesis ) Tj300 0  TD 0.2346  Tc 0.8634  Tw (that the words that are ) Tj-300 -13.5  TD 0.1366  Tc 0.4296  Tw (semantically similar to the question and locally close to the words a) Tj282.75 0  TD 0.1714  Tc 0.6266  Tw (ppeared in the question are ) Tj-282.75 -12.75  TD -0.1081  Tc -0.3582  Tw (likely to be the answer to the question.) Tj146.25 0  TD 0  Tc -0.252  Tw ( ) Tj-146.25 -13.5  TD ( ) Tj0 -15.75  TD /F0 10.5  Tf-0.1252  Tc 2.2063  Tw (1.   Introduction) Tj84 0  TD 0  Tc 0.081  Tw ( ) Tj28.5 0  TD ( ) Tj-112.5 -13.5  TD /F1 9  Tf-0.252  Tw ( ) Tj0 -13.5  TD 0.1931  Tc -0.3201  Tw (Question Answering \(QA\) is defined to find the exact answer to the user) Tj294.75 0  TD 0  Tc 0  Tw (\222) Tj3.75 0  TD 0.2719  Tc -0.6489  Tw (s question in a large text ) Tj-298.5 -12.75  TD 0.2214  Tc -0.2006  Tw (collection. In other words, the answer is not the whole document th) Tj278.25 0  TD 0.2383  Tc -0.3653  Tw (at is relevant to the question, ) Tj-278.25 -13.5  TD 0.2011  Tc -0.0031  Tw (but the parts of the document that can meet the users) Tj224.25 0  TD 0  Tc 0  Tw (\222) Tj3.75 0  TD 0.2327  Tc -0.2035  Tw ( need more precisely. On the other hand, ) Tj-228 -13.5  TD 0.2649  Tc -0.2669  Tw (current IR systems ) Tj81 0  TD 0.1653  Tc -0.0423  Tw (allow us to) Tj45.75 0  TD 0  Tc -0.252  Tw ( ) Tj2.25 0  TD 0.2716  Tc -0.2352  Tw (locate documents but most of them leave it to the user to extract ) Tj-129 -14.25  TD 0.08  Tc 0  Tw (the) Tj12.75 0  TD 0  Tc -0.252  Tw ( ) Tj4.5 0  TD 0.2324  Tc 1.0156  Tw (information from ) Tj75 0  TD 0.08  Tc 0  Tw (top) Tj12.75 0  TD 0.1645  Tc 1.4585  Tw ( ranked ) Tj38.25 0  TD 0.0257  Tc 0  Tw (documents) Tj46.5 0  TD -0.252  Tc (.) Tj1.5 0  TD 0  Tc -0.252  Tw ( ) Tj4.5 0  TD 0.1796  Tc 1.6934  Tw (Recently, documents have rapidly increased in ) Tj-195.75 -13.5  TD 0.2151  Tc 0.6162  Tw (number, and we need a system that can retrieve ) Tj210 0  TD /F2 9  Tf0.0442  Tc 0  Tw (information) Tj46.5 0  TD /F1 9  Tf0.1944  Tc 0.5179  Tw (, not document. As a result, there ) Tj-256.5 -12.75  TD -0.1506  Tc -0.2681  Tw (has been a growing interest to QA in NLP community.) Tj204.75 0  TD 0  Tc -0.252  Tw ( ) Tj-204.75 -13.5  TD 0.1925  Tc -0.0278  Tw (In this paper, we introduce the KUQA system developed ) Tj236.25 0  TD 0.2328  Tc -0.016  Tw (by NLP Lab. in Korea University for the ) Tj-236.25 -13.5  TD 0.2298  Tc 0.2682  Tw (QA track of TREC) Tj75.75 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.2013  Tc 0.1717  Tw (9. We try to incorporate NLP techniques with conventional IR techniques. To ) Tj-78.75 -13.5  TD 0.1803  Tc 1.2001  Tw (do this, we utilize WordNet as a kind of linguistic knowledge and a POS tagger for linguistic ) Tj0 -14.25  TD -0.307  Tc 0  Tw (analyzer.) Tj33.75 0  TD 0  Tc -0.252  Tw ( ) Tj-33.75 -12.75  TD 0.1695  Tc -0.4215  Tw (In the next section) Tj75.75 0  TD 0.1997  Tc -0.291  Tw (, we describe three components of KUQA system. In section 3, we analyze the ) Tj-75.75 -13.5  TD -0.0991  Tc -0.3404  Tw (performance of the system. And finally, we discuss future work in section 4.) Tj287.25 0  TD 0  Tc -0.252  Tw ( ) Tj-287.25 -13.5  TD ( ) Tj0 -15  TD /F0 10.5  Tf-0.1772  Tc 1.7582  Tw (2.   System Description) Tj119.25 0  TD 0  Tc 0.081  Tw ( ) Tj-119.25 -12.75  TD /F0 9  Tf-0.252  Tw ( ) Tj0 -13.5  TD /F1 9  Tf0.2105  Tc 0.2875  Tw (Our system consists of three modules: the question analysis module for captur) Tj330.75 0  TD 0.1899  Tc 0.8081  Tw (ing the meaning ) Tj-330.75 -14.25  TD 0.2019  Tc 2.4307  Tw (of a natural language question, the document retrieval and analysis module for selecting ) TjETendstream
-endobj
-11 0 obj
-5941
-endobj
-4 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 12 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 10 0 R
->>
-endobj
-15 0 obj
-<<
-/Length 16 0 R
->>
-stream
-1 1 1 rg 105.75 449.25 366 236.25 re f0.6 0.8 1 rg 376.5 645.75 m 365.25 636.75 l 365.25 606.75 l 420.75 606.75 l 432 616.5 l 432 645.75 l 376.5 645.75 l f*0.6784 0.8392 1 rg 365.25 636.75 m 420.75 636.75 l 432 645.75 l 376.5 645.75 l 365.25 636.75 l f*0.4824 0.6431 0.8039 rg 420.75 636.75 m 432 645.75 l 432 616.5 l 420.75 606.75 l 420.75 636.75 l f*0.75 w 1 J 1 j 0 0 0 RG 376.5 645.75 m 365.25 636.75 l 365.25 606.75 l 420.75 606.75 l 432 616.5 l 432 645.75 l 376.5 645.75 l S 365.25 636.75 m 420.75 636.75 l 432 645.75 l S 420.75 636.75 m 420.75 606.75 l S BT373.5 627.75  TD0 0 0 rg /F0 6.75  Tf0.7499  Tc 0  Tw (Document) Tj3 -8.25  TD 0.6653  Tc (Retrieval) Tj3 -8.25  TD 0.7482  Tc (system) Tj-264.75 -60.75  TD 0.7966  Tc (question) TjET0.6196 0.6824 0.7765 rg 297.75 557.25 m 286.5 557.25 l 284.25 556.5 l 280.5 556.5 l 279 555.75 l 276.75 555.75 l 275.25 555 l 273.75 555 l 273.75 531.75 l 274.5 531.75 l 275.25 531 l 276.75 531 l 277.5 530.25 l 280.5 530.25 l 282.75 529.5 l 293.25 529.5 l 297.75 528.75 l 303 529.5 l 313.5 529.5 l 315 530.25 l 318 530.25 l 319.5 531 l 320.25 531 l 321 531.75 l 321.75 531.75 l 322.5 532.5 l 322.5 554.25 l 321.75 555 l 320.25 555 l 319.5 555.75 l 316.5 555.75 l 315 556.5 l 311.25 556.5 l 309.75 557.25 l 297.75 557.25 l f*0.6941 0.7451 0.8196 rg 273.75 554.25 m 273.75 553.5 l 274.5 552.75 l 275.25 552.75 l 276.75 552 l 277.5 552 l 279 551.25 l 284.25 551.25 l 286.5 550.5 l 309.75 550.5 l 311.25 551.25 l 316.5 551.25 l 318 552 l 319.5 552 l 320.25 552.75 l 321 552.75 l 321.75 553.5 l 322.5 553.5 l 322.5 554.25 l 321.75 555 l 320.25 555 l 319.5 555.75 l 316.5 555.75 l 315 556.5 l 311.25 556.5 l 309.75 557.25 l 286.5 557.25 l 284.25 556.5 l 280.5 556.5 l 279 555.75 l 276.75 555.75 l 275.25 555 l 273.75 555 l 273.75 554.25 l f*297.75 557.25 m 286.5 557.25 l 284.25 556.5 l 280.5 556.5 l 279 555.75 l 276.75 555.75 l 275.25 555 l 273.75 555 l 273.75 531.75 l 274.5 531.75 l 275.25 531 l 276.75 531 l 277.5 530.25 l 280.5 530.25 l 282.75 529.5 l 293.25 529.5 l 297.75 528.75 l 303 529.5 l 313.5 529.5 l 315 530.25 l 318 530.25 l 319.5 531 l 320.25 531 l 321 531.75 l 321.75 531.75 l 322.5 532.5 l 322.5 554.25 l 321.75 555 l 320.25 555 l 319.5 555.75 l 316.5 555.75 l 315 556.5 l 311.25 556.5 l 309.75 557.25 l 297.75 557.25 l S 273.75 554.25 m 273.75 553.5 l 274.5 552.75 l 275.25 552.75 l 276.75 552 l 277.5 552 l 279 551.25 l 284.25 551.25 l 286.5 550.5 l 309.75 550.5 l 311.25 551.25 l 316.5 551.25 l 318 552 l 319.5 552 l 320.25 552.75 l 321 552.75 l 321.75 553.5 l 322.5 553.5 l 322.5 554.25 l S BT281.25 539.25  TD0 0 0 rg 0.9114  Tc (WordNet) Tj-15.75 88.5  TD 0.7782  Tc -0.4047  Tw (Question words) TjET0.6196 0.6824 0.7765 rg 398.25 677.25 m 377.25 677.25 l 375 676.5 l 369.75 676.5 l 369 675.75 l 368.25 675.75 l 368.25 654.75 l 369 654 l 373.5 654 l 375 653.25 l 389.25 653.25 l 392.25 652.5 l 405 652.5 l 408 653.25 l 422.25 653.25 l 423.75 654 l 428.25 654 l 429 654.75 l 429 675.75 l 428.25 675.75 l 427.5 676.5 l 422.25 676.5 l 420 677.25 l 398.25 677.25 l f*0.6941 0.7451 0.8196 rg 368.25 675.75 m 369 675 l 372 675 l 373.5 674.25 l 384 674.25 l 386.25 673.5 l 410.25 673.5 l 413.25 674.25 l 423.75 674.25 l 425.25 675 l 428.25 675 l 429 675.75 l 428.25 675.75 l 427.5 676.5 l 422.25 676.5 l 420 677.25 l 377.25 677.25 l 375 676.5 l 369.75 676.5 l 369 675.75 l 368.25 675.75 l f*398.25 677.25 m 377.25 677.25 l 375 676.5 l 369.75 676.5 l 369 675.75 l 368.25 675.75 l 368.25 654.75 l 369 654 l 373.5 654 l 375 653.25 l 389.25 653.25 l 392.25 652.5 l 405 652.5 l 408 653.25 l 422.25 653.25 l 423.75 654 l 428.25 654 l 429 654.75 l 429 675.75 l 428.25 675.75 l 427.5 676.5 l 422.25 676.5 l 420 677.25 l 398.25 677.25 l S 368.25 675.75 m 369 675 l 372 675 l 373.5 674.25 l 384 674.25 l 386.25 673.5 l 410.25 673.5 l 413.25 674.25 l 423.75 674.25 l 425.25 675 l 428.25 675 l 429 675.75 l S BT376.5 666  TD0 0 0 rg 0.8329  Tc 0  Tw (Documents) Tj15.75 -8.25  TD 0.749  Tc (Set) Tj-263.25 -175.5  TD 0.835  Tc -0.4615  Tw (Ranked answers ) Tj-12.75 -8.25  TD 0.806  Tc -0.4325  Tw (with surrounding words) TjET0.6196 0.6824 0.7765 rg 195.75 614.25 m 186.75 614.25 l 185.25 613.5 l 179.25 613.5 l 177.75 612.75 l 175.5 612.75 l 174.75 612 l 173.25 612 l 173.25 611.25 l 172.5 611.25 l 172.5 591 l 174 589.5 l 174.75 589.5 l 175.5 588.75 l 177.75 588.75 l 179.25 588 l 185.25 588 l 186.75 587.25 l 204.75 587.25 l 207 588 l 212.25 588 l 213.75 588.75 l 216 588.75 l 217.5 589.5 l 218.25 589.5 l 218.25 590.25 l 219 590.25 l 219 611.25 l 218.25 612 l 217.5 612 l 216 612.75 l 213.75 612.75 l 212.25 613.5 l 207 613.5 l 204.75 614.25 l 195.75 614.25 l f*0.6941 0.7451 0.8196 rg 172.5 611.25 m 174 609.75 l 174.75 609.75 l 175.5 609 l 177.75 609 l 179.25 608.25 l 185.25 608.25 l 186.75 607.5 l 204.75 607.5 l 207 608.25 l 212.25 608.25 l 213.75 609 l 216 609 l 217.5 609.75 l 218.25 609.75 l 218.25 610.5 l 219 610.5 l 219 611.25 l 218.25 612 l 217.5 612 l 216 612.75 l 213.75 612.75 l 212.25 613.5 l 207 613.5 l 204.75 614.25 l 186.75 614.25 l 185.25 613.5 l 179.25 613.5 l 177.75 612.75 l 175.5 612.75 l 174.75 612 l 173.25 612 l 173.25 611.25 l 172.5 611.25 l f*195.75 614.25 m 186.75 614.25 l 185.25 613.5 l 179.25 613.5 l 177.75 612.75 l 175.5 612.75 l 174.75 612 l 173.25 612 l 173.25 611.25 l 172.5 611.25 l 172.5 591 l 174 589.5 l 174.75 589.5 l 175.5 588.75 l 177.75 588.75 l 179.25 588 l 185.25 588 l 186.75 587.25 l 204.75 587.25 l 207 588 l 212.25 588 l 213.75 588.75 l 216 588.75 l 217.5 589.5 l 218.25 589.5 l 218.25 590.25 l 219 590.25 l 219 611.25 l 218.25 612 l 217.5 612 l 216 612.75 l 213.75 612.75 l 212.25 613.5 l 207 613.5 l 204.75 614.25 l 195.75 614.25 l S 172.5 611.25 m 174 609.75 l 174.75 609.75 l 175.5 609 l 177.75 609 l 179.25 608.25 l 185.25 608.25 l 186.75 607.5 l 204.75 607.5 l 207 608.25 l 212.25 608.25 l 213.75 609 l 216 609 l 217.5 609.75 l 218.25 609.75 l 218.25 610.5 l 219 610.5 l 219 611.25 l S BT177.75 597  TD0 0 0 rg 0.6558  Tc 0  Tw (automata) Tj237.75 -75  TD 0.6245  Tc (Candidate) Tj3.75 -9  TD 0.7481  Tc (answers) TjET0.6 0.8 1 rg 379.5 575.25 m 368.25 565.5 l 368.25 536.25 l 423.75 536.25 l 435 546 l 435 575.25 l 379.5 575.25 l f*0.6784 0.8392 1 rg 368.25 565.5 m 423.75 565.5 l 435 575.25 l 379.5 575.25 l 368.25 565.5 l f*0.4824 0.6431 0.8039 rg 423.75 565.5 m 435 575.25 l 435 546 l 423.75 536.25 l 423.75 565.5 l f*379.5 575.25 m 368.25 565.5 l 368.25 536.25 l 423.75 536.25 l 435 546 l 435 575.25 l 379.5 575.25 l S 368.25 565.5 m 423.75 565.5 l 435 575.25 l S 423.75 565.5 m 423.75 536.25 l S BT376.5 552.75  TD0 0 0 rg 0.7499  Tc (Document) Tj3.75 -8.25  TD 0.6546  Tc (analyzer) Tj31.5 51  TD 0.6656  Tc (Retrieved) Tj3 -9  TD 0.608  Tc (relevant) Tj-6 -8.25  TD 0.8328  Tc (documents) TjET0.6 0.8 1 rg 377.25 507.75 m 365.25 497.25 l 365.25 465 l 420 465 l 432 475.5 l 432 507.75 l 377.25 507.75 l f*0.6784 0.8392 1 rg 365.25 497.25 m 420 497.25 l 432 507.75 l 377.25 507.75 l 365.25 497.25 l f*0.4824 0.6431 0.8039 rg 420 497.25 m 432 507.75 l 432 475.5 l 420 465 l 420 497.25 l f*377.25 507.75 m 365.25 497.25 l 365.25 465 l 420 465 l 432 475.5 l 432 507.75 l 377.25 507.75 l S 365.25 497.25 m 420 497.25 l 432 507.75 l S 420 497.25 m 420 465 l S BT378 483  TD0 0 0 rg 0.8115  Tc (Answer) Tj3 -8.25  TD 0.6859  Tc (ranker) TjET0.6 0.8 1 rg 176.25 575.25 m 163.5 564.75 l 163.5 532.5 l 212.25 532.5 l 225 543 l 225 575.25 l 176.25 575.25 l f*0.6784 0.8392 1 rg 163.5 564.75 m 212.25 564.75 l 225 575.25 l 176.25 575.25 l 163.5 564.75 l f*0.4824 0.6431 0.8039 rg 212.25 564.75 m 225 575.25 l 225 543 l 212.25 532.5 l 212.25 564.75 l f*176.25 575.25 m 163.5 564.75 l 163.5 532.5 l 212.25 532.5 l 225 543 l 225 575.25 l 176.25 575.25 l S 163.5 564.75 m 212.25 564.75 l 225 575.25 l S 212.25 564.75 m 212.25 532.5 l S BT171 550.5  TD0 0 0 rg 0.6557  Tc (Question) Tj1.5 -8.25  TD 0.6546  Tc (analyzer) TjET0.3686 0.2392 0.8353 rg 148.5 553.5 9 0.75 re f157.5 551.25 m 163.5 553.5 l 157.5 556.5 l 157.5 551.25 l f*BT271.5 501.75  TD0 0 0 rg 0.7782  Tc -0.4047  Tw (Question words) Tj-8.25 -8.25  TD 0.7073  Tc -0.3338  Tw (Question categories) TjET0.3686 0.2392 0.8353 rg 245.25 500.25 1.5 128.25 re f0.3686 0.2392 0.8353 RG 0.9098 0.9373 0.9725 rg 234 548.25 m 240 543 l 240 546 l 258 546 l 258 543 l 264 548.25 l 258 554.25 l 258 551.25 l 240 551.25 l 240 554.25 l 234 548.25 l b*191.25 577.5 m 193.5 577.5 l 193.5 585.75 l 198 585.75 l 198 577.5 l 200.25 577.5 l 195.75 575.25 l 191.25 577.5 l b*331.5 545.25 m 336.75 540 l 336.75 542.25 l 353.25 542.25 l 353.25 540 l 359.25 545.25 l 353.25 550.5 l 353.25 547.5 l 336.75 547.5 l 336.75 550.5 l 331.5 545.25 l b*392.25 643.5 m 394.5 643.5 l 394.5 651 l 399 651 l 399 643.5 l 401.25 643.5 l 396.75 640.5 l 392.25 643.5 l b*0.3686 0.2392 0.8353 rg 398.25 580.5 0.75 23.25 re f395.25 580.5 m 398.25 575.25 l 402 580.5 l 395.25 580.5 l f*398.25 509.25 0.75 23.25 re f395.25 510 m 398.25 504 l 402 510 l 395.25 510 l f*337.5 502.5 m 337.5 501 l 352.5 500.25 l 352.5 501.75 l 337.5 502.5 l f352.5 498 m 359.25 500.25 l 352.5 503.25 l 352.5 498 l f*BT260.25 567  TD0 0 0 rg (Question categories) TjET0.3686 0.2392 0.8353 rg 246 627.75 18 1.5 re f246 500.25 18 0.75 re f337.5 569.25 15 1.5 re f352.5 567 m 359.25 570 l 352.5 573 l 352.5 567 l f*334.5 630 15 0.75 re f349.5 627.75 m 355.5 630 l 349.5 633 l 349.5 627.75 l f*234 569.25 27 1.5 re f0.2 0.2 0.8 rg 228 477.75 131.25 0.75 re f228 480.75 m 222 477.75 l 228 475.5 l 228 480.75 l f*BT471.75 449.25  TD0 0 0 rg /F1 9  Tf0  Tc -0.252  Tw ( ) Tj-239.25 -12  TD -0.2591  Tc 0.0071  Tw (Figure 1: Architecture of KUQA system) Tj145.5 0  TD 0  Tc -0.252  Tw ( ) Tj-72.75 -13.5  TD /F0 9  Tf( ) Tj-199.5 -13.5  TD /F1 9  Tf0.1649  Tc 1.3331  Tw (candidate answers from docu) Tj126 0  TD 0.1962  Tc 1.2185  Tw (ments, and the answer extraction module for ranking candidate ) Tj-126 -12.75  TD 0.2154  Tc 0.9701  Tw (answers and extracting surrounding words. These modules integrated into KUQA system are ) Tj0 -13.5  TD -0.0582  Tc -0.1938  Tw (represented in Figure1. Each module is described in detail in subsequent sections.) Tj321 0  TD /F0 9  Tf0  Tc -0.252  Tw ( ) Tj-321 -13.5  TD ( ) Tj0 -14.25  TD -0.3488  Tc 1.4093  Tw (2.1   Question Analysi) Tj91.5 0  TD 0.246  Tc 0  Tw (s) Tj5.25 0  TD 0  Tc -0.252  Tw ( ) Tj-96.75 -13.5  TD 1 0 0 rg /F1 9  Tf( ) Tj0 -12.75  TD 0 0 0 rg 0.1771  Tc 0.4816  Tw (The question analyzer reads a question, determines the semantic categories of it by consulting ) Tj0 -13.5  TD 0.1742  Tc 3.3238  Tw (automata and WordNet, and produces a category vector which represents the semantic) Tj0  Tc 0.498  Tw ( ) TjT* 0.1942  Tc 3.6372  Tw (categories assigned to the question. These classified question categories ) Tj3.996  Tc 0  Tw (a) Tj346.5 0  TD 0.1927  Tc 3.6803  Tw (re used for) Tj0  Tc -0.252  Tw ( ) Tj-346.5 -13.5  TD 0.2094  Tc 1.8463  Tw (computing semantic similarity between the question and candidate answers. Also, a list of ) Tj0 -14.25  TD 0.2614  Tc 1.6866  Tw (question words is extracted from the given question, and it is used for retrieving relevant ) Tj0 -12.75  TD -0.0455  Tc -0.4565  Tw (documents and measuring co) Tj116.25 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.196  Tc -0.056  Tw (occurrence density.) Tj74.25 0  TD 0  Tc -0.252  Tw ( ) Tj6 -13.5  TD ( ) Tj-199.5 -13.5  TD /F0 9  Tf-0.3436  Tc 2.0916  Tw (2.1.1.   Class) Tj56.25 0  TD -0.4071  Tc 0.1551  Tw (ifying Question Categories) Tj105 0  TD 0  Tc -0.252  Tw ( ) Tj-161.25 -15  TD /F0 10.5  Tf0.081  Tw ( ) Tj0 -12.75  TD /F1 9  Tf0.2153  Tc 2.3019  Tw (The question categories indicate the possible type of semantic categories with which the ) Tj0 -13.5  TD 0.2353  Tc -0.1123  Tw (expected answer corresponds. They are decided by different methods according to the types of ) Tj0 -14.25  TD 0.1352  Tc -0.1372  Tw (questions. Questions can be grouped into follo) Tj192 0  TD 0.1458  Tc 0.2451  Tw (wing three types depending on their interrogatives ) Tj-192 -13.5  TD -0.0589  Tc -0.1931  Tw (and sentence structures:) Tj96 0  TD 0  Tc -0.252  Tw ( ) Tj-96 -13.5  TD ( ) Tj28.5 -12.75  TD -0.186  Tc -0.066  Tw (\(1\) W) Tj20.25 0  TD -0.2135  Tc -0.0385  Tw (ho, Where, When) Tj66 0  TD 0  Tc -0.252  Tw ( ) Tj-86.25 -13.5  TD -0.166  Tc -0.086  Tw (\(2\) ) Tj12.75 0  TD 0  Tc 0  Tw (How) Tj17.25 0  TD 0  Tc -0.252  Tw ( ) Tj-30 -13.5  TD -0.166  Tc -0.086  Tw (\(3\) ) Tj12.75 0  TD -0.351  Tc 0.099  Tw (What, Which) Tj48 0  TD -0.2516  Tc -0  Tw (, Others ) Tj34.5 0  TD 0  Tc -0.252  Tw ( ) TjETendstream
-endobj
-16 0 obj
-13176
-endobj
-14 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 15 0 R
->>
-endobj
-18 0 obj
-<<
-/Length 19 0 R
->>
-stream
-1 1 1 rg 171.75 496.5 267 189 re f0.698 0.698 0.698 rg 261.75 669.75 168 11.25 re fBT312.75 672.75  TD0 0 0 rg /F1 6.75  Tf0.311  Tc 0.0625  Tw (Question categories) TjET0.698 0.698 0.698 rg 178.5 669.75 83.25 11.25 re fBT207 672.75  TD0 0 0 rg 0.3731  Tc 0  Tw (question) TjET0.3137 0.2706 0.4118 rg 178.5 501 6 19.5 re f178.5 520.5 6 18 re f178.5 538.5 6 12 re f0.4706 0.2824 0.6745 rg 178.5 550.5 6 69.75 re f0.2 0.2 0.8 rg 178.5 620.25 6 12 re f178.5 632.25 6 25.5 re f178.5 657.75 6 12 re f0.6 0.6 1 rg 184.5 501 35.25 49.5 re fBT186.75 533.25  TD0 0 0 rg 0.5614  Tc (What) Tj0 -10.5  TD 0.4497  Tc (Which) Tj0 -9.75  TD 0.2486  Tc (others) TjET0.6 0.6 1 rg 184.5 550.5 35.25 69.75 re fBT186.75 582.75  TD0 0 0 rg 0.5  Tc (How) TjET0.6 0.6 1 rg 184.5 620.25 35.25 12 re fBT186.75 623.25  TD0 0 0 rg 0.6547  Tc (When) TjET0.6 0.6 1 rg 184.5 632.25 35.25 25.5 re fBT186.75 642.75  TD0 0 0 rg 0.5242  Tc (Where) TjET0.6 0.6 1 rg 184.5 657.75 35.25 12 re fBT186.75 661.5  TD0 0 0 rg 0.374  Tc (Who) Tj77.25 -151.5  TD 0.3737  Tc -0.7502  Tw (No category) TjET0.8 0.8 1 rg 219.75 501 42 23.25 re fBT222.75 514.5  TD0 0 0 rg 0.5617  Tc -0.1882  Tw (No ) Tj0 -9  TD 0.4199  Tc 0  Tw (automata) Tj41.25 29.25  TD 0.3737  Tc -0.4502  Tw (The semantic categories of key phrase) TjET0.8 0.8 1 rg 219.75 524.25 42 26.25 re fBT222.75 543  TD0 0 0 rg 0.2899  Tc 0.0836  Tw (Applied to ) Tj0 -8.25  TD 0.3737  Tc 0.7498  Tw (proper ) TjT* 0.4199  Tc 0  Tw (automata) Tj41.25 30  TD 0.5004  Tc (NUMBER) TjET0.8 0.8 1 rg 219.75 550.5 42 16.5 re fBT222.75 560.25  TD0 0 0 rg 0.3739  Tc -0  Tw (much , ) Tj0 -8.25  TD 0.1866  Tc 0  Tw (many) Tj41.25 27  TD 0.4544  Tc -0.8309  Tw (MONETARY_VALUE ) Tj76.5 0  TD 0.4613  Tc -0.0878  Tw (MONETARY_UNIT ) Tj-76.5 -8.25  TD 0.4165  Tc -0.043  Tw (ECONOMIC_CONDITION ) Tj93 0  TD 0.4273  Tc 0  Tw (FINANTIAL_LOSS) TjET0.8 0.8 1 rg 219.75 567 42 20.25 re fBT222.75 574.5  TD0 0 0 rg 0.4689  Tc (rich) Tj41.25 25.5  TD 0.3965  Tc -0.023  Tw (LENGTH LINEAR_UNIT) Tj0 -9.75  TD 0.3979  Tc -0.1494  Tw (YEAR TIME TIME_PERIOD  TIME_UNIT  TIME) TjET0.8 0.8 1 rg 219.75 587.25 42 21 re fBT222.75 595.5  TD0 0 0 rg 0.1856  Tc 0  Tw (long) Tj41.25 16.5  TD 0.3965  Tc -0.023  Tw (LENGTH LINEAR_UNIT) TjET0.8 0.8 1 rg 219.75 608.25 42 12 re fBT222.75 612  TD0 0 0 rg 0.2337  Tc -0.2352  Tw (far , tall) Tj41.25 11.25  TD 0.3865  Tc -0.013  Tw (DAY YEAR  TIME_PERIOD  TIME_UNIT  TIME) TjET0.8 0.8 1 rg 219.75 620.25 42 12 re fBT264 651  TD0 0 0 rg 0.4855  Tc -0.6477  Tw (COUNTRY  CITY  CAPITAL PENINSULA  ) Tj0 -8.25  TD 0.4595  Tc -0.461  Tw (ISLAND CONTINENT PROVINCE MOUNTAIN ) TjT* 0.4069  Tc -0.4084  Tw (MOUNTAIN_PEAK RIVER OCEAN) TjET0.8 0.8 1 rg 219.75 632.25 42 25.5 re fBT264 661.5  TD0 0 0 rg 0.4991  Tc 0  Tw (PERSON) TjET0.8 0.8 1 rg 219.75 657.75 42 12 re f0 0 0 rg 177.75 681 252.75 0.75 re f0.75 w 1 J 1 j 0 0 0 RG 178.5 657.75 m 429.75 657.75 l S 178.5 632.25 m 429.75 632.25 l S 178.5 620.25 m 429.75 620.25 l S 178.5 550.5 m 429.75 550.5 l S 178.5 538.5 m 184.5 538.5 l S 178.5 520.5 m 184.5 520.5 l S 177.75 500.25 252.75 0.75 re f177.75 500.25 1.5 181.5 re f261.75 681 m 261.75 501 l S 429.75 500.25 0.75 181.5 re f219.75 608.25 m 429.75 608.25 l S 219.75 587.25 m 429.75 587.25 l S 219.75 567 m 429.75 567 l S 219.75 524.25 m 429.75 524.25 l S 178.5 669.75 m 429.75 669.75 l S 184.5 669.75 m 184.5 501 l S 219.75 669.75 m 219.75 501 l S BT438.75 496.5  TD/F1 9  Tf0  Tc -0.252  Tw ( ) Tj-133.5 -12  TD ( ) Tj-68.25 -13.5  TD -0.1269  Tc -0.1251  Tw (Table 1: Category assignment table) Tj137.25 0  TD 0  Tc -0.252  Tw ( ) Tj-69 -13.5  TD ( ) Tj-199.5 -13.5  TD 0.1238  Tc 0  Tw (Tabl) Tj18 0  TD 0.1666  Tc 0.4252  Tw (e 1 shows the categories assigned to each type of questions. The category of the question ) Tj-18 -12.75  TD 0.1696  Tc 0.3284  Tw (with an interrogative ) Tj89.25 0  TD /F2 9  Tf0.108  Tc 1.14  Tw (Who, Where, or When) Tj93.75 0  TD /F1 9  Tf0.2598  Tc 0.2382  Tw ( is decided by its meaning of the interrogative. The ) Tj-183 -13.5  TD 0.181  Tc -0.1115  Tw (category of the question with the interrogative ) Tj191.25 0  TD /F2 9  Tf0.75  Tc 0  Tw (How) Tj19.5 0  TD /F1 9  Tf0.2629  Tc -0.3274  Tw ( is determined by the) Tj86.25 0  TD 0.2729  Tc -0.2248  Tw ( meaning of an adjective ) Tj-297 -14.25  TD 0.2327  Tc 2.182  Tw (or an adverb followed by the interrogative. For example, ) Tj261.75 0  TD /F2 9  Tf0.1414  Tc 3.3566  Tw (How long) Tj42 0  TD /F1 9  Tf0.2792  Tc 2.0938  Tw ( questions may have ) Tj-303.75 -13.5  TD 0.1304  Tc 1.1176  Tw (categories related to time or length and ) Tj173.25 0  TD /F2 9  Tf0.1779  Tc 1.0701  Tw (How many) Tj45 0  TD /F1 9  Tf0.1266  Tc 1.4428  Tw ( questions may have categories related to ) Tj-218.25 -13.5  TD 0.1566  Tc 0.4914  Tw (number. However, the categories of ) Tj154.5 0  TD /F2 9  Tf0.099  Tc 0.774  Tw (What, Which ) Tj56.25 0  TD /F1 9  Tf0.3891  Tc -0.6411  Tw (and othe) Tj36.75 0  TD 0.3058  Tc 0.1922  Tw (r questions can) Tj64.5 0  TD 0  Tc 0  Tw (\222) Tj3.75 0  TD 0.1599  Tc 0.3381  Tw (t be determined just ) Tj-315.75 -12.75  TD 0.2412  Tc 1.9068  Tw (by the meaning of the interrogative or an adjacent adjective or adverb. To analyze these ) Tj0 -13.5  TD 0.1587  Tc 0.0715  Tw (questions, we try to manually construct automata. By using the automata, the system recognizes ) TjT* 0.2732  Tc -0.6502  Tw (the key phrase of the question, and) Tj147.75 0  TD 0.2278  Tc -0.0298  Tw ( then assigns the semantic categories of the question based ) Tj-147.75 -14.25  TD 0.246  Tc 0.252  Tw (on ) Tj14.25 0  TD -0.42  Tc 0  Tw (the) Tj12.75 0  TD 0.2305  Tc 0.6175  Tw ( semantic categories of the key phrase. The semantic categories of the key phrase are ) Tj-27 -13.5  TD -0.0906  Tc -0.2364  Tw (classified into one of 46 preclassified categories by using WordNet. ) Tj263.25 0  TD 0  Tc -0.252  Tw ( ) Tj-263.25 -12.75  TD 0.2294  Tc 1.0186  Tw (Figure 2 shows an example of the p) Tj157.5 0  TD 0.2275  Tc 0.9267  Tw (rocess of assigning question categories to the question: ) Tj-157.5 -13.5  TD /F2 9  Tf0.2248  Tc 1.1169  Tw (What is the fare cost for the round trip between New York and London on Concord? ) Tj372 0  TD /F1 9  Tf0.165  Tc 1.083  Tw (In this ) Tj-372 -13.5  TD 0.198  Tc -0.2625  Tw (example, the key phrase ) Tj103.5 0  TD 0  Tc 0  Tw (\223) Tj4.5 0  TD 0.1234  Tc -0.3754  Tw (fare cost) Tj35.25 0  TD 0  Tc 0  Tw (\224) Tj3.75 0  TD 0.2129  Tc -0.3285  Tw ( is recognized by the automata, and the semantic category of ) Tj-147 -13.5  TD -0.1065  Tc -0.1455  Tw (the question i) Tj52.5 0  TD 0.0656  Tc -0.3176  Tw (s classified into ) Tj62.25 0  TD 0  Tc 0  Tw (\223) Tj4.5 0  TD -0.3861  Tc 0.1341  Tw (FINANCIAL LOSS) Tj67.5 0  TD 0  Tc 0  Tw (\224) Tj4.5 0  TD -0.2014  Tc -0.0506  Tw ( by using WordNet.) Tj72 0  TD 0  Tc -0.252  Tw ( ) Tj-263.25 -14.25  TD ( ) Tj0 -12.75  TD /F0 9  Tf-0.3761  Tc 0.1241  Tw (Category vector) Tj63.75 0  TD /F1 9  Tf0  Tc -0.252  Tw ( ) Tj-63.75 -13.5  TD 0.2122  Tc 0.5358  Tw (Question categories are represented by a ) Tj180 0  TD /F2 9  Tf0.1856  Tc 0  Tw (category) Tj36.75 0  TD 0.1655  Tc 0.3325  Tw ( vector) Tj29.25 0  TD /F1 9  Tf0.2149  Tc 0.4974  Tw (. The category vector consists of 46 ) Tj-246 -13.5  TD -0.1316  Tc -0.174  Tw (categories manually selected from words in WordNet. If only one category is assigned to a) Tj345.75 0  TD 0  Tc -0.252  Tw ( ) Tj-345.75 -13.5  TD ( ) Tj295.5 -13.5  TD 0.1275  Tc 0  Tw (\(N) Tj9 0  TD -0.1089  Tc -0.1431  Tw (umber of categories: 46\)) Tj94.5 0  TD 0  Tc -0.252  Tw ( ) Tj-395.25 -14.25  TD /F1 8.25  Tf-1.7554  Tc 0  Tw (COUNTRY) Tj28.5 0  TD 0  Tc -0.0435  Tw ( ) Tj24 0  TD -1.5109  Tc 0  Tw (CITY) Tj12 0  TD 0  Tc -0.0435  Tw ( ) Tj18.75 0  TD -1.6957  Tc 0  Tw (PENINSULA) Tj30.75 0  TD 0  Tc -0.0435  Tw ( ) Tj20.25 0  TD -2.1816  Tc 0  Tw (PERSON) Tj23.25 0  TD 0  Tc -0.0435  Tw ( ) Tj22.5 0  TD -1.952  Tc 0  Tw (LENGTH) Tj22.5 0  TD 0  Tc -0.0435  Tw ( ) TjETBT0.8 0 0 1 337.5 160.5  Tm/F0 8.25  Tf-0.3749  Tc 0  Tw (\205\205) Tj6.5626 0  TD 0  Tc -0.4185  Tw ( ) TjETBT371.25 160.5  TD/F1 8.25  Tf-1.7516  Tc 0  Tw (FINANTIAL_LOSS) Tj45 0  TD 0  Tc -0.0435  Tw ( ) Tj26.25 0  TD -1.6798  Tc 0  Tw (MONETARY_UNIT) Tj47.25 0  TD 0  Tc -0.0435  Tw ( ) TjET108 168.75 0.75 0.75 re f108 168.75 0.75 0.75 re f108.75 168.75 43.5 0.75 re f152.25 168.75 0.75 0.75 re f153 168.75 30 0.75 re f183 168.75 0.75 0.75 re f183.75 168.75 48 0.75 re f231.75 168.75 0.75 0.75 re f232.5 168.75 46.5 0.75 re f279 168.75 0.75 0.75 re f279.75 168.75 41.25 0.75 re f321 168.75 0.75 0.75 re f321.75 168.75 35.25 0.75 re f357 168.75 0.75 0.75 re f357.75 168.75 72 0.75 re f429.75 168.75 0.75 0.75 re f430.5 168.75 70.5 0.75 re f501 168.75 0.75 0.75 re f501 168.75 0.75 0.75 re f108 154.5 0.75 14.25 re f152.25 154.5 0.75 14.25 re f183 154.5 0.75 14.25 re f231.75 154.5 0.75 14.25 re f279 154.5 0.75 14.25 re f321 154.5 0.75 14.25 re f357 154.5 0.75 14.25 re f429.75 154.5 0.75 14.25 re f501 154.5 0.75 14.25 re fBT128.25 145.5  TD/F1 9  Tf0.246  Tc 0  Tw (1) Tj4.5 0  TD 0  Tc -0.252  Tw ( ) Tj33 0  TD 0.246  Tc 0  Tw (1) Tj5.25 0  TD 0  Tc -0.252  Tw ( ) Tj34.5 0  TD 0.246  Tc 0  Tw (1) Tj4.5 0  TD 0  Tc -0.252  Tw ( ) Tj42.75 0  TD 0.246  Tc 0  Tw (0) Tj5.25 0  TD 0  Tc -0.252  Tw ( ) Tj39.75 0  TD 0.246  Tc 0  Tw (0) Tj5.25 0  TD 0  Tc -0.252  Tw ( ) Tj33 0  TD /F0 9  Tf0  Tw (\205\205) Tj8.25 0  TD /F1 9  Tf-0.252  Tw ( ) Tj47.25 0  TD 0.246  Tc 0  Tw (0) Tj5.25 0  TD 0  Tc -0.252  Tw ( ) Tj67.5 0  TD 0.246  Tc 0  Tw (0) Tj4.5 0  TD 0  Tc -0.252  Tw ( ) TjET108 153.75 0.75 0.75 re f108.75 153.75 43.5 0.75 re f152.25 153.75 0.75 0.75 re f153 153.75 30 0.75 re f183 153.75 0.75 0.75 re f183.75 153.75 48 0.75 re f231.75 153.75 0.75 0.75 re f232.5 153.75 46.5 0.75 re f279 153.75 0.75 0.75 re f279.75 153.75 41.25 0.75 re f321 153.75 0.75 0.75 re f321.75 153.75 35.25 0.75 re f357 153.75 0.75 0.75 re f357.75 153.75 72 0.75 re f429.75 153.75 0.75 0.75 re f430.5 153.75 70.5 0.75 re f501 153.75 0.75 0.75 re f108 137.25 0.75 16.5 re f108 136.5 0.75 0.75 re f108 136.5 0.75 0.75 re f108.75 136.5 43.5 0.75 re f152.25 137.25 0.75 16.5 re f152.25 136.5 0.75 0.75 re f153 136.5 30 0.75 re f183 137.25 0.75 16.5 re f183 136.5 0.75 0.75 re f183.75 136.5 48 0.75 re f231.75 137.25 0.75 16.5 re f231.75 136.5 0.75 0.75 re f232.5 136.5 46.5 0.75 re f279 137.25 0.75 16.5 re f279 136.5 0.75 0.75 re f279.75 136.5 41.25 0.75 re f321 137.25 0.75 16.5 re f321 136.5 0.75 0.75 re f321.75 136.5 35.25 0.75 re f357 137.25 0.75 16.5 re f357 136.5 0.75 0.75 re f357.75 136.5 72 0.75 re f429.75 137.25 0.75 16.5 re f429.75 136.5 0.75 0.75 re f430.5 136.5 70.5 0.75 re f501 137.25 0.75 16.5 re f501 136.5 0.75 0.75 re f501 136.5 0.75 0.75 re fBT305.25 128.25  TD( ) Tj-152.25 -13.5  TD -0.2249  Tc 0.0479  Tw (Table 2: An example of category vector for the question ) Tj210.75 0  TD 0  Tc 0  Tw (\223) Tj3.75 0  TD /F2 9  Tf-0.2513  Tc -0  Tw (Where is the Orinoco) Tj80.25 0  TD /F1 9  Tf0.246  Tc 0  Tw (?) Tj5.25 0  TD 0  Tc (\224) Tj3.75 0  TD -0.252  Tw ( ) TjETendstream
-endobj
-19 0 obj
-11403
-endobj
-17 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 12 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 18 0 R
->>
-endobj
-21 0 obj
-<<
-/Length 22 0 R
->>
-stream
-1 1 1 rg 166.5 489.75 277.5 195.75 re fBT169.5 648  TD0 0 0 rg /F1 9  Tf0.1538  Tc 0  Tw (question) TjET0.75 w 1 J 1 j 0 0 0 RG 0.8824 0.8824 1 rg 210.75 636.75 224.25 22.5 re bBT213.75 650.25  TD0 0 0 rg 0.1263  Tc -0.0502  Tw (What  is  the  fare  cost  for the round trip  between ) Tj55.5 -10.5  TD 0.1179  Tc 0.0801  Tw (New York and London on Concorde?) Tj-102 -19.5  TD 0.06  Tc 0  Tw (Automata) Tj9.75 -10.5  TD 0.1845  Tc (used) TjET0.8824 0.8824 1 rg 210.75 606 152.25 18.75 re bBT213.75 612  TD0 0 0 rg 0.206  Tc -0.083  Tw (What be ) Tj36.75 0  TD 0.1521  Tc -0.4041  Tw (Adjective Noun) TjET [] 0 d 250.5 611.25 m 312.75 611.25 l S 250.5 610.5 62.25 0.75 re fBT315 612  TD-0.251  Tc 0  Tw (for) Tj-110.25 -39  TD 0.1093  Tc (Extracted) Tj-3.75 -9.75  TD 0.22  Tc 0.278  Tw (Key phrase) Tj120.75 -28.5  TD 0.0767  Tc 0.0463  Tw (Deciding Category ) Tj10.5 -10.5  TD 0.1113  Tc 0.0117  Tw (of Key phrase) TjET [] 0 d 0.9882 0.8 0.8039 rg 249.75 561.75 44.25 21.75 re bBT254.25 569.25  TD0 0 0 rg 0.0296  Tc 0.4684  Tw (fare cost) TjET0.9882 0.8 0.8039 rg 298.5 561.75 62.25 21.75 re bBT303.75 574.5  TD0 0 0 rg 0.1103  Tc -0.3623  Tw (FINANCIAL ) Tj15 -10.5  TD 0.3735  Tc 0  Tw (lOSS) Tj76.5 11.25  TD 0.1852  Tc (Question) Tj0 -10.5  TD 0.1234  Tc (Category) TjET0.3686 0.2392 0.8353 rg 254.25 598.5 0.75 4.5 re f279 591.75 1.5 6.75 re f277.5 592.5 m 279.75 587.25 l 282 592.5 l 277.5 592.5 l f*0.6196 0.6824 0.7765 rg 291.75 545.25 m 281.25 545.25 l 279 544.5 l 275.25 544.5 l 273 543.75 l 270 543.75 l 269.25 543 l 267 543 l 266.25 542.25 l 266.25 519 l 267 518.25 l 267.75 518.25 l 269.25 517.5 l 271.5 517.5 l 273 516.75 l 276.75 516.75 l 279 516 l 303.75 516 l 306 516.75 l 309.75 516.75 l 311.25 517.5 l 313.5 517.5 l 315 518.25 l 315.75 518.25 l 316.5 519 l 316.5 542.25 l 315.75 543 l 313.5 543 l 312.75 543.75 l 309.75 543.75 l 307.5 544.5 l 303.75 544.5 l 301.5 545.25 l 291.75 545.25 l f*0.6941 0.7451 0.8196 rg 266.25 541.5 m 266.25 540.75 l 267 540.75 l 267.75 540 l 269.25 540 l 270 539.25 l 273 539.25 l 275.25 538.5 l 281.25 538.5 l 283.5 537.75 l 299.25 537.75 l 301.5 538.5 l 307.5 538.5 l 309.75 539.25 l 312.75 539.25 l 313.5 540 l 315 540 l 315.75 540.75 l 316.5 540.75 l 316.5 542.25 l 315.75 543 l 313.5 543 l 312.75 543.75 l 309.75 543.75 l 307.5 544.5 l 303.75 544.5 l 301.5 545.25 l 281.25 545.25 l 279 544.5 l 275.25 544.5 l 273 543.75 l 270 543.75 l 269.25 543 l 267 543 l 266.25 542.25 l 266.25 541.5 l f*q 52.5 0 0 30 265.5 515.25 cm 0.3686 0.2392 0.8353 rg BI
-/W 70
-/H 40
-/BPC 1
-/IM true
-/D [ 1 0 ] 
-ID   ?ר נ   ?€   נ       €0       0ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       ְ       `       <       נ€       ü   ÿ€    ÿְ   
-EI
-Q 0.3686 0.2392 0.8353 rg 266.25 541.5 m 265.5 541.5 l 265.5 540.75 l 266.25 540.75 l 267 540 l 267.75 540 l 269.25 539.25 l 271.5 539.25 l 273 538.5 l 276.75 538.5 l 279 537.75 l 303.75 537.75 l 306 538.5 l 309.75 538.5 l 311.25 539.25 l 313.5 539.25 l 315 540 l 315.75 540 l 316.5 540.75 l 317.25 540.75 l 317.25 541.5 l 316.5 541.5 l 316.5 540.75 l 315.75 540.75 l 315 540 l 312.75 540 l 311.25 539.25 l 307.5 539.25 l 305.25 538.5 l 296.25 538.5 l 296.25 537.75 l 296.25 538.5 l 291.75 537.75 l 286.5 538.5 l 277.5 538.5 l 275.25 539.25 l 271.5 539.25 l 270 540 l 267.75 540 l 267 540.75 l 266.25 540.75 l 266.25 541.5 l fBT273 525.75  TD0 0 0 rg 0.1779  Tc (WordNet) TjET0.3686 0.2392 0.8353 rg 270.75 561.75 m 270 561 l 279 551.25 l 279.75 552 l 270.75 561.75 l f276.75 550.5 m 282 548.25 l 280.5 553.5 l 276.75 550.5 l f*302.25 549 m 303 548.25 l 314.25 558 l 313.5 558.75 l 302.25 549 l f315 556.5 m 316.5 561.75 l 311.25 559.5 l 315 556.5 l f*0.2 0.2 0.8 rg 254.25 597.75 51 1.5 re f372 571.5 16.5 1.5 re f388.5 570 m 393 572.25 l 388.5 574.5 l 388.5 570 l f*0.3686 0.2392 0.8353 rg 304.5 598.5 1.5 4.5 re fBT444 489.75  TD0 0 0 rg 0  Tc -0.252  Tw ( ) Tj-270.75 -12  TD -0.0942  Tc -0.2328  Tw (Figure2: an example of the process of assigning a question category) Tj263.25 0  TD 0  Tc -0.252  Tw ( ) Tj-330.75 -12.75  TD ( ) Tj0 -13.5  TD 0.2327  Tc -0.0505  Tw (question, the value of that category in the category vector is set to 1, and all other categories in ) TjT* 0.2638  Tc -0.4408  Tw (the vector are set to 0. If several categories are assigne) Tj231.75 0  TD 0.2108  Tc -0.0878  Tw (d to a question, then those categories in ) Tj-231.75 -13.5  TD -0.2258  Tc -0.0262  Tw (the vector are set to 1. ) Tj88.5 0  TD 0  Tc -0.252  Tw ( ) Tj-88.5 -13.5  TD 0.2431  Tc -0.2224  Tw (Table 2 shows an example of category vector for the question: ) Tj263.25 0  TD /F2 9  Tf0.193  Tc -0.445  Tw (Where is the Orinoco?) Tj93.75 0  TD /F1 9  Tf0.3101  Tc -0.3121  Tw ( Since the ) Tj-357 -13.5  TD 0.1681  Tc 0.4965  Tw (semantic categories of that question are related to the ) Tj231 0  TD /F2 9  Tf0.2483  Tc 0  Tw (location) Tj33 0  TD /F1 9  Tf-0.02  Tc 0.518  Tw ( category, like COUNTRY, CITY,) Tj135 0  TD 0  Tc -0.252  Tw ( ) Tj-399 -13.5  TD 0.1916  Tc 0.0564  Tw (PENINSULA, CONTINENT, and PROVINCE, all the categories related to ) Tj306 0  TD /F2 9  Tf0.2483  Tc 0.2498  Tw (location ) Tj35.25 0  TD /F1 9  Tf0.3161  Tc -0.1181  Tw (are set to 1 in ) Tj-341.25 -13.5  TD -0.4269  Tc 0.1749  Tw (the vector.) Tj38.25 0  TD 0  Tc -0.252  Tw ( ) Tj-38.25 -13.5  TD ( ) Tj0 -13.5  TD /F0 9  Tf-0.2868  Tc 1.0848  Tw (2.1.2   Extracting Question Words) Tj140.25 0  TD 0  Tc -0.252  Tw ( ) Tj-140.25 -12.75  TD /F1 9  Tf( ) Tj0 -14.25  TD 0.1797  Tc -0.3435  Tw (In the question analysis module, a list of question words is also extracted from the given question, ) Tj0 -13.5  TD 0.4298  Tc 1.1932  Tw (and it is used ) Tj69 0  TD 0.2143  Tc 2.5337  Tw (for retrieving relevant documents and measuring co) Tj231.75 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.2484  Tc 1.4996  Tw (occurrence density. A ) Tj-303.75 -13.5  TD 0.1527  Tc -0.0713  Tw (question word is extracted from a question if their part) Tj222.75 0  TD 0.003  Tc 0  Tw (-) Tj2.25 0  TD 1.122  Tc (of) Tj8.25 0  TD 0.003  Tc (-) Tj3 0  TD 0.1551  Tc 0.0929  Tw (speech is noun, verb, adjective, adverb, ) Tj-236.25 -13.5  TD 0.1767  Tc 0.6494  Tw (or cardinal number, and it is restored to its root form. For example, the list of ) Tj330 0  TD 0.2484  Tc 0.2496  Tw (questions words ) Tj-330 -12.75  TD 0.1613  Tc -0.1825  Tw (<fare, cost, round, trip, New, York, London, Concord> is extracted from the question ) Tj348.75 0  TD 0  Tc 0  Tw (\223) Tj3.75 0  TD 0.2207  Tc 0.0273  Tw (What is the ) Tj-352.5 -13.5  TD -0.1763  Tc -0.2007  Tw (fare cost for the round trip between New York and London on Concord?) Tj271.5 0  TD 0  Tc 0  Tw (\224) Tj4.5 0  TD -0.252  Tw ( ) Tj-276 -15.75  TD /F0 10.5  Tf0.081  Tw ( ) Tj0 -15  TD -0.0491  Tc 0.5468  Tw (2.2.   Relevant Document Retrieval and Candidate Answer Selection) Tj339.75 0  TD 0  Tc 0.081  Tw ( ) Tj-339.75 -14.25  TD ( ) Tj0 -13.5  TD /F0 9  Tf-0.003  Tc 0  Tw (2.2.) Tj14.25 0  TD -0.3404  Tc 0.8384  Tw (1   Retrieving Relevant Documents ) Tj146.25 0  TD 0  Tc -0.252  Tw ( ) Tj-160.5 -13.5  TD /F1 9  Tf( ) Tj0 -13.5  TD 0.2579  Tc 0.8651  Tw (The document retrieval module retrieves documents relevant to the question. The document ) Tj0 -12.75  TD 0.2486  Tc 0.9994  Tw (retrieval system is basically implemented based on the OKAPI ranking. However, we assign ) Tj0 -13.5  TD 0.255  Tc 3.618  Tw (different weights to the question words ac) Tj198 0  TD 0.1928  Tc 4.0552  Tw (cording to their part) Tj93 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.372  Tc (of) Tj8.25 0  TD 0.003  Tc (-) Tj2.25 0  TD 0.2006  Tc 4.4224  Tw (speeches. When the) Tj0  Tc 1.248  Tw ( ) Tj-304.5 -14.25  TD 0.2483  Tc 0  Tw (part) Tj15.75 0  TD 0.003  Tc (-) Tj3.75 0  TD 1.122  Tc (of) Tj7.5 0  TD 0.003  Tc (-) Tj3 0  TD 0.2554  Tc 1.5083  Tw (speech of a question word is proper noun, then the weight of the question word is ) Tj-30 -13.5  TD -0.0869  Tc -0.2901  Tw (doubled so that the documents with the same proper noun are highly ranked.) Tj295.5 0  TD 0  Tc -0.252  Tw ( ) TjETendstream
-endobj
-22 0 obj
-8526
-endobj
-20 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 12 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 21 0 R
->>
-endobj
-24 0 obj
-<<
-/Length 25 0 R
->>
-stream
-BT105.75 676.5  TD0 0 0 rg /F0 9  Tf-0.3266  Tc 1.2746  Tw (2.2.2   Selecting Candidate Answers) Tj149.25 0  TD 0  Tc -0.252  Tw ( ) Tj-149.25 -13.5  TD /F1 9  Tf( ) Tj0 -14.25  TD 0.1779  Tc 1.0701  Tw (We try to ) Tj43.5 0  TD 0.2011  Tc 0.8594  Tw (select several candidate answers from top 10 ranked documents according to their ) Tj-43.5 -13.5  TD -0.1267  Tc 0  Tw (part) Tj15 0  TD 0.003  Tc (-) Tj3 0  TD 0.372  Tc (of) Tj6.75 0  TD 0.003  Tc (-) Tj3 0  TD -0.058  Tc -0.944  Tw (speeches. ) Tj45 0  TD 0  Tc -0.252  Tw ( ) Tj-72.75 -12.75  TD 0.1744  Tc 3.0236  Tw (As shown in table 3, we manually classify semantic categories of a question and their ) Tj0 -13.5  TD 0.2335  Tc -0.4855  Tw (corresponding part) Tj78.75 0  TD 0.003  Tc 0  Tw (-) Tj3.75 0  TD 0.372  Tc (of) Tj7.5 0  TD 0.003  Tc (-) Tj3 0  TD 0.2789  Tc 0.4334  Tw (speeches. With one or more semantic categories o) Tj219 0  TD 0.2164  Tc 0.5816  Tw (f a question, we can ) Tj-312 -13.5  TD 0.1899  Tc 1.0581  Tw (expect the part) Tj65.25 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.372  Tc (of) Tj8.25 0  TD 0.003  Tc (-) Tj2.25 0  TD 0.252  Tc 1.1835  Tw (speeches of candidate answers by using table 3, and then select several ) Tj-78.75 -13.5  TD -0.1085  Tc -0.2268  Tw (candidate answers from top ranked documents based on their part) Tj257.25 0  TD 0.003  Tc 0  Tw (-) Tj2.25 0  TD 0.372  Tc (of) Tj7.5 0  TD 0.003  Tc (-) Tj3 0  TD 0.1087  Tc (speeches.) Tj40.5 0  TD 0  Tc -0.252  Tw ( ) Tj-310.5 -14.25  TD 0.2894  Tc 1.074  Tw (In fact, the POS tagger does not tag properly to the word whose par) Tj303.75 0  TD -0.252  Tc 0  Tw (t) Tj2.25 0  TD 0.003  Tc (-) Tj3 0  TD 1.122  Tc (of) Tj7.5 0  TD 0.003  Tc (-) Tj3 0  TD 0.2642  Tc 1.2338  Tw (speech is cardinal ) Tj-319.5 -12.75  TD 0.2419  Tc -0.3175  Tw (number. So, we also select the word including a number in its string as candidate answers when ) Tj0 -13.5  TD 0.2273  Tc 0.5707  Tw (the semantic categories of a ) Tj124.5 0  TD 0.06  Tc 0  Tw (question) Tj36 0  TD 0.2219  Tc 0.6094  Tw ( expects cardinal number for its candidate answers. For ) Tj-160.5 -13.5  TD 0.2001  Tc 1.905  Tw (example, the word $600,000 can be a candidat) Tj209.25 0  TD 0.1723  Tc 1.8257  Tw (e answer when the semantic category of a ) Tj-209.25 -13.5  TD -0.0933  Tc -0.3632  Tw (question is FINANCIAL LOSS, because it contains a number in its string.) Tj278.25 0  TD 0  Tc -0.252  Tw ( ) Tj-278.25 -13.5  TD ( ) Tj26.25 -19.5  TD /F1 8.25  Tf-0.0138  Tc 4.7703  Tw (COUNTRY, CITY, CAPITAL, PENINSULA, ISLAND, CONTINENT,) Tj0  Tc -0.0435  Tw ( ) Tj0 -12  TD -0.7886  Tc 0.4451  Tw (PROVINCE, MOUNTAIN, MOUNTAIN_PEAK, OCEAN, RIVER, ) Tj199.5 0  TD -0.125  Tc 0  Tw (\205\205\205) Tj12.75 0  TD 0  Tc -0.0435  Tw ( ) Tj78 6.75  TD -0.3976  Tc 0.3541  Tw (Proper Noun) Tj42.75 0  TD 0  Tc -0.0435  Tw ( ) TjET126.75 495 0.75 0.75 re f126.75 495 0.75 0.75 re f127.5 495 276 0.75 re f403.5 495 0.75 0.75 re f404.25 495 78 0.75 re f482.25 495 0.75 0.75 re f482.25 495 0.75 0.75 re f126.75 459.75 0.75 35.25 re f403.5 459.75 1.5 35.25 re f482.25 459.75 0.75 35.25 re fBT132 448.5  TD-0.0567  Tc 1.1382  Tw (COMPOUND, MATERIAL, DI) Tj109.5 0  TD 0.0555  Tc 0.651  Tw (SEASE, SORT, WORD, BOOK, CINEMA, ) Tj-109.5 -12  TD -0.7507  Tc 0.7072  Tw (MOVIE, MUSIC, ) Tj52.5 0  TD -0.125  Tc 0  Tw (\205\205\205) Tj12.75 0  TD 0  Tc -0.0435  Tw ( ) Tj225 12  TD -0.3976  Tc 0.3541  Tw (Proper Noun) Tj42.75 0  TD 0  Tc -0.0435  Tw ( ) Tj-30.75 -12  TD -0.4294  Tc 0  Tw (Noun) Tj18 0  TD 0  Tc -0.0435  Tw ( ) TjET126.75 459 0.75 0.75 re f127.5 459 276 0.75 re f403.5 459 1.5 0.75 re f405 459 77.25 0.75 re f482.25 459 0.75 0.75 re f126.75 429.75 0.75 29.25 re f403.5 429.75 1.5 29.25 re f482.25 429.75 0.75 29.25 re fBT132 419.25  TD0.0377  Tc 1.2688  Tw (NUMBER, LENGTH, LINEAR_UNIT, MAGNITUDE_RELATION, TIME, ) Tj0 -12  TD -0.7551  Tc 0.7116  Tw (TIME_PERIOD, YEAR , MONETARY_VALUE, ) Tj148.5 0  TD 0.375  Tc 0  Tw (\205\205) Tj8.25 0  TD -0.0435  Tc (..) Tj4.5 0  TD 0  Tc -0.0435  Tw ( ) Tj122.25 5.25  TD -0.4858  Tc -0.3077  Tw (Cardinal Number) Tj55.5 0  TD 0  Tc -0.0435  Tw ( ) TjET126.75 429 0.75 0.75 re f127.5 429 276 0.75 re f403.5 429 1.5 0.75 re f405 429 77.25 0.75 re f482.25 429 0.75 0.75 re f126.75 399.75 0.75 29.25 re f126.75 399 0.75 0.75 re f126.75 399 0.75 0.75 re f127.5 399 276 0.75 re f403.5 399.75 1.5 29.25 re f403.5 399 0.75 0.75 re f404.25 399 78 0.75 re f482.25 399.75 0.75 29.25 re f482.25 399 0.75 0.75 re f482.25 399 0.75 0.75 re fBT305.25 390.75  TD/F1 9  Tf-0.252  Tw ( ) Tj-141.75 -13.5  TD -0.1044  Tc -0.2226  Tw (Table 3: POS of candidate answers corresponding to semantic categories ) Tj288 0  TD 0  Tc -0.252  Tw ( ) Tj-146.25 -13.5  TD ( ) Tj-199.5 -13.5  TD /F0 9  Tf-0.2802  Tc 0.6844  Tw (2.2.3   Determining Semantic Categories of Candidate answers) Tj255.75 0  TD 0  Tc -0.252  Tw ( ) Tj-255.75 -13.5  TD /F1 9  Tf( ) Tj0 -13.5  TD 0.2616  Tc 0.3971  Tw (We also use WordNet to determine the semantic categories of a candidate answer. Semantic ) TjT* 0.2578  Tc -0.2893  Tw (categories of a candidate answer are also represented by a category vector in the same way as ) Tj0 -12.75  TD 0.1974  Tc -0.4494  Tw (the questio) Tj45.75 0  TD 0.2014  Tc -0.2034  Tw (n category vector. ) Tj78 0  TD 0.2714  Tc -0.2507  Tw (The vector consists of 46 categories manually chosen from a pool ) Tj-123.75 -14.25  TD -0.1775  Tc -0.0745  Tw (of words in WordNet.) Tj80.25 0  TD 0  Tc -0.252  Tw ( ) Tj-80.25 -13.5  TD 0.2382  Tc -0.3964  Tw (The system obtains a set of hypernyms and synonyms of a candidate answer by using WordNet. ) Tj0 -13.5  TD 0.2793  Tc 0.2188  Tw (If the set of hypernyms and synonyms of a word contains the ) Tj263.25 0  TD 0.2866  Tc 0.2114  Tw (words used as categories in the ) Tj-263.25 -13.5  TD -0.1251  Tc -0.3948  Tw (category vector, the system sets the values of those categories in the vector to 1.) Tj306 0  TD 0  Tc -0.252  Tw ( ) Tj-306 -12.75  TD 0.1865  Tc 1.0615  Tw (Some categories used in the system can be grouped into the classes called ) Tj332.25 0  TD /F2 9  Tf0.1662  Tc 0.3318  Tw (similar category ) Tj-332.25 -13.5  TD 0.1063  Tc 0  Tw (classes) Tj31.5 0  TD /F1 9  Tf0.2478  Tc -0.3498  Tw (, as shown in table 4. If the category of ) Tj163.5 0  TD 0.2164  Tc -0.135  Tw (the candidate answer belongs to one of the class ) Tj-195 -14.25  TD 0.1463  Tc -0.1483  Tw (of similar category ) Tj79.5 0  TD 0.2134  Tc 0  Tw (classes) Tj32.25 0  TD 0.1411  Tc 0.4507  Tw (, other categories in the same class are also set to 1 in the vector of ) Tj-111.75 -13.5  TD 0.1466  Tc 4.7014  Tw (that word. For example, the word) Tj0  Tc 0.498  Tw ( ) Tj168 0  TD /F2 9  Tf0.3735  Tc 0  Tw (cost) Tj16.5 0  TD /F1 9  Tf0.2255  Tc 4.5225  Tw ( has FINANCIAL_LOSS as its hypernym and) Tj0  Tc 1.248  Tw ( ) Tj-184.5 -13.5  TD 0.1643  Tc 0.7087  Tw (FINANCIAL_LOSS belongs to one o) Tj153.75 0  TD 0.143  Tc 0.58  Tw (f the similar category classes. Thus, all other categories in ) Tj-153.75 -12.75  TD 0.2529  Tc 0.5264  Tw (the same class: MONETARY_VALUE, MONETARY_UNIT, ECONOMIC_CONDITION are also ) Tj0 -13.5  TD -0.0026  Tc -0.2494  Tw (set to 1.) Tj30.75 0  TD 0  Tc -0.252  Tw ( ) Tj-30.75 -13.5  TD ( ) Tj0 -14.25  TD ( ) TjETendstream
-endobj
-25 0 obj
-7373
-endobj
-23 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 12 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 24 0 R
->>
-endobj
-27 0 obj
-<<
-/Length 28 0 R
->>
-stream
-q 181.5 674.25 247.5 10.5 re W n BT190.5 677.25  TD0 0 0 rg /F1 8.25  Tf-0.8122  Tc 0  Tw (MOUNTAIN) TjETQ q 181.5 674.25 247.5 10.5 re W n BT228 677.25  TD0 0 0 rg /F1 8.25  Tf0  Tc -0.0435  Tw ( ) TjETQ q 181.5 674.25 247.5 10.5 re W n BT257.25 677.25  TD0 0 0 rg /F1 8.25  Tf0  Tc -0.0435  Tw ( ) TjETQ q 181.5 674.25 247.5 10.5 re W n BT321.75 677.25  TD0 0 0 rg /F1 8.25  Tf-0.7573  Tc 0  Tw (MOUNTAIN_PEAK) TjETQ q 181.5 674.25 247.5 10.5 re W n BT382.5 677.25  TD0 0 0 rg /F1 8.25  Tf0  Tc -0.0435  Tw ( ) TjETQ q 181.5 674.25 247.5 10.5 re W n BT182.25 667.5  TD0 0 0 rg /F1 8.25  Tf0  Tc -0.0435  Tw ( ) TjETQ 0 0 0 rg 180.75 684 0.75 0.75 re f180.75 684 0.75 0.75 re f181.5 684 247.5 0.75 re f429 684 0.75 0.75 re f429 684 0.75 0.75 re f180.75 673.5 0.75 10.5 re f429 673.5 0.75 10.5 re fBT190.5 663.75  TD/F1 8.25  Tf-0.6708  Tc 0  Tw (MONETARY_VALUE) Tj69.75 0  TD 0  Tc -0.0435  Tw ( ) Tj61.5 0  TD -0.7567  Tc 0  Tw (MONETARY_UNIT) Tj60.75 0  TD 0  Tc -0.0435  Tw ( ) Tj-192 -9.75  TD -0.6266  Tc 0  Tw (FINANTIAL_LOSS) Tj60.75 0  TD 0  Tc -0.0435  Tw ( ) Tj70.5 0  TD -0.9724  Tc 0  Tw (ECONOMIC_CONDITION) Tj79.5 0  TD 0  Tc -0.0435  Tw ( ) TjET180.75 672.75 0.75 0.75 re f181.5 672.75 247.5 0.75 re f429 672.75 0.75 0.75 re f180.75 648 0.75 24.75 re f429 648 0.75 24.75 re fBT190.5 639.75  TD-1.1773  Tc 0  Tw (TIME) Tj15.75 0  TD 0  Tc -0.0435  Tw ( ) Tj3.75 0  TD ( ) Tj4.5 0  TD ( ) Tj3.75 0  TD 1.9815  Tw (          ) Tj42.75 0  TD 1.9757  Tw (             ) Tj54.75 0  TD -1.0615  Tc 0  Tw (TIME_PERIOD) Tj45 0  TD 0  Tc 2.0565  Tw (     ) Tj21 0  TD -0.0435  Tw ( ) Tj-191.25 -9  TD -0.9215  Tc 0  Tw (TIME_UNIT) Tj35.25 0  TD 0  Tc -0.0435  Tw ( ) TjET180.75 647.25 0.75 0.75 re f181.5 647.25 247.5 0.75 re f429 647.25 0.75 0.75 re f180.75 625.5 0.75 21.75 re f429 625.5 0.75 21.75 re fBT190.5 618  TD-1.2224  Tc 0  Tw (CINEMA) Tj27 0  TD 0  Tc -0.0435  Tw ( ) Tj103.5 0  TD -0.9679  Tc 0  Tw (MOVIE) Tj22.5 0  TD 0  Tc -0.0435  Tw ( ) TjET180.75 624.75 0.75 0.75 re f181.5 624.75 247.5 0.75 re f429 624.75 0.75 0.75 re f180.75 614.25 0.75 10.5 re f429 614.25 0.75 10.5 re fBT190.5 606.75  TD-0.827  Tc 0  Tw (LENGTH) Tj27.75 0  TD 0  Tc -0.0435  Tw ( ) Tj39 0  TD ( ) Tj64.5 0  TD -0.853  Tc 0  Tw (LINEAR_UNIT) Tj45 0  TD 0  Tc -0.0435  Tw ( ) TjET180.75 613.5 0.75 0.75 re f181.5 613.5 247.5 0.75 re f429 613.5 0.75 0.75 re f180.75 603 0.75 10.5 re f429 603 0.75 10.5 re fBT190.5 595.5  TD-1.0924  Tc 0  Tw (WORD) Tj22.5 0  TD 0  Tc -0.0435  Tw ( ) Tj6 0  TD ( ) Tj102 0  TD -0.7086  Tc 0  Tw (NAME) Tj21 0  TD 0  Tc -0.0435  Tw ( ) TjET180.75 602.25 0.75 0.75 re f181.5 602.25 247.5 0.75 re f429 602.25 0.75 0.75 re f180.75 592.5 0.75 9.75 re f429 592.5 0.75 9.75 re fBT190.5 585  TD-0.4123  Tc 0  Tw (CAPITAL) Tj30 0  TD 0  Tc -0.0435  Tw ( ) Tj36.75 0  TD ( ) Tj64.5 0  TD -0.7609  Tc 0  Tw (CITY) Tj16.5 0  TD 0  Tc -0.0435  Tw ( ) TjET180.75 591.75 0.75 0.75 re f181.5 591.75 247.5 0.75 re f429 591.75 0.75 0.75 re f180.75 581.25 0.75 10.5 re f180.75 580.5 0.75 0.75 re f180.75 580.5 0.75 0.75 re f181.5 580.5 247.5 0.75 re f429 581.25 0.75 10.5 re f429 580.5 0.75 0.75 re f429 580.5 0.75 0.75 re fBT305.25 574.5  TD/F1 7.5  Tf0.165  Tw ( ) Tj-64.5 -10.5  TD /F1 9  Tf-0.0959  Tc -0.5311  Tw (Table 4: Similar category classes) Tj128.25 0  TD 0  Tc -0.252  Tw ( ) Tj-263.25 -9  TD /F1 7.5  Tf0.165  Tw ( ) Tj0 -12.75  TD /F1 9  Tf0.2827  Tc -0.4347  Tw (In some cases, two or more words have one category. In the case of words ) Tj316.5 0  TD /F2 9  Tf0.1423  Tc 0.3557  Tw (New York) Tj41.25 0  TD /F1 9  Tf0.2193  Tc -0.0963  Tw (, although ) Tj-357.75 -13.5  TD 0.1322  Tc 0.3658  Tw (the category of ) Tj65.25 0  TD 0.2494  Tc 0.2486  Tw (New York) Tj40.5 0  TD 0  Tc -0.252  Tw ( ) Tj2.25 0  TD 0.1539  Tc 0.2369  Tw (is CITY by using WordNet, each word ) Tj159.75 0  TD /F2 9  Tf0.248  Tc 0  Tw (new) Tj16.5 0  TD /F1 9  Tf-0.004  Tc 0.127  Tw ( and ) Tj21 0  TD /F2 9  Tf0.0615  Tc 0  Tw (York) Tj20.25 0  TD /F1 9  Tf0.3468  Tc -0.5988  Tw ( doesn) Tj26.25 0  TD 0  Tc 0  Tw (\222) Tj4.5 0  TD 0.0527  Tc 0.1953  Tw (t belong to ) Tj-356.25 -13.5  TD 0.2167  Tc -0.0716  Tw (the CITY category. To solve this problem, we consider not only the current keyword but also the ) Tj0 -14.25  TD 0.1607  Tc 1.8373  Tw (adjacent words of the current keyword in assigning keyword categories. If there are proper ) Tj0 -12.75  TD 0.123  Tc 0  Tw (ca) Tj10.5 0  TD 0.2014  Tc 1.2073  Tw (tegories for two adjacent words in WordNet, the categories are assigned to the candidate ) Tj-10.5 -13.5  TD -0.2156  Tc 0  Tw (answer.) Tj31.5 0  TD 0  Tc -0.252  Tw ( ) Tj-31.5 -13.5  TD 0.2448  Tc 1.6032  Tw (There are many named entities which are unknown in WordNet. In order to determine the ) Tj0 -13.5  TD 0.2071  Tc -0.2091  Tw (semantic categories of the unknown named entities, we try to use the sema) Tj312.75 0  TD 0.2481  Tc -0.5001  Tw (ntic categories of the ) Tj-312.75 -13.5  TD 0.2093  Tc 1.7418  Tw (adjacent word of the unknown named entity as a clue. As a simple example, consider the ) Tj0 -13.5  TD 0.105  Tc -0.357  Tw (phrase: ) Tj33.75 0  TD /F2 9  Tf0.234  Tc 0.014  Tw (President Kim said. ) Tj84.75 0  TD /F1 9  Tf0.2292  Tc -0.2312  Tw (The category of the named entity ) Tj140.25 0  TD /F2 9  Tf-0.416  Tc 0  Tw (Kim) Tj16.5 0  TD /F1 9  Tf0.164  Tc 0.334  Tw ( can) Tj17.25 0  TD 0  Tc 0  Tw (\222) Tj3.75 0  TD 0.1854  Tc 0.1626  Tw (t be determined by using ) Tj-296.25 -13.5  TD 0.2358  Tc 0.5434  Tw (WordNet. But, the category of the preceding word ) Tj216.75 0  TD /F2 9  Tf0.082  Tc 0  Tw (Pre) Tj14.25 0  TD 0.248  Tc (sident) Tj25.5 0  TD /F1 9  Tf0.2689  Tc 0.3541  Tw ( can be determined as PERSON, ) Tj-256.5 -13.5  TD -0.1569  Tc -0.4165  Tw (and the category of unknown named entity ) Tj163.5 0  TD /F2 9  Tf-0.416  Tc 0  Tw (Kim) Tj15.75 0  TD /F1 9  Tf-0.0644  Tc -0.509  Tw ( can be also determined as PERSON. ) Tj149.25 0  TD 0  Tc -0.252  Tw ( ) Tj-328.5 -13.5  TD 0.2616  Tc 1.0305  Tw (In the case that several words are connected by hyphens, or a number and a unit together ) Tj0 -13.5  TD 0.2482  Tc -0.3335  Tw (comprise one word, we have to tokenize them as ) Tj205.5 0  TD 0.5595  Tc 0  Tw (sepa) Tj20.25 0  TD 0.2483  Tc (rate) Tj17.25 0  TD 0.1241  Tc 0.1864  Tw ( words. We divide ) Tj75.75 0  TD /F2 9  Tf0.4987  Tc 0  Tw (92km) Tj23.25 0  TD /F1 9  Tf0.186  Tc 0.062  Tw (, for example, ) Tj-342 -12.75  TD 0.123  Tc -0.375  Tw (as ) Tj12 0  TD /F2 9  Tf0.996  Tc 0  Tw (92) Tj11.25 0  TD /F1 9  Tf0.246  Tc -0.123  Tw ( and ) Tj21 0  TD /F2 9  Tf0.3315  Tc -0.5835  Tw (km, and) Tj33.75 0  TD /F1 9  Tf0.1215  Tc 0.3765  Tw ( then ) Tj23.25 0  TD 0.1373  Tc 0  Tw (determine) Tj42 0  TD 0.225  Tc 0.0855  Tw ( a category of ) Tj59.25 0  TD /F2 9  Tf0.4987  Tc 0  Tw (92km) Tj23.25 0  TD /F1 9  Tf0.2727  Tc -0.2435  Tw (. Table 5 shows some examples of words ) Tj-225.75 -14.25  TD -0.0722  Tc -0.1798  Tw (and their corresponding categories.) Tj137.25 0  TD 0  Tc -0.252  Tw ( ) Tj4.5 0  TD ( ) Tj-141.75 -11.25  TD /F1 7.5  Tf0.165  Tw ( ) TjETq 156.75 313.5 147 10.5 re W n BT198 315  TD/F1 9  Tf-0.1522  Tc -0.0998  Tw (President Steven) TjETQ q 156.75 313.5 147 10.5 re W n BT263.25 315  TD/F1 9  Tf-0.252  Tw ( ) TjETQ BT364.5 315.75  TD/F1 8.25  Tf-0.9316  Tc 0  Tw (PERSON) Tj29.25 0  TD 0  Tc -0.0435  Tw ( ) TjET156 323.25 0.75 0.75 re f156 323.25 0.75 0.75 re f156.75 323.25 147 0.75 re f303.75 323.25 0.75 0.75 re f304.5 323.25 149.25 0.75 re f453.75 323.25 0.75 0.75 re f453.75 323.25 0.75 0.75 re f156 312.75 0.75 10.5 re f303.75 312.75 0.75 10.5 re f453.75 312.75 0.75 10.5 re fq 156.75 302.25 147 10.5 re W n BT212.25 303.75  TD/F1 9  Tf-0.2863  Tc 0.0343  Tw (New York) TjETQ q 156.75 302.25 147 10.5 re W n BT249 303.75  TD/F1 9  Tf-0.252  Tw ( ) TjETQ BT371.25 304.5  TD-0.7609  Tc 0  Tw (CITY) Tj15.75 0  TD 0  Tc -0.0435  Tw ( ) TjET156 312 0.75 0.75 re f156.75 312 147 0.75 re f303.75 312 0.75 0.75 re f304.5 312 149.25 0.75 re f453.75 312 0.75 0.75 re f156 301.5 0.75 10.5 re f303.75 301.5 0.75 10.5 re f453.75 301.5 0.75 10.5 re fq 156.75 291 147 10.5 re W n BT219 292.5  TD/F1 9  Tf-0.2526  Tc 0  Tw (Seoul) TjETQ q 156.75 291 147 10.5 re W n BT241.5 292.5  TD/F1 9  Tf-0.252  Tw ( ) TjETQ BT371.25 293.25  TD-0.7609  Tc 0  Tw (CITY) Tj15.75 0  TD 0  Tc -0.0435  Tw ( ) TjET156 300.75 0.75 0.75 re f156.75 300.75 147 0.75 re f303.75 300.75 0.75 0.75 re f304.5 300.75 149.25 0.75 re f453.75 300.75 0.75 0.75 re f156 290.25 0.75 10.5 re f303.75 290.25 0.75 10.5 re f453.75 290.25 0.75 10.5 re fq 156.75 279.75 147 10.5 re W n BT222 281.25  TD/F1 9  Tf-0.335  Tc 0  Tw (92m) TjETQ q 156.75 279.75 147 10.5 re W n BT240 281.25  TD/F1 9  Tf-0.252  Tw ( ) TjETQ BT341.25 282  TD-0.8222  Tc 0.0287  Tw (LENGTH, ) Tj34.5 0  TD 0  Tc 1.7065  Tw (   ) Tj12 0  TD -0.9579  Tc 0  Tw (NUMBER) Tj30 0  TD 0  Tc -0.0435  Tw ( ) TjET156 289.5 0.75 0.75 re f156.75 289.5 147 0.75 re f303.75 289.5 0.75 0.75 re f304.5 289.5 149.25 0.75 re f453.75 289.5 0.75 0.75 re f156 279.75 0.75 9.75 re f303.75 279.75 0.75 9.75 re f453.75 279.75 0.75 9.75 re fBT219 270.75  TD/F1 9  Tf-0.0638  Tc -0.9382  Tw (5 may) Tj23.25 0  TD 0  Tc -0.252  Tw ( ) Tj90.75 0.75  TD /F1 8.25  Tf-1.1773  Tc 0  Tw (TIME) Tj15.75 0  TD -0.087  Tc (_) Tj4.5 0  TD -0.2527  Tc (P) Tj3.75 0  TD -0.8755  Tc (ERIOD) Tj21 0  TD -0.0435  Tc 1.5  Tw ( ,   ) Tj17.25 0  TD -0.9579  Tc 0  Tw (NUMBER) Tj29.25 0  TD 0  Tc -0.0435  Tw ( ) TjET156 279 0.75 0.75 re f156.75 279 147 0.75 re f303.75 279 0.75 0.75 re f304.5 279 149.25 0.75 re f453.75 279 0.75 0.75 re f156 267 0.75 12 re f303.75 267 0.75 12 re f453.75 267 0.75 12 re fBT212.25 246  TD/F1 9  Tf-0.1912  Tc 0  Tw ($600,000) Tj36.75 0  TD 0  Tc -0.252  Tw ( ) Tj90.75 12.75  TD /F1 8.25  Tf-0.9844  Tc 0  Tw (ECONOMIC) Tj36.75 0  TD -0.087  Tc (_) Tj4.5 0  TD -0.9767  Tc (CONDITION) Tj38.25 0  TD 0  Tc -0.0435  Tw ( ) Tj-70.5 -12  TD -0.6211  Tc 0  Tw (FINANCIAL) Tj37.5 0  TD -0.087  Tc (_) Tj3.75 0  TD -0.4402  Tc (LOSS) Tj19.5 0  TD 0  Tc -0.0435  Tw ( ) Tj-65.25 -12  TD -0.8753  Tc 0  Tw (MONETARY) Tj41.25 0  TD -0.087  Tc (_) Tj3.75 0  TD -0.6104  Tc (VALUE) Tj24.75 0  TD 0  Tc -0.0435  Tw ( ) TjET156 266.25 0.75 0.75 re f156.75 266.25 147 0.75 re f303.75 266.25 0.75 0.75 re f304.5 266.25 149.25 0.75 re f453.75 266.25 0.75 0.75 re f156 228.75 0.75 37.5 re f156 228 0.75 0.75 re f156 228 0.75 0.75 re f156.75 228 147 0.75 re f303.75 228.75 0.75 37.5 re f303.75 228 0.75 0.75 re f304.5 228 149.25 0.75 re f453.75 228.75 0.75 37.5 re f453.75 228 0.75 0.75 re f453.75 228 0.75 0.75 re fBT305.25 222  TD/F1 7.5  Tf0.165  Tw ( ) Tj-105 -12.75  TD /F1 9  Tf-0.1897  Tc -0.0623  Tw (Table 5: S) Tj39 0  TD -0.1127  Tc -0.2643  Tw (ome examples of words and their categories) Tj171 0  TD 0  Tc -0.252  Tw ( ) Tj-304.5 -11.25  TD /F1 7.5  Tf0.165  Tw ( ) Tj0 -12.75  TD /F0 9  Tf-0.3763  Tc 1.3243  Tw (2.3   Ranking Candidate Answers) Tj137.25 0  TD 0  Tc -0.252  Tw ( ) Tj-137.25 -13.5  TD ( ) Tj0 -13.5  TD /F1 9  Tf0.1426  Tc 0.7645  Tw (We use three factors to rank candidate answers: average distance weight, co) Tj325.5 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.1061  Tc 0.3919  Tw (occurrence rati) Tj63 0  TD -0.003  Tc -0.249  Tw (o, ) Tj-391.5 -13.5  TD 0.2195  Tc 1.1439  Tw (and semantic category similarity. Candidate answers are ranked according to the product of ) Tj0 -13.5  TD 0.1213  Tc 0.7858  Tw (these three factors. By doing that, both semantic category similarity and co) Tj315.75 0  TD 0.003  Tc 0  Tw (-) Tj3.75 0  TD 0.2044  Tc -0.0814  Tw (occurrence density ) Tj-319.5 -13.5  TD -0.1  Tc -0.302  Tw (are reflected in computing the similarity between a question and a) Tj252.75 0  TD -0.1579  Tc -0.8441  Tw (n answer.) Tj37.5 0  TD 0  Tc -0.252  Tw ( ) TjETendstream
-endobj
-28 0 obj
-12146
-endobj
-26 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
-/F2 12 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 27 0 R
->>
-endobj
-31 0 obj
-<<
-/Length 32 0 R
->>
-stream
-BT105.75 676.5  TD0 0 0 rg /F0 9  Tf-0.3095  Tc 0.9325  Tw (2.3.1   Average distance weight ) Tj135 0  TD /F1 9  Tf0  Tc -0.252  Tw ( ) Tj-135 -13.5  TD 0.2016  Tc -0.2661  Tw (By considering the phenomena that an answer to some questions tends to appear in a document ) Tj0 -14.25  TD 0.2197  Tc -0.1187  Tw (locally close to the same words occurred in the question, we use the average distance weight to ) Tj0 -13.5  TD 0.2037  Tc -0.4557  Tw (measure the proximity. Di) Tj105.75 0  TD 0.2262  Tc -0.2054  Tw (stance weight means the degree of proximity between the keywords of ) Tj-105.75 -12.75  TD 0.1581  Tc -0.0351  Tw (the candidate answer and words in the set of question words. It varies between 0 and 1. Average ) Tj0 -13.5  TD 0.1554  Tc 2.5926  Tw (distance weight is determined by computing the average of distance weight between one ) TjT* 0.081  Tc 0  Tw (candid) Tj27.75 0  TD 0.2927  Tc -0.3304  Tw (ate word and all question words in the fixed number of words around a ) Tj297.75 0  TD 0.0807  Tc 0  Tw (candidate) Tj40.5 0  TD 0.1655  Tc 0.3325  Tw ( answer ) Tj-366 -13.5  TD -0.1272  Tc -0.1247  Tw (in a document. ) Tj61.5 0  TD 0  Tc -0.252  Tw ( ) Tj-61.5 -14.25  TD /F0 9  Tf( ) Tj0 -12.75  TD -0.2876  Tc 2.0356  Tw (2.3.2   Co) Tj42.75 0  TD 0.003  Tc 0  Tw (-) Tj2.25 0  TD -0.2348  Tc -0.3922  Tw (occurrence ratio ) Tj71.25 0  TD 0  Tc -0.252  Tw ( ) Tj-116.25 -13.5  TD /F1 9  Tf0.1687  Tc 0.0614  Tw (Although two candidate answers have the same value of average distance weight, one clustered ) Tj0 -13.5  TD 0.2703  Tc -0.2008  Tw (with many words in the set of ) Tj124.5 0  TD 0.2249  Tc 0  Tw (question words must have a higher score than the other clustered ) Tj-124.5 -15.75  TD -0.0905  Tc -0.2769  Tw (with just a few words. This is reflected in the following formula of ) Tj259.5 -2.25  TD /F3 6.75  Tf0.3735  Tc 0  Tw (i) Tj-6.75 2.25  TD /F3 11.25  Tf-0.1237  Tc (R) Tj11.25 0  TD /F1 9  Tf-0.252  Tc (:) Tj2.25 0  TD 0  Tc -0.252  Tw ( ) Tj-266.25 -17.25  TD ( ) TjET0.75 w 1 J 1 j 0 0 0 RG 201.75 475.5 m 429.75 475.5 l S BT385.5 464.25  TD/F4 10.5  Tf0.375  Tw ( ) Tj-18 0  TD -0.0203  Tc 0  Tw (ords) Tj-47.25 0  TD 0.0372  Tc 0.3378  Tw (question w) Tj-2.25 0  TD 0  Tc 0.375  Tw ( ) Tj-9.75 0  TD 0.1267  Tc 0  Tw (of) Tj-37.5 0  TD 0.0152  Tc 0.3598  Tw (Number ) Tj-5.25 0  TD 0  Tc 0.375  Tw (  ) Tj-22.5 0  TD 0.0669  Tc 0  Tw (Total) Tj183 15  TD 0  Tc 0.375  Tw ( ) Tj-32.25 0  TD 0.0493  Tc 0  Tw (passage) Tj-3 0  TD 0  Tc 0.375  Tw ( ) Tj-23.25 0  TD -0.15  Tc 0.525  Tw (in the) Tj-5.25 0  TD 0  Tc 0.375  Tw (  ) Tj-37.5 0  TD -0.0493  Tc 0  Tw (appeared) Tj-8.25 0  TD 0  Tc 0.375  Tw (   ) Tj-18 0  TD -0.0203  Tc 0  Tw (ords) Tj-46.5 0  TD 0.0372  Tc 0.3378  Tw (question w) Tj-2.25 0  TD 0  Tc 0.375  Tw ( ) Tj-9.75 0  TD 0.1267  Tc 0  Tw (of) Tj-37.5 0  TD 0.0152  Tc 0.3598  Tw (Number ) Tj-9.75 -6  TD /F5 10.5  Tf0.2355  Tc 0  Tw (=) Tj-6 -3  TD /F3 6  Tf-0.168  Tc (i) Tj-6 3  TD /F3 10.5  Tf0.3345  Tc (R) Tj251.25 0.75  TD /F0 10.5  Tf0  Tc 1.9024  Tw (       ) Tj33.75 0  TD /F1 9  Tf-0.252  Tw ( ) Tj-360 -24.75  TD ( ) Tj0 -13.5  TD /F0 9  Tf-0.2532  Tc 2.2512  Tw (2.3.3   ) Tj32.25 0  TD -0.2613  Tc -0.3657  Tw (Semantic category similarity) Tj114 0  TD 0  Tc -0.252  Tw ( ) Tj-146.25 -14.25  TD /F1 9  Tf0.1228  Tc 2.6253  Tw (Average distance weight and) Tj127.5 0  TD -0.0528  Tc 3.5508  Tw ( the co) Tj33.75 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.1539  Tc 2.6879  Tw (occurrence ratio are not able to reflect the semantic) Tj0  Tc -0.252  Tw ( ) Tj-164.25 -12.75  TD 0.1426  Tc 0.4804  Tw (similarities between a question and a candidate answer. Thus, we define the ) Tj324 0  TD /F2 9  Tf0.0968  Tc 1.1512  Tw (category similarity) Tj75 0  TD /F1 9  Tf0  Tc -0.252  Tw ( ) Tj-399 -13.5  TD 0.2349  Tc -0.2056  Tw (between a question category vector and a candidate answer category vector. It can have one of ) Tj0 -13.5  TD 0.0608  Tc 0  Tw (thre) Tj15.75 0  TD 0.2584  Tc -0.3698  Tw (e values: high, middle, or low. When two categories are same or similar, the category vector ) Tj-15.75 -13.5  TD -0.0589  Tc -0.1931  Tw (similarity is high. ) Tj67.5 0  TD -0.1954  Tc -0.1101  Tw (When there is no relevance to each other, the category vector similarity is low. ) Tj297.75 0  TD 0  Tc -0.252  Tw ( ) Tj-365.25 -13.5  TD ( ) Tj0 -15  TD /F0 10.5  Tf-0.0773  Tc 1.3583  Tw (3.   Experimental Results ) Tj134.25 0  TD 0  Tc 0.081  Tw ( ) Tj-134.25 -13.5  TD /F1 9  Tf-0.252  Tw ( ) Tj0 -13.5  TD -0.0389  Tc -0.2131  Tw (Our system uses the question set) Tj130.5 0  TD -0.0701  Tc -0.2569  Tw ( used in TREC8 as a training data. It uses ) Tj162 0  TD -0.2512  Tc -0.0008  Tw (TreeTagger \() Tj49.5 0  TD -0  Tc -0.2515  Tw (Helmut ) Tj-342 -13.5  TD -0.001  Tc 0  Tw (Schmid) Tj30 0  TD -0.1388  Tc -0.2203  Tw (\) as a POS tagger and WordNet as a thesaurus. The document retrieval system ) Tj-30 -12.75  TD -0.1191  Tc -0.2996  Tw (implemented by using OKAPI algorithm is used for retrieving ) Tj234 0  TD -0.0641  Tc 0  Tw (relevant) Tj30 0  TD -0.1631  Tc -0.0889  Tw ( documents. Our TREC) Tj89.25 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.246  Tc 0.252  Tw (9 ) Tj-356.25 -13.5  TD 0.0398  Tc -0.6668  Tw (results of 250) Tj53.25 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.315  Tc 0.813  Tw (byte ) Tj17.25 0  TD -0.0942  Tc -0.3623  Tw (run are shown in table 6. There are 682 questions in TREC) Tj226.5 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.0356  Tc -0.7164  Tw (9 test questions. ) Tj-303 -13.5  TD -0.042  Tc 0  Tw (Unlike) Tj26.25 0  TD -0.17  Tc -0.082  Tw ( the) Tj15.75 0  TD 0.2856  Tc -0.5376  Tw ( last year, the judgment) Tj96 0  TD 0  Tc -0.252  Tw ( ) Tj3 0  TD 0.1366  Tc -0.0671  Tw (field can be one of three values: ) Tj135 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD 0.1245  Tc -1.1265  Tw (1 \() Tj11.25 0  TD /F2 9  Tf-0.051  Tc 0  Tw (Wrong) Tj27 0  TD /F1 9  Tf0.375  Tc -1.002  Tw (\), 1 \() Tj19.5 0  TD /F2 9  Tf0.2854  Tc 0  Tw (Correct) Tj30.75 0  TD /F1 9  Tf-0.1245  Tc (\),) Tj5.25 0  TD 0  Tc -0.252  Tw ( ) Tj2.25 0  TD 0.621  Tc -0.498  Tw (and 2 ) Tj-375 -14.25  TD 0.003  Tc 0  Tw (\() Tj3 0  TD /F2 9  Tf-0.1159  Tc (Unsupported) Tj50.25 0  TD /F1 9  Tf-0.1245  Tc (\).) Tj4.5 0  TD 0  Tc -0.252  Tw ( ) Tj4.5 0  TD -0.0931  Tc 0.2161  Tw ( The Unsupported judgment ) Tj112.5 0  TD 0.252  Tc 0  Tw (i) Tj2.25 0  TD 0  Tc (s) Tj4.5 0  TD -0.252  Tw ( ) Tj2.25 0  TD -0.1523  Tc -0.0997  Tw (given to responses that would have b) Tj142.5 0  TD -0.0033  Tc -0.2487  Tw (een judged) Tj44.25 0  TD 0  Tc -0.252  Tw ( ) Tj-370.5 -13.5  TD -0.1058  Tc -0.2712  Tw (correct but, in the judge's opinion, ) Tj131.25 0  TD -0.501  Tc 0  Tw (we) Tj11.25 0  TD -0.106  Tc -0.146  Tw ( could not tell) Tj50.25 0  TD 0  Tc -0.252  Tw ( ) Tj2.25 0  TD -0.1043  Tc -0.2415  Tw (it was a correct answer from the document ) Tj-195 -12.75  TD -0.189  Tc -0.063  Tw (returned with) Tj50.25 0  TD 0  Tc -0.252  Tw ( ) Tj2.25 0  TD -0.084  Tc 0  Tw (it.) Tj6 0  TD 0  Tc -0.252  Tw ( ) Tj4.5 0  TD ( ) Tj-63 -13.5  TD -0.154  Tc -0.1605  Tw (There are two different evaluations: a strict evaluation which counting only the ) Tj297 0  TD /F2 9  Tf-0.1431  Tc 0  Tw (Correct) Tj28.5 0  TD /F1 9  Tf-0.1084  Tc -0.1436  Tw ( as right ) Tj-325.5 -13.5  TD 0.2091  Tc -0.4611  Tw (and a lenient evaluation that c) Tj123.75 0  TD 0.156  Tc -0.408  Tw (ounting both ) Tj54.75 0  TD /F2 9  Tf0.2854  Tc 0  Tw (Correct) Tj30.75 0  TD /F1 9  Tf0.246  Tc -0.123  Tw ( and ) Tj20.25 0  TD /F2 9  Tf0.2932  Tc 0  Tw (Unsupported) Tj53.25 0  TD /F1 9  Tf0.1758  Tc 0.041  Tw ( as right. The first row of the ) Tj-282.75 -13.5  TD 0.039  Tc 0.459  Tw (table 6 ) Tj30 0  TD 0.054  Tc 0  Tw (indicates) Tj37.5 0  TD 0.1345  Tc -0.3865  Tw ( the result of ) Tj54 0  TD 0.08  Tc 0  Tw (the) Tj12.75 0  TD 0.1721  Tc -0.2366  Tw ( strict evaluation and the second row indicates that of the lenient ) Tj-134.25 -14.25  TD -0.2067  Tc -0.7953  Tw (evaluation. ) Tj45.75 0  TD 0  Tc -0.252  Tw ( ) Tj-45.75 -12.75  TD ( ) Tj0 -13.5  TD ( ) TjT* ( ) TjT* ( ) TjETendstream
-endobj
-32 0 obj
-8217
-endobj
-29 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font 39 0 R
-/ProcSet 2 0 R
->>
-/Contents 31 0 R
->>
-endobj
-39 0 obj
-<<
-/F0 6 0 R
-/F1 8 0 R
-/F2 12 0 R
-/F3 33 0 R
-/F4 35 0 R
-/F5 37 0 R
->>
-endobj
-41 0 obj
-<<
-/Length 42 0 R
->>
-stream
-BT139.5 676.5  TD0 0 0 rg /F1 9  Tf-0.1727  Tc 1.7116  Tw (                                             \(Total number of test q) Tj276 0  TD -0.1175  Tc -0.1345  Tw (uestions: 682\)) Tj55.5 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 163.5 653.25 191.25 13.5 re fBT220.5 658.5  TD0 0 0 rg -0.0678  Tc -0.1842  Tw (Number of answers) Tj76.5 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 159.75 666.75 199.5 3.75 re f159.75 653.25 3.75 13.5 re f354.75 653.25 4.5 13.5 re f159.75 649.5 199.5 3.75 re f0 0 0 rg 117 670.5 0.75 0.75 re f117 670.5 0.75 0.75 re f117.75 670.5 41.25 0.75 re f159 670.5 0.75 0.75 re f159.75 670.5 199.5 0.75 re f359.25 670.5 0.75 0.75 re f360 670.5 33 0.75 re f393 670.5 0.75 0.75 re f393.75 670.5 98.25 0.75 re f492 670.5 0.75 0.75 re f492 670.5 0.75 0.75 re f117 649.5 0.75 21 re f159 649.5 0.75 21 re f359.25 649.5 0.75 21 re f393 649.5 0.75 21 re f492 649.5 0.75 21 re f0.8784 0.8784 0.8784 rg 123 642.75 32.25 13.5 re fBT138.75 648  TD0 0 0 rg ( ) Tj3.75 0  TD ( ) TjET0.8784 0.8784 0.8784 rg 117.75 656.25 41.25 14.25 re f117.75 642.75 5.25 13.5 re f155.25 642.75 3.75 13.5 re f117.75 628.5 41.25 14.25 re f163.5 632.25 24.75 12.75 re fBT165 636.75  TD0 0 0 rg -0.0018  Tc 0  Tw (rank1) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 159.75 645 33 3.75 re f159.75 632.25 3.75 12.75 re f188.25 632.25 4.5 12.75 re f159.75 627.75 33 4.5 re f197.25 632.25 27.75 12.75 re fBT200.25 636.75  TD0 0 0 rg -0.0018  Tc 0  Tw (rank2) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 193.5 645 35.25 3.75 re f193.5 632.25 3.75 12.75 re f225 632.25 3.75 12.75 re f193.5 627.75 35.25 4.5 re f234 632.25 24.75 12.75 re fBT235.5 636.75  TD0 0 0 rg -0.0018  Tc 0  Tw (rank3) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 229.5 645 33 3.75 re f229.5 632.25 4.5 12.75 re f258.75 632.25 3.75 12.75 re f229.5 627.75 33 4.5 re f267.75 632.25 24.75 12.75 re fBT269.25 636.75  TD0 0 0 rg -0.0018  Tc 0  Tw (rank4) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 263.25 645 33 3.75 re f263.25 632.25 4.5 12.75 re f292.5 632.25 3.75 12.75 re f263.25 627.75 33 4.5 re f301.5 632.25 24.75 12.75 re fBT303 636.75  TD0 0 0 rg -0.0018  Tc 0  Tw (rank5) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 297 645 33 3.75 re f297 632.25 4.5 12.75 re f326.25 632.25 3.75 12.75 re f297 627.75 33 4.5 re f334.5 632.25 21 12.75 re fBT335.25 636.75  TD0 0 0 rg -0.2514  Tc 0  Tw (Total) Tj18 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 330.75 645 28.5 3.75 re f330.75 632.25 3.75 12.75 re f355.5 632.25 3.75 12.75 re f330.75 627.75 28.5 4.5 re f364.5 642.75 24.75 13.5 re fBT367.5 648  TD0 0 0 rg -0.331  Tc 0  Tw (MRR) Tj19.5 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 360 656.25 33 14.25 re f360 642.75 4.5 13.5 re f389.25 642.75 3.75 13.5 re f360 628.5 33 14.25 re f398.25 649.5 90 14.25 re fBT402 655.5  TD0 0 0 rg -0.211  Tc -0.041  Tw (Percentage of ) Tj55.5 0  TD 0  Tc 0  Tw (c) Tj4.5 0  TD -0.209  Tc -0.043  Tw (orrect ) TjET0.8784 0.8784 0.8784 rg 398.25 636 90 13.5 re fBT410.25 641.25  TD0 0 0 rg -0.0787  Tc -0.1733  Tw (answers in top 5 ) Tj68.25 0  TD 0  Tc -0.252  Tw ( ) TjET0.8784 0.8784 0.8784 rg 393.75 663.75 98.25 6.75 re f393.75 636 4.5 27.75 re f488.25 636 3.75 27.75 re f393.75 628.5 98.25 7.5 re f0 0 0 rg 117 648.75 0.75 0.75 re f159 648.75 0.75 0.75 re f159.75 648.75 33 0.75 re f192.75 648.75 0.75 0.75 re f193.5 648.75 35.25 0.75 re f228.75 648.75 0.75 0.75 re f229.5 648.75 33 0.75 re f262.5 648.75 0.75 0.75 re f263.25 648.75 33 0.75 re f296.25 648.75 0.75 0.75 re f297 648.75 33 0.75 re f330 648.75 0.75 0.75 re f330.75 648.75 28.5 0.75 re f359.25 648.75 0.75 0.75 re f393 648.75 0.75 0.75 re f492 648.75 0.75 0.75 re f117 628.5 0.75 20.25 re f159 628.5 0.75 20.25 re f192.75 628.5 0.75 20.25 re f228.75 628.5 0.75 20.25 re f262.5 628.5 0.75 20.25 re f296.25 628.5 0.75 20.25 re f330 628.5 0.75 20.25 re f359.25 628.5 0.75 20.25 re f393 628.5 0.75 20.25 re f492 628.5 0.75 20.25 re fBT129 619.5  TD-0.167  Tc 0  Tw (Strict) Tj19.5 0  TD 0  Tc -0.252  Tw ( ) Tj20.25 0  TD -0.254  Tc 0  Tw (194) Tj15 0  TD 0  Tc -0.252  Tw ( ) Tj22.5 0  TD 0.246  Tc 0  Tw (78) Tj9.75 0  TD 0  Tc -0.252  Tw ( ) Tj24.75 0  TD 0.246  Tc 0  Tw (35) Tj10.5 0  TD 0  Tc -0.252  Tw ( ) Tj23.25 0  TD 0.246  Tc 0  Tw (23) Tj10.5 0  TD 0  Tc -0.252  Tw ( ) Tj23.25 0  TD 0.246  Tc 0  Tw (14) Tj10.5 0  TD 0  Tc -0.252  Tw ( ) Tj18.75 0  TD -0.254  Tc 0  Tw (344) Tj15 0  TD 0  Tc -0.252  Tw ( ) Tj13.5 0  TD -0.0036  Tc 0  Tw (0.371) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) Tj40.5 0  TD -0.2115  Tc 0  Tw (50.40%) Tj29.25 0  TD 0  Tc -0.252  Tw ( ) TjET117 627.75 0.75 0.75 re f117.75 627.75 41.25 0.75 re f159 627.75 0.75 0.75 re f159.75 627.75 33 0.75 re f192.75 627.75 0.75 0.75 re f193.5 627.75 35.25 0.75 re f228.75 627.75 0.75 0.75 re f229.5 627.75 33 0.75 re f262.5 627.75 0.75 0.75 re f263.25 627.75 33 0.75 re f296.25 627.75 0.75 0.75 re f297 627.75 33 0.75 re f330 627.75 0.75 0.75 re f330.75 627.75 28.5 0.75 re f359.25 627.75 0.75 0.75 re f360 627.75 33 0.75 re f393 627.75 0.75 0.75 re f393.75 627.75 98.25 0.75 re f492 627.75 0.75 0.75 re f117 613.5 0.75 14.25 re f159 613.5 0.75 14.25 re f192.75 613.5 0.75 14.25 re f228.75 613.5 0.75 14.25 re f262.5 613.5 0.75 14.25 re f296.25 613.5 0.75 14.25 re f330 613.5 0.75 14.25 re f359.25 613.5 0.75 14.25 re f393 613.5 0.75 14.25 re f492 613.5 0.75 14.25 re fBT124.5 603.75  TD0.0686  Tc 0  Tw (Lenient) Tj28.5 0  TD 0  Tc -0.252  Tw ( ) Tj15.75 0  TD -0.254  Tc 0  Tw (206) Tj15 0  TD 0  Tc -0.252  Tw ( ) Tj22.5 0  TD 0.246  Tc 0  Tw (74) Tj9.75 0  TD 0  Tc -0.252  Tw ( ) Tj24.75 0  TD 0.246  Tc 0  Tw (36) Tj10.5 0  TD 0  Tc -0.252  Tw ( ) Tj23.25 0  TD 0.246  Tc 0  Tw (21) Tj10.5 0  TD 0  Tc -0.252  Tw ( ) Tj23.25 0  TD 0.246  Tc 0  Tw (16) Tj10.5 0  TD 0  Tc -0.252  Tw ( ) Tj18.75 0  TD -0.254  Tc 0  Tw (353) Tj15 0  TD 0  Tc -0.252  Tw ( ) Tj13.5 0  TD -0.0036  Tc 0  Tw (0.386) Tj21.75 0  TD 0  Tc -0.252  Tw ( ) Tj40.5 0  TD -0.2115  Tc 0  Tw (51.80%) Tj29.25 0  TD 0  Tc -0.252  Tw ( ) TjET117 612.75 0.75 0.75 re f117.75 612.75 41.25 0.75 re f159 612.75 0.75 0.75 re f159.75 612.75 33 0.75 re f192.75 612.75 0.75 0.75 re f193.5 612.75 35.25 0.75 re f228.75 612.75 0.75 0.75 re f229.5 612.75 33 0.75 re f262.5 612.75 0.75 0.75 re f263.25 612.75 33 0.75 re f296.25 612.75 0.75 0.75 re f297 612.75 33 0.75 re f330 612.75 0.75 0.75 re f330.75 612.75 28.5 0.75 re f359.25 612.75 0.75 0.75 re f360 612.75 33 0.75 re f393 612.75 0.75 0.75 re f393.75 612.75 98.25 0.75 re f492 612.75 0.75 0.75 re f117 598.5 0.75 14.25 re f117 597.75 0.75 0.75 re f117 597.75 0.75 0.75 re f117.75 597.75 41.25 0.75 re f159 598.5 0.75 14.25 re f159 597.75 0.75 0.75 re f159.75 597.75 33 0.75 re f192.75 598.5 0.75 14.25 re f192.75 597.75 0.75 0.75 re f193.5 597.75 35.25 0.75 re f228.75 598.5 0.75 14.25 re f228.75 597.75 0.75 0.75 re f229.5 597.75 33 0.75 re f262.5 598.5 0.75 14.25 re f262.5 597.75 0.75 0.75 re f263.25 597.75 33 0.75 re f296.25 598.5 0.75 14.25 re f296.25 597.75 0.75 0.75 re f297 597.75 33 0.75 re f330 598.5 0.75 14.25 re f330 597.75 0.75 0.75 re f330.75 597.75 28.5 0.75 re f359.25 598.5 0.75 14.25 re f359.25 597.75 0.75 0.75 re f360 597.75 33 0.75 re f393 598.5 0.75 14.25 re f393 597.75 0.75 0.75 re f393.75 597.75 98.25 0.75 re f492 598.5 0.75 14.25 re f492 597.75 0.75 0.75 re f492 597.75 0.75 0.75 re fBT305.25 589.5  TD( ) Tj-90.75 -13.5  TD -0.1271  Tc -0.3124  Tw (Table6: Result for the 250) Tj98.25 0  TD 0.003  Tc 0  Tw (-) Tj3 0  TD -0.1407  Tc -0.4863  Tw (byte answer category) Tj81 0  TD 0  Tc -0.252  Tw ( ) Tj-91.5 -13.5  TD ( ) Tj-199.5 -13.5  TD ( ) Tj0 -15  TD /F0 10.5  Tf0.1215  Tc 0  Tw (4.) Tj9 0  TD -0.1023  Tc 1.1833  Tw (   Discussion and Future Work) Tj154.5 0  TD 0  Tc 0.081  Tw ( ) Tj-163.5 -12.75  TD /F1 9  Tf-0.252  Tw ( ) Tj0 -14.25  TD 0.2265  Tc 0.3965  Tw (In this paper, we introduced our Question) Tj176.25 0  TD 0.003  Tc 0  Tw (-) Tj3.75 0  TD 0.2737  Tc 0.3315  Tw (Answering system, named KUQA. With the system, ) Tj-180 -13.5  TD 0.1745  Tc -0.1348  Tw (we tried to integrate NLP techniques and IR techniques in a way that makes maximal use of their ) Tj0 -13.5  TD 0.1105  Tc 2.825  Tw (complimentary ability. KUQA utilizes Wor) Tj180.75 0  TD 0.2878  Tc 2.0435  Tw (dNet as a source of word class information and ) Tj-180.75 -13.5  TD 0.2209  Tc 0.3348  Tw (TreeTagger as a tool for linguistic analysis. Experimental results are encouraging and suggest ) Tj0 -12.75  TD 0.1465  Tc 2.6015  Tw (that NLP techniques are useful for Question) Tj197.25 0  TD 0.003  Tc 0  Tw (-) Tj3.75 0  TD 0.1679  Tc 2.0444  Tw (Answering. There is certainly much room for ) Tj-201 -13.5  TD 0.1838  Tc 0.0642  Tw (improvement. A problem ari) Tj115.5 0  TD 0.264  Tc -0.516  Tw (ses with questions ) Tj80.25 0  TD 0.1927  Tc -0.1947  Tw (or candidate answers ) Tj92.25 0  TD 0.214  Tc 0.034  Tw (containing words unknown ) Tj-288 -14.25  TD 0.0987  Tc 0.7743  Tw (to WordNet. ) Tj56.25 0  TD 0.1363  Tc 1.1117  Tw (Their semantic categories cannot ) Tj146.25 0  TD 0.1694  Tc 1.2036  Tw (be classified properly. Another problem arises ) Tj-202.5 -13.5  TD 0.1703  Tc -0.1879  Tw (from limited utilization of NLP techniques. In the future work, we will extend our system to includ) Tj393.75 0  TD 0.996  Tc 0.252  Tw (e ) Tj-393.75 -13.5  TD 0.2182  Tc -0.4021  Tw (various NLP techniques including partial parsing, named entity tagging and anaphora resolution.) Tj399 0  TD 0  Tc -0.252  Tw ( ) Tj-399 -12.75  TD ( ) TjETendstream
-endobj
-42 0 obj
-9877
-endobj
-40 0 obj
-<<
-/Type /Page
-/Parent 30 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 8 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 41 0 R
->>
-endobj
-6 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F0
-/BaseFont /Arial,Bold
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 
-611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 
-556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 
-611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 
-750 556 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-750 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 7 0 R
->>
-endobj
-7 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial,Bold
-/Flags 16416
-/FontBBox [ -250 -222 1200 944 ]
-/MissingWidth 778
-/StemV 159
-/StemH 159
-/ItalicAngle 0
-/CapHeight 944
-/XHeight 660
-/Ascent 944
-/Descent -222
-/Leading 223
-/MaxWidth 1000
-/AvgWidth 500
->>
-endobj
-8 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F1
-/BaseFont /Arial
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 
-556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 
-556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 
-556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 
-750 556 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-750 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 9 0 R
->>
-endobj
-9 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial
-/Flags 32
-/FontBBox [ -250 -222 1200 944 ]
-/MissingWidth 778
-/StemV 81
-/StemH 81
-/ItalicAngle 0
-/CapHeight 944
-/XHeight 660
-/Ascent 944
-/Descent -222
-/Leading 223
-/MaxWidth 1000
-/AvgWidth 444
->>
-endobj
-12 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F2
-/BaseFont /Arial,Italic
-/FirstChar 31
-/LastChar 255
-/Widths [ 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 
-278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 
-556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 
-778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 
-556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 
-556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 
-750 556 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-750 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 13 0 R
->>
-endobj
-13 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Arial,Italic
-/Flags 96
-/FontBBox [ -250 -250 1200 1000 ]
-/MissingWidth 750
-/StemV 76
-/StemH 76
-/ItalicAngle -11
-/CapHeight 1000
-/XHeight 700
-/Ascent 1000
-/Descent -250
-/Leading 250
-/MaxWidth 1000
-/AvgWidth 417
->>
-endobj
-33 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F3
-/BaseFont /TimesNewRoman,Italic
-/FirstChar 31
-/LastChar 255
-/Widths [ 778 250 333 420 500 500 833 778 214 333 333 500 675 250 333 250 
-278 500 500 500 500 500 500 500 500 500 500 333 333 675 675 675 
-500 920 611 611 667 722 611 611 722 722 333 444 667 556 833 667 
-722 611 722 611 500 556 722 611 833 611 556 556 389 278 389 422 
-500 333 500 500 444 500 444 278 500 500 278 278 444 278 722 500 
-500 500 500 389 389 278 500 444 667 444 444 389 400 275 400 541 
-778 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-778 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 34 0 R
->>
-endobj
-34 0 obj
-<<
-/Type /FontDescriptor
-/FontName /TimesNewRoman,Italic
-/Flags 98
-/FontBBox [ -250 -222 1333 889 ]
-/MissingWidth 778
-/StemV 81
-/StemH 81
-/ItalicAngle -11
-/CapHeight 889
-/XHeight 622
-/Ascent 889
-/Descent -222
-/Leading 111
-/MaxWidth 1111
-/AvgWidth 444
->>
-endobj
-35 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F4
-/BaseFont /TimesNewRoman
-/FirstChar 31
-/LastChar 255
-/Widths [ 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 
-278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 
-444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 
-722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 
-500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 
-500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 
-778 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 
-778 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 36 0 R
->>
-endobj
-36 0 obj
-<<
-/Type /FontDescriptor
-/FontName /TimesNewRoman
-/Flags 34
-/FontBBox [ -250 -214 1115 929 ]
-/MissingWidth 786
-/StemV 78
-/StemH 78
-/ItalicAngle 0
-/CapHeight 929
-/XHeight 650
-/Ascent 929
-/Descent -214
-/Leading 214
-/MaxWidth 929
-/AvgWidth 429
->>
-endobj
-37 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F5
-/BaseFont /Symbol
-/FirstChar 31
-/LastChar 255
-/Widths [ 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 
-278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 
-444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 
-722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 
-500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 
-549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 
-600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
-600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
-600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 
-603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 
-658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 
-713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 
-603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 
-494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 
-600 ]
-/FontDescriptor 38 0 R
->>
-endobj
-38 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Symbol
-/Flags 6
-/FontBBox [ -250 -214 1285 1000 ]
-/MissingWidth 571
-/StemV 104
-/StemH 104
-/ItalicAngle 0
-/CapHeight 1000
-/XHeight 700
-/Ascent 1000
-/Descent -214
-/Leading 214
-/MaxWidth 1071
-/AvgWidth 571
->>
-endobj
-2 0 obj
-[ /PDF /Text /ImageB  ]
-endobj
-5 0 obj
-<<
-/Kids [4 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R ]
-/Count 6
-/Type /Pages
-/Parent 43 0 R
->>
-endobj
-30 0 obj
-<<
-/Kids [29 0 R 40 0 R ]
-/Count 2
-/Type /Pages
-/Parent 43 0 R
->>
-endobj
-43 0 obj
-<<
-/Kids [5 0 R 30 0 R ]
-/Count 8
-/Type /Pages
-/MediaBox [ 0 0 612 792 ]
->>
-endobj
-1 0 obj
-<<
-/Creator <FEFF001B6B6F001B004D006900630072006F0073006F0066007400200057006F007200640020>
-/CreationDate (D:20001025165404)
-/Title <FEFF001B6B6F001BB17CBB38005F0045006E0067006C006900730068002E005000440046>
-/Author <FEFF001B6B6F001B006E006C0070006C00610062>
-/Producer (Acrobat PDFWriter 4.0 for Windows)
->>
-endobj
-3 0 obj
-<<
-/Pages 43 0 R
-/Type /Catalog
-/DefaultGray 44 0 R
-/DefaultRGB  45 0 R
->>
-endobj
-44 0 obj
-[/CalGray
-<<
-/WhitePoint [0.9546 1 1.1833 ]
-/Gamma 0.4718 
->>
-]
-endobj
-45 0 obj
-[/CalRGB
-<<
-/WhitePoint [0.9546 1 1.1833 ]
-/Gamma [0.477 0.4739 0.4646 ]
-/Matrix [0.5159 0.2567 0.0272 0.3306 0.696 0.1334 0.1178 0.0473 0.6645 ]
->>
-]
-endobj
-xref
-0 46
-0000000000 65535 f
-0000087366 00000 n
-0000087018 00000 n
-0000087696 00000 n
-0000006047 00000 n
-0000087060 00000 n
-0000078661 00000 n
-0000079775 00000 n
-0000080056 00000 n
-0000081166 00000 n
-0000000021 00000 n
-0000006023 00000 n
-0000081437 00000 n
-0000082556 00000 n
-0000019466 00000 n
-0000006204 00000 n
-0000019441 00000 n
-0000031100 00000 n
-0000019611 00000 n
-0000031075 00000 n
-0000039869 00000 n
-0000031258 00000 n
-0000039845 00000 n
-0000047485 00000 n
-0000040027 00000 n
-0000047461 00000 n
-0000059875 00000 n
-0000047643 00000 n
-0000059850 00000 n
-0000068335 00000 n
-0000087176 00000 n
-0000060033 00000 n
-0000068311 00000 n
-0000082840 00000 n
-0000083966 00000 n
-0000084255 00000 n
-0000085374 00000 n
-0000085653 00000 n
-0000086741 00000 n
-0000068457 00000 n
-0000078515 00000 n
-0000068553 00000 n
-0000078491 00000 n
-0000087266 00000 n
-0000087794 00000 n
-0000087882 00000 n
-trailer
-<<
-/Size 46
-/Root 3 0 R
-/Info 1 0 R
-/ID [<7f41d88a3547108347558509e3389935><7f41d88a3547108347558509e3389935>]
->>
-startxref
-88058
-%%EOF
