@@ -9,6 +9,8 @@ data/*/pdf/
 **/*.png
 **/*.xhtml
 data/**/text/*.txt
+clean_github_repository.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
